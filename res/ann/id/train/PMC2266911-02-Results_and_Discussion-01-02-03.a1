@@ -1,0 +1,42 @@
+T1	Protein 14 19	PAS_4
+T2	Protein 20 24	LuxR
+T3	Organism 44 58	P. luminescens
+T4	Protein 74 78	luxR
+T5	Protein 161 165	LuxR
+T6	Protein 189 194	PAS_4
+T7	Chemical 232 235	AHL
+T8	Protein 383 390	plu0918
+T9	Protein 391 395	0925
+T10	Protein 400 407	plu2001
+T11	Protein 408 412	2019
+T12	Protein 446 450	LuxR
+T13	Organism 481 498	Y. enterocolitica
+T14	Protein 539 545	ye0035
+T15	Protein 546 550	0039
+T16	Protein 584 589	PAS_4
+T17	Organism 725 740	S. glossinidius
+T18	Protein 809 814	PAS_4
+T19	Protein 815 819	LuxR
+T20	Organism 1001 1034	fruit fly Drosophila melanogaster
+T21	Chemical 1048 1058	methoprene
+T22	Protein 1074 1077	met
+T23	Protein 1122 1128	Rst1JH
+T24	Organism 1133 1148	D. melanogaster
+T25	Protein 1218 1223	PAS_3
+T26	Protein 1237 1240	Met
+T27	Protein 1384 1389	PAS_4
+T28	Protein 1390 1394	LuxR
+T29	Organism 1413 1427	P. luminescens
+T30	Organism 1429 1446	Y. enterocolitica
+T31	Organism 1452 1467	S. glossinidius
+T32	Organism 1638 1652	P. luminescens
+T33	Organism 1752 1769	Y. enterocolitica
+T34	Organism 1811 1819	M. sexta
+T35	Protein 1924 1928	LuxR
+T36	Organism 1951 1965	P. luminescens
+T37	Organism 1975 1992	Y. enterocolitica
+T38	Organism 2070 2087	Y. enterocolitica
+T39	Organism 2102 2116	P. luminescens
+T40	Protein 2184 2189	PAS_4
+T41	Protein 2190 2194	LuxR
+T42	Organism 2225 2240	S. glossinidius

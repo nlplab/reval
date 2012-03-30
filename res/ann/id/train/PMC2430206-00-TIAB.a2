@@ -1,0 +1,13 @@
+T30	Process 529 539	resistance
+T31	Process 585 594	virulence
+T32	Negative_regulation 621 633	inactivation
+T33	Negative_regulation 991 1001	attenuates
+T34	Process 1002 1011	virulence
+T35	Process 1036 1045	infection
+E1	Process:T30 
+E2	Process:T31 Participant:T15
+E3	Negative_regulation:T32 Theme:T16 Cause:T21
+E4	Negative_regulation:T32 Theme:T17 Cause:T21
+E5	Negative_regulation:T33 Theme:E6
+E6	Process:T34 Participant:T22
+E7	Process:T35 

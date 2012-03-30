@@ -1,0 +1,30 @@
+T45	Positive_regulation 48 58	activation
+T46	Positive_regulation 102 112	activation
+T47	Positive_regulation 381 390	induction
+T48	Binding 480 485	binds
+T49	Gene_expression 718 728	expression
+T50	Gene_expression 955 965	expression
+T51	Positive_regulation 985 992	induced
+T52	Transcription 1066 1079	transcription
+T53	Phosphorylation 1147 1161	phosphorylated
+T54	Phosphorylation 1261 1275	phosphorylated
+T55	Transcription 1502 1515	transcription
+T56	Negative_regulation 1520 1529	abrogated
+T57	Gene_expression 1839 1849	expression
+T58	Phosphorylation 1996 2011	phosphorylation
+E1	Positive_regulation:T45 Theme:T2 Cause:T1
+E2	Positive_regulation:T46 Theme:T4 Cause:T3
+E3	Positive_regulation:T46 Theme:T4 Cause:T3
+E4	Positive_regulation:T47 Theme:T10 Cause:T9
+E5	Binding:T48 Theme1:T12 Theme2:T13
+E6	Gene_expression:T49 Theme:T16
+E7	Gene_expression:T50 Theme:T23
+E8	Positive_regulation:T51 Theme:E7
+E9	Transcription:T52 Theme:T26
+M1	Negation E9
+E10	Phosphorylation:T53 Theme:T29
+E11	Phosphorylation:T54 Theme:T31
+E12	Transcription:T55 Theme:T34
+E13	Negative_regulation:T56 Theme:E12
+E14	Gene_expression:T57 Theme:T42
+E15	Phosphorylation:T58 Theme:T44

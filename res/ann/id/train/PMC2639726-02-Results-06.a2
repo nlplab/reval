@@ -1,0 +1,4 @@
+T8	Process 137 146	infection
+T9	Process 1735 1744	virulence
+E1	Process:T8 
+E2	Process:T9 

@@ -1,0 +1,7 @@
+T10	Ubiquitination 0 14	Ubiquitination
+T11	Ubiquitination 541 554	ubiquitinated
+T12	Ubiquitination 607 621	ubiquitination
+T13	Entity 679 686	Cys(11)
+E1	Ubiquitination:T10 Theme:T1
+E2	Ubiquitination:T11 Theme:T5
+E3	Ubiquitination:T12 Theme:T6 Site:T13

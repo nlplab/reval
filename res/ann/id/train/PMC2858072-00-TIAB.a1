@@ -1,0 +1,41 @@
+T1	Organism 30 46	Brucella abortus
+T2	Two-component-system 47 56	BvrR/BvrS
+T3	Protein 47 51	BvrR
+T4	Protein 52 56	BvrS
+T5	Two-component-system 119 128	BvrR/BvrS
+T6	Protein 119 123	BvrR
+T7	Protein 124 128	BvrS
+T8	Organism 153 169	Brucella abortus
+T9	Chemical 305 312	lipid A
+T10	Two-component-system 360 369	BvrR/BvrS
+T11	Protein 360 364	BvrR
+T12	Protein 365 369	BvrS
+T13	Organism 425 435	B. abortus
+T14	Organism 468 479	bvrR mutant
+T15	Protein 468 472	bvrR
+T16	Organism 662 673	bvrR mutant
+T17	Protein 662 666	bvrR
+T18	Protein 908 914	omp25a
+T19	Protein 916 922	omp25d
+T20	Chemical 939 942	LPS
+T21	Chemical 947 957	fatty acid
+T22	Chemical 1099 1105	carbon
+T23	Protein 1118 1122	pckA
+T24	Protein 1127 1131	fumB
+T25	Organism 1171 1182	bvrR mutant
+T26	Protein 1171 1175	bvrR
+T27	Protein 1211 1215	nirK
+T28	Protein 1217 1221	norC
+T29	Protein 1226 1230	nosZ
+T30	Protein 1320 1324	VjbR
+T31	Protein 1326 1330	ExoR
+T32	Protein 1335 1339	OmpR
+T33	Organism 1372 1383	bvrR mutant
+T34	Protein 1372 1376	bvrR
+T35	Organism 1465 1473	Brucella
+T36	Two-component-system 1568 1577	BvrR/BvrS
+T37	Protein 1568 1572	BvrR
+T38	Protein 1573 1577	BvrS
+T39	Chemical 1645 1651	carbon
+T40	Chemical 1656 1664	nitrogen
+T41	Organism 1738 1746	Brucella

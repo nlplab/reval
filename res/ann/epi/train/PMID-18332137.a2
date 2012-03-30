@@ -1,0 +1,5 @@
+*	Equiv T4 T5
+T19	Deubiquitination 1421 1436	deubiquitinates
+T20	Catalysis 1421 1436	deubiquitinates
+E1	Deubiquitination:T19 Theme:T13
+E2	Catalysis:T20 Theme:E1 Cause:T12

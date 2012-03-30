@@ -1,0 +1,70 @@
+*	Equiv T23 T24
+*	Equiv T25 T26
+*	Equiv T27 T28
+*	Equiv T31 T32
+*	Equiv T33 T34
+*	Equiv T35 T36
+*	Equiv T37 T38
+*	Equiv T61 T62
+*	Equiv T63 T63
+*	Equiv T69 T70
+*	Equiv T71 T73
+*	Equiv T72 T74
+*	Equiv T80 T81
+*	Equiv T82 T83
+*	Equiv T84 T86
+*	Equiv T87 T89
+T95	Transcription 2539 2552	transcription
+T96	Gene_expression 2869 2878	expressed
+T97	Transcription 3216 3229	transcription
+T98	Regulation 3267 3274	control
+T99	Negative_regulation 4015 4029	down-regulated
+T100	Negative_regulation 4042 4051	regulated
+T101	Positive_regulation 4042 4051	regulated
+T102	Regulation 4042 4051	regulated
+T103	Negative_regulation 4161 4175	down-regulated
+T104	Positive_regulation 4394 4406	up-regulated
+T105	Positive_regulation 4492 4504	up-regulated
+T106	Process 4912 4921	virulence
+E1	Transcription:T95 Theme:T23
+E2	Transcription:T95 Theme:T25
+E3	Transcription:T95 Theme:T27
+E4	Gene_expression:T96 Theme:T41
+E5	Gene_expression:T96 Theme:T31
+E6	Gene_expression:T96 Theme:T33
+E7	Gene_expression:T96 Theme:T35
+E8	Gene_expression:T96 Theme:T37
+E9	Gene_expression:T96 Theme:T39
+E10	Gene_expression:T96 Theme:T40
+E11	Transcription:T97 Theme:T44
+E12	Transcription:T97 Theme:T45
+E13	Regulation:T98 Theme:E11 Cause:T46
+E14	Regulation:T98 Theme:E12 Cause:T46
+E15	Negative_regulation:T99 Theme:T61
+E16	Negative_regulation:T99 Theme:T63
+E17	Regulation:T102 Theme:T80 Cause:T65
+E18	Regulation:T102 Theme:T82 Cause:T65
+E19	Regulation:T102 Theme:T84 Cause:T65
+E20	Regulation:T102 Theme:T87 Cause:T65
+E21	Regulation:T102 Theme:T90 Cause:T65
+E22	Negative_regulation:T100 Theme:T66 Cause:T65
+E23	Negative_regulation:T100 Theme:T67 Cause:T65
+E24	Negative_regulation:T100 Theme:T68 Cause:T65
+E25	Positive_regulation:T101 Theme:T69 Cause:T65
+E26	Positive_regulation:T101 Theme:T71 Cause:T65
+E27	Positive_regulation:T101 Theme:T72 Cause:T65
+E28	Positive_regulation:T101 Theme:T75 Cause:T65
+E29	Positive_regulation:T101 Theme:T76 Cause:T65
+E30	Positive_regulation:T101 Theme:T77 Cause:T65
+E31	Positive_regulation:T101 Theme:T79 Cause:T65
+E32	Negative_regulation:T103 Theme:T66 Cause:T65
+E33	Negative_regulation:T103 Theme:T67 Cause:T65
+E34	Negative_regulation:T103 Theme:T68 Cause:T65
+E35	Positive_regulation:T104 Theme:T69 Cause:T65
+E36	Positive_regulation:T104 Theme:T71 Cause:T65
+E37	Positive_regulation:T104 Theme:T72 Cause:T65
+E38	Positive_regulation:T104 Theme:T75 Cause:T65
+E39	Positive_regulation:T104 Theme:T76 Cause:T65
+E40	Positive_regulation:T104 Theme:T77 Cause:T65
+E41	Positive_regulation:T105 Theme:T79 Cause:T65
+E42	Process:T106 Participant:T94

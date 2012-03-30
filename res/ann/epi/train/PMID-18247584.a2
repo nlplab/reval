@@ -1,0 +1,9 @@
+T5	Methylation 592 603	methylation
+E1	Methylation:T5 Theme:T1
+M1	Speculation E1
+E2	Methylation:T5 Theme:T2
+M2	Speculation E2
+E3	Methylation:T5 Theme:T3
+M3	Speculation E3
+E4	Methylation:T5 Theme:T4
+M4	Speculation E4

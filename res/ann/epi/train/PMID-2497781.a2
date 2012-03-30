@@ -1,0 +1,8 @@
+T9	Methylation 363 372	transfers
+T10	Entity 417 424	lysines
+T11	Methylation 529 538	transfers
+T12	Entity 560 569	arginines
+E1	Methylation:T9 Theme:T1 Site:T10
+E2	Methylation:T9 Theme:T2 Site:T10
+E3	Methylation:T11 Theme:T3 Site:T12
+E4	Methylation:T11 Theme:T4 Site:T12

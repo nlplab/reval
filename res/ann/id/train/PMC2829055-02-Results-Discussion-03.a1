@@ -1,0 +1,73 @@
+T1	Organism 0 9	Y. pestis
+T2	Organism 67 71	flea
+T3	Organism 97 101	flea
+T4	Organism 146 155	Y. pestis
+T5	Organism 225 229	flea
+T6	Organism 404 420	Escherichia coli
+T7	Organism 1150 1159	Y. pestis
+T8	Protein 1280 1283	ymt
+T9	Organism 1338 1342	flea
+T10	Protein 1406 1410	hmsH
+T11	Protein 1410 1411	F
+T12	Protein 1411 1412	R
+T13	Protein 1412 1413	S
+T14	Protein 1415 1419	hmsT
+T15	Protein 1421 1425	hmsP
+T16	Protein 1431 1435	gmhA
+T17	Organism 1483 1487	flea
+T18	Organism 1629 1633	flea
+T19	Organism 1639 1648	Y. pestis
+T20	Protein 1716 1720	yidE
+T21	Organism 1763 1770	E. coli
+T22	Protein 1781 1785	cpxP
+T23	Protein 1803 1807	cpxP
+T24	Protein 1807 1808	A
+T25	Protein 1808 1809	R
+T26	Organism 1937 1946	Y. pestis
+T27	Organism 1958 1963	fleas
+T28	Organism 2034 2041	E. coli
+T29	Protein 2105 2109	yidE
+T30	Protein 2114 2118	cpxP
+T31	Organism 2126 2135	Y. pestis
+T32	Organism 2204 2208	flea
+T33	Organism 2214 2223	Y. pestis
+T34	Organism 2236 2258	Pseudomonas aeruginosa
+T35	Protein 2259 2264	cupA1
+T36	Protein 2269 2274	cupA3
+T37	Protein 2323 2327	yapL
+T38	Organism 2376 2383	E. coli
+T39	Protein 2384 2388	tibA
+T40	Organism 2427 2431	flea
+T41	Protein 2448 2452	cupA
+T42	Protein 2472 2476	tibA
+T43	Organism 2542 2555	P. aeruginosa
+T44	Organism 2560 2567	E. coli
+T45	Organism 2633 2637	flea
+T46	Protein 2677 2681	rpoE
+T47	Protein 2731 2737	sigmaE
+T48	Protein 2791 2795	rseA
+T49	Protein 2800 2804	rseB
+T50	Protein 2807 2811	cpxP
+T51	Protein 2817 2821	pspA
+T52	Protein 2826 2830	pspG
+T53	Organism 2961 2968	E. coli
+T54	Protein 3130 3134	yidE
+T55	Protein 3136 3140	cpxP
+T56	Protein 3142 3146	tibA
+T57	Protein 3148 3152	yapL
+T58	Protein 3155 3168	cupA fimbriae
+T59	Protein 3174 3180	pspABC
+T60	Organism 3211 3215	flea
+T61	Organism 3331 3340	Y. pestis
+T62	Organism 3507 3511	flea
+T63	Protein 3698 3702	gabT
+T64	Protein 3702 3706	potD
+T65	Protein 3706 3707	B
+T66	Protein 3707 3708	C
+T67	Organism 3762 3766	flea
+T68	Chemical 3782 3792	polyamines
+T69	Organism 3811 3820	Y. pestis
+T70	Organism 3880 3898	Y. pestis Deltapot
+T71	Organism 3923 3927	flea
+T72	Organism 3992 4001	Y. pestis
+T73	Chemical 4024 4034	polyamines

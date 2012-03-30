@@ -1,0 +1,10 @@
+T4	Glycosylation 447 461	N-glycosylated
+T5	Glycosylation 682 690	N-linked
+T6	Entity 691 707	oligosaccharides
+T7	Glycosylation 792 804	glycosylated
+T8	Glycosylation 1008 1022	N-glycosylated
+E1	Glycosylation:T4 Theme:T2
+E2	Glycosylation:T5 Theme:T2 Sidechain:T6
+M1	Negation E2
+E3	Glycosylation:T7 Theme:T2
+E4	Glycosylation:T8 Theme:T2

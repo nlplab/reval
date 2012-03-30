@@ -1,0 +1,16 @@
+*	Equiv T1 T2
+*	Equiv T7 T8
+*	Equiv T32 T33
+*	Equiv T38 T39
+T40	Ubiquitination 1054 1068	ubiquitination
+T41	Catalysis 1238 1249	upregulated
+T42	Ubiquitination 1256 1270	ubiquitination
+T43	Phosphorylation 1531 1546	phosphorylation
+T44	Ubiquitination 1597 1611	ubiquitination
+T45	Phosphorylation 1731 1746	phosphorylation
+E1	Ubiquitination:T40 Theme:T19
+E2	Catalysis:T41 Theme:E3 Cause:T25
+E3	Ubiquitination:T42 Theme:T26
+E4	Phosphorylation:T43 Theme:T32
+E5	Ubiquitination:T44 Theme:T34
+E6	Phosphorylation:T45 Theme:T38

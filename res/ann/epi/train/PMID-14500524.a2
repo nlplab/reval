@@ -1,0 +1,9 @@
+*	Equiv T16 T17
+T15	Glycosylation 691 699	O-linked
+T16	Entity 700 727	alpha-N-acetylgalactosamine
+T17	Entity 729 741	alpha-GalNAc
+T18	Glycosylation 1551 1559	O-linked
+T19	Entity 1560 1572	alpha-GalNAc
+E1	Glycosylation:T15 Theme:T3 Sidechain:T16
+E2	Glycosylation:T15 Theme:T4 Sidechain:T16
+E3	Glycosylation:T18 Theme:T11 Sidechain:T19

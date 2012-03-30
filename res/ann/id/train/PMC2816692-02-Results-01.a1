@@ -1,0 +1,34 @@
+T1	Protein 30 34	SsrB
+T2	Protein 94 98	SsrB
+T3	Organism 118 149	S. enterica serovar Typhimurium
+T4	Organism 151 165	S. Typhimurium
+T5	Protein 204 211	STM2138
+T6	Protein 219 223	srcA
+T7	Organism 319 330	ssrB mutant
+T8	Protein 319 323	ssrB
+T9	Organism 391 401	Salmonella
+T10	Protein 422 426	SsrA
+T11	Protein 539 543	srcA
+T12	Protein 610 617	STM1378
+T13	Protein 618 625	STM1425
+T14	Protein 780 784	thrL
+T15	Protein 801 805	srcA
+T16	Protein 941 945	SsrB
+T17	Protein 955 959	srcA
+T18	Protein 984 988	SsrB
+T19	Protein 1038 1042	srcA
+T20	Protein 1135 1139	SsrB
+T21	Protein 1228 1232	srcA
+T22	Protein 1320 1324	SsrB
+T23	Protein 1328 1332	srcA
+T24	Protein 1350 1352	1A
+T25	Protein 1397 1401	SrcA
+T26	Protein 1419 1423	srcA
+T27	Organism 1478 1489	ssrB mutant
+T28	Protein 1478 1482	ssrB
+T29	Protein 1571 1575	SrcA
+T30	Organism 1620 1629	DeltassrB
+T31	Protein 1842 1846	SseC
+T32	Protein 1851 1855	SsrB
+T33	Organism 1977 1988	ssrB mutant
+T34	Protein 1977 1981	ssrB

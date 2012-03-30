@@ -1,0 +1,20 @@
+*	Equiv T17 T18
+T39	Positive_regulation 36 47	degradation
+T40	Protein_catabolism 36 47	degradation
+T41	Positive_regulation 730 738	degrades
+T42	Protein_catabolism 730 738	degrades
+T43	Protein_catabolism 979 987	digested
+T44	Gene_expression 1338 1349	productions
+E1	Protein_catabolism:T40 Theme:T1
+E2	Positive_regulation:T39 Theme:E1 Cause:T2
+E3	Positive_regulation:T41 Theme:E10 Cause:T17
+E4	Protein_catabolism:T42 Theme:T20
+E5	Positive_regulation:T41 Theme:E4 Cause:T17
+E6	Protein_catabolism:T42 Theme:T21
+E7	Positive_regulation:T41 Theme:E6 Cause:T17
+E8	Protein_catabolism:T42 Theme:T23
+E9	Positive_regulation:T41 Theme:E8 Cause:T17
+E10	Protein_catabolism:T42 Theme:T24
+E11	Protein_catabolism:T43 Theme:T31
+E12	Gene_expression:T44 Theme:T37
+E13	Gene_expression:T44 Theme:T38

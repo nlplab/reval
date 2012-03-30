@@ -1,0 +1,14 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+T16	Entity 1023 1033	asparagine
+T17	Hydroxylation 1034 1047	hydroxylation
+T18	Catalysis 1034 1047	hydroxylation
+T19	Hydroxylation 1168 1181	hydroxylation
+T20	Hydroxylation 1287 1300	hydroxylation
+T21	Entity 1304 1315	three sites
+T22	Hydroxylation 1362 1375	hydroxylation
+E1	Hydroxylation:T17 Theme:T11 Site:T16
+E2	Catalysis:T18 Theme:E1 Cause:T10
+E3	Hydroxylation:T19 Theme:T11
+E4	Hydroxylation:T20 Theme:T11 Site:T21
+E5	Hydroxylation:T22 Theme:T11

@@ -1,0 +1,4 @@
+*	Equiv T2 T3
+T15	Glycosylation 1456 1468	modification
+T16	Entity 1472 1495	N-glycosylation site(s)
+E1	Glycosylation:T15 Theme:T13 Site:T16

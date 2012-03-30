@@ -1,0 +1,4 @@
+T17	Ubiquitination 450 464	ubiquitination
+T18	Ubiquitination 755 769	ubiquitination
+E1	Ubiquitination:T17 Theme:T10
+E2	Ubiquitination:T18 Theme:T16

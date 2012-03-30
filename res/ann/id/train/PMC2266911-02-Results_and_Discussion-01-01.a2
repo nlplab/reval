@@ -1,0 +1,27 @@
+T124	Process 1416 1426	challenged
+T125	Process 2110 2119	virulence
+T126	Regulation 4253 4261	involved
+T127	Process 4265 4274	virulence
+T128	Process 4317 4326	virulence
+T129	Process 4474 4483	virulence
+T130	Gene_expression 4559 4569	expression
+T131	Regulation 4641 4653	plays a role
+T132	Process 4674 4683	infection
+T133	Process 4777 4786	virulence
+T134	Process 5179 5188	virulence
+T135	Regulation 5189 5199	regulation
+E1	Process:T124 Participant:T6
+E2	Process:T124 Participant:T7
+E3	Process:T125 
+E4	Regulation:T126 Theme:E7 Cause:T57
+E5	Regulation:T126 Theme:E7 Cause:T60
+E6	Regulation:T126 Theme:E7 Cause:T63
+E7	Process:T127 
+E8	Process:T128 
+E9	Process:T129 Participant:T70
+E10	Gene_expression:T130 Theme:T72
+E11	Regulation:T131 Theme:E12 Cause:E10
+E12	Process:T132 Participant:T71
+E13	Process:T133 Participant:T77
+E14	Process:T134 
+E15	Regulation:T135 Theme:E14

@@ -1,0 +1,27 @@
+*	Equiv T4 T5
+T18	Process 26 35	Virulence
+T19	Process 52 61	Infection
+T20	Process 126 135	infection
+T21	Process 201 210	infection
+T22	Process 561 570	virulence
+T23	Process 596 605	virulence
+T24	Negative_regulation 777 787	attenuated
+T25	Process 788 797	virulence
+T26	Process 882 891	infection
+T27	Process 912 921	virulence
+T28	Process 1505 1514	infection
+T29	Process 1637 1646	virulence
+T30	Process 2088 2097	virulence
+E1	Process:T18 Participant:T1
+E2	Process:T19 Participant:T1
+E3	Process:T20 
+E4	Process:T21 Participant:T2
+E5	Process:T22 Participant:T4
+E6	Process:T23 
+E7	Negative_regulation:T24 Theme:E8
+E8	Process:T25 
+E9	Process:T26 
+E10	Process:T27 
+E11	Process:T28 Participant:T9
+E12	Process:T29 
+E13	Process:T30 

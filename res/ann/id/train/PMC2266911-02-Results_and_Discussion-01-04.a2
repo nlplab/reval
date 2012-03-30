@@ -1,0 +1,19 @@
+*	Equiv T2 T3
+*	Equiv T20 T21
+*	Equiv T37 T38
+T57	Regulation 273 279	affect
+T58	Process 280 289	virulence
+T59	Process 349 358	virulence
+T60	Gene_expression 1725 1735	expression
+T61	Positive_regulation 1806 1813	induced
+T62	Process 1926 1935	virulence
+T63	Gene_expression 2489 2499	synthesize
+E1	Regulation:T57 Theme:E2
+E2	Process:T58 
+E3	Process:T59 
+E4	Gene_expression:T60 Theme:T40
+E5	Gene_expression:T60 Theme:T41
+E6	Positive_regulation:T61 Theme:E4
+E7	Positive_regulation:T61 Theme:E5
+E8	Process:T62 
+E9	Gene_expression:T63 Theme:T54

@@ -1,0 +1,17 @@
+T69	Localization 721 732	transported
+T70	Positive_regulation 764 773	activated
+T71	Gene_expression 801 811	expression
+T72	Positive_regulation 902 914	up-regulated
+T73	Positive_regulation 2075 2082	induced
+T74	Process 2886 2895	virulence
+T75	Gene_expression 2951 2961	expression
+E1	Localization:T69 Theme:T5
+E2	Positive_regulation:T70 Theme:T5 Cause:T6
+E3	Gene_expression:T71 Theme:T5
+E4	Gene_expression:T71 Theme:T6
+E5	Positive_regulation:T72 Theme:T8
+E6	Positive_regulation:T73 Theme:T56
+E7	Process:T74 
+E8	Gene_expression:T75 Theme:T67
+E9	Gene_expression:T75 Theme:T65
+E10	Gene_expression:T75 Theme:T66

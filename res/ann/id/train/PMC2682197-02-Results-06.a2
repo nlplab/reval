@@ -1,0 +1,14 @@
+T25	Regulation 118 127	dependent
+T26	Binding 721 728	binding
+T27	Negative_regulation 871 880	deficient
+T28	Binding 888 895	binding
+T29	Binding 988 993	bound
+T30	Negative_regulation 1696 1703	reduced
+T31	Binding 1714 1719	bound
+E1	Regulation:T25 Theme:T5 Cause:T4
+E2	Binding:T26 Theme:T9
+E3	Negative_regulation:T27 Theme:E4
+E4	Binding:T28 Theme:T12
+E5	Binding:T29 Theme1:T13 Theme2:T14
+E6	Negative_regulation:T30 Theme:E7
+E7	Binding:T31 Theme1:T23 Theme2:T24

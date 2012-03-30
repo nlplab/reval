@@ -1,0 +1,82 @@
+T1	Protein 350 354	UspA
+T2	Protein 373 377	UspF
+T3	Protein 377 378	G
+T4	Organism 464 478	P. luminescens
+T5	Organism 483 500	Y. enterocolitica
+T6	Protein 649 653	UspA
+T7	Protein 660 667	Plu0121
+T8	Protein 672 678	YE4050
+T9	Protein 687 691	UspE
+T10	Protein 698 705	Plu2178
+T11	Protein 710 716	YE2076
+T12	Organism 732 739	E. coli
+T13	Protein 801 805	UspA
+T14	Protein 810 814	UspC
+T15	Protein 900 904	UspA
+T16	Protein 913 917	UspE
+T17	Organism 932 946	P. luminescens
+T18	Organism 951 968	Y. enterocolitica
+T19	Organism 1115 1128	P. aeruginosa
+T20	Protein 1137 1143	PA4352
+T21	Protein 1148 1154	PA3309
+T22	Protein 1188 1192	UspA
+T23	Organism 1423 1437	P. luminescens
+T24	Organism 1442 1459	Y. enterocolitica
+T25	Organism 1524 1538	P. luminescens
+T26	Protein 1554 1558	UspA
+T27	Two-component-system 1601 1610	AstS/AstR
+T28	Protein 1601 1605	AstS
+T29	Protein 1606 1610	AstR
+T30	Two-component-system 1716 1725	AstS/AstR
+T31	Protein 1716 1720	AstS
+T32	Protein 1721 1725	AstR
+T33	Organism 1822 1839	Y. enterocolitica
+T34	Two-component-system 1871 1880	BvgS/BvgR
+T35	Protein 1871 1875	BvgS
+T36	Protein 1876 1880	BvgR
+T37	Protein 1961 1965	UspA
+T38	Organism 2099 2113	P. luminescens
+T39	Protein 2147 2150	Ner
+T40	Protein 2162 2166	HexA
+T41	Protein 2281 2285	UspA
+T42	Organism 2320 2334	P. luminescens
+T43	Protein 2381 2385	HexA
+T44	Organism 2395 2412	Y. enterocolitica
+T45	Protein 2444 2448	RovM
+T46	Protein 2450 2456	YE1343
+T47	Protein 2472 2476	HexA
+T48	Organism 2480 2494	P. luminescens
+T49	Organism 2613 2634	Y. pseudotuberculosis
+T50	Organism 2636 2645	Y. pestis
+T51	Organism 2650 2667	Y. enterocolitica
+T52	Protein 2706 2710	UspA
+T53	Organism 2782 2796	P. luminescens
+T54	Organism 2806 2823	Y. enterocolitica
+T55	Protein 2853 2857	UspF
+T56	Protein 2857 2858	G
+T57	Protein 2871 2875	UspG
+T58	Protein 2887 2894	Plu2030
+T59	Protein 2899 2906	Plu2032
+T60	Protein 3037 3041	UspG
+T61	Organism 3045 3052	E. coli
+T62	Protein 3083 3088	GroEL
+T63	Protein 3165 3170	GroEL
+T64	Organism 3195 3209	P. luminescens
+T65	Protein 3211 3218	Plu4134
+T66	Organism 3230 3244	P. luminescens
+T67	Protein 3245 3249	UspG
+T68	Organism 3297 3311	P. luminescens
+T69	Organism 3313 3330	Y. enterocolitica
+T70	Protein 3361 3365	UspA
+T71	Protein 3381 3385	UspC
+T72	Protein 3396 3402	YE2583
+T73	Organism 3437 3451	P. luminescens
+T74	Protein 3467 3471	UspC
+T75	Organism 3733 3747	P. luminescens
+T76	Organism 3752 3769	Y. enterocolitica
+T77	Protein 3859 3863	UspA
+T78	Protein 3872 3876	UspE
+T79	Protein 3952 3956	UspC
+T80	Organism 3990 4007	Y. enterocolitica
+T81	Protein 4045 4049	UspG
+T82	Organism 4129 4143	P. luminescens

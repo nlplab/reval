@@ -1,0 +1,7 @@
+*	Equiv T1 T2
+T58	Gene_expression 613 621	produced
+T59	Positive_regulation 1864 1873	increased
+T60	Positive_regulation 2041 2050	increased
+E1	Gene_expression:T58 Theme:T17
+E2	Positive_regulation:T59 Theme:T51
+E3	Positive_regulation:T60 Theme:T55

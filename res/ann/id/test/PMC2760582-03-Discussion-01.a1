@@ -1,0 +1,23 @@
+T1	Organism 289 301	P. temperata
+T2	Organism 306 322	X. koppenhoeferi
+T3	Organism 345 355	R. majalis
+T4	Protein 815 818	skp
+T5	Organism 822 834	P. temperata
+T6	Protein 839 843	ompF
+T7	Organism 847 863	X. koppenhoeferi
+T8	Protein 879 883	fliA
+T9	Organism 887 899	P. temperata
+T10	Protein 904 908	fliM
+T11	Organism 912 928	X. koppenhoeferi
+T12	Organism 1370 1384	X. nematophila
+T13	Protein 1494 1498	dacC
+T14	Organism 1592 1608	X. koppenhoeferi
+T15	Organism 1620 1632	P. temperata
+T16	Organism 1698 1714	X. koppenhoeferi
+T17	Chemical 1870 1888	lipopolysaccharide
+T18	Protein 1907 1911	lpsE
+T19	Organism 1927 1943	X. koppenhoeferi
+T20	Organism 1956 1968	P. temperata
+T21	Organism 2026 2042	X. koppenhoeferi
+T22	Organism 2063 2075	P. temperata
+T23	Organism 2092 2102	R. majalis

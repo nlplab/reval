@@ -1,0 +1,7 @@
+*	Equiv T4 T5
+*	Equiv T15 T16
+T32	Deacetylation 821 834	deacetylation
+T33	Entity 842 877	oxygen-dependent degradation domain
+T34	Deacetylation 1054 1067	deacetylation
+E1	Deacetylation:T32 Theme:T20 Site:T33
+E2	Deacetylation:T34 Theme:T24

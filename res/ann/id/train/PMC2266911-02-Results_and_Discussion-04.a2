@@ -1,0 +1,18 @@
+T23	Process 654 663	virulence
+T24	Positive_regulation 849 856	induced
+T25	Regulation 903 909	affect
+T26	Process 914 923	virulence
+T27	Process 1714 1723	virulence
+T28	Process 2063 2072	virulence
+T29	Process 2516 2525	virulence
+E1	Process:T23 
+E2	Positive_regulation:T24 Theme:T5
+E3	Positive_regulation:T24 Theme:T6
+E4	Positive_regulation:T24 Theme:T7
+E5	Regulation:T25 Theme:E8 Cause:E2
+E6	Regulation:T25 Theme:E8 Cause:E3
+E7	Regulation:T25 Theme:E8 Cause:E4
+E8	Process:T26 Participant:T8
+E9	Process:T27 
+E10	Process:T28 Participant:T21
+E11	Process:T29 

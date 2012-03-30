@@ -1,0 +1,2 @@
+Determination of essential amino acids involved in the CD4-independent tropism of the X4 human immunodeficiency virus type 1 m7NDK isolate: role of potential N glycosylations in the C2 and V3 regions of gp120. 
+Seven mutations in the C2, V3, and C3 regions of gp120 are implicated in the tropism of the first CD4-independent human immunodeficiency virus type 1 isolate, m7NDK. Site-directed mutagenesis revealed that three amino acids are essential to maintain this tropism, one in the C2 region and two in the V3 loop. Two mutations implied N glycosylation modifications.

@@ -1,0 +1,9 @@
+T16	Glycosylation 79 91	glycosylated
+T17	Glycosylation 1012 1022	Asn-linked
+T18	Entity 1023 1039	oligosaccharides
+T19	Glycosylation 1469 1479	Asn-linked
+T20	Entity 1480 1496	oligosaccharides
+E1	Glycosylation:T16 Theme:T1
+E2	Glycosylation:T17 Theme:T7 Sidechain:T18
+E3	Glycosylation:T17 Theme:T8 Sidechain:T18
+E4	Glycosylation:T19 Theme:T12 Sidechain:T20

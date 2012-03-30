@@ -1,0 +1,85 @@
+T1	Protein 43 48	SeMac
+T2	Protein 54 76	cysteine endopeptidase
+T3	Organism 107 112	horse
+T4	Protein 113 116	IgG
+T5	Organism 164 171	S. equi
+T6	Organism 175 180	horse
+T7	Protein 210 215	SeMac
+T8	Organism 255 260	human
+T9	Protein 261 264	IgG
+T10	Protein 365 370	SeMac
+T11	Organism 383 386	GAS
+T12	Protein 390 393	Mac
+T13	Protein 401 406	SeMac
+T14	Protein 412 434	cysteine endopeptidase
+T15	Protein 450 455	SeMac
+T16	Organism 460 463	GAS
+T17	Protein 464 467	Mac
+T18	Organism 487 492	human
+T19	Protein 493 496	IgG
+T20	Organism 539 544	horse
+T21	Protein 545 548	IgG
+T22	Protein 648 651	Mac
+T23	Organism 793 798	horse
+T24	Protein 799 802	IgG
+T25	Organism 829 834	horse
+T26	Protein 835 839	IgG1
+T27	Organism 876 881	horse
+T28	Protein 882 886	IgG4
+T29	Protein 1020 1025	SeMac
+T30	Organism 1030 1033	GAS
+T31	Protein 1034 1037	Mac
+T32	Organism 1056 1061	horse
+T33	Protein 1062 1066	IgG3
+T34	Protein 1092 1097	SeMac
+T35	Organism 1120 1125	horse
+T36	Protein 1126 1129	IgG
+T37	Organism 1166 1171	horse
+T38	Protein 1172 1175	IgG
+T39	Protein 1213 1218	SeMac
+T40	Organism 1268 1275	S. equi
+T41	Protein 1277 1282	SeMac
+T42	Organism 1287 1290	GAS
+T43	Protein 1294 1297	Mac
+T44	Protein 1393 1398	SeMac
+T45	Organism 1410 1415	human
+T46	Protein 1416 1419	IgG
+T47	Organism 1458 1461	GAS
+T48	Organism 1465 1470	human
+T49	Organism 1523 1528	horse
+T50	Protein 1529 1532	IgG
+T51	Organism 1580 1587	S. equi
+T52	Organism 1591 1596	horse
+T53	Protein 1666 1671	SeMac
+T54	Protein 1735 1740	SeMac
+T55	Organism 1756 1759	GAS
+T56	Protein 1763 1766	Mac
+T57	Organism 1810 1813	GAS
+T58	Organism 1817 1822	human
+T59	Protein 1867 1871	IdeE
+T60	Protein 1872 1877	SeMac
+T61	Organism 1924 1930	equine
+T62	Organism 1940 1947	S. equi
+T63	Protein 2113 2118	SeMac
+T64	Organism 2153 2156	GAS
+T65	Protein 2157 2160	Mac
+T66	Protein 2174 2177	mac
+T67	Two-component-system 2236 2241	CovRS
+T68	Protein 2236 2240	CovR
+T69	Protein 2240 2241	S
+T70	Organism 2373 2380	S. equi
+T71	Protein 2446 2451	semac
+T72	Protein 2456 2459	mac
+T73	Organism 2576 2583	S. equi
+T74	Organism 2591 2594	GAS
+T75	Protein 2625 2630	semac
+T76	Protein 2635 2638	mac
+T77	Organism 2646 2653	S. equi
+T78	Organism 2659 2664	horse
+T79	Protein 2689 2694	SeMac
+T80	Organism 2734 2741	S. equi
+T81	Organism 2745 2750	horse
+T82	Protein 2771 2776	SeMac
+T83	Organism 2824 2829	horse
+T84	Organism 2847 2854	S. equi
+T85	Protein 2875 2880	SeMac

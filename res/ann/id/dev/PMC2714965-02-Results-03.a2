@@ -1,0 +1,18 @@
+*	Equiv T4 T5
+*	Equiv T13 T14
+*	Equiv T18 T19
+*	Equiv T27 T31
+T53	Process 29 39	Attenuated
+T54	Regulation 2319 2327	involved
+T55	Process 2345 2354	virulence
+T56	Positive_regulation 2517 2525	required
+T57	Process 2530 2539	virulence
+T58	Process 3264 3273	virulence
+T59	Negative_regulation 3274 3285	attenuation
+E1	Process:T53 
+E2	Regulation:T54 Theme:E3 Cause:T32
+E3	Process:T55 Participant:T34
+E4	Positive_regulation:T56 Theme:E5
+E5	Process:T57 
+E6	Process:T58 
+E7	Negative_regulation:T59 Theme:E6

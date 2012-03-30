@@ -1,0 +1,42 @@
+T36	Negative_regulation 77 87	repression
+T37	Negative_regulation 353 360	reduced
+T38	Gene_expression 361 371	expression
+T39	Regulation 492 499	effects
+T40	Gene_expression 515 525	expression
+T41	Gene_expression 596 606	expression
+T42	Positive_regulation 611 620	increased
+T43	Negative_regulation 723 731	reducing
+T44	Gene_expression 736 746	expression
+T45	Binding 832 843	interaction
+T46	Entity 883 892	promoters
+T47	Regulation 910 919	modulated
+T48	Entity 975 977	P3
+T49	Negative_regulation 989 998	repressed
+T50	Negative_regulation 1080 1089	repressed
+T51	Entity 1159 1177	P3 promoter region
+T52	Negative_regulation 1192 1207	down-regulation
+T53	Process 1451 1460	virulence
+T54	Regulation 1495 1502	control
+T55	Gene_expression 1508 1518	expression
+E1	Negative_regulation:T36 Theme:T3 Cause:T1
+E2	Negative_regulation:T37 Theme:E5
+E3	Negative_regulation:T37 Theme:E6
+E4	Negative_regulation:T37 Theme:E7
+E5	Gene_expression:T38 Theme:T7
+E6	Gene_expression:T38 Theme:T8
+E7	Gene_expression:T38 Theme:T9
+E8	Regulation:T39 Theme:E9 Cause:T11
+E9	Gene_expression:T40 Theme:T12
+E10	Gene_expression:T41 Theme:T15
+E11	Positive_regulation:T42 Theme:E10
+E12	Negative_regulation:T43 Theme:E13 Cause:T18
+E13	Gene_expression:T44 Theme:T19
+E14	Binding:T45 Theme:T20
+E15	Regulation:T47 Theme:T21 Site:T46 Cause:T22
+M1	Negation E15
+E16	Negative_regulation:T49 Theme:T21 Site:T48 Cause:T23
+E17	Negative_regulation:T50 Theme:T25 Site:T51 Cause:T24
+E18	Negative_regulation:T52 Theme:T27
+E19	Process:T53 
+E20	Regulation:T54 Theme:E21 Cause:T33
+E21	Gene_expression:T55 Theme:T34

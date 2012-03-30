@@ -1,0 +1,26 @@
+T1	Organism 45 72	M. tuberculosis Deltarv2623
+T2	Protein 66 72	rv2623
+T3	Organism 327 338	Deltarv2623
+T4	Protein 332 338	rv2623
+T5	Organism 342 353	guinea pigs
+T6	Organism 370 374	mice
+T7	Protein 393 399	Rv2623
+T8	Organism 409 424	M. tuberculosis
+T9	Organism 482 505	Rv2623-deficient mutant
+T10	Protein 482 488	Rv2623
+T11	Organism 575 586	Deltarv2623
+T12	Protein 580 586	rv2623
+T13	Organism 684 699	M. tuberculosis
+T14	Chemical 744 760	superoxide anion
+T15	Chemical 762 765	O2-
+T16	Chemical 796 807	mitomycin C
+T17	Chemical 875 888	streptonigrin
+T18	Chemical 950 954	iron
+T19	Chemical 1048 1052	iron
+T20	Organism 1190 1197	E. coli
+T21	Chemical 1224 1228	iron
+T22	Organism 1347 1353	Erdman
+T23	Organism 1467 1482	M. tuberculosis
+T24	Protein 1483 1489	Rv2623
+T25	Organism 1629 1640	Deltarv2623
+T26	Protein 1634 1640	rv2623

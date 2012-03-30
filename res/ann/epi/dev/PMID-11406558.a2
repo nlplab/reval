@@ -1,0 +1,31 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T16 T17
+T20	DNA_methylation 117 128	Methylation
+T21	DNA_methylation 308 319	methylation
+T22	Entity 402 410	promoter
+T23	DNA_methylation 428 438	methylated
+T24	DNA_methylation 610 620	methylated
+T25	DNA_methylation 625 637	unmethylated
+T26	DNA_methylation 706 717	methylation
+T27	Entity 731 739	promoter
+T28	DNA_demethylation 1051 1064	demethylation
+T29	DNA_demethylation 1136 1147	demethylate
+T30	DNA_methylation 1182 1192	methylated
+T31	Entity 1220 1228	promoter
+T32	Entity 1483 1491	cytosine
+T33	DNA_methylation 1492 1503	methylation
+T34	Deacetylation 1779 1792	deacetylation
+E1	DNA_methylation:T20 Theme:T3
+E2	DNA_methylation:T21 Theme:T5
+E3	DNA_methylation:T23 Theme:T6 Site:T22
+E4	DNA_methylation:T24 Theme:T8
+E5	DNA_methylation:T25 Theme:T8
+M1	Negation E5
+E6	DNA_methylation:T26 Theme:T9 Site:T27
+E7	DNA_demethylation:T28 Theme:T13
+E8	DNA_demethylation:T29 Theme:T14
+M2	Negation E8
+E9	DNA_methylation:T30 Theme:T15 Site:T31
+E10	DNA_methylation:T33 Theme:T18 Site:T32
+E11	Deacetylation:T34 Theme:T19

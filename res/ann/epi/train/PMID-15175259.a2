@@ -1,0 +1,20 @@
+T8	Acetylation 325 336	acetylation
+T9	Methylation 341 352	methylation
+T10	Acetylation 533 548	hyperacetylated
+T11	Methylation 567 582	hypermethylated
+T12	Entity 586 591	Lys 4
+T13	Entity 596 602	Lys 79
+T14	Methylation 635 649	hypomethylated
+T15	Deacetylation 654 666	deacetylated
+E1	Acetylation:T8 Theme:T3
+E2	Methylation:T9 Theme:T3
+E3	Acetylation:T10 Theme:T5
+E4	Acetylation:T10 Theme:T6
+E5	Methylation:T11 Theme:T7 Site:T12
+E6	Methylation:T11 Theme:T7 Site:T13
+E7	Methylation:T14 Theme:T7 Site:T12
+M1	Negation E7
+E8	Methylation:T14 Theme:T7 Site:T13
+M2	Negation E8
+E9	Deacetylation:T15 Theme:T5
+E10	Deacetylation:T15 Theme:T6

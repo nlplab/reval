@@ -1,0 +1,17 @@
+*	Equiv T23 T25
+*	Equiv T35 T36
+*	Equiv T39 T40
+T42	Negative_regulation 22 32	Attenuated
+T43	Process 48 57	Virulence
+T44	Process 289 298	virulence
+T45	Process 1075 1084	infection
+T46	Process 1121 1130	virulence
+E1	Negative_regulation:T42 Theme:E2
+E2	Process:T43 Participant:T1
+E3	Process:T44 Participant:T5
+M1	Negation E3
+E4	Process:T45 Participant:T19
+E5	Process:T46 Participant:T23
+M2	Negation E5
+E6	Process:T46 Participant:T26
+M3	Negation E6

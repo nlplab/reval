@@ -1,0 +1,84 @@
+T1	Organism 14 36	Pseudomonas aeruginosa
+T2	Organism 253 261	patients
+T3	Organism 302 315	P. aeruginosa
+T4	Organism 690 703	P. aeruginosa
+T5	Organism 864 877	P. aeruginosa
+T6	Organism 1062 1075	P. aeruginosa
+T7	Organism 1114 1122	patients
+T8	Chemical 1264 1290	alginate exopolysaccharide
+T9	Chemical 1292 1295	EPS
+T10	Chemical 1307 1315	Alginate
+T11	Organism 1375 1386	Pseudomonas
+T12	Organism 1490 1498	patients
+T13	Organism 1536 1549	P. aeruginosa
+T14	Chemical 1578 1586	alginate
+T15	Organism 1739 1752	P. aeruginosa
+T16	Organism 1787 1795	patients
+T17	Chemical 2454 2466	beta-lactams
+T18	Chemical 2471 2486	aminoglycosides
+T19	Chemical 2693 2696	EPS
+T20	Organism 3695 3703	patients
+T21	Organism 3882 3895	P. aeruginosa
+T22	Organism 3897 3906	S. aureus
+T23	Organism 3908 3915	E. coli
+T24	Organism 3920 3931	V. fischeri
+T25	Protein 4446 4450	GacA
+T26	Protein 4611 4615	LadS
+T27	Protein 4620 4624	RetS
+T28	Protein 4652 4656	GacA
+T29	Protein 4735 4739	algR
+T30	Organism 4904 4917	P. aeruginosa
+T31	Protein 5031 5035	SadA
+T32	Protein 5035 5036	R
+T33	Protein 5036 5037	S
+T34	Protein 5101 5105	PvrR
+T35	Organism 5208 5221	P. aeruginosa
+T36	Chemical 5412 5443	cationic antimicrobial peptides
+T37	Chemical 5445 5449	CAPs
+T38	Chemical 5526 5530	CAPs
+T39	Chemical 5699 5703	CAPs
+T40	Organism 5836 5842	humans
+T41	Organism 6030 6043	P. aeruginosa
+T42	Chemical 6059 6063	CAPs
+T43	Two-component-system 6084 6089	PhoPQ
+T44	Protein 6084 6088	PhoP
+T45	Protein 6088 6089	Q
+T46	Two-component-system 6094 6099	PmrAB
+T47	Protein 6094 6098	PmrA
+T48	Protein 6098 6099	B
+T49	Chemical 6172 6176	Mg2+
+T50	Chemical 6217 6226	magnesium
+T51	Protein 6228 6232	PhoP
+T52	Protein 6237 6241	PmrA
+T53	Chemical 6270 6273	CAP
+T54	Regulon-operon 6292 6305	PA3552-PA3559
+T55	Protein 6292 6298	PA3552
+T56	Protein 6299 6305	PA3559
+T57	Regulon-operon 6307 6321	arnBCADTEF-ugd
+T58	Protein 6307 6311	arnB
+T59	Protein 6311 6312	C
+T60	Protein 6312 6313	A
+T61	Protein 6313 6314	D
+T62	Protein 6314 6315	T
+T63	Protein 6315 6316	E
+T64	Protein 6316 6317	F
+T65	Protein 6318 6321	ugd
+T66	Chemical 6382 6385	LPS
+T67	Chemical 6454 6461	lipid A
+T68	Chemical 6500 6504	CAPs
+T69	Two-component-system 6515 6520	PhoPQ
+T70	Protein 6515 6519	PhoP
+T71	Protein 6519 6520	Q
+T72	Two-component-system 6525 6530	PmrAB
+T73	Protein 6525 6529	PmrA
+T74	Protein 6529 6530	B
+T75	Chemical 6641 6645	CAPs
+T76	Chemical 6665 6669	Mg2+
+T77	Regulon-operon 6706 6719	PA3552-PA3559
+T78	Protein 6706 6712	PA3552
+T79	Protein 6713 6719	PA3559
+T80	Organism 7012 7025	P. aeruginosa
+T81	Chemical 7092 7110	exopolysaccharides
+T82	Organism 7903 7916	P. aeruginosa
+T83	Organism 8015 8028	P. aeruginosa
+T84	Organism 8132 8158	Staphylococcus epidermidis

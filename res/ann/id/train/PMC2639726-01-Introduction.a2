@@ -1,0 +1,18 @@
+T22	Process 31 41	infections
+T23	Process 914 920	infect
+T24	Process 1209 1218	infection
+T25	Process 1254 1263	virulence
+T26	Process 2114 2123	infection
+T27	Process 2190 2199	infection
+T28	Process 2484 2493	virulence
+T29	Process 2540 2549	infection
+T30	Process 3090 3099	infection
+E1	Process:T22 
+E2	Process:T23 Participant:T11
+E3	Process:T24 
+E4	Process:T25 
+E5	Process:T26 
+E6	Process:T27 
+E7	Process:T28 
+E8	Process:T29 Participant:T18
+E9	Process:T30 Participant:T20

@@ -1,0 +1,29 @@
+T1	Organism 34 49	M. tuberculosis
+T2	Protein 50 56	Rv2623
+T3	Chemical 93 96	ATP
+T4	Organism 290 309	M. smegmatis mc2155
+T5	Protein 352 358	Rv2623
+T6	Protein 448 454	Rv2623
+T7	Chemical 584 587	ATP
+T8	Protein 613 619	Rv2623
+T9	Organism 932 941	wild type
+T10	Organism 950 955	G117A
+T11	Organism 960 972	D15E mutants
+T12	Chemical 986 989	ATP
+T13	Chemical 1059 1062	ATP
+T14	Protein 1136 1142	Rv2623
+T15	Organism 1146 1158	M. smegmatis
+T16	Organism 1185 1200	M. tuberculosis
+T17	Organism 1229 1235	Erdman
+T18	Protein 1267 1273	Rv2623
+T19	Protein 1290 1296	Rv2623
+T20	Protein 1310 1316	Rv2623
+T21	Organism 1416 1428	M. smegmatis
+T22	Protein 1478 1484	Rv2623
+T23	Organism 1488 1503	M. tuberculosis
+T24	Organism 1601 1616	M. tuberculosis
+T25	Protein 1669 1675	Rv2623
+T26	Protein 1753 1759	Rv2623
+T27	Organism 1782 1794	M. smegmatis
+T28	Organism 1799 1814	M. tuberculosis
+T29	Chemical 1834 1837	ATP

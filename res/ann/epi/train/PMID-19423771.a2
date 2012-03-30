@@ -1,0 +1,11 @@
+T30	Catalysis 1285 1299	ubiquitination
+T31	Ubiquitination 1285 1299	ubiquitination
+T32	Ubiquitination 1478 1491	ubiquitinated
+T33	Catalysis 1731 1739	mediated
+T34	Ubiquitination 1740 1754	ubiquitination
+E1	Ubiquitination:T31 Theme:T21
+M1	Speculation E1
+E2	Catalysis:T30 Theme:E1 Cause:T20
+E3	Ubiquitination:T32 Theme:T24
+E4	Catalysis:T33 Theme:E5 Cause:T27
+E5	Ubiquitination:T34 Theme:T28

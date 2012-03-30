@@ -1,0 +1,17 @@
+T6	Acetylation 32 48	hyperacetylation
+T7	Acetylation 88 99	acetylation
+T8	Acetylation 264 275	acetylation
+T9	Entity 290 292	K5
+T10	Entity 297 299	K8
+T11	Acetylation 411 422	acetylation
+T12	Acetylation 457 468	acetylation
+E1	Acetylation:T6 Theme:T1
+E2	Acetylation:T7 Theme:T2
+E3	Acetylation:T8 Theme:T3 Site:T9
+M1	Speculation E3
+E4	Acetylation:T8 Theme:T3 Site:T10
+M2	Speculation E4
+E5	Acetylation:T11 Theme:T4
+M3	Speculation E5
+E6	Acetylation:T12 Theme:T4
+M4	Speculation E6

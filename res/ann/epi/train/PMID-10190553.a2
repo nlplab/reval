@@ -1,0 +1,22 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+T24	Entity 632 646	positions -147
+T25	Entity 651 655	-847
+T26	DNA_methylation 662 672	methylated
+T27	Entity 796 808	position -38
+T28	DNA_methylation 814 824	methylated
+T29	Entity 1194 1202	promoter
+T30	DNA_methylation 1203 1214	methylation
+E1	DNA_methylation:T26 Theme:T15 Site:T24
+E2	DNA_methylation:T26 Theme:T15 Site:T25
+E3	DNA_methylation:T26 Theme:T15 Site:T24
+M1	Negation E3
+E4	DNA_methylation:T26 Theme:T15 Site:T25
+M2	Negation E4
+E5	DNA_methylation:T28 Theme:T18 Site:T27
+E6	DNA_methylation:T28 Theme:T18 Site:T27
+M3	Negation E6
+E7	DNA_methylation:T30 Theme:T22 Site:T29
+M4	Speculation E7
+E8	DNA_methylation:T30 Theme:T23 Site:T29
+M5	Speculation E8

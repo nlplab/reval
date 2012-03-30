@@ -1,0 +1,11 @@
+*	Equiv T1 T2
+*	Equiv T4 T5
+*	Equiv T11 T12
+T21	Ubiquitination 899 911	ubiquitinate
+T22	Entity 916 922	Lys122
+T23	Entity 927 933	Lys123
+T24	Phosphorylation 1083 1097	phosphorylated
+T25	Entity 1101 1106	Ser26
+E1	Ubiquitination:T21 Theme:T14 Site:T22
+E2	Ubiquitination:T21 Theme:T14 Site:T23
+E3	Phosphorylation:T24 Theme:T15 Site:T25

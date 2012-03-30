@@ -1,0 +1,45 @@
+*	Equiv T18 T17
+T47	Regulation 475 484	regulates
+T48	Gene_expression 489 499	expression
+T49	Process 583 592	virulence
+T50	Process 797 806	avirulent
+T51	Regulation 1127 1135	responds
+T52	Process 1640 1650	attenuated
+T53	Gene_expression 1741 1751	expression
+T54	Positive_regulation 1772 1784	up-regulated
+T55	Process 1833 1842	virulence
+T56	Gene_expression 1848 1858	expression
+T57	Process 1970 1979	virulence
+T58	Process 2076 2085	virulence
+T59	Process 2651 2660	virulence
+T60	Gene_expression 2850 2860	expression
+T61	Regulation 2899 2905	effect
+T62	Gene_expression 2914 2920	levels
+T63	Process 2968 2977	virulence
+T64	Process 3203 3212	infection
+E1	Regulation:T47 Theme:E4
+E2	Regulation:T47 Theme:E5
+E3	Regulation:T47 Theme:E6
+E4	Gene_expression:T48 Theme:T9
+E5	Gene_expression:T48 Theme:T10
+E6	Gene_expression:T48 Theme:T11
+E7	Process:T49 
+E8	Process:T50 
+M1	Negation E8
+E9	Regulation:T51 Theme:T17
+E10	Process:T52 
+E11	Gene_expression:T53 Theme:T28
+E12	Gene_expression:T53 Theme:T29
+E13	Positive_regulation:T54 Theme:E11
+E14	Positive_regulation:T54 Theme:E12
+E15	Process:T55 
+E16	Gene_expression:T56 Theme:T30
+E17	Process:T57 
+E18	Process:T58 
+E19	Process:T59 
+E20	Gene_expression:T60 Theme:T42
+E21	Regulation:T61 Theme:E22
+M2	Negation E21
+E22	Gene_expression:T62 Theme:T44
+E23	Process:T63 
+E24	Process:T64 

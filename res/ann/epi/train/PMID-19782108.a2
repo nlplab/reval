@@ -1,0 +1,4 @@
+T18	Glycosylation 0 13	Glycosylation
+T19	Deglycosylation 908 923	deglycosylation
+E1	Glycosylation:T18 Theme:T1
+E2	Deglycosylation:T19 Theme:T13

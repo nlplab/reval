@@ -1,0 +1,4 @@
+T27	Catalysis 1037 1056	self-ubiquitination
+T28	Ubiquitination 1037 1056	self-ubiquitination
+E1	Ubiquitination:T28 Theme:T21
+E2	Catalysis:T27 Theme:E1 Cause:T21

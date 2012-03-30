@@ -1,0 +1,18 @@
+*	Equiv T2 T3
+*	Equiv T21 T22
+*	Equiv T4 T5
+T19	Hydroxylation 155 167	hydroxylates
+T20	Catalysis 155 167	hydroxylates
+T21	Entity 172 186	asparagine 803
+T22	Entity 188 194	Asn803
+T23	Entity 651 657	Asn803
+T24	Hydroxylation 658 670	hydroxylated
+T25	Entity 821 827	Asn803
+T26	Hydroxylation 828 840	hydroxylated
+T27	Entity 1153 1159	Asn803
+T28	Hydroxylation 1160 1173	hydroxylation
+E1	Hydroxylation:T19 Theme:T4 Site:T21
+E2	Catalysis:T20 Theme:E1 Cause:T2
+E3	Hydroxylation:T24 Theme:T10 Site:T23
+E4	Hydroxylation:T26 Theme:T13 Site:T25
+E5	Hydroxylation:T28 Theme:T17 Site:T27

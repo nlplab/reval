@@ -1,0 +1,43 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+*	Equiv T9 T10 T11
+*	Equiv T12 T13
+*	Equiv T15 T16
+*	Equiv T17 T18
+*	Equiv T19 T20
+*	Equiv T21 T22
+*	Equiv T24 T25
+*	Equiv T27 T28
+*	Equiv T29 T30
+*	Equiv T31 T32
+*	Equiv T33 T34
+*	Equiv T35 T36
+T38	DNA_methylation 9 25	hypermethylation
+T39	DNA_methylation 526 542	hypermethylation
+T40	DNA_methylation 850 861	methylation
+T41	DNA_methylation 863 874	Methylation
+T42	DNA_methylation 1078 1089	methylation
+T43	DNA_methylation 1181 1192	methylation
+T44	DNA_methylation 1414 1425	methylation
+T45	DNA_methylation 1477 1488	methylation
+T46	DNA_methylation 1609 1620	methylation
+T47	DNA_methylation 1811 1827	hypermethylation
+T48	DNA_methylation 1837 1853	hypermethylation
+E1	DNA_methylation:T38 Theme:T1
+E2	DNA_methylation:T38 Theme:T2
+E3	DNA_methylation:T39 Theme:T3
+E4	DNA_methylation:T39 Theme:T5
+E5	DNA_methylation:T40 Theme:T8
+E6	DNA_methylation:T41 Theme:T9
+M1	Negation E6
+E7	DNA_methylation:T41 Theme:T12
+M2	Negation E7
+E8	DNA_methylation:T41 Theme:T14
+M3	Negation E8
+E9	DNA_methylation:T42 Theme:T21
+E10	DNA_methylation:T43 Theme:T23
+E11	DNA_methylation:T44 Theme:T24
+E12	DNA_methylation:T45 Theme:T26
+E13	DNA_methylation:T46 Theme:T27
+E14	DNA_methylation:T47 Theme:T35
+E15	DNA_methylation:T48 Theme:T37

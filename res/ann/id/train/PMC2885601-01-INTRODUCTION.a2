@@ -1,0 +1,36 @@
+*	Equiv T1 T2
+*	Equiv T12 T13
+*	Equiv T18 T17
+*	Equiv T22 T23
+T46	Process 219 228	infection
+T47	Process 458 467	infection
+T48	Process 545 554	resistant
+T49	Process 645 656	reinfection
+T50	Gene_expression 954 961	produce
+T51	Process 1037 1047	resistance
+T52	Gene_expression 1091 1099	produces
+T53	Localization 1102 1110	secreted
+T54	Positive_regulation 1222 1228	cleave
+T55	Protein_catabolism 1222 1228	cleave
+T56	Gene_expression 1365 1373	produced
+T57	Negative_regulation 1429 1434	block
+T58	Binding 1439 1450	interaction
+T59	Gene_expression 1534 1542	produced
+T60	Binding 1680 1684	bind
+T61	Process 2073 2082	infection
+E1	Process:T46 
+E2	Process:T47 
+E3	Process:T48 
+E4	Process:T49 Participant:T8
+E5	Gene_expression:T50 Theme:T15
+E6	Process:T51 
+E7	Gene_expression:T52 Theme:T17
+E8	Localization:T53 Theme:T17
+E9	Positive_regulation:T54 Theme:E10 Cause:T17
+E10	Protein_catabolism:T55 Theme:T22
+E11	Gene_expression:T56 Theme:T24
+E12	Negative_regulation:T57 Theme:E13
+E13	Binding:T58 Theme1:T26 Theme2:T27
+E14	Gene_expression:T59 Theme:T29
+E15	Binding:T60 Theme1:T32 Theme2:T33
+E16	Process:T61 Participant:T45

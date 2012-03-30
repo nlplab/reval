@@ -1,0 +1,14 @@
+T11	Phosphorylation 850 865	phosphorylation
+T12	Phosphorylation 896 911	phosphorylation
+T13	Deacetylation 957 976	loss of acetylation
+T14	DNA_methylation 1061 1072	methylation
+T15	Entity 1107 1112	Lys27
+T16	Entity 1117 1122	Lys36
+T17	Entity 1150 1155	Lys20
+E1	Phosphorylation:T11 Theme:T5
+E2	Phosphorylation:T11 Theme:T6
+E3	Phosphorylation:T12 Theme:T7
+E4	Deacetylation:T13 Theme:T8
+E5	DNA_methylation:T14 Theme:T9 Site:T15
+E6	DNA_methylation:T14 Theme:T9 Site:T16
+E7	DNA_methylation:T14 Theme:T10 Site:T17

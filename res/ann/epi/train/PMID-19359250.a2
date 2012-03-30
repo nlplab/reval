@@ -1,0 +1,13 @@
+*	Equiv T5 T6
+T25	Methylation 409 422	nonmethylated
+T26	Entity 699 707	arginine
+T27	Methylation 708 719	methylation
+T28	Catalysis 708 719	methylation
+T29	Methylation 1368 1379	methylation
+T30	Catalysis 1368 1379	methylation
+E1	Methylation:T25 Theme:T9
+M1	Negation E1
+E2	Methylation:T27 Theme:T13 Site:T26
+E3	Catalysis:T28 Theme:E2 Cause:T11
+E4	Methylation:T29 Theme:T23
+E5	Catalysis:T30 Theme:E4 Cause:T24

@@ -1,0 +1,18 @@
+T1	Two-component-system 32 37	salKR
+T2	Protein 32 36	salK
+T3	Protein 36 37	R
+T4	Two-component-system 112 117	salKR
+T5	Protein 112 116	salK
+T6	Protein 116 117	R
+T7	Organism 161 176	S. suis 05ZYH33
+T8	Two-component-system 270 275	salKR
+T9	Protein 270 274	salK
+T10	Protein 274 275	R
+T11	Protein 659 663	salK
+T12	Protein 668 672	salR
+T13	Regulon-operon 729 748	05SSU0942-05SSU0938
+T14	Protein 729 738	05SSU0942
+T15	Protein 739 748	05SSU0938
+T16	Protein 826 835	05SSU0942
+T17	Protein 882 891	05SSU0938
+T18	Protein 892 901	05SSU0937

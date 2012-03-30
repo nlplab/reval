@@ -1,0 +1,30 @@
+T124	Binding 247 254	binding
+T125	Binding 422 427	bound
+T126	Binding 670 677	binding
+T127	Binding 878 885	binding
+T128	Binding 1131 1138	binding
+T129	Positive_regulation 1352 1361	increased
+T130	Binding 1362 1369	binding
+T131	Positive_regulation 1457 1466	increased
+T132	Binding 1467 1474	binding
+T133	Negative_regulation 1735 1742	reduced
+T134	Gene_expression 1748 1758	expression
+T135	Negative_regulation 2417 2429	inactivation
+T136	Gene_expression 3032 3039	produce
+E1	Binding:T124 Theme1:T10 Theme2:T11
+E2	Binding:T124 Theme1:T10 Theme2:T12
+E3	Binding:T124 Theme1:T10 Theme2:T16
+E4	Binding:T125 Theme1:T21 Theme2:T17
+E5	Binding:T126 Theme1:T23 Theme2:T24
+E6	Binding:T127 Theme1:T29 Theme2:T33
+E7	Binding:T127 Theme1:T29 Theme2:T30
+E8	Binding:T128 Theme1:T50 Theme2:T45
+E9	Binding:T128 Theme1:T50 Theme2:T44
+E10	Positive_regulation:T129 Theme:E11
+E11	Binding:T130 Theme:T55
+E12	Positive_regulation:T131 Theme:E13
+E13	Binding:T132 Theme1:T58 Theme2:T59
+E14	Negative_regulation:T133 Theme:E15
+E15	Gene_expression:T134 Theme:T67
+E16	Negative_regulation:T135 Theme:T91 Cause:T96
+E17	Gene_expression:T136 Theme:T111

@@ -1,0 +1,3 @@
+T8	Entity 330 336	Lys517
+T9	Methylation 366 377	methylation
+E1	Methylation:T9 Theme:T1 Site:T8

@@ -1,0 +1,9 @@
+T13	Glycosylation 1231 1247	O-glycosylations
+T14	Glycosylation 1253 1267	O-glycosylated
+T15	Entity 1452 1456	S311
+T16	Entity 1457 1473	GalNAc-Gal2-NANA
+T17	Entity 1505 1509	S311
+T18	Entity 1510 1521	GalNAc-Gal2
+E1	Glycosylation:T13 Theme:T9
+E2	Glycosylation:T14 Theme:T9 Site:T15 Sidechain:T16
+E3	Glycosylation:T14 Theme:T9 Site:T17 Sidechain:T18

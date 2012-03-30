@@ -1,0 +1,4 @@
+T8	Glycosylation 30 43	glycosylation
+T9	Glycosylation 1303 1316	glycosylation
+E1	Glycosylation:T8 Theme:T1
+E2	Glycosylation:T9 Theme:T7

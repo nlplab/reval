@@ -1,0 +1,36 @@
+T1	Organism 19 31	Streptococci
+T2	Protein 298 312	streptolysin O
+T3	Protein 314 317	slo
+T4	Protein 321 328	spy0167
+T5	Protein 338 342	SpeB
+T6	Protein 353 360	spy2039
+T7	Protein 403 423	pyrogenic exotoxin H
+T8	Protein 425 429	speH
+T9	Protein 433 440	spy1008
+T10	Protein 448 484	putative fibronectin-binding protein
+T11	Protein 486 493	spy0130
+T12	Protein 556 563	spy2039
+T13	Protein 568 575	spy0130
+T14	Protein 697 711	Streptolysin O
+T15	Organism 740 745	human
+T16	Organism 946 958	streptococci
+T17	Protein 1025 1028	slo
+T18	Organism 1124 1136	streptococci
+T19	Organism 1220 1232	streptococci
+T20	Protein 1367 1371	SpeB
+T21	Protein 1384 1391	spy2039
+T22	Protein 1414 1431	cysteine protease
+T23	Protein 1563 1567	SpeB
+T24	Organism 1651 1656	human
+T25	Organism 1706 1711	mouse
+T26	Protein 1739 1743	SpeB
+T27	Protein 1864 1868	SpeB
+T28	Protein 1953 1957	SpeB
+T29	Organism 2017 2038	streptococcal strains
+T30	Protein 2124 2153	fibronectin-binding protein F
+T31	Protein 2212 2219	spy0130
+T32	Organism 2326 2331	SF370
+T33	Protein 2384 2393	protein F
+T34	Protein 2535 2539	SpeB
+T35	Protein 2723 2727	speH
+T36	Protein 2814 2818	SpeB

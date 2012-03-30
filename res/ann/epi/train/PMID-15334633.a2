@@ -1,0 +1,5 @@
+*	Equiv T5 T6
+T10	DNA_methylation 1054 1070	hypermethylation
+E1	DNA_methylation:T10 Theme:T7
+E2	DNA_methylation:T10 Theme:T8
+E3	DNA_methylation:T10 Theme:T9

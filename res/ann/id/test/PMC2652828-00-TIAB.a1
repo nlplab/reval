@@ -1,0 +1,29 @@
+T1	Organism 33 62	Hfq and SmpB Deletion Mutants
+T2	Protein 33 36	Hfq
+T3	Protein 41 45	SmpB
+T4	Organism 66 76	Salmonella
+T5	Organism 302 316	Enterobacteria
+T6	Protein 441 445	CsrA
+T7	Protein 447 450	Hfq
+T8	Protein 455 459	SmpB
+T9	Protein 505 509	csrA
+T10	Protein 511 514	hfq
+T11	Protein 520 524	smpB
+T12	Organism 529 539	Salmonella
+T13	Organism 558 563	mouse
+T14	Protein 612 616	CsrA
+T15	Protein 755 758	Hfq
+T16	Protein 763 767	SmpB
+T17	Protein 843 846	hfq
+T18	Protein 1088 1091	Hfq
+T19	Protein 1095 1099	SmpB
+T20	Protein 1158 1161	hfq
+T21	Organism 1158 1161	hfq
+T22	Organism 1165 1176	smpB mutant
+T23	Protein 1165 1169	smpB
+T24	Protein 1523 1526	hfq
+T25	Protein 1531 1535	smpB
+T26	Organism 1604 1614	Salmonella
+T27	Organism 1755 1765	Salmonella
+T28	Chemical 1874 1877	LPS
+T29	Organism 2211 2221	Salmonella

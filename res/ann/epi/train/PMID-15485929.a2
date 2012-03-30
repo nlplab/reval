@@ -1,0 +1,28 @@
+*	Equiv T19 T20
+*	Equiv T21 T22
+T34	Methylation 31 41	methylates
+T35	Catalysis 31 41	methylates
+T36	Entity 53 63	arginine 8
+T37	Methylation 485 494	methylate
+T38	Entity 670 680	arginine 8
+T39	Entity 688 698	arginine 3
+T40	Methylation 722 733	methylation
+T41	Catalysis 722 733	methylation
+T42	Entity 1321 1323	R8
+T43	Methylation 1324 1335	methylation
+T44	Entity 1339 1341	K9
+T45	Deacetylation 1342 1355	deacetylation
+E1	Methylation:T34 Theme:T2 Site:T36 Contextgene:T3
+E2	Methylation:T34 Theme:T2 Site:T36 Contextgene:T4
+E3	Catalysis:T35 Theme:E2 Cause:T1
+E4	Catalysis:T35 Theme:E1 Cause:T1
+E5	Methylation:T37 Theme:T8
+E6	Methylation:T37 Theme:T9
+E7	Methylation:T40 Theme:T13 Site:T38
+E8	Catalysis:T41 Theme:E7 Cause:T15
+E9	Methylation:T40 Theme:T14 Site:T39
+E10	Catalysis:T41 Theme:E9 Cause:T15
+E11	Methylation:T43 Theme:T29 Site:T42 Contextgene:T27
+E12	Methylation:T43 Theme:T29 Site:T42 Contextgene:T26
+E13	Deacetylation:T45 Theme:T30 Site:T44 Contextgene:T26
+E14	Deacetylation:T45 Theme:T30 Site:T44 Contextgene:T27

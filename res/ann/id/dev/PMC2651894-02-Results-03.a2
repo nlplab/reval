@@ -1,0 +1,25 @@
+T21	Process 22 31	virulence
+T22	Gene_expression 60 70	expression
+T23	Transcription 171 184	transcription
+T24	Regulation 185 195	downstream
+T25	Gene_expression 204 214	expression
+T26	Gene_expression 337 343	levels
+T27	Regulation 405 411	change
+T28	Gene_expression 419 425	levels
+T29	Process 548 557	virulence
+T30	Regulation 612 619	changes
+T31	Gene_expression 628 642	protein levels
+T32	Process 712 721	virulence
+E1	Process:T21 
+E2	Gene_expression:T22 Theme:T2
+E3	Transcription:T23 Theme:T5
+E4	Regulation:T24 Theme:E3 Cause:E5
+E5	Gene_expression:T25 Theme:T6
+E6	Gene_expression:T26 Theme:T12
+E7	Regulation:T27 Theme:E8
+M1	Negation E7
+E8	Gene_expression:T28 Theme:T13
+E9	Process:T29 Participant:T15
+E10	Regulation:T30 Theme:E11
+E11	Gene_expression:T31 Theme:T18
+E12	Process:T32 Participant:T20

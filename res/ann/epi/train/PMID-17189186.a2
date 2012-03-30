@@ -1,0 +1,16 @@
+*	Equiv T16 T17
+T12	Catalysis 6 15	dependent
+T13	Acetylation 16 27	acetylation
+T14	Catalysis 454 461	induces
+T15	Acetylation 466 477	acetylation
+T16	Entity 494 504	lysine 120
+T17	Entity 506 510	K120
+T18	Catalysis 887 896	dependent
+T19	Acetylation 897 908	acetylation
+T20	Entity 919 923	K120
+E1	Catalysis:T12 Theme:E2 Cause:T1
+E2	Acetylation:T13 Theme:T2
+E3	Catalysis:T14 Theme:E4 Cause:T4
+E4	Acetylation:T15 Theme:T5 Site:T16
+E5	Catalysis:T18 Theme:E6 Cause:T9
+E6	Acetylation:T19 Theme:T10 Site:T20

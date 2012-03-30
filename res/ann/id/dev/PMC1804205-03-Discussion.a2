@@ -1,0 +1,40 @@
+T76	Positive_regulation 87 96	activates
+T77	Regulation 332 342	activation
+T78	Positive_regulation 355 364	regulated
+T79	Positive_regulation 475 484	necessary
+T80	Positive_regulation 489 499	activation
+T81	Positive_regulation 704 713	stimulate
+T82	Transcription 719 732	transcription
+T83	Regulation 2684 2694	regulation
+T84	Positive_regulation 3507 3516	activated
+T85	Regulation 3608 3616	responds
+T86	Positive_regulation 4330 4340	activation
+T87	Positive_regulation 4375 4383	requires
+T88	Phosphorylation 4467 4481	phosphorylated
+T89	Positive_regulation 4645 4654	necessary
+T90	Phosphorylation 4684 4698	phosphorylated
+T91	Gene_expression 4809 4819	expression
+T92	Positive_regulation 4841 4849	promoted
+T93	Positive_regulation 5108 5116	responds
+T94	Positive_regulation 5334 5344	activating
+E1	Positive_regulation:T76 Theme:T2 Cause:T1
+E2	Regulation:T77 Theme:T7
+E3	Positive_regulation:T78 Theme:T7 Cause:T6
+E4	Positive_regulation:T79 Theme:E5 Cause:T9
+E5	Positive_regulation:T80 Theme:T10
+E6	Positive_regulation:T81 Theme:E7 Cause:T11
+M1	Negation E6
+E7	Transcription:T82 Theme:T12
+E8	Regulation:T83 Theme:T22
+E9	Positive_regulation:T84 Theme:T26
+E10	Regulation:T85 Theme:T29 Cause:T30
+E11	Positive_regulation:T86 Theme:T37 Cause:T36
+E12	Positive_regulation:T87 Theme:T37 Cause:T38
+E13	Phosphorylation:T88 Theme:T40
+E14	Positive_regulation:T89 Theme:E15 Cause:T44
+M2	Speculation E14
+E15	Phosphorylation:T90 Theme:T45
+E16	Gene_expression:T91 Theme:T46
+E17	Positive_regulation:T92 Theme:E16
+E18	Positive_regulation:T93 Theme:T49 Cause:T50
+E19	Positive_regulation:T94 Theme:T54

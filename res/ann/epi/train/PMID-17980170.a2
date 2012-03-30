@@ -1,0 +1,14 @@
+*	Equiv T2 T3
+T10	Glycosylation 27 40	glycosylation
+T11	Glycosylation 357 369	glycosylated
+T12	Entity 1447 1453	Asn-37
+T13	Entity 1455 1462	Asn-107
+T14	Entity 1464 1471	Asn-309
+T15	Entity 1477 1484	Asn-333
+T16	Glycosylation 1496 1511	N-glycosylation
+E1	Glycosylation:T10 Theme:T1
+E2	Glycosylation:T11 Theme:T4
+E3	Glycosylation:T16 Theme:T9 Site:T12
+E4	Glycosylation:T16 Theme:T9 Site:T13
+E5	Glycosylation:T16 Theme:T9 Site:T14
+E6	Glycosylation:T16 Theme:T9 Site:T15

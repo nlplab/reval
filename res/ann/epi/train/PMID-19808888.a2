@@ -1,0 +1,17 @@
+*	Equiv T5 T6 T7
+*	Equiv T11 T12 T13
+*	Equiv T14 T15
+T27	Ubiquitination 0 14	Ubiquitylation
+T28	Ubiquitination 584 597	ubiquitylated
+T29	Dephosphorylation 1081 1098	dephosphorylation
+T30	Deubiquitination 1103 1119	deubiquitylation
+T31	Phosphorylation 1252 1266	phosphorylated
+T32	Ubiquitination 1271 1284	ubiquitylated
+T33	Ubiquitination 1492 1505	ubiquitylated
+E1	Ubiquitination:T27 Theme:T1
+E2	Ubiquitination:T28 Theme:T8
+E3	Dephosphorylation:T29 Theme:T19
+E4	Deubiquitination:T30 Theme:T19
+E5	Phosphorylation:T31 Theme:T22
+E6	Ubiquitination:T32 Theme:T22
+E7	Ubiquitination:T33 Theme:T23

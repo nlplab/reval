@@ -1,0 +1,29 @@
+T13	Acetylation 677 687	acetylated
+T14	Methylation 691 703	dimethylated
+T15	Entity 716 718	K9
+T16	Acetylation 813 823	acetylated
+T17	Methylation 832 844	dimethylated
+T18	Acetylation 928 938	acetylated
+T19	Methylation 943 955	dimethylated
+T20	Acetylation 1084 1094	acetylated
+T21	Methylation 1135 1147	dimethylated
+T22	Entity 1212 1214	K9
+T23	Methylation 1215 1226	methylation
+T24	Acetylation 1312 1322	acetylated
+E1	Acetylation:T13 Theme:T3 Site:T15
+E2	Methylation:T14 Theme:T3 Site:T15
+E3	Acetylation:T16 Theme:T4 Site:T15
+E4	Methylation:T17 Theme:T4 Site:T15
+M1	Negation E4
+E5	Acetylation:T18 Theme:T5
+M2	Negation E5
+E6	Methylation:T19 Theme:T5
+M3	Negation E6
+E7	Acetylation:T20 Theme:T9 Contextgene:T7
+E8	Acetylation:T20 Theme:T9 Contextgene:T8
+E9	Acetylation:T20 Theme:T9 Contextgene:T6
+E10	Methylation:T21 Theme:T10 Contextgene:T7
+E11	Methylation:T21 Theme:T10 Contextgene:T8
+E12	Methylation:T21 Theme:T10 Contextgene:T6
+E13	Methylation:T23 Theme:T11 Site:T22
+E14	Acetylation:T24 Theme:T12

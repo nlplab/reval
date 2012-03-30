@@ -1,0 +1,27 @@
+T10	DNA_methylation 23 34	methylation
+T11	DNA_methylation 118 129	methylation
+T12	DNA_methylation 493 503	methylated
+T13	Entity 544 557	Several sites
+T14	DNA_methylation 587 597	methylated
+T15	DNA_methylation 716 726	methylated
+T16	DNA_methylation 848 859	methylation
+E1	DNA_methylation:T10 Theme:T1
+M1	Speculation E1
+E2	DNA_methylation:T10 Theme:T2
+M2	Speculation E2
+E3	DNA_methylation:T10 Theme:T3
+M3	Speculation E3
+E4	DNA_methylation:T11 Theme:T4
+M4	Speculation E4
+E5	DNA_methylation:T11 Theme:T5
+M5	Speculation E5
+E6	DNA_methylation:T11 Theme:T6
+M6	Speculation E6
+E7	DNA_methylation:T12 Theme:T7
+E8	DNA_methylation:T12 Theme:T8
+E9	DNA_methylation:T14 Theme:T7 Site:T13
+E10	DNA_methylation:T14 Theme:T8 Site:T13
+E11	DNA_methylation:T15 Theme:T9
+E12	DNA_methylation:T16 Theme:T4
+E13	DNA_methylation:T16 Theme:T5
+E14	DNA_methylation:T16 Theme:T6

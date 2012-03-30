@@ -1,0 +1,23 @@
+*	Equiv T2 T3
+T38	Methylation 333 343	methylates
+T39	Catalysis 333 343	methylates
+T40	Methylation 1282 1293	methylation
+T41	Entity 1299 1301	K4
+T42	Entity 1433 1435	K4
+T43	Methylation 1436 1447	methylation
+T44	Catalysis 1436 1447	methylation
+T45	Entity 1491 1494	K36
+T46	Methylation 1923 1933	methylates
+T47	Catalysis 1923 1933	methylates
+T48	Entity 1936 1938	K4
+E1	Methylation:T38 Theme:T6
+E2	Catalysis:T39 Theme:E1 Cause:T5
+E3	Methylation:T38 Theme:T7
+E4	Catalysis:T39 Theme:E3 Cause:T5
+E5	Methylation:T40 Theme:T23 Site:T41
+E6	Methylation:T43 Theme:T25 Site:T42
+E7	Catalysis:T44 Theme:E6 Cause:T24
+E8	Methylation:T43 Theme:T26 Site:T45
+M1	Negation E8
+E9	Catalysis:T47 Theme:E10 Cause:T32
+E10	Methylation:T46 Theme:T34 Site:T48 Contextgene:T33

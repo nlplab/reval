@@ -1,0 +1,38 @@
+T1	Organism 25 29	flea
+T2	Organism 46 55	Y. pestis
+T3	Organism 99 108	Y. pestis
+T4	Organism 155 159	flea
+T5	Organism 357 366	Y. pestis
+T6	Organism 686 695	Y. pestis
+T7	Organism 930 939	Y. pestis
+T8	Organism 978 982	flea
+T9	Organism 1132 1136	flea
+T10	Organism 1138 1147	Y. pestis
+T11	Chemical 1225 1259	poly-beta-1,6-N-acetyl glucosamine
+T12	Organism 1267 1281	staphylococcal
+T13	Organism 1481 1485	flea
+T14	Organism 1507 1511	flea
+T15	Protein 1536 1540	cafR
+T16	Protein 1540 1545	caf1M
+T17	Protein 1545 1547	1A
+T18	Protein 1547 1548	1
+T19	Protein 1586 1590	psaC
+T20	Organism 1696 1705	Y. pestis
+T21	Protein 1844 1848	phoP
+T22	Protein 1853 1857	mgtC
+T23	Organism 1877 1886	Y. pestis
+T24	Organism 1995 1999	flea
+T25	Protein 2055 2060	yadBC
+T26	Protein 2065 2068	pla
+T27	Organism 2084 2093	Y. pestis
+T28	Organism 2172 2176	flea
+T29	Protein 2228 2231	Pla
+T30	Organism 2353 2362	Y. pestis
+T31	Organism 2370 2374	flea
+T32	Organism 2388 2397	Y. pestis
+T33	Organism 2471 2475	flea
+T34	Organism 2509 2518	Y. pestis
+T35	Organism 2584 2588	flea
+T36	Organism 2809 2813	flea
+T37	Organism 2880 2885	fleas
+T38	Organism 2944 2953	Y. pestis

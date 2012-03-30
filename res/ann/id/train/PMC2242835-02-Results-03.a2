@@ -1,0 +1,20 @@
+T16	Process 8 17	Virulence
+T17	Process 110 119	virulence
+T18	Process 157 166	virulence
+T19	Process 299 307	infected
+T20	Process 356 365	infection
+T21	Positive_regulation 1036 1044	restored
+T22	Process 1049 1058	virulence
+T23	Process 1095 1103	virulent
+E1	Process:T16 
+E2	Process:T17 
+E3	Process:T18 Participant:T3
+E4	Process:T18 Participant:T1
+E5	Process:T18 Participant:T2
+E6	Process:T19 Participant:T2
+E7	Process:T19 Participant:T3
+E8	Process:T19 Participant:T1
+E9	Process:T20 
+E10	Positive_regulation:T21 Theme:E11
+E11	Process:T22 Participant:T13
+E12	Process:T23 Participant:T15

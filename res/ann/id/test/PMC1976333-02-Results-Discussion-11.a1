@@ -1,0 +1,21 @@
+T1	Protein 70 74	fimE
+T2	Organism 70 74	fimE
+T3	Organism 79 91	fimB mutants
+T4	Protein 79 83	fimB
+T5	Protein 309 313	fimS
+T6	Protein 405 409	fimS
+T7	Protein 862 866	fimS
+T8	Organism 932 943	fimS mutant
+T9	Protein 932 936	fimS
+T10	Organism 985 996	fimS mutant
+T11	Protein 985 989	fimS
+T12	Organism 1041 1066	fimB-fimE- double mutants
+T13	Protein 1041 1045	fimB
+T14	Protein 1046 1050	fimE
+T15	Organism 1245 1256	fimS mutant
+T16	Protein 1245 1249	fimS
+T17	Organism 1269 1294	fimB-fimE- double mutants
+T18	Protein 1269 1273	fimB
+T19	Protein 1274 1278	fimE
+T20	Organism 1364 1375	fimS mutant
+T21	Protein 1364 1368	fimS

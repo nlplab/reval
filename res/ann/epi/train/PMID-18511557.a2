@@ -1,0 +1,8 @@
+T6	Ubiquitination 267 287	polyubiquitinylation
+T7	Phosphorylation 332 348	phosphorylations
+T8	Phosphorylation 776 790	phosphorylated
+T9	Phosphorylation 1022 1036	phosphorylated
+E1	Ubiquitination:T6 Theme:T1
+E2	Phosphorylation:T7 Theme:T1
+E3	Phosphorylation:T8 Theme:T2
+E4	Phosphorylation:T9 Theme:T5

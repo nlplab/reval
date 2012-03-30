@@ -1,0 +1,7 @@
+*	Equiv T3 T4
+*	Equiv T6 T7
+T19	Entity 783 793	asparagine
+T20	Hydroxylation 794 807	hydroxylation
+T21	Phosphorylation 875 890	phosphorylation
+E1	Hydroxylation:T20 Theme:T16 Site:T19
+E2	Phosphorylation:T21 Theme:T16

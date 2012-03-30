@@ -1,0 +1,11 @@
+T19	Ubiquitination 74 88	ubiquitination
+T20	Acetylation 96 107	acetylation
+T21	Ubiquitination 625 638	ubiquitinated
+T22	Acetylation 682 692	acetylated
+T23	Entity 693 702	lysine 14
+T24	Entity 707 709	23
+E1	Ubiquitination:T19 Theme:T3
+E2	Acetylation:T20 Theme:T4
+E3	Ubiquitination:T21 Theme:T10
+E4	Acetylation:T22 Theme:T11 Site:T23
+E5	Acetylation:T22 Theme:T11 Site:T24

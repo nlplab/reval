@@ -1,0 +1,17 @@
+T58	Regulation 184 192	controls
+T59	Gene_expression 197 207	expression
+T60	Positive_regulation 554 561	induced
+T61	Positive_regulation 1253 1260	induced
+T62	Process 1288 1297	infection
+T63	Positive_regulation 1342 1350	required
+T64	Process 1370 1379	virulence
+T65	Positive_regulation 1404 1413	induction
+E1	Regulation:T58 Theme:E2
+E2	Gene_expression:T59 Theme:T6
+E3	Positive_regulation:T60 Theme:T20 Cause:T24
+E4	Positive_regulation:T61 Theme:T41
+E5	Positive_regulation:T61 Theme:T43
+E6	Process:T62 
+E7	Positive_regulation:T63 Theme:E8
+E8	Process:T64 Participant:T46
+E9	Positive_regulation:T65 Theme:T47

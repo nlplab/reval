@@ -1,0 +1,13 @@
+T30	Process 875 885	infectious
+T31	Process 1201 1210	infective
+T32	Process 1340 1349	virulence
+T33	Process 1388 1397	infection
+T34	Process 1504 1514	infectious
+T35	Process 1562 1572	uninfected
+E1	Process:T30 
+E2	Process:T31 Participant:T16
+E3	Process:T32 
+E4	Process:T33 
+E5	Process:T34 
+E6	Process:T35 
+M1	Negation E6

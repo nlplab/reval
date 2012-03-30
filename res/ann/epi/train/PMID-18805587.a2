@@ -1,0 +1,14 @@
+*	Equiv T2 T3
+T17	Hydroxylation 25 43	auto-hydroxylation
+T18	Catalysis 25 43	auto-hydroxylation
+T19	Hydroxylation 785 803	auto-hydroxylation
+T20	Catalysis 785 803	auto-hydroxylation
+T21	Entity 807 813	Trp296
+T22	Entity 1478 1489	active site
+T23	Hydroxylation 1502 1515	hydroxylation
+E1	Hydroxylation:T17 Theme:T1
+E2	Catalysis:T18 Theme:E1 Cause:T1
+E3	Hydroxylation:T19 Theme:T4 Site:T21
+E4	Catalysis:T20 Theme:E3 Cause:T4
+E5	Hydroxylation:T23 Theme:T11 Site:T22
+M1	Negation E5

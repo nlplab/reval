@@ -1,0 +1,6 @@
+*	Equiv T2 T3
+*	Equiv T5 T6
+T13	Acetylation 1009 1023	monoacetylated
+T14	Acetylation 1116 1128	N-acetylated
+E1	Acetylation:T13 Theme:T10
+E2	Acetylation:T14 Theme:T11

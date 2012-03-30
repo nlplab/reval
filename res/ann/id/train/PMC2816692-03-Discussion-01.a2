@@ -1,0 +1,11 @@
+T26	Process 270 279	infection
+T27	Binding 973 980	binding
+T28	Binding 1227 1234	binding
+T29	Binding 1243 1250	binding
+T30	Binding 2219 2231	interactions
+E1	Process:T26 Participant:T2
+E2	Binding:T27 Theme1:T7 Theme2:T9
+E3	Binding:T28 Theme:T10
+E4	Binding:T29 Theme:T10
+E5	Binding:T30 Theme:T24
+M1	Negation E5

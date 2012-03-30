@@ -1,0 +1,15 @@
+T5	Entity 114 122	arginine
+T6	Methylation 123 134	methylation
+T7	Entity 634 642	arginine
+T8	Methylation 643 654	methylation
+T9	Entity 671 676	S 500
+T10	Phosphorylation 677 692	phosphorylation
+T11	Methylation 1035 1045	methylated
+T12	Catalysis 1035 1045	methylated
+E1	Methylation:T6 Theme:T1 Site:T5
+E2	Methylation:T8 Theme:T2 Site:T7
+E3	Phosphorylation:T10 Theme:T2 Site:T9
+E4	Methylation:T11 Theme:T2
+E5	Catalysis:T12 Theme:E4 Cause:T3
+E6	Methylation:T11 Theme:T2
+E7	Catalysis:T12 Theme:E6 Cause:T4

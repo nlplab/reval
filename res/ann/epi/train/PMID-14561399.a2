@@ -1,0 +1,11 @@
+*	Equiv T29 T30
+*	Equiv T4 T5
+T27	Acetylation 232 247	hypoacetylation
+T28	Methylation 274 285	methylation
+T29	Entity 289 297	lysine 9
+T30	Entity 313 315	K9
+E1	Acetylation:T27 Theme:T2
+M1	Negation E1
+E2	Acetylation:T27 Theme:T3
+M2	Negation E2
+E3	Methylation:T28 Theme:T4 Site:T29

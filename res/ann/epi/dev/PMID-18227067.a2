@@ -1,0 +1,6 @@
+T13	Ubiquitination 1398 1416	poly-ubiquitylated
+T14	Ubiquitination 1761 1779	poly-ubiquitylated
+E1	Ubiquitination:T13 Theme:T4
+E2	Ubiquitination:T13 Theme:T5
+E3	Ubiquitination:T14 Theme:T4
+E4	Ubiquitination:T14 Theme:T5

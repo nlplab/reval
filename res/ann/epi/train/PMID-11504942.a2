@@ -1,0 +1,8 @@
+*	Equiv T3 T4
+*	Equiv T6 T7
+T18	Entity 61 68	proline
+T19	Hydroxylation 69 82	hydroxylation
+T20	Hydroxylation 925 938	hydroxylation
+T21	Entity 942 949	Pro-564
+E1	Hydroxylation:T19 Theme:T1 Site:T18
+E2	Hydroxylation:T20 Theme:T16 Site:T21

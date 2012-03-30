@@ -1,0 +1,19 @@
+T34	Process 21 30	Infection
+T35	Positive_regulation 31 38	Induces
+T36	Process 150 159	infection
+T37	Process 221 229	infected
+T38	Process 279 287	infected
+T39	Process 329 338	infection
+T40	Process 385 393	infected
+T41	Process 481 489	infected
+T42	Process 1005 1014	infection
+E1	Process:T34 Participant:T1
+E2	Positive_regulation:T35 Theme:T4 Cause:E1
+E3	Positive_regulation:T35 Theme:T5 Cause:E1
+E4	Process:T36 Participant:T6
+E5	Process:T37 Participant:T9
+E6	Process:T38 Participant:T12
+E7	Process:T39 
+E8	Process:T40 Participant:T14
+E9	Process:T41 
+E10	Process:T42 Participant:T32

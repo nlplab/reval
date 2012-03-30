@@ -1,0 +1,25 @@
+T7	Acetylation 20 30	acetylated
+T8	Entity 43 49	lysine
+T9	Acetylation 163 173	acetylated
+T10	Entity 177 186	lysines 5
+T11	Entity 188 189	8
+T12	Entity 191 193	12
+T13	Entity 198 200	16
+T14	Acetylation 393 403	acetylated
+T15	Entity 407 416	lysines 5
+T16	Entity 420 421	8
+T17	Acetylation 626 636	acetylated
+T18	Entity 640 649	lysine 12
+T19	Acetylation 654 664	acetylated
+T20	Entity 668 677	lysine 16
+T21	Acetylation 891 901	acetylated
+E1	Acetylation:T7 Theme:T1 Site:T8
+E2	Acetylation:T9 Theme:T2 Site:T10
+E3	Acetylation:T9 Theme:T2 Site:T11
+E4	Acetylation:T9 Theme:T2 Site:T12
+E5	Acetylation:T9 Theme:T2 Site:T13
+E6	Acetylation:T14 Theme:T3 Site:T15
+E7	Acetylation:T14 Theme:T3 Site:T16
+E8	Acetylation:T17 Theme:T4 Site:T18
+E9	Acetylation:T19 Theme:T5 Site:T20
+E10	Acetylation:T21 Theme:T6

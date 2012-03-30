@@ -1,0 +1,4 @@
+*	Equiv T3 T4
+*	Equiv T9 T10
+T21	Ubiquitination 412 430	polyubiquitination
+E1	Ubiquitination:T21 Theme:T12

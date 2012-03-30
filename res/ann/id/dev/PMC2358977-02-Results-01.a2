@@ -1,0 +1,7 @@
+*	Equiv T13 T15
+*	Equiv T14 T16
+T51	Regulation 972 980	response
+T52	Transcription 2730 2743	cotranscribed
+E1	Regulation:T51 Theme:T21
+E2	Transcription:T52 Theme:T46
+E3	Transcription:T52 Theme:T47

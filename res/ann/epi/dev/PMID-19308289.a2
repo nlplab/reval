@@ -1,0 +1,10 @@
+*	Equiv T5 T6
+T32	Catalysis 564 573	dependent
+T33	Acetylation 582 593	acetylation
+T34	Catalysis 671 680	dependent
+T35	Entity 681 685	K120
+T36	Acetylation 686 697	acetylation
+E1	Catalysis:T32 Theme:E2 Cause:T13
+E2	Acetylation:T33 Theme:T14
+E3	Catalysis:T34 Theme:E4 Cause:T16
+E4	Acetylation:T36 Theme:T17 Site:T35

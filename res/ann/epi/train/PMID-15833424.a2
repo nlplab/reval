@@ -1,0 +1,5 @@
+T15	Glycosylation 541 558	hypoglycosylation
+T16	Glycosylation 882 900	hyperglycosylation
+E1	Glycosylation:T15 Theme:T7
+M1	Negation E1
+E2	Glycosylation:T16 Theme:T12

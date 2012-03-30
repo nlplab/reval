@@ -1,0 +1,25 @@
+T1	Protein 0 4	RopB
+T2	Protein 81 85	ropB
+T3	Organism 109 122	C57BL6/J mice
+T4	Organism 204 221	GAS strain 5628R+
+T5	Protein 247 251	RopB
+T6	Organism 302 306	5628
+T7	Protein 324 328	RopB
+T8	Organism 349 363	5628RDeltaSpeB
+T9	Protein 359 363	SpeB
+T10	Protein 389 393	RopB
+T11	Protein 406 410	SpeB
+T12	Organism 483 487	5628
+T13	Protein 526 530	SpeB
+T14	Organism 663 667	5448
+T15	Organism 692 698	5448R-
+T16	Protein 715 719	ropB
+T17	Organism 732 736	5628
+T18	Organism 851 854	GAS
+T19	Protein 895 899	RopB
+T20	Organism 901 905	5628
+T21	Organism 910 916	5448R-
+T22	Protein 1012 1016	RopB
+T23	Organism 1018 1024	5628R+
+T24	Organism 1029 1033	5448
+T25	Protein 1078 1082	RopB

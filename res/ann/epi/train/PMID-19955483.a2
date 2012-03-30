@@ -1,0 +1,4 @@
+*	Equiv T10 T11
+*	Equiv T12 T13
+T20	Phosphorylation 804 819	phosphorylation
+E1	Phosphorylation:T20 Theme:T4

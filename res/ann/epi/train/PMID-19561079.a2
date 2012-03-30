@@ -1,0 +1,6 @@
+T12	Phosphorylation 1149 1164	phosphorylation
+T13	Phosphorylation 1492 1507	phosphorylation
+T14	Phosphorylation 1651 1666	phosphorylation
+E1	Phosphorylation:T12 Theme:T4
+E2	Phosphorylation:T13 Theme:T10
+E3	Phosphorylation:T14 Theme:T11

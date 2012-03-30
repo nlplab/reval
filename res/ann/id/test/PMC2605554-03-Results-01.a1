@@ -1,0 +1,23 @@
+T1	Organism 47 51	5628
+T2	Protein 67 71	speB
+T3	Two-component-system 76 82	covR/S
+T4	Protein 76 80	covR
+T5	Protein 81 82	S
+T6	Protein 99 103	ropB
+T7	Organism 104 112	M1T1 GAS
+T8	Organism 130 134	5628
+T9	Protein 166 170	SpeB
+T10	Organism 300 304	5628
+T11	Protein 312 316	speB
+T12	Two-component-system 333 339	covR/S
+T13	Protein 333 337	covR
+T14	Protein 338 339	S
+T15	Protein 391 395	SpeB
+T16	Protein 491 495	luxS
+T17	Protein 497 501	rofA
+T18	Protein 503 507	ropA
+T19	Protein 512 516	ropB
+T20	Protein 577 581	ropB
+T21	Protein 608 612	RopB
+T22	Protein 690 694	RopB
+T23	Protein 743 747	SpeB

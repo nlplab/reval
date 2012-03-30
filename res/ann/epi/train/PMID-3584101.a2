@@ -1,0 +1,10 @@
+T9	Acetylation 87 102	hyperacetylated
+T10	Acetylation 608 612	tri-
+T11	Acetylation 617 632	tetraacetylated
+T12	Acetylation 763 773	acetylated
+T13	Acetylation 878 889	acetylation
+E1	Acetylation:T9 Theme:T1
+E2	Acetylation:T10 Theme:T5
+E3	Acetylation:T11 Theme:T5
+E4	Acetylation:T12 Theme:T7
+E5	Acetylation:T13 Theme:T8

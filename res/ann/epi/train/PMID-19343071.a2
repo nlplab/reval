@@ -1,0 +1,20 @@
+*	Equiv T7 T8
+T15	Acetylation 0 11	Acetylation
+T16	Catalysis 0 11	Acetylation
+T17	Phosphorylation 35 50	phosphorylation
+T18	Acetylation 579 589	acetylates
+T19	Catalysis 579 589	acetylates
+T20	Entity 604 619	lysine residues
+T21	Phosphorylation 707 722	phosphorylation
+T22	Catalysis 813 821	mediated
+T23	Acetylation 822 833	acetylation
+T24	Phosphorylation 852 867	phosphorylation
+E1	Acetylation:T15 Theme:T2
+E2	Catalysis:T16 Theme:E1 Cause:T1
+E3	Phosphorylation:T17 Theme:T2
+E4	Acetylation:T18 Theme:T10 Site:T20
+E5	Catalysis:T19 Theme:E4 Cause:T9
+E6	Phosphorylation:T21 Theme:T10
+E7	Catalysis:T22 Theme:E8 Cause:T12
+E8	Acetylation:T23 Theme:T13
+E9	Phosphorylation:T24 Theme:T13

@@ -1,0 +1,57 @@
+T1	Two-component-system 32 41	TctE/TctD
+T2	Protein 32 36	TctE
+T3	Protein 37 41	TctD
+T4	Organism 68 82	P. luminescens
+T5	Organism 104 121	Y. enterocolitica
+T6	Regulon-operon 215 221	tctCBA
+T7	Protein 215 219	tctC
+T8	Protein 219 220	B
+T9	Protein 220 221	A
+T10	Chemical 242 260	tricarboxylic acid
+T11	Protein 278 282	TctC
+T12	Protein 282 283	B
+T13	Protein 283 284	A
+T14	Chemical 344 351	citrate
+T15	Chemical 353 366	fluorocitrate
+T16	Chemical 368 378	isocitrate
+T17	Chemical 383 397	cis-acconitate
+T18	Chemical 437 440	Na+
+T19	Chemical 451 458	citrate
+T20	Protein 469 473	CitS
+T21	Organism 477 488	S. enterica
+T22	Organism 500 517	Y. enterocolitica
+T23	Protein 526 532	YE2507
+T24	Two-component-system 569 578	CitA/CitB
+T25	Protein 569 573	CitA
+T26	Protein 574 578	CitB
+T27	Chemical 606 613	citrate
+T28	Chemical 680 687	citrate
+T29	Organism 703 717	P. luminescens
+T30	Organism 722 739	Y. enterocolitica
+T31	Organism 747 764	Y. enterocolitica
+T32	Chemical 774 781	citrate
+T33	Chemical 854 861	citrate
+T34	Chemical 872 891	tricarboxylic acids
+T35	Chemical 895 899	TctC
+T36	Chemical 899 900	B
+T37	Chemical 900 901	A
+T38	Organism 913 927	P. luminescens
+T39	Chemical 971 978	citrate
+T40	Chemical 1027 1045	tricarboxylic acid
+T41	Protein 1143 1147	sucA
+T42	Chemical 1170 1189	alpha-ketoglutarate
+T43	Protein 1203 1207	acnA
+T44	Organism 1264 1275	V. cholerae
+T45	Chemical 1324 1327	TCA
+T46	Organism 1355 1369	S. typhimurium
+T47	Protein 1417 1421	sucA
+T48	Organism 1425 1439	P. luminescens
+T49	Organism 1459 1478	Galleria mellonella
+T50	Chemical 1747 1766	tricarboxylic acids
+T51	Protein 1784 1788	TctE
+T52	Chemical 1830 1849	tricarboxylic acids
+T53	Organism 1878 1895	Y. enterocolitica
+T54	Organism 1900 1909	Y. pestis
+T55	Organism 2055 2072	Y. enterocolitica
+T56	Organism 2077 2091	P. luminescens
+T57	Chemical 2145 2160	tricarboxylates

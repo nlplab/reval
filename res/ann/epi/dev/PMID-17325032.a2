@@ -1,0 +1,7 @@
+*	Equiv T2 T3
+*	Equiv T5 T6
+*	Equiv T14 T15
+T20	Phosphorylation 27 41	phosphorylates
+T21	Phosphorylation 1121 1136	phosphorylation
+E1	Phosphorylation:T20 Theme:T1
+E2	Phosphorylation:T21 Theme:T18

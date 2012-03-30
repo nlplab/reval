@@ -1,0 +1,17 @@
+T5	Acetylation 24 34	acetylated
+T6	Acetylation 147 157	acetylated
+T7	Acetylation 558 569	acetylation
+T8	Acetylation 661 672	acetylation
+T9	Entity 695 698	K16
+T10	Entity 711 714	K12
+T11	Entity 724 726	K8
+T12	Entity 734 736	K5
+T13	Acetylation 760 771	acetylation
+E1	Acetylation:T5 Theme:T1
+E2	Acetylation:T6 Theme:T3
+E3	Acetylation:T7 Theme:T4
+E4	Acetylation:T8 Theme:T4 Site:T9
+E5	Acetylation:T8 Theme:T4 Site:T10
+E6	Acetylation:T8 Theme:T4 Site:T11
+E7	Acetylation:T8 Theme:T4 Site:T12
+E8	Acetylation:T13 Theme:T4

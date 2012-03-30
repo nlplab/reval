@@ -1,0 +1,7 @@
+*	Equiv T2 T3
+T12	Glycosylation 1397 1412	N-glycosylation
+T13	Deglycosylation 1556 1571	deglycosylation
+T14	Catalysis 1556 1571	deglycosylation
+E1	Glycosylation:T12 Theme:T6
+E2	Deglycosylation:T13 Theme:T6
+E3	Catalysis:T14 Theme:E2 Cause:T11

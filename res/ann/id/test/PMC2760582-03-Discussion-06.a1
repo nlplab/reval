@@ -1,0 +1,38 @@
+T1	Organism 98 110	Photorhabdus
+T2	Organism 115 126	Xenorhabdus
+T3	Chemical 239 242	Ion
+T4	Organism 273 285	P. temperata
+T5	Organism 290 306	X. koppenhoeferi
+T6	Organism 336 348	P. temperata
+T7	Protein 350 354	pchC
+T8	Chemical 393 402	pyochelin
+T9	Chemical 474 478	iron
+T10	Chemical 514 518	zinc
+T11	Protein 556 560	znuA
+T12	Organism 581 597	X. koppenhoeferi
+T13	Chemical 627 631	zinc
+T14	Protein 684 688	glnD
+T15	Organism 705 717	P. temperata
+T16	Protein 828 832	artM
+T17	Organism 909 921	P. temperata
+T18	Organism 934 950	X. koppenhoeferi
+T19	Protein 1064 1068	artM
+T20	Protein 1219 1223	artM
+T21	Organism 1227 1239	P. temperata
+T22	Chemical 1377 1401	phosphatidylethanolamine
+T23	Organism 1505 1519	P. luminescens
+T24	Protein 1587 1591	cysK
+T25	Organism 1617 1629	P. temperata
+T26	Organism 1715 1727	P. temperata
+T27	Organism 1812 1828	X. koppenhoeferi
+T28	Protein 1855 1859	malF
+T29	Chemical 1897 1904	maltose
+T30	Chemical 1909 1916	lactose
+T31	Organism 1943 1955	P. temperata
+T32	Organism 1964 1980	X. koppenhoeferi
+T33	Protein 1989 1993	tolB
+T34	Protein 2054 2073	periplasmic protein
+T35	Protein 2075 2079	TolB
+T36	Organism 2121 2128	E. coli
+T37	Organism 2339 2351	P. temperata
+T38	Protein 2352 2356	tolB

@@ -1,0 +1,51 @@
+T1	Organism 102 114	P. temperata
+T2	Organism 119 135	X. koppenhoeferi
+T3	Protein 209 213	phoP
+T4	Protein 218 222	cpxR
+T5	Organism 245 257	P. temperata
+T6	Two-component-system 322 327	PhoPQ
+T7	Protein 322 326	PhoP
+T8	Protein 326 327	Q
+T9	Two-component-system 332 337	CpxRA
+T10	Protein 332 336	CpxR
+T11	Protein 336 337	A
+T12	Protein 361 365	PhoP
+T13	Protein 370 374	CpxR
+T14	Chemical 543 547	Mg2+
+T15	Protein 556 560	phoP
+T16	Protein 593 597	PhoP
+T17	Protein 602 606	PhoQ
+T18	Protein 620 624	phoQ
+T19	Protein 666 670	phoP
+T20	Chemical 762 765	LPS
+T21	Protein 838 842	phoP
+T22	Organism 951 965	P. luminescens
+T23	Organism 979 1000	Spodoptera littoralis
+T24	Protein 1047 1051	CpxR
+T25	Protein 1176 1180	CpxR
+T26	Protein 1326 1330	CpxR
+T27	Two-component-system 1436 1445	phoP/cpxR
+T28	Protein 1436 1440	phoP
+T29	Protein 1441 1445	cpxR
+T30	Protein 1584 1588	gshB
+T31	Protein 1590 1593	gor
+T32	Protein 1595 1599	msrA
+T33	Protein 1604 1608	surA
+T34	Protein 1627 1630	skp
+T35	Protein 1632 1636	dacC
+T36	Protein 1641 1645	ompF
+T37	Protein 1679 1683	sctL
+T38	Organism 1723 1735	P. temperata
+T39	Protein 1737 1741	lysR
+T40	Organism 1840 1850	R. majalis
+T41	Protein 1868 1872	yijC
+T42	Protein 1877 1881	rseA
+T43	Organism 1937 1953	X. koppenhoeferi
+T44	Protein 2014 2018	yijC
+T45	Protein 2092 2096	fabB
+T46	Protein 2275 2279	tilS
+T47	Organism 2340 2356	X. koppenhoeferi
+T48	Organism 2582 2596	P. luminescens
+T49	Organism 2608 2621	G. mellonella
+T50	Organism 2727 2737	R. majalis
+T51	Organism 2742 2755	G. mellonella

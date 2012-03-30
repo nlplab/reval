@@ -1,0 +1,13 @@
+*	Equiv T2 T3
+T12	Hydroxylation 89 102	hydroxylation
+T13	Entity 106 112	lysine
+T14	Entity 1182 1194	residues 930
+T15	Entity 1213 1216	933
+T16	Hydroxylation 1273 1285	hydroxylated
+T17	Hydroxylation 1706 1723	underhydroxylated
+E1	Hydroxylation:T12 Theme:T1 Site:T13
+E2	Hydroxylation:T16 Theme:T6 Site:T14
+M1	Negation E2
+E3	Hydroxylation:T16 Theme:T7 Site:T15
+M2	Negation E3
+E4	Hydroxylation:T17 Theme:T9

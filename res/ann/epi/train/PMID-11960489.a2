@@ -1,0 +1,6 @@
+T11	Acetylation 150 166	hyperacetylation
+T12	Acetylation 919 935	hyperacetylation
+T13	Acetylation 966 977	acetylation
+E1	Acetylation:T11 Theme:T2
+E2	Acetylation:T12 Theme:T8
+E3	Acetylation:T13 Theme:T9

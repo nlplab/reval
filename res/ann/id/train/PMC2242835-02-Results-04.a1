@@ -1,0 +1,17 @@
+T1	Organism 21 26	H37Ra
+T2	Organism 53 58	Mouse
+T3	Organism 120 125	H37Ra
+T4	Organism 187 231	severe combined immuno-deficient (SCID) mice
+T5	Organism 252 257	H37Ra
+T6	Protein 267 271	PhoP
+T7	Organism 321 332	H37Ra::phoP
+T8	Protein 328 332	phoP
+T9	Organism 357 362	H37Ra
+T10	Organism 518 523	H37Ra
+T11	Protein 546 551	fadE5
+T12	Protein 566 570	rpsL
+T13	Protein 651 655	phoP
+T14	Organism 725 730	H37Rv
+T15	Organism 940 945	mouse
+T16	Protein 992 996	phoP
+T17	Organism 1086 1091	H37Ra

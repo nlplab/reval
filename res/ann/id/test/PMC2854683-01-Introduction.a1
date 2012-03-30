@@ -1,0 +1,76 @@
+T1	Organism 14 34	Group A streptococci
+T2	Organism 36 39	GAS
+T3	Organism 45 50	human
+T4	Organism 163 166	GAS
+T5	Organism 228 231	GAS
+T6	Organism 360 363	GAS
+T7	Organism 401 405	M1T1
+T8	Organism 605 613	M1T1 GAS
+T9	Organism 752 756	M1T1
+T10	Organism 942 944	M1
+T11	Organism 1042 1050	M1T1 GAS
+T12	Protein 1071 1075	SpeB
+T13	Protein 1078 1082	SpeA
+T14	Protein 1084 1088	Sda1
+T15	Protein 1134 1138	SpeB
+T16	Protein 1140 1144	SpeA
+T17	Protein 1146 1150	Sda1
+T18	Two-component-system 1426 1431	covRS
+T19	Protein 1426 1430	covR
+T20	Protein 1430 1431	S
+T21	Two-component-system 1458 1463	CovRS
+T22	Protein 1458 1462	CovR
+T23	Protein 1462 1463	S
+T24	Protein 1511 1515	CovS
+T25	Protein 1558 1562	CovR
+T26	Organism 1617 1638	group A streptococcal
+T27	Organism 1640 1643	GAS
+T28	Regulon-operon 1706 1712	hasABC
+T29	Protein 1706 1710	hasA
+T30	Protein 1710 1711	B
+T31	Protein 1711 1712	C
+T32	Regulon-operon 1719 1740	streptolysin S operon
+T33	Regulon-operon 1742 1745	SLS
+T34	Regulon-operon 1749 1755	sagA-H
+T35	Protein 1749 1753	sagA
+T36	Protein 1754 1755	H
+T37	Protein 1803 1807	CovR
+T38	Chemical 1915 1931	acetyl phosphate
+T39	Protein 1988 1992	CovS
+T40	Protein 2010 2014	CovR
+T41	Protein 2079 2083	covS
+T42	Protein 2112 2116	CovR
+T43	Two-component-system 2232 2237	CovRS
+T44	Protein 2232 2236	CovR
+T45	Protein 2236 2237	S
+T46	Protein 2419 2423	CovS
+T47	Protein 2481 2485	CovR
+T48	Protein 2582 2586	CovR
+T49	Protein 2659 2663	CovS
+T50	Protein 2679 2683	CovR
+T51	Protein 2742 2746	CovS
+T52	Protein 2767 2771	covS
+T53	Protein 2878 2882	CovR
+T54	Protein 2990 2994	covS
+T55	Organism 3227 3230	GAS
+T56	Protein 3250 3254	SpeB
+T57	Protein 3482 3486	SpeB
+T58	Protein 3620 3624	Sda1
+T59	Organism 3780 3785	human
+T60	Protein 3786 3797	plasminogen
+T61	Protein 3935 3939	covS
+T62	Organism 4002 4006	M1T1
+T63	Regulon-operon 4115 4127	CovR regulon
+T64	Protein 4115 4119	CovR
+T65	Two-component-system 4222 4227	CovRS
+T66	Protein 4222 4226	CovR
+T67	Protein 4226 4227	S
+T68	Protein 4265 4269	covS
+T69	Organism 4413 4415	AP
+T70	Organism 4654 4658	M1T1
+T71	Organism 4804 4806	AP
+T72	Organism 4826 4830	M1T1
+T73	Organism 5012 5023	S. pyogenes
+T74	Protein 5133 5137	SpeB
+T75	Protein 5140 5144	SpeA
+T76	Protein 5146 5150	Sda1

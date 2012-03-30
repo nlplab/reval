@@ -1,0 +1,47 @@
+T1	Organism 131 133	AP
+T2	Organism 791 793	AP
+T3	Organism 945 947	AP
+T4	Protein 1181 1185	covS
+T5	Protein 1217 1226	M protein
+T6	Protein 1228 1242	streptolysin O
+T7	Protein 1248 1296	nicotinamide adenine dinucleotide glycohydrolase
+T8	Protein 1298 1303	NADGH
+T9	Chemical 1851 1857	oxygen
+T10	Organism 2135 2137	AP
+T11	Protein 2200 2204	SpeB
+T12	Protein 2206 2210	CAMP
+T13	Protein 2216 2221	EndoS
+T14	Protein 2245 2249	SpeA
+T15	Protein 2251 2254	SIC
+T16	Organism 2506 2508	AP
+T17	Regulon-operon 2628 2631	SLS
+T18	Regulon-operon 2636 2647	Trx operons
+T19	Organism 2715 2717	AP
+T20	Organism 2809 2811	AP
+T21	Protein 2880 2884	RofA
+T22	Protein 2885 2888	Nra
+T23	Organism 3361 3363	AP
+T24	Regulon-operon 3914 3925	SpeB operon
+T25	Protein 3914 3918	SpeB
+T26	Regulon-operon 3980 3991	SpeB operon
+T27	Protein 3980 3984	SpeB
+T28	Chemical 4654 4665	L-ascorbate
+T29	Protein 4679 4686	SPy0175
+T30	Protein 4687 4694	SPy0179
+T31	Protein 4722 4729	SPy1186
+T32	Protein 4730 4737	SPy1191
+T33	Protein 4767 4774	SPy1582
+T34	Protein 4775 4782	SPy1596
+T35	Protein 4822 4826	CovR
+T36	Protein 4870 4874	TrxR
+T37	Protein 4902 4905	Mga
+T38	Protein 4907 4914	SPy2010
+T39	Protein 4915 4922	SPy2025
+T40	Protein 4925 4929	SpeB
+T41	Protein 4931 4938	SPy2037
+T42	Protein 4939 4946	SPy2042
+T43	Protein 4972 4979	SPy2200
+T44	Protein 4980 4987	SPy2202
+T45	Regulon-operon 5193 5203	SLS operon
+T46	Protein 5284 5288	covS
+T47	Organism 5415 5417	AP

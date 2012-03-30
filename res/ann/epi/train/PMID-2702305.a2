@@ -1,0 +1,15 @@
+T13	DNA_methylation 895 906	methylation
+T14	DNA_methylation 1080 1094	hypomethylated
+T15	DNA_methylation 1148 1162	hypomethylated
+T16	DNA_methylation 1249 1260	methylation
+E1	DNA_methylation:T13 Theme:T6
+M1	Speculation E1
+E2	DNA_methylation:T13 Theme:T7
+M2	Speculation E2
+E3	DNA_methylation:T13 Theme:T8
+M3	Speculation E3
+E4	DNA_methylation:T14 Theme:T9
+M4	Negation E4
+E5	DNA_methylation:T15 Theme:T10
+M5	Negation E5
+E6	DNA_methylation:T16 Theme:T11

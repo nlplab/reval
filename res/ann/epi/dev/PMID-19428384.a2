@@ -1,0 +1,13 @@
+T8	Ubiquitination 31 49	monoubiquitination
+T9	Phosphorylation 56 71	phosphorylation
+T10	Phosphorylation 83 98	phosphorylation
+T11	Ubiquitination 1476 1494	monoubiquitination
+T12	Phosphorylation 1568 1583	phosphorylation
+T13	Entity 1587 1594	Ser1524
+T14	Phosphorylation 1749 1768	hyperphosphorylated
+E1	Ubiquitination:T8 Theme:T1
+E2	Phosphorylation:T9 Theme:T2
+E3	Phosphorylation:T10 Theme:T3
+E4	Ubiquitination:T11 Theme:T4
+E5	Phosphorylation:T12 Theme:T5 Site:T13
+E6	Phosphorylation:T14 Theme:T7

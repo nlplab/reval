@@ -1,0 +1,7 @@
+T5	Methylation 60 71	methylation
+T6	Methylation 836 847	methylation
+T7	Catalysis 836 847	methylation
+E1	Methylation:T5 Theme:T1
+E2	Methylation:T6 Theme:T2
+E3	Catalysis:T7 Theme:E2 Cause:T3
+E4	Catalysis:T7 Theme:E2 Cause:T4

@@ -1,0 +1,18 @@
+T5	Glycosylation 29 42	glycosylation
+T6	Entity 92 107	oligosaccharide
+T7	Glycosylation 108 120	modification
+T8	Entity 219 240	N-glycosylation sites
+T9	Glycosylation 260 268	occupied
+T10	Glycosylation 274 288	unglycosylated
+T11	Deglycosylation 437 452	Deglycosylation
+T12	Deglycosylation 675 690	deglycosylation
+T13	Glycosylation 766 775	occupancy
+T14	Entity 792 810	glycosylation site
+E1	Glycosylation:T5 Theme:T1
+E2	Glycosylation:T7 Theme:T2 Sidechain:T6
+E3	Glycosylation:T9 Theme:T2 Site:T8
+E4	Glycosylation:T10 Theme:T2
+M1	Negation E4
+E5	Deglycosylation:T11 Theme:T3
+E6	Deglycosylation:T12 Theme:T3
+E7	Glycosylation:T13 Theme:T4 Site:T14

@@ -1,0 +1,14 @@
+T109	Process 32 41	virulence
+T110	Process 142 150	infected
+T111	Process 611 620	virulence
+T112	Positive_regulation 3260 3267	induced
+T113	Process 3418 3427	infection
+T114	Positive_regulation 3498 3510	up-regulated
+E1	Process:T109 
+E2	Process:T110 
+E3	Process:T111 
+E4	Positive_regulation:T112 Theme:T88
+E5	Positive_regulation:T112 Theme:T92
+E6	Process:T113 Participant:T95
+E7	Process:T113 Participant:T96
+E8	Positive_regulation:T114 Theme:T97

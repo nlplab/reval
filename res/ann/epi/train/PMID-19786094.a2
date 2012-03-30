@@ -1,0 +1,26 @@
+T33	Catalysis 261 269	mediated
+T34	Phosphorylation 270 285	phosphorylation
+T35	Phosphorylation 305 320	phosphorylating
+T36	Phosphorylation 415 429	phosphorylates
+T37	Catalysis 415 429	phosphorylates
+T38	Catalysis 542 549	induced
+T39	Phosphorylation 556 571	phosphorylation
+T40	Phosphorylation 797 812	phosphorylation
+T41	Catalysis 797 812	phosphorylation
+T42	Ubiquitination 848 862	ubiquitination
+T43	Dephosphorylation 998 1016	de-phosphorylation
+E1	Catalysis:T33 Theme:E5 Cause:T10
+E2	Catalysis:T33 Theme:E5 Cause:T11
+E3	Catalysis:T33 Theme:E6 Cause:T10
+E4	Catalysis:T33 Theme:E6 Cause:T11
+E5	Phosphorylation:T34 Theme:T8
+E6	Phosphorylation:T34 Theme:T9
+E7	Phosphorylation:T35 Theme:T12
+E8	Phosphorylation:T36 Theme:T15
+E9	Catalysis:T37 Theme:E8 Cause:T14
+E10	Catalysis:T38 Theme:E11 Cause:T18
+E11	Phosphorylation:T39 Theme:T19
+E12	Phosphorylation:T40 Theme:T22
+E13	Catalysis:T41 Theme:E12 Cause:T23
+E14	Ubiquitination:T42 Theme:T24
+E15	Dephosphorylation:T43 Theme:T25

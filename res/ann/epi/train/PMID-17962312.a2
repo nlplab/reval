@@ -1,0 +1,24 @@
+T24	Methylation 0 15	Automethylation
+T25	Catalysis 0 15	Automethylation
+T26	Methylation 92 103	Methylation
+T27	Entity 107 122	lysine residues
+T28	Entity 184 192	Lysine 9
+T29	Methylation 193 204	methylation
+T30	Methylation 499 514	automethylation
+T31	Catalysis 499 514	automethylation
+T32	Entity 518 530	K239 residue
+T33	Methylation 532 547	Automethylation
+T34	Catalysis 532 547	Automethylation
+T35	Methylation 951 966	Automethylation
+T36	Catalysis 951 966	Automethylation
+E1	Methylation:T24 Theme:T1
+E2	Catalysis:T25 Theme:E1 Cause:T1
+E3	Methylation:T26 Theme:T2 Site:T27
+E4	Methylation:T29 Theme:T3 Site:T28
+E5	Methylation:T30 Theme:T6 Site:T32
+E6	Catalysis:T31 Theme:E5 Cause:T6
+E7	Methylation:T33 Theme:T8
+M1	Negation E7
+E8	Catalysis:T34 Theme:E7 Cause:T8
+E9	Catalysis:T36 Theme:E10 Cause:T18
+E10	Methylation:T35 Theme:T18

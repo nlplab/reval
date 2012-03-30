@@ -1,0 +1,56 @@
+T1	Organism 9 23	P. entomophila
+T2	Organism 191 205	P. entomophila
+T3	Organism 323 333	Drosophila
+T4	Organism 371 385	P. entomophila
+T5	Organism 444 454	Drosophila
+T6	Organism 746 760	P. entomophila
+T7	Protein 779 782	Tn5
+T8	Protein 801 805	gacA
+T9	Organism 842 856	P. entomophila
+T10	Two-component-system 931 940	GacS/GacA
+T11	Protein 931 935	GacS
+T12	Protein 936 940	GacA
+T13	Organism 1116 1130	P. entomophila
+T14	Regulon-operon 1354 1357	Apr
+T15	Organism 1373 1384	Pseudomonas
+T16	Protein 1391 1394	Prt
+T17	Organism 1410 1417	Erwinia
+T18	Organism 1427 1439	Photorhabdus
+T19	Protein 1450 1461	serralysins
+T20	Organism 1467 1475	Serratia
+T21	Chemical 1532 1536	zinc
+T22	Protein 1639 1643	AprA
+T23	Organism 1669 1683	P. entomophila
+T24	Protein 1802 1806	AprA
+T25	Protein 1970 1974	AprA
+T26	Organism 2056 2070	P. entomophila
+T27	Organism 2104 2115	gacA mutant
+T28	Protein 2104 2108	gacA
+T29	Protein 2246 2250	AprA
+T30	Organism 2275 2289	P. fluorescens
+T31	Protein 2328 2332	PrtR
+T32	Protein 2375 2379	PrtI
+T33	Protein 2480 2484	aprX
+T34	Protein 2507 2510	Tn5
+T35	Protein 2529 2533	prtR
+T36	Organism 2635 2649	P. entomophila
+T37	Protein 2683 2687	prtR
+T38	Protein 2709 2713	aprA
+T39	Organism 2781 2793	prtR mutants
+T40	Protein 2781 2785	prtR
+T41	Organism 2815 2827	prtR mutants
+T42	Protein 2815 2819	prtR
+T43	Organism 2829 2833	CL25
+T44	Organism 2838 2841	CU1
+T45	Protein 2946 2950	AprA
+T46	Organism 3054 3065	gacA mutant
+T47	Protein 3054 3058	gacA
+T48	Organism 3116 3128	prtR mutants
+T49	Protein 3116 3120	prtR
+T50	Protein 3207 3211	PrtR
+T51	Organism 3233 3247	P. entomophila
+T52	Protein 3297 3301	prtR
+T53	Protein 3396 3400	AprA
+T54	Organism 3483 3497	P. entomophila
+T55	Protein 3498 3502	gacA
+T56	Protein 3507 3511	prtR

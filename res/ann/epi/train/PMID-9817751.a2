@@ -1,0 +1,6 @@
+*	Equiv T17 T18
+T24	Glycosylation 766 778	glycosylated
+T25	Glycosylation 875 889	unglycosylated
+E1	Glycosylation:T24 Theme:T15
+E2	Glycosylation:T25 Theme:T17
+M1	Negation E2

@@ -1,0 +1,19 @@
+T1	Protein 47 51	SrcA
+T2	Organism 99 109	Salmonella
+T3	Organism 153 157	Host
+T4	Organism 208 212	host
+T5	Organism 339 343	host
+T6	Organism 568 572	host
+T7	Organism 583 622	Salmonella enterica serovar Typhimurium
+T8	Organism 990 994	mice
+T9	Protein 1025 1029	SrcA
+T10	Protein 1087 1091	CesT
+T11	Organism 1124 1131	E. coli
+T12	Chemical 1177 1185	carboxyl
+T13	Protein 1290 1294	SrcA
+T14	Protein 1327 1331	SseL
+T15	Protein 1336 1341	PipB2
+T16	Protein 1379 1383	SsaN
+T17	Organism 1474 1478	mice
+T18	Protein 1492 1496	SrcA
+T19	Organism 1532 1536	host

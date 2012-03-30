@@ -1,0 +1,19 @@
+*	Equiv T3 T4
+T13	Ubiquitination 52 66	ubiquitination
+T14	Entity 71 81	asparagine
+T15	Hydroxylation 82 95	hydroxylation
+T16	Ubiquitination 550 564	ubiquitination
+T17	Hydroxylation 644 657	hydroxylating
+T18	Catalysis 644 657	hydroxylating
+T19	Entity 662 686	asparagine residue (803)
+T20	Entity 808 814	prolyl
+T21	Entity 823 834	asparaginyl
+T22	Hydroxylation 835 847	hydroxylated
+E1	Ubiquitination:T13 Theme:T1
+E2	Hydroxylation:T15 Theme:T1 Site:T14
+E3	Ubiquitination:T16 Theme:T6
+E4	Hydroxylation:T17 Theme:T8 Site:T19
+E5	Catalysis:T18 Theme:E4 Cause:T7
+E6	Hydroxylation:T22 Theme:T9 Site:T20
+E7	Hydroxylation:T22 Theme:T9 Site:T21
+M1	Negation E7

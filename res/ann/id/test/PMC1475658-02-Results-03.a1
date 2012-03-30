@@ -1,0 +1,38 @@
+T1	Organism 4 15	aprA Mutant
+T2	Protein 4 8	aprA
+T3	Organism 138 152	P. entomophila
+T4	Organism 432 446	P. entomophila
+T5	Protein 607 611	aprA
+T6	Organism 607 611	aprA
+T7	Organism 616 628	prtR mutants
+T8	Protein 616 620	prtR
+T9	Organism 652 663	gacA mutant
+T10	Protein 652 656	gacA
+T11	Protein 764 774	Diptericin
+T12	Organism 824 838	P. entomophila
+T13	Protein 921 931	Diptericin
+T14	Protein 1001 1005	aprA
+T15	Organism 1001 1005	aprA
+T16	Organism 1010 1022	prtR mutants
+T17	Protein 1010 1014	prtR
+T18	Organism 1074 1085	gacA mutant
+T19	Protein 1074 1078	gacA
+T20	Protein 1122 1147	green fluorescent protein
+T21	Protein 1149 1152	GFP
+T22	Protein 1197 1207	Diptericin
+T23	Protein 1208 1211	GFP
+T24	Protein 1241 1245	prtR
+T25	Organism 1241 1245	prtR
+T26	Organism 1250 1262	aprA mutants
+T27	Protein 1250 1254	aprA
+T28	Organism 1300 1312	gacA mutants
+T29	Protein 1300 1304	gacA
+T30	Protein 1396 1400	AprA
+T31	Organism 1432 1446	P. entomophila
+T32	Protein 1555 1559	gacA
+T33	Protein 1564 1568	prtR
+T34	Organism 1597 1611	P. entomophila
+T35	Two-component-system 1816 1825	GacS/GacA
+T36	Protein 1816 1820	GacS
+T37	Protein 1821 1825	GacA
+T38	Organism 1895 1909	P. entomophila

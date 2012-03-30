@@ -1,0 +1,11 @@
+T8	Acetylation 22 33	acetylation
+T9	Acetylation 83 94	acetylation
+T10	Acetylation 221 232	acetylation
+T11	Entity 491 495	tail
+T12	Acetylation 496 507	acetylation
+T13	Acetylation 721 732	acetylation
+E1	Acetylation:T8 Theme:T1
+E2	Acetylation:T9 Theme:T2
+E3	Acetylation:T10 Theme:T3
+E4	Acetylation:T12 Theme:T5 Site:T11
+E5	Acetylation:T13 Theme:T6

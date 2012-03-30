@@ -1,0 +1,21 @@
+T1	Two-component-system 125 138	Sak188/Sak189
+T2	Protein 125 131	Sak188
+T3	Protein 132 138	Sak189
+T4	Organism 142 155	S. agalactiae
+T5	Protein 161 167	sak188
+T6	Protein 172 178	sak189
+T7	Protein 265 271	sak188
+T8	Protein 276 282	sak189
+T9	Protein 496 502	sak188
+T10	Protein 513 519	sak189
+T11	Protein 539 544	EcoRI
+T12	Protein 560 565	EcoRI
+T13	Organism 706 719	S. agalactiae
+T14	Chemical 850 862	erythromycin
+T15	Protein 1121 1127	sak189
+T16	Organism 1154 1188	sak189/sak188 double mutant strain
+T17	Protein 1154 1160	sak189
+T18	Protein 1161 1167	sak188
+T19	Protein 1238 1244	sak188
+T20	Organism 1253 1273	sak188 mutant strain
+T21	Protein 1253 1259	sak188

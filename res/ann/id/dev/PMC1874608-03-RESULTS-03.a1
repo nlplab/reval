@@ -1,0 +1,82 @@
+T1	Protein 0 3	Mlc
+T2	Protein 57 61	hilE
+T3	Protein 96 100	hilE
+T4	Protein 128 131	Mlc
+T5	Protein 168 172	HilE
+T6	Organism 233 243	Salmonella
+T7	Protein 276 280	hilA
+T8	Protein 327 331	HilD
+T9	Protein 356 359	Mlc
+T10	Protein 363 367	hilE
+T11	Regulon-operon 410 420	hilE-lacZY
+T12	Protein 410 414	hilE
+T13	Protein 415 419	lacZ
+T14	Protein 419 420	Y
+T15	Protein 472 476	hilE
+T16	Organism 621 634	SL1344-pMAB69
+T17	Protein 674 692	beta-galactosidase
+T18	Organism 702 715	SR1304-pMAB69
+T19	Protein 755 773	beta-galactosidase
+T20	Protein 788 792	hilE
+T21	Organism 811 821	mlc mutant
+T22	Protein 811 814	mlc
+T23	Protein 888 892	hilE
+T24	Protein 949 953	hilE
+T25	Organism 982 988	SR1304
+T26	Protein 1045 1048	Mlc
+T27	Protein 1084 1088	hilE
+T28	Protein 1102 1106	HilE
+T29	Protein 1152 1155	Mlc
+T30	Protein 1219 1223	hilE
+T31	Organism 1228 1243	hilE/mlc mutant
+T32	Protein 1228 1232	hilE
+T33	Protein 1233 1236	mlc
+T34	Organism 1255 1265	Salmonella
+T35	Protein 1343 1346	mlc
+T36	Protein 1398 1402	hilE
+T37	Organism 1438 1460	hilE/mlc double mutant
+T38	Protein 1438 1442	hilE
+T39	Protein 1443 1446	mlc
+T40	Organism 1518 1529	hilE mutant
+T41	Protein 1518 1522	hilE
+T42	Protein 1581 1584	mlc
+T43	Protein 1645 1649	HilE
+T44	Protein 1679 1683	hilE
+T45	Protein 1688 1691	Mlc
+T46	Protein 1732 1736	hilD
+T47	Protein 1758 1762	hilD
+T48	Organism 1793 1803	mlc mutant
+T49	Protein 1793 1796	mlc
+T50	Protein 1865 1869	hilE
+T51	Organism 1865 1869	hilE
+T52	Organism 1874 1889	hilE/mlc mutant
+T53	Protein 1874 1878	hilE
+T54	Protein 1879 1882	mlc
+T55	Protein 1948 1952	HilD
+T56	Protein 1986 1990	hilD
+T57	Regulon-operon 2019 2022	lac
+T58	Protein 2056 2060	hilA
+T59	Protein 2088 2092	invF
+T60	Protein 2132 2136	hilE
+T61	Protein 2140 2143	mlc
+T62	Protein 2238 2242	HilD
+T63	Protein 2274 2278	hilA
+T64	Protein 2312 2316	HilA
+T65	Regulon-operon 2327 2332	invFA
+T66	Protein 2327 2331	invF
+T67	Protein 2331 2332	A
+T68	Two-component-system 2373 2379	HilC/D
+T69	Protein 2373 2377	HilC
+T70	Protein 2378 2379	D
+T71	Regulon-operon 2390 2395	invFD
+T72	Protein 2390 2394	invF
+T73	Protein 2394 2395	D
+T74	Protein 2446 2449	mlc
+T75	Protein 2543 2547	hilE
+T76	Protein 2577 2581	hilD
+T77	Organism 2600 2610	mlc mutant
+T78	Protein 2600 2603	mlc
+T79	Protein 2668 2672	HilE
+T80	Organism 2680 2690	mlc mutant
+T81	Protein 2680 2683	mlc
+T82	Protein 2719 2723	HilD

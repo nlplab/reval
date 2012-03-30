@@ -1,0 +1,3 @@
+T12	Entity 722 725	K27
+T13	Methylation 726 740	trimethylation
+E1	Methylation:T13 Theme:T6 Site:T12

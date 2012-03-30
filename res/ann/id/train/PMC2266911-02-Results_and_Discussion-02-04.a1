@@ -1,0 +1,113 @@
+T1	Organism 29 46	Y. enterocolitica
+T2	Regulon-operon 162 165	ysa
+T3	Regulon-operon 174 185	YE3533-3561
+T4	Protein 174 180	YE3533
+T5	Protein 181 185	3561
+T6	Organism 200 214	P. luminescens
+T7	Organism 294 311	Y. enterocolitica
+T8	Organism 463 472	Y. pestis
+T9	Organism 678 699	Y. pseudotuberculosis
+T10	Protein 775 779	YplA
+T11	Organism 819 836	Y. enterocolitica
+T12	Organism 857 871	P. luminescens
+T13	Organism 877 891	P. luminescens
+T14	Organism 959 976	Y. enterocolitica
+T15	Protein 987 991	LopT
+T16	Organism 1012 1026	P. luminescens
+T17	Organism 1046 1063	Y. enterocolitica
+T18	Organism 1179 1196	Y. enterocolitica
+T19	Chemical 1201 1208	calcium
+T20	Protein 1225 1229	lcrH
+T21	Protein 1231 1235	lcrV
+T22	Protein 1241 1245	lrcD
+T23	Organism 1250 1264	P. luminescens
+T24	Protein 1266 1273	plu3757
+T25	Protein 1275 1282	plu3758
+T26	Protein 1284 1288	sctV
+T27	Organism 1344 1361	Y. enterocolitica
+T28	Organism 1399 1413	P. luminescens
+T29	Organism 1442 1447	human
+T30	Organism 1473 1486	P. luminesens
+T31	Organism 1491 1508	Y. enterocolitica
+T32	Organism 1832 1847	Vibrio cholerae
+T33	Organism 1933 1950	Y. enterocolitica
+T34	Protein 1973 1977	Yts1
+T35	Organism 2033 2037	mice
+T36	Protein 2079 2083	Yts1
+T37	Organism 2095 2109	P. luminescens
+T38	Organism 2235 2252	Y. enterocolitica
+T39	Organism 2708 2723	Vibrio cholerae
+T40	Organism 2744 2766	Pseudomonas aeruginosa
+T41	Organism 2865 2879	P. luminescens
+T42	Organism 2891 2908	Y. enterocolitica
+T43	Protein 3251 3266	phospholipase A
+T44	Protein 3268 3272	YplA
+T45	Protein 3301 3305	YplB
+T46	Organism 3310 3327	Y. enterocolitica
+T47	Protein 3329 3335	YE1005
+T48	Protein 3336 3342	YE1006
+T49	Organism 3370 3384	P. luminescens
+T50	Protein 3386 3393	Plu3370
+T51	Protein 3394 3401	Plu3369
+T52	Protein 3404 3408	YplA
+T53	Organism 3440 3457	Y. enterocolitica
+T54	Organism 3463 3468	mouse
+T55	Organism 3536 3550	P. luminescens
+T56	Protein 3574 3578	yplA
+T57	Two-component-system 3688 3693	FlhDC
+T58	Protein 3688 3692	FlhD
+T59	Protein 3692 3693	C
+T60	Protein 3716 3720	YplA
+T61	Organism 3764 3769	human
+T62	Organism 3833 3850	Y. enterocolitica
+T63	Protein 3859 3863	PdlA
+T64	Protein 3865 3871	YE0203
+T65	Protein 3877 3881	PdlB
+T66	Protein 3883 3889	YE0207
+T67	Protein 3922 3929	Plu4619
+T68	Organism 3967 3984	Y. enterocolitica
+T69	Protein 4098 4105	Plu1971
+T70	Organism 4109 4123	P. luminescens
+T71	Protein 4156 4171	phospholipase D
+T72	Organism 4244 4250	murine
+T73	Protein 4258 4261	Ymt
+T74	Organism 4266 4275	Y. pestis
+T75	Protein 4299 4302	ymt
+T76	Organism 4324 4333	Y. pestis
+T77	Organism 4339 4353	P. luminescens
+T78	Protein 4380 4383	Ymt
+T79	Organism 4422 4431	Y. pestis
+T80	Chemical 4452 4455	AHL
+T81	Organism 4464 4473	Y. pestis
+T82	Organism 4483 4497	P. luminescens
+T83	Protein 4547 4550	Ymt
+T84	Organism 4595 4609	P. luminescens
+T85	Organism 4633 4650	Y. enterocolitica
+T86	Protein 4652 4655	Ymt
+T87	Organism 4865 4882	Y. enterocolitica
+T88	Organism 4889 4903	P. luminescens
+T89	Chemical 4992 5007	triacylglycerol
+T90	Organism 5019 5033	P. luminescens
+T91	Organism 5069 5086	Y. enterocolitica
+T92	Protein 5181 5185	PrtA
+T93	Protein 5187 5194	Plu0655
+T94	Protein 5195 5201	YE4052
+T95	Organism 5281 5295	X. nematophila
+T96	Organism 5376 5390	P. luminescens
+T97	Protein 5470 5477	Plu0306
+T98	Protein 5478 5484	YE4066
+T99	Protein 5505 5512	Plu0631
+T100	Protein 5513 5519	YE3311
+T101	Two-component-system 5526 5535	DegQ/DegS
+T102	Protein 5526 5530	DegQ
+T103	Protein 5531 5535	DegS
+T104	Protein 5537 5543	YE3744
+T105	Protein 5544 5550	YE3745
+T106	Protein 5551 5558	Plu4018
+T107	Protein 5559 5566	Plu4022
+T108	Protein 5753 5760	Plu4291
+T109	Protein 5762 5769	Plu0631
+T110	Protein 5771 5777	YE0320
+T111	Protein 5783 5789	YE2087
+T112	Organism 5859 5876	Y. enterocolitica
+T113	Organism 5954 5968	P. luminescens

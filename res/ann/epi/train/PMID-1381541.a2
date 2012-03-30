@@ -1,0 +1,4 @@
+T14	Glycosylation 17 39	N-linked glycosylation
+T15	Glycosylation 212 234	N-linked glycosylation
+E1	Glycosylation:T14 Theme:T1
+E2	Glycosylation:T15 Theme:T3

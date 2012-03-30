@@ -1,0 +1,6 @@
+*	Equiv T1 T2
+*	Equiv T4 T5
+T19	Catalysis 792 806	ubiquitination
+T20	Ubiquitination 792 806	ubiquitination
+E1	Ubiquitination:T20 Theme:T15
+E2	Catalysis:T19 Theme:E1 Cause:T14

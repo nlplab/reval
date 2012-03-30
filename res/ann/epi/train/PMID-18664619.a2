@@ -1,0 +1,17 @@
+T16	DNA_methylation 1033 1043	methylated
+T17	DNA_methylation 1225 1236	methylation
+T18	DNA_methylation 1280 1290	methylated
+T19	DNA_methylation 1522 1533	methylation
+E1	DNA_methylation:T16 Theme:T2
+E2	DNA_methylation:T16 Theme:T3
+E3	DNA_methylation:T16 Theme:T4
+E4	DNA_methylation:T17 Theme:T5
+E5	DNA_methylation:T17 Theme:T6
+E6	DNA_methylation:T17 Theme:T7
+E7	DNA_methylation:T18 Theme:T11
+E8	DNA_methylation:T18 Theme:T12
+E9	DNA_methylation:T18 Theme:T13
+E10	DNA_methylation:T18 Theme:T8
+E11	DNA_methylation:T18 Theme:T9
+E12	DNA_methylation:T18 Theme:T10
+E13	DNA_methylation:T19 Theme:T14

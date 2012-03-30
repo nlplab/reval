@@ -1,0 +1,11 @@
+T6	Methylation 101 122	N-epsilon-methylation
+T7	Entity 135 149	lysyl residues
+T8	Methylation 699 709	methylated
+T9	Methylation 726 738	unmethylated
+T10	Methylation 1819 1830	methylation
+T11	Entity 1834 1848	lysyl residues
+E1	Methylation:T6 Theme:T1 Site:T7
+E2	Methylation:T8 Theme:T2
+E3	Methylation:T9 Theme:T2
+M1	Negation E3
+E4	Methylation:T10 Theme:T5 Site:T11

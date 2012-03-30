@@ -1,0 +1,10 @@
+*	Equiv T7 T8
+*	Equiv T9 T10
+*	Equiv T17 T18
+*	Equiv T19 T20
+T23	Ubiquitination 843 857	ubiquitination
+T24	Ubiquitination 1549 1567	poly-ubiquitinated
+E1	Ubiquitination:T23 Theme:T7
+E2	Ubiquitination:T23 Theme:T9
+E3	Ubiquitination:T24 Theme:T17
+E4	Ubiquitination:T24 Theme:T19

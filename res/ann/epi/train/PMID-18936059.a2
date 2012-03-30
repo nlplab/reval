@@ -1,0 +1,7 @@
+*	Equiv T1 T2
+*	Equiv T3 T4 T5
+T13	Entity 1843 1854	eight sites
+T14	Catalysis 1897 1906	catalyzed
+T15	Hydroxylation 1907 1920	hydroxylation
+E1	Catalysis:T14 Theme:E2 Cause:T12
+E2	Hydroxylation:T15 Theme:T11 Site:T13

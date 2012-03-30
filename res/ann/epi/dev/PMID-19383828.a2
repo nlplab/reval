@@ -1,0 +1,18 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T5 T6
+*	Equiv T7 T8
+*	Equiv T9 T10
+*	Equiv T12 T13
+*	Equiv T15 T16
+*	Equiv T17 T18
+*	Equiv T19 T20
+*	Equiv T22 T23
+*	Equiv T24 T25
+T27	Ubiquitination 65 81	ubiquitinylation
+T28	Entity 1584 1596	NLS-2 region
+T29	Ubiquitination 1639 1647	modified
+T30	Ubiquitination 1913 1921	modified
+E1	Ubiquitination:T27 Theme:T1
+E2	Ubiquitination:T29 Theme:T19 Site:T28
+E3	Ubiquitination:T30 Theme:T24

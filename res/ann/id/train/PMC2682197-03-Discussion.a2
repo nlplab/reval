@@ -1,0 +1,82 @@
+*	Equiv T4 T5
+*	Equiv T46 T47
+T123	Regulation 757 765	regulate
+T124	Regulation 809 817	modulate
+T125	Binding 856 867	interaction
+T126	Process 1311 1320	virulence
+T127	Positive_regulation 1580 1587	induced
+T128	Positive_regulation 1746 1758	up-regulated
+T129	Process 1907 1916	infection
+T130	Positive_regulation 1966 1975	induction
+T131	Gene_expression 2056 2066	expression
+T132	Regulation 2070 2079	regulated
+T133	Positive_regulation 2290 2299	induction
+T134	Negative_regulation 3122 3132	deficiency
+T135	Regulation 3142 3152	associated
+T136	Process 3160 3174	hypervirulence
+T137	Negative_regulation 3205 3215	deficiency
+T138	Regulation 3250 3256	effect
+T139	Process 3276 3285	virulence
+T140	Process 3379 3388	virulence
+T141	Process 3623 3637	hypervirulence
+T142	Process 3735 3743	virulent
+T143	Process 3807 3816	infection
+T144	Process 3831 3844	hypervirulent
+T145	Gene_expression 4109 4123	overexpression
+T146	Process 4367 4376	infection
+T147	Gene_expression 4400 4414	overexpression
+T148	Gene_expression 4530 4544	overexpressing
+T149	Binding 4980 4984	bind
+T150	Binding 5184 5191	binding
+T151	Binding 5246 5253	binding
+T152	Binding 5855 5862	binding
+T153	Binding 6013 6020	binding
+T154	Binding 6194 6201	binding
+E1	Regulation:T123 Theme:T12 Cause:T10
+E2	Regulation:T123 Theme:T12 Cause:T11
+E3	Regulation:T124 Theme:T11 Cause:E12
+E4	Regulation:T124 Theme:T10 Cause:E10
+E5	Regulation:T124 Theme:T10 Cause:E11
+E6	Regulation:T124 Theme:T11 Cause:E13
+E7	Regulation:T124 Theme:T11 Cause:E14
+E8	Regulation:T124 Theme:T10 Cause:E9
+E9	Binding:T125 Theme1:T10 Theme2:T13
+E10	Binding:T125 Theme1:T10 Theme2:T14
+E11	Binding:T125 Theme1:T10 Theme2:T15
+E12	Binding:T125 Theme1:T11 Theme2:T13
+E13	Binding:T125 Theme1:T11 Theme2:T14
+E14	Binding:T125 Theme1:T11 Theme2:T15
+E15	Process:T126 Participant:T18
+E16	Positive_regulation:T127 Theme:T21
+E17	Positive_regulation:T128 Theme:T23
+E18	Process:T129 Participant:T28
+E19	Positive_regulation:T130 Theme:T29
+E20	Gene_expression:T131 Theme:T30
+E21	Regulation:T132 Theme:E20
+E22	Positive_regulation:T133 Theme:T33
+E23	Negative_regulation:T134 Theme:T39
+E24	Regulation:T135 Theme:E25 Cause:E23
+E25	Process:T136 
+E26	Negative_regulation:T137 Theme:T40
+E27	Regulation:T138 Theme:E28 Cause:E26
+M1	Negation E27
+E28	Process:T139 Participant:T41
+E29	Process:T140 Participant:T42
+E30	Process:T141 
+E31	Process:T142 Participant:T51
+E32	Process:T143 Participant:T51
+E33	Process:T144 
+E34	Gene_expression:T145 Theme:T53
+E35	Process:T146 Participant:T54
+E36	Gene_expression:T147 Theme:T56
+E37	Gene_expression:T148 Theme:T57
+E38	Binding:T149 Theme:T58
+M2	Negation E38
+E39	Binding:T150 Theme:T59
+M3	Negation E39
+E40	Binding:T151 Theme1:T62 Theme2:T63
+E41	Binding:T152 Theme:T69
+M4	Negation E41
+E42	Binding:T153 Theme:T71
+E43	Binding:T154 Theme1:T74 Theme2:T72
+M5	Speculation E43

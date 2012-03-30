@@ -1,0 +1,75 @@
+T1	Regulon-operon 4 7	iol
+T2	Organism 16 21	OG1RF
+T3	Regulon-operon 33 36	iol
+T4	Organism 50 54	V583
+T5	Chemical 130 142	myo-inositol
+T6	Chemical 148 165	glyceraldehyde-3P
+T7	Organism 214 231	Bacillus subtilis
+T8	Regulon-operon 244 247	iol
+T9	Organism 268 278	Klebsiella
+T10	Chemical 338 350	myo-inositol
+T11	Chemical 361 367	carbon
+T12	Chemical 376 388	Myo-inositol
+T13	Chemical 421 429	inositol
+T14	Chemical 452 460	cyclitol
+T15	Organism 524 529	OG1RF
+T16	Regulon-operon 530 533	iol
+T17	Organism 592 615	Clostridium perfringens
+T18	Organism 625 644	Lactobacillus casei
+T19	Organism 654 662	L. casei
+T20	Regulon-operon 668 687	myo-inositol operon
+T21	Chemical 668 680	myo-inositol
+T22	Protein 753 757	iolR
+T23	Organism 762 767	OG1RF
+T24	Organism 907 912	OG1RF
+T25	Protein 945 949	iolG
+T26	Protein 975 999	inositol 2-dehydrogenase
+T27	Chemical 975 983	inositol
+T28	Chemical 1025 1037	myo-inositol
+T29	Organism 1126 1137	E. faecalis
+T30	Organism 1142 1150	L. casei
+T31	Protein 1165 1169	iolH
+T32	Protein 1170 1174	iolJ
+T33	Protein 1179 1183	iolK
+T34	Organism 1196 1204	L. casei
+T35	Organism 1225 1230	OG1RF
+T36	Protein 1240 1244	iolH
+T37	Protein 1249 1253	iolK
+T38	Organism 1269 1283	C. perfringens
+T39	Regulon-operon 1284 1287	iol
+T40	Organism 1323 1331	L. casei
+T41	Organism 1359 1374	Lactobacillales
+T42	Regulon-operon 1397 1400	iol
+T43	Organism 1424 1435	E. faecalis
+T44	Regulon-operon 1490 1493	iol
+T45	Organism 1573 1578	OG1RF
+T46	Organism 1583 1587	V583
+T47	Chemical 1605 1617	myo-inositol
+T48	Protein 1707 1711	iolE
+T49	Protein 1716 1720	iolR
+T50	Chemical 1762 1774	myo-inositol
+T51	Regulon-operon 1809 1812	iol
+T52	Organism 1837 1842	OG1RF
+T53	Chemical 1913 1925	myo-inositol
+T54	Organism 1929 1934	OG1RF
+T55	Protein 1976 1980	iolB
+T56	Protein 1985 1990	iolG2
+T57	Organism 2000 2005	OG1RF
+T58	Chemical 2050 2062	myo-inositol
+T59	Chemical 2130 2142	myo-inositol
+T60	Regulon-operon 2184 2187	iol
+T61	Organism 2320 2325	OG1RF
+T62	Regulon-operon 2331 2334	iol
+T63	Protein 2379 2385	EF2239
+T64	Protein 2390 2396	EF2352
+T65	Organism 2416 2420	V583
+T66	Organism 2425 2429	V583
+T67	Protein 2494 2498	vanB
+T68	Chemical 2525 2535	vancomycin
+T69	Regulon-operon 2594 2597	iol
+T70	Organism 2608 2612	V583
+T71	Organism 2702 2707	OG1RF
+T72	Organism 2712 2716	V583
+T73	Protein 2792 2798	EF2239
+T74	Protein 2803 2809	EF2352
+T75	Organism 2842 2854	Symbioflor 1

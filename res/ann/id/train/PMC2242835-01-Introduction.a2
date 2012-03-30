@@ -1,0 +1,22 @@
+*	Equiv T6 T7
+*	Equiv T10 T11
+*	Equiv T15 T16
+T35	Process 579 585	infect
+T36	Process 838 846	virulent
+T37	Process 1231 1240	avirulent
+T38	Process 1622 1630	virulent
+T39	Process 1728 1738	attenuated
+T40	Process 1743 1751	virulent
+T41	Process 2171 2182	attenuation
+T42	Process 2459 2467	infected
+T43	Process 2588 2597	virulence
+E1	Process:T35 Participant:T5
+E2	Process:T36 Participant:T8
+E3	Process:T37 
+M1	Negation E3
+E4	Process:T38 Participant:T15
+E5	Process:T39 Participant:T14
+E6	Process:T40 Participant:T15
+E7	Process:T41 Participant:T18
+E8	Process:T42 Participant:T23
+E9	Process:T43 

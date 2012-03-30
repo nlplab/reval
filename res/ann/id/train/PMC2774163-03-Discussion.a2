@@ -1,0 +1,59 @@
+*	Equiv T5 T8
+*	Equiv T11 T14
+*	Equiv T17 T20
+*	Equiv T38 T39
+*	Equiv T40 T41
+*	Equiv T77 T78
+T159	Phosphorylation 1814 1828	phosphorylated
+T160	Negative_regulation 5434 5446	Inactivation
+T161	Regulation 5804 5812	utilizes
+T162	Positive_regulation 7120 7130	Activation
+T163	Phosphorylation 7159 7174	phosphorylation
+T164	Positive_regulation 7322 7331	dependent
+T165	Process 8620 8629	infection
+T166	Phosphorylation 9072 9087	phosphorylation
+T167	Negative_regulation 9137 9147	suppressor
+T168	Negative_regulation 9161 9171	vice versa
+T169	Regulation 9183 9193	regulating
+T170	Regulation 9264 9274	modulating
+T171	Phosphorylation 9279 9294	phosphorylation
+T172	Phosphorylation 9409 9424	phosphorylation
+T173	Phosphorylation 9545 9563	non-phosphorylated
+T174	Phosphorylation 9654 9668	phosphorylated
+T175	Phosphorylation 9676 9691	phosphorylation
+T176	Regulation 9785 9794	modulates
+T177	Phosphorylation 9799 9814	phosphorylation
+T178	Phosphorylation 10016 10030	phosphorylated
+T179	Positive_regulation 10041 10050	dependent
+T180	Gene_expression 10068 10078	expression
+T181	Positive_regulation 10146 10155	dependent
+T182	Regulation 10298 10307	regulates
+T183	Process 10308 10317	virulence
+E1	Phosphorylation:T159 Theme:T24
+E2	Phosphorylation:T159 Theme:T25
+E3	Phosphorylation:T159 Theme:T26
+E4	Negative_regulation:T160 Theme:T59
+E5	Regulation:T161 Theme:T63
+E6	Positive_regulation:T162 Theme:T79
+E7	Phosphorylation:T163 Theme:T80
+E8	Positive_regulation:T164 Theme:T82
+E9	Process:T165 Participant:T104
+E10	Phosphorylation:T166 Theme:T109
+E11	Negative_regulation:T167 Theme:T111 Cause:T110
+E12	Negative_regulation:T168 Theme:T110 Cause:T111
+E13	Regulation:T169 Theme:E15 Cause:T112
+E14	Regulation:T170 Theme:E15 Cause:T112
+E15	Phosphorylation:T171 Theme:T113
+E16	Phosphorylation:T172 Theme:T114
+E17	Phosphorylation:T173 Theme:T116
+M1	Negation E17
+E18	Phosphorylation:T174 Theme:T116
+E19	Phosphorylation:T175 Theme:T117
+E20	Regulation:T176 Theme:E21 Cause:T118
+E21	Phosphorylation:T177 Theme:T119
+E22	Phosphorylation:T178 Theme:T122
+E23	Positive_regulation:T179 Theme:E22 Cause:T123
+E24	Gene_expression:T180 Theme:T125
+E25	Positive_regulation:T181 Theme:E24 Cause:T126
+E26	Regulation:T182 Theme:E27
+E27	Process:T183 

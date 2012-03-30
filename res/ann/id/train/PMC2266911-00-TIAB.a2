@@ -1,0 +1,6 @@
+T18	Process 2014 2023	virulence
+T19	Process 2107 2116	virulence
+T20	Process 2340 2349	infection
+E1	Process:T18 
+E2	Process:T19 Participant:T17
+E3	Process:T20 

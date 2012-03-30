@@ -1,0 +1,43 @@
+T1	Organism 18 40	Photorhabdus temperata
+T2	Organism 44 69	Xenorhabdus koppenhoeferi
+T3	Organism 129 141	P. temperata
+T4	Organism 145 161	X. koppenhoeferi
+T5	Organism 327 339	P. temperata
+T6	Organism 378 394	X. koppenhoeferi
+T7	Organism 416 428	P. temperata
+T8	Organism 461 477	X. koppenhoeferi
+T9	Organism 521 533	P. temperata
+T10	Organism 566 582	X. koppenhoeferi
+T11	Organism 712 724	P. temperata
+T12	Organism 737 753	X. koppenhoeferi
+T13	Organism 1067 1077	R. majalis
+T14	Protein 1168 1172	cysK
+T15	Protein 1174 1177	def
+T16	Protein 1179 1183	dnaB
+T17	Protein 1185 1189	lysR
+T18	Protein 1191 1195	pchC
+T19	Protein 1197 1201	pckA
+T20	Protein 1203 1207	phoP
+T21	Protein 1209 1214	ptst1
+T22	Protein 1216 1220	sctL
+T23	Protein 1222 1226	selD
+T24	Protein 1228 1232	tolB
+T25	Protein 1237 1241	virB
+T26	Organism 1247 1259	P. temperata
+T27	Protein 1265 1269	aceK
+T28	Protein 1271 1275	clpP
+T29	Protein 1277 1281	cobJ
+T30	Protein 1283 1287	dacC
+T31	Protein 1289 1292	dld
+T32	Protein 1294 1298	malF
+T33	Protein 1300 1303	res
+T34	Protein 1305 1309	rtxC
+T35	Protein 1311 1315	tilS
+T36	Protein 1317 1321	virH
+T37	Protein 1323 1327	xhlA
+T38	Protein 1333 1338	xkst4
+T39	Organism 1344 1360	X. koppenhoeferi
+T40	Protein 1515 1519	sctL
+T41	Protein 1521 1525	phoP
+T42	Protein 1527 1531	rtxC
+T43	Protein 1536 1540	clpP

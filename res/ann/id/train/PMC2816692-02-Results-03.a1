@@ -1,0 +1,43 @@
+T1	Protein 21 25	SrcA
+T2	Protein 84 88	SrcA
+T3	Protein 93 97	CesT
+T4	Organism 124 148	enteropathogenic E. coli
+T5	Organism 150 154	EPEC
+T6	Protein 216 220	SrcA
+T7	Protein 275 283	PDB 3EPU
+T8	Protein 461 465	CesT
+T9	Protein 467 475	PDB 1K3E
+T10	Protein 483 487	SrcA
+T11	Protein 994 998	SrcA
+T12	Protein 1341 1345	SrcA
+T13	Protein 1476 1480	SrcA
+T14	Protein 1540 1544	CesT
+T15	Protein 1549 1553	SicP
+T16	Protein 1592 1596	SrcA
+T17	Protein 1672 1676	CesT
+T18	Protein 1678 1682	SrcA
+T19	Protein 1753 1757	CesT
+T20	Protein 1759 1763	SicP
+T21	Protein 1768 1772	SrcA
+T22	Protein 2140 2144	CesT
+T23	Protein 2225 2229	SicP
+T24	Protein 2294 2298	SrcA
+T25	Protein 2579 2583	CesT
+T26	Protein 2769 2773	SrcA
+T27	Protein 2906 2910	SrcA
+T28	Protein 2912 2916	CesT
+T29	Protein 2921 2925	SicP
+T30	Protein 2996 3001	Spa15
+T31	Protein 3054 3058	SrcA
+T32	Protein 3120 3124	SrcA
+T33	Protein 3129 3134	Spa15
+T34	Protein 3243 3247	SrcA
+T35	Protein 3252 3257	Spa15
+T36	Protein 3580 3584	SrcA
+T37	Protein 3603 3607	SicP
+T38	Protein 3637 3641	SptP
+T39	Protein 3659 3663	SrcA
+T40	Protein 3727 3731	SptP
+T41	Protein 3770 3774	SicP
+T42	Protein 3834 3838	SrcA
+T43	Protein 3990 3994	SrcA

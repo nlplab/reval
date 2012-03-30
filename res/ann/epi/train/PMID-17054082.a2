@@ -1,0 +1,4 @@
+*	Equiv T2 T3
+*	Equiv T4 T5 T6
+T13	Deglycosylation 1009 1027	de-N-glycosylation
+E1	Deglycosylation:T13 Theme:T11

@@ -1,0 +1,13 @@
+*	Equiv T2 T3
+*	Equiv T8 T9
+T10	Entity 938 945	Asn1244
+T11	Glycosylation 977 989	fucosylation
+T12	Entity 1019 1026	Asn1007
+T13	Entity 1031 1038	Asn2108
+T14	Glycosylation 1071 1083	modification
+T15	Glycosylation 1426 1441	O-glycosylation
+E1	Glycosylation:T11 Theme:T4 Site:T10
+M1	Negation E1
+E2	Glycosylation:T14 Theme:T4 Site:T12
+E3	Glycosylation:T14 Theme:T4 Site:T13
+E4	Glycosylation:T15 Theme:T6

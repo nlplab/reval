@@ -1,0 +1,7 @@
+*	Equiv T4 T5
+T12	Acetylation 162 173	acetylation
+T13	Acetylation 895 906	acetylation
+T14	Acetylation 968 979	acetylation
+E1	Acetylation:T12 Theme:T2
+E2	Acetylation:T13 Theme:T8
+E3	Acetylation:T14 Theme:T10

@@ -1,0 +1,48 @@
+*	Equiv T3 T4
+*	Equiv T24 T25
+*	Equiv T26 T27
+T20	Entity 11 19	lysine 4
+T21	Methylation 20 31	methylation
+T22	Catalysis 35 43	mediated
+T23	Methylation 123 134	Methylation
+T24	Entity 152 160	lysine 4
+T25	Entity 165 170	Lys-4
+T26	Entity 175 183	lysine 9
+T27	Entity 188 193	Lys-9
+T28	Entity 325 330	Lys-4
+T29	Methylation 331 342	methylation
+T30	Entity 603 608	Lys-4
+T31	Methylation 609 620	methylation
+T32	Catalysis 669 677	mediated
+T33	Entity 681 686	Lys-4
+T34	Methylation 687 698	methylation
+T35	Entity 841 846	Lys-4
+T36	Methylation 847 858	methylation
+T37	Entity 961 966	Lys-4
+T38	Methylation 967 978	methylation
+T39	Acetylation 1042 1053	acetylation
+T40	Entity 1103 1108	Lys-4
+T41	Methylation 1109 1120	methylation
+T42	Acetylation 1125 1136	acetylation
+T43	Entity 1147 1151	tail
+T44	Methylation 1169 1180	methylation
+T45	Entity 1187 1192	Lys-4
+T46	Entity 1392 1397	Lys-9
+T47	Methylation 1398 1409	methylation
+E1	Methylation:T21 Theme:T1 Site:T20
+E2	Catalysis:T22 Theme:E1 Cause:T2
+E3	Methylation:T23 Theme:T3 Site:T24
+E4	Methylation:T23 Theme:T3 Site:T26
+E5	Methylation:T29 Theme:T6 Site:T28
+E6	Methylation:T31 Theme:T8 Site:T30
+M1	Negation E6
+E7	Catalysis:T32 Theme:E8 Cause:T9
+E8	Methylation:T34 Theme:T10 Site:T33
+E9	Methylation:T36 Theme:T11 Site:T35
+E10	Methylation:T38 Theme:T13 Site:T37
+M2	Negation E10
+E11	Acetylation:T39 Theme:T15
+E12	Methylation:T41 Theme:T16 Site:T40
+E13	Acetylation:T42 Theme:T17 Site:T43
+E14	Methylation:T44 Theme:T18 Site:T45
+E15	Methylation:T47 Theme:T19 Site:T46

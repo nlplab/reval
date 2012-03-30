@@ -1,0 +1,5 @@
+T21	Acetylation 759 770	acetylation
+T22	Entity 775 777	K4
+T23	Methylation 778 792	trimethylation
+E1	Acetylation:T21 Theme:T10
+E2	Methylation:T23 Theme:T10 Site:T22

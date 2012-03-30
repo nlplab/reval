@@ -1,0 +1,50 @@
+T1	Two-component-system 418 423	VicRK
+T2	Protein 418 422	VicR
+T3	Protein 422 423	K
+T4	Two-component-system 427 432	YycFG
+T5	Protein 427 431	YycF
+T6	Protein 431 432	G
+T7	Protein 497 501	VicR
+T8	Organism 518 535	Bacillus subtilis
+T9	Organism 541 562	Staphylococcus aureus
+T10	Organism 572 596	Streptococcus pneumoniae
+T11	Organism 638 660	Streptococcus pyogenes
+T12	Protein 686 690	vicK
+T13	Organism 726 739	S. pneumoniae
+T14	Organism 745 765	Streptococcus mutans
+T15	Organism 775 786	S. pyogenes
+T16	Organism 802 813	B. subtilis
+T17	Organism 822 831	S. aureus
+T18	Two-component-system 867 872	vicRK
+T19	Protein 867 871	vicR
+T20	Protein 871 872	K
+T21	Two-component-system 1157 1162	vicRK
+T22	Protein 1157 1161	vicR
+T23	Protein 1161 1162	K
+T24	Organism 1197 1231	Streptococcus equi subspecies equi
+T25	Organism 1233 1240	S. equi
+T26	Organism 1285 1291	equine
+T27	Organism 1619 1626	S. equi
+T28	Organism 1756 1763	S. equi
+T29	Chemical 1774 1789	hyaluronic acid
+T30	Organism 1802 1809	S. equi
+T31	Protein 1810 1824	M-like protein
+T32	Protein 1826 1829	SeM
+T33	Organism 1906 1912	horses
+T34	Organism 1960 1967	S. equi
+T35	Protein 2083 2086	SeM
+T36	Chemical 2209 2224	hyaluronic acid
+T37	Two-component-system 2419 2424	VicRK
+T38	Protein 2419 2423	VicR
+T39	Protein 2423 2424	K
+T40	Organism 2428 2435	S. equi
+T41	Organism 2469 2489	vicK deletion mutant
+T42	Protein 2469 2473	vicK
+T43	Organism 2514 2519	mouse
+T44	Protein 2556 2560	vicK
+T45	Organism 2581 2588	S. equi
+T46	Organism 2602 2607	mouse
+T47	Organism 2683 2703	vicK deletion mutant
+T48	Protein 2683 2687	vicK
+T49	Organism 2767 2774	S. equi
+T50	Protein 2839 2842	SeM

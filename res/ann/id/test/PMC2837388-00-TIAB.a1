@@ -1,0 +1,17 @@
+T1	Organism 51 61	Salmonella
+T2	Two-component-system 85 94	SsrA-SsrB
+T3	Protein 85 89	SsrA
+T4	Protein 90 94	SsrB
+T5	Organism 486 505	Salmonella enterica
+T6	Two-component-system 589 598	SsrA-SsrB
+T7	Protein 589 593	SsrA
+T8	Protein 594 598	SsrB
+T9	Organism 720 731	S. enterica
+T10	Regulon-operon 748 760	SsrB regulon
+T11	Protein 748 752	SsrB
+T12	Regulon-operon 950 972	SsrB-dependent regulon
+T13	Protein 950 954	SsrB
+T14	Organism 1115 1126	S. enterica
+T15	Organism 1211 1231	Sodalis glossinidius
+T16	Protein 1324 1328	SsrB
+T17	Protein 1464 1468	SsrB

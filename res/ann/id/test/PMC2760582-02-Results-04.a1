@@ -1,0 +1,20 @@
+T1	Protein 872 876	rpoB
+T2	Organism 1128 1140	P. temperata
+T3	Organism 1145 1161	X. koppenhoeferi
+T4	Protein 1458 1462	yncB
+T5	Protein 1467 1471	purH
+T6	Organism 1475 1487	P. temperata
+T7	Chemical 1529 1536	formate
+T8	Organism 1579 1595	X. koppenhoeferi
+T9	Protein 1602 1606	trxB
+T10	Chemical 1624 1633	arabinose
+T11	Chemical 1638 1646	selenium
+T12	Protein 1657 1661	znuA
+T13	Chemical 1679 1688	etoposide
+T14	Organism 1936 1948	P. temperata
+T15	Organism 1961 1977	X. koppenhoeferi
+T16	Organism 2280 2292	P. temperata
+T17	Protein 2293 2297	pckA
+T18	Organism 2302 2318	X. koppenhoeferi
+T19	Protein 2319 2323	aceE
+T20	Protein 2518 2522	nadE

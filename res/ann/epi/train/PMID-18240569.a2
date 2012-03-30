@@ -1,0 +1,12 @@
+*	Equiv T4 T5
+T36	Ubiquitination 77 89	ubiquination
+T37	Ubiquitination 626 640	ubiquitination
+T38	Ubiquitination 1142 1156	ubiquitination
+T39	Ubiquitination 1212 1226	ubiquitination
+E1	Ubiquitination:T36 Theme:T3
+M1	Negation E1
+E2	Ubiquitination:T37 Theme:T14
+E3	Ubiquitination:T38 Theme:T28
+M2	Negation E3
+E4	Ubiquitination:T39 Theme:T29
+M3	Negation E4

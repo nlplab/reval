@@ -1,0 +1,18 @@
+T17	Glycosylation 614 622	N-linked
+T18	Entity 699 717	high-mannose (5-9)
+T19	Entity 722 755	neutral, complex oligosaccharides
+T20	Glycosylation 829 837	N-linked
+T21	Entity 863 877	acidic-complex
+T22	Entity 882 911	high-mannose oligosaccharides
+T23	Glycosylation 972 980	N-linked
+T24	Entity 981 997	oligosaccharides
+T25	Entity 1089 1093	N113
+T26	Glycosylation 1126 1138	glycosylated
+T27	Entity 1151 1180	high-mannose oligosaccharides
+E1	Glycosylation:T17 Theme:T8 Sidechain:T18
+E2	Glycosylation:T17 Theme:T8 Sidechain:T19
+E3	Glycosylation:T20 Theme:T9 Sidechain:T21
+E4	Glycosylation:T20 Theme:T9 Sidechain:T22
+E5	Glycosylation:T23 Theme:T11 Sidechain:T24
+M1	Negation E5
+E6	Glycosylation:T26 Theme:T12 Site:T25 Sidechain:T27

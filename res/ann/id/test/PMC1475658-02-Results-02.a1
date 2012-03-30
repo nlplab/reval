@@ -1,0 +1,59 @@
+T1	Organism 4 30	P. entomophila aprA Mutant
+T2	Protein 19 23	aprA
+T3	Protein 113 117	AprA
+T4	Organism 153 167	P. entomophila
+T5	Protein 259 263	aprA
+T6	Protein 318 322	aprA
+T7	Protein 464 468	aprA
+T8	Protein 528 532	aprI
+T9	Protein 583 587	aprD
+T10	Protein 589 590	E
+T11	Protein 596 597	F
+T12	Protein 653 657	AprD
+T13	Protein 659 660	E
+T14	Protein 666 667	F
+T15	Protein 736 740	AprA
+T16	Protein 799 803	aprA
+T17	Chemical 824 836	tetracycline
+T18	Organism 1042 1053	aprA mutant
+T19	Protein 1042 1046	aprA
+T20	Protein 1186 1190	AprA
+T21	Organism 1194 1208	P. entomophila
+T22	Organism 1256 1266	Drosophila
+T23	Organism 1319 1333	P. entomophila
+T24	Protein 1363 1367	aprA
+T25	Organism 1363 1367	aprA
+T26	Organism 1469 1483	P. entomophila
+T27	Organism 1508 1519	aprA mutant
+T28	Protein 1508 1512	aprA
+T29	Organism 1577 1588	aprA mutant
+T30	Protein 1577 1581	aprA
+T31	Protein 1694 1698	prtR
+T32	Organism 1694 1698	prtR
+T33	Organism 1703 1715	gacA mutants
+T34	Protein 1703 1707	gacA
+T35	Organism 1745 1755	Drosophila
+T36	Protein 1831 1835	AprA
+T37	Organism 1891 1905	P. entomophila
+T38	Organism 1914 1925	aprA mutant
+T39	Protein 1914 1918	aprA
+T40	Organism 2049 2063	P. entomophila
+T41	Protein 2085 2089	aprA
+T42	Protein 2185 2189	aprA
+T43	Organism 2235 2247	gacA mutants
+T44	Protein 2235 2239	gacA
+T45	Organism 2279 2290	aprA mutant
+T46	Protein 2279 2283	aprA
+T47	Protein 2376 2381	apr I
+T48	Protein 2383 2384	D
+T49	Protein 2386 2387	E
+T50	Protein 2393 2394	F
+T51	Organism 2471 2490	Serratia marcescens
+T52	Organism 2495 2509	P. fluorescens
+T53	Organism 2655 2666	aprA mutant
+T54	Protein 2655 2659	aprA
+T55	Regulon-operon 2686 2689	apr
+T56	Regulon-operon 2945 2948	apr
+T57	Protein 2993 2997	aprA
+T58	Protein 3058 3062	AprA
+T59	Organism 3085 3099	P. entomophila

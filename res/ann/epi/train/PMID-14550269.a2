@@ -1,0 +1,5 @@
+*	Equiv T1 T2
+*	Equiv T7 T8
+*	Equiv T9 T10
+T13	Deglycosylation 685 699	deglycosylated
+E1	Deglycosylation:T13 Theme:T6

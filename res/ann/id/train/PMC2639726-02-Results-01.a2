@@ -1,0 +1,61 @@
+T93	Process 59 68	infection
+T94	Process 249 258	infection
+T95	Process 400 409	virulence
+T96	Process 1033 1041	infected
+T97	Process 1225 1233	infected
+T98	Process 1565 1574	virulence
+T99	Negative_regulation 1905 1915	attenuated
+T100	Process 1920 1929	virulence
+T101	Process 2033 2042	infection
+T102	Process 2108 2117	infection
+T103	Process 2164 2173	avirulent
+T104	Process 2249 2258	infection
+T105	Process 2379 2388	virulence
+T106	Process 2403 2412	virulence
+T107	Process 2456 2465	virulence
+T108	Process 2496 2505	infection
+T109	Process 2779 2789	resistance
+T110	Process 2861 2870	infection
+T111	Process 2899 2907	infected
+T112	Process 3186 3196	attenuated
+T113	Process 4028 4037	infection
+T114	Transcription 4050 4063	transcription
+T115	Process 4286 4297	attenuation
+T116	Process 4346 4355	infection
+T117	Process 4432 4441	infection
+T118	Process 4554 4563	virulence
+E1	Process:T93 Participant:T1
+E2	Process:T94 Participant:T3
+E3	Process:T95 
+E4	Process:T96 
+E5	Process:T97 
+E6	Process:T98 
+E7	Negative_regulation:T99 Theme:E8
+E8	Process:T100 Participant:T41
+E9	Process:T101 
+E10	Process:T102 
+E11	Process:T103 
+M1	Negation E11
+E12	Process:T104 
+E13	Process:T105 
+E14	Process:T106 
+E15	Process:T107 
+E16	Process:T108 
+E17	Process:T109 
+E18	Process:T110 Participant:T49
+E19	Process:T111 
+E20	Process:T112 
+E21	Process:T113 
+E22	Transcription:T114 Theme:T77
+E23	Transcription:T114 Theme:T79
+E24	Transcription:T114 Theme:T80
+E25	Transcription:T114 Theme:T84
+E26	Transcription:T114 Theme:T85
+E27	Transcription:T114 Theme:T86
+E28	Transcription:T114 Theme:T87
+E29	Transcription:T114 Theme:T82
+E30	Transcription:T114 Theme:T83
+E31	Process:T115 
+E32	Process:T116 
+E33	Process:T117 
+E34	Process:T118 

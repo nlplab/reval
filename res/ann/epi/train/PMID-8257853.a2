@@ -1,0 +1,10 @@
+T5	Glycosylation 0 13	Glycosylation
+T6	Entity 921 939	glycosylation site
+T7	Glycosylation 950 957	carries
+T8	Entity 977 992	oligosaccharide
+T9	Entity 1019 1034	potential sites
+T10	Glycosylation 1052 1063	substituted
+T11	Entity 1067 1080	carbohydrates
+E1	Glycosylation:T5 Theme:T1
+E2	Glycosylation:T7 Theme:T4 Site:T6 Sidechain:T8
+E3	Glycosylation:T10 Theme:T4 Site:T9 Sidechain:T11

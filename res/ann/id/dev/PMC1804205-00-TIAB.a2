@@ -1,0 +1,4 @@
+T25	Positive_regulation 8 18	activation
+T26	Positive_regulation 1358 1366	activate
+E1	Positive_regulation:T25 Theme:T1
+E2	Positive_regulation:T26 Theme:T23

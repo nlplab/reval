@@ -1,0 +1,12 @@
+*	Equiv T2 T3
+T11	DNA_methylation 404 420	Hypermethylation
+T12	Entity 438 446	promoter
+T13	Entity 518 526	promoter
+T14	DNA_methylation 527 538	methylation
+T15	Entity 834 842	promoter
+T16	DNA_methylation 843 859	hypermethylation
+E1	DNA_methylation:T11 Theme:T4 Site:T12
+E2	DNA_methylation:T14 Theme:T6 Site:T13
+M1	Speculation E2
+E3	DNA_methylation:T16 Theme:T8 Site:T15
+M2	Negation E3

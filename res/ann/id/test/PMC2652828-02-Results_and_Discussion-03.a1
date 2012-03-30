@@ -1,0 +1,13 @@
+T1	Organism 0 8	Deltahfq
+T2	Protein 5 8	hfq
+T3	Organism 13 45	DeltasmpB Salmonella Typhimurium
+T4	Protein 18 22	smpB
+T5	Organism 112 122	Salmonella
+T6	Organism 243 251	Deltahfq
+T7	Protein 248 251	hfq
+T8	Organism 256 288	DeltasmpB Salmonella Typhimurium
+T9	Protein 261 265	smpB
+T10	Organism 837 845	Deltahfq
+T11	Protein 842 845	hfq
+T12	Organism 850 882	DeltasmpB Salmonella Typhimurium
+T13	Protein 855 859	smpB

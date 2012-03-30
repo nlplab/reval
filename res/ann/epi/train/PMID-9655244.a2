@@ -1,0 +1,4 @@
+T6	Hydroxylation 26 38	hydroxylated
+T7	Hydroxylation 116 128	hydroxylated
+E1	Hydroxylation:T6 Theme:T1
+E2	Hydroxylation:T7 Theme:T2

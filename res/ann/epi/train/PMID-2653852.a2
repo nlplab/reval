@@ -1,0 +1,34 @@
+T15	Acetylation 0 11	Acetylation
+T16	Deacetylation 16 29	deacetylation
+T17	Acetylation 94 104	acetylated
+T18	Acetylation 163 173	acetylated
+T19	Acetylation 223 234	acetylation
+T20	Acetylation 360 370	acetylated
+T21	Entity 425 430	Lys-5
+T22	Entity 440 446	Lys-12
+T23	Acetylation 500 510	acetylated
+T24	Acetylation 559 570	acetylation
+T25	Acetylation 765 776	acetylation
+T26	Acetylation 821 832	acetylation
+T27	Acetylation 1061 1072	acetylation
+T28	Deacetylation 1077 1090	deacetylation
+T29	Acetylation 1399 1409	acetylated
+T30	Acetylation 1552 1555	use
+T31	Entity 1583 1592	lysine 12
+E1	Acetylation:T15 Theme:T1
+E2	Deacetylation:T16 Theme:T1
+E3	Acetylation:T17 Theme:T1
+E4	Acetylation:T18 Theme:T2
+E5	Acetylation:T19 Theme:T3
+E6	Acetylation:T20 Theme:T4 Site:T21
+E7	Acetylation:T20 Theme:T4 Site:T22
+E8	Acetylation:T23 Theme:T5
+E9	Acetylation:T24 Theme:T7
+M1	Speculation E9
+E10	Acetylation:T25 Theme:T8
+M2	Speculation E10
+E11	Acetylation:T26 Theme:T9
+E12	Acetylation:T27 Theme:T10
+E13	Deacetylation:T28 Theme:T10
+E14	Acetylation:T29 Theme:T12
+E15	Acetylation:T30 Theme:T14 Site:T31

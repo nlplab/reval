@@ -1,0 +1,37 @@
+T1	Protein 29 35	p14ARF
+T2	Protein 40 78	O6-methylguanine-DNA methyltransferase
+T3	Protein 465 468	p14
+T4	Protein 469 472	ARF
+T5	Protein 478 518	O(6)-methylguanine-DNA methyltransferase
+T6	Protein 520 524	MGMT
+T7	Protein 783 787	TP53
+T8	Protein 845 849	MGMT
+T9	Protein 882 885	p21
+T10	Protein 886 890	Waf1
+T11	Protein 891 895	Cip1
+T12	Protein 898 901	p27
+T13	Protein 902 906	Kip1
+T14	Protein 912 915	p73
+T15	Protein 953 956	p16
+T16	Protein 957 962	INK4a
+T17	Protein 965 968	p15
+T18	Protein 969 974	INK4b
+T19	Protein 980 983	p14
+T20	Protein 984 987	ARF
+T21	Protein 1069 1072	p14
+T22	Protein 1073 1076	ARF
+T23	Protein 1176 1180	MGMT
+T24	Protein 1405 1408	p14
+T25	Protein 1409 1412	ARF
+T26	Protein 1472 1476	MGMT
+T27	Protein 1600 1603	p14
+T28	Protein 1604 1607	ARF
+T29	Protein 1662 1665	p14
+T30	Protein 1666 1669	ARF
+T31	Protein 1672 1675	p15
+T32	Protein 1676 1681	INK4b
+T33	Protein 1687 1690	p16
+T34	Protein 1691 1696	INK4a
+T35	Protein 1802 1805	p14
+T36	Protein 1806 1809	ARF
+T37	Protein 1832 1836	MGMT

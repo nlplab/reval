@@ -1,0 +1,6 @@
+*	Equiv T26 T27
+*	Equiv T28 T29
+T34	Negative_regulation 1438 1447	repressed
+T35	Negative_regulation 1771 1785	down-regulated
+E1	Negative_regulation:T34 Theme:T20
+E2	Negative_regulation:T35 Theme:T28

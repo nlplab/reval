@@ -1,0 +1,69 @@
+T1	Protein 455 458	Hfq
+T2	Protein 758 761	Hfq
+T3	Organism 832 837	Qbeta
+T4	Protein 1000 1003	Hfq
+T5	Protein 1128 1131	Hfq
+T6	Protein 1433 1437	SmpB
+T7	Protein 1475 1480	tmRNA
+T8	Protein 1496 1500	ssrA
+T9	Protein 1505 1509	10Sa
+T10	Protein 1554 1559	tmRNA
+T11	Protein 1573 1577	SmpB
+T12	Organism 1644 1666	tmRNA deletion mutants
+T13	Protein 1644 1649	tmRNA
+T14	Protein 1673 1678	tmRNA
+T15	Protein 1832 1837	tmRNA
+T16	Protein 1974 1979	tmRNA
+T17	Protein 2215 2220	tmRNA
+T18	Protein 2319 2324	tmRNA
+T19	Protein 2426 2430	RpoS
+T20	Protein 2465 2468	Hfq
+T21	Protein 2473 2477	SmpB
+T22	Organism 2541 2549	Deltahfq
+T23	Protein 2546 2549	hfq
+T24	Organism 2584 2624	Salmonella enterica serovars Typhimurium
+T25	Organism 2626 2648	Salmonella Typhimurium
+T26	Organism 2686 2690	mice
+T27	Protein 2754 2757	Hfq
+T28	Organism 2796 2811	Vibrio cholerae
+T29	Protein 2854 2857	Hfq
+T30	Organism 2901 2916	Vibrio cholerae
+T31	Organism 2976 3001	Brucella abortus Deltahfq
+T32	Protein 2998 3001	hfq
+T33	Organism 3041 3047	murine
+T34	Organism 3101 3106	mouse
+T35	Protein 3139 3143	smpB
+T36	Organism 3154 3176	Salmonella Typhimurium
+T37	Organism 3236 3246	Salmonella
+T38	Protein 3292 3297	tmRNA
+T39	Organism 3352 3374	Salmonella Typhimurium
+T40	Organism 3388 3399	BALB/c mice
+T41	Organism 3409 3436	Yersinia pseudotuberculosis
+T42	Protein 3450 3454	smpB
+T43	Protein 3459 3464	tmRNA
+T44	Organism 3574 3578	mice
+T45	Protein 3630 3633	Hfq
+T46	Protein 3638 3642	SmpB
+T47	Protein 3780 3783	Hfq
+T48	Protein 3788 3792	SmpB
+T49	Organism 3885 3899	Enterobacteria
+T50	Protein 3926 3929	Hfq
+T51	Protein 3934 3938	SmpB
+T52	Organism 3947 3957	Salmonella
+T53	Organism 4058 4068	Salmonella
+T54	Protein 4120 4123	Hfq
+T55	Protein 4320 4323	Hfq
+T56	Protein 4351 4354	Hfq
+T57	Protein 4505 4508	Hfq
+T58	Protein 4805 4808	Hfq
+T59	Protein 4950 4953	Hfq
+T60	Protein 5084 5087	Hfq
+T61	Protein 5123 5126	Hfq
+T62	Protein 5717 5720	Hfq
+T63	Protein 5725 5729	SmpB
+T64	Organism 5738 5748	Salmonella
+T65	Organism 5834 5844	Salmonella
+T66	Organism 5943 5953	Salmonella
+T67	Organism 6167 6177	Salmonella
+T68	Organism 6361 6371	Salmonella
+T69	Organism 6640 6650	Salmonella

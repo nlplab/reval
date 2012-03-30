@@ -1,0 +1,19 @@
+T1	Chemical 445 449	EDTA
+T2	Organism 466 479	P. aeruginosa
+T3	Chemical 505 509	Mg2+
+T4	Chemical 510 514	Ca2+
+T5	Chemical 557 560	LPS
+T6	Chemical 598 602	EDTA
+T7	Organism 996 1009	P. aeruginosa
+T8	Organism 1203 1216	P. aeruginosa
+T9	Chemical 1591 1595	EDTA
+T10	Chemical 1722 1738	Propidium iodide
+T11	Chemical 1740 1742	PI
+T12	Chemical 1792 1794	PI
+T13	Chemical 1845 1849	EDTA
+T14	Chemical 1903 1905	PI
+T15	Organism 2354 2365	Pseudomonas
+T16	Chemical 2473 2477	EDTA
+T17	Organism 2521 2534	P. aeruginosa
+T18	Chemical 2609 2614	syto9
+T19	Chemical 2652 2654	PI

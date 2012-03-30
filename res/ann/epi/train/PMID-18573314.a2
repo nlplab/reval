@@ -1,0 +1,13 @@
+*	Equiv T3 T4
+*	Equiv T6 T7
+T29	Ubiquitination 15 29	ubiquitination
+T30	Methylation 361 370	methylate
+T31	Catalysis 361 370	methylate
+T32	Entity 371 388	arginine residues
+T33	Ubiquitination 913 926	ubiquitinated
+T34	Ubiquitination 974 988	ubiquitination
+E1	Ubiquitination:T29 Theme:T2
+E2	Methylation:T30 Theme:T8 Site:T32
+E3	Catalysis:T31 Theme:E2 Cause:T5
+E4	Ubiquitination:T33 Theme:T16
+E5	Ubiquitination:T34 Theme:T18

@@ -1,0 +1,35 @@
+T1	Protein 26 29	bac
+T2	Protein 36 42	sak188
+T3	Protein 44 50	sak189
+T4	Chemical 65 77	erythromycin
+T5	Organism 95 116	S. agalactiae strains
+T6	Organism 132 145	S. agalactiae
+T7	Organism 168 173	human
+T8	Protein 266 269	bac
+T9	Protein 274 280	sak188
+T10	Protein 285 291	sak189
+T11	Organism 420 425	women
+T12	Organism 458 461	cow
+T13	Protein 486 489	bac
+T14	Protein 563 566	bac
+T15	Protein 619 622	bac
+T16	Protein 689 695	sak188
+T17	Protein 736 742	sak189
+T18	Protein 810 816	sak188
+T19	Protein 818 824	sak189
+T20	Protein 829 832	bac
+T21	Organism 842 855	S. agalactiae
+T22	Protein 872 876	rr06
+T23	Protein 878 882	hk06
+T24	Protein 887 891	cbpA
+T25	Organism 901 914	S. pneumoniae
+T26	Chemical 1027 1039	erythromycin
+T27	Chemical 1041 1043	Em
+T28	Chemical 1130 1132	Em
+T29	Organism 1153 1158	human
+T30	Protein 1159 1162	bac
+T31	Chemical 1233 1235	Em
+T32	Chemical 1350 1352	Em
+T33	Organism 1367 1380	S. agalactiae
+T34	Organism 1424 1430	168/00
+T35	Protein 1549 1552	bac

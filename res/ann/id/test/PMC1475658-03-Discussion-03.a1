@@ -1,0 +1,65 @@
+T1	Organism 0 14	P. entomophila
+T2	Protein 94 98	aprA
+T3	Organism 113 127	P. entomophila
+T4	Protein 144 148	PrtR
+T5	Two-component-system 157 166	GacS/GacA
+T6	Protein 157 161	GacS
+T7	Protein 162 166	GacA
+T8	Two-component-system 179 188	GacS/GacA
+T9	Protein 179 183	GacS
+T10	Protein 184 188	GacA
+T11	Organism 423 437	P. entomophila
+T12	Organism 454 465	gacA mutant
+T13	Protein 454 458	gacA
+T14	Protein 478 482	AprA
+T15	Protein 533 537	aprA
+T16	Protein 648 652	aprA
+T17	Protein 656 660	gacA
+T18	Protein 695 699	RsmY
+T19	Protein 704 708	RsmZ
+T20	Two-component-system 756 765	GacS/GacA
+T21	Protein 756 760	GacS
+T22	Protein 761 765	GacA
+T23	Protein 767 771	PrtR
+T24	Protein 815 819	aprA
+T25	Organism 834 848	P. entomophila
+T26	Protein 865 869	aprX
+T27	Organism 884 898	P. fluorescens
+T28	Organism 910 922	pseudomonads
+T29	Protein 971 975	AprA
+T30	Organism 1003 1013	Drosophila
+T31	Protein 1053 1057	AprA
+T32	Organism 1123 1133	Drosophila
+T33	Protein 1203 1207	gacA
+T34	Protein 1209 1213	prtR
+T35	Protein 1219 1223	aprA
+T36	Organism 1261 1275	P. entomophila
+T37	Protein 1321 1325	aprA
+T38	Protein 1330 1334	prtR
+T39	Protein 1344 1348	gacA
+T40	Two-component-system 1710 1719	GacS/GacA
+T41	Protein 1710 1714	GacS
+T42	Protein 1715 1719	GacA
+T43	Protein 1898 1922	Erwinia virulence factor
+T44	Protein 1924 1927	evf
+T45	Organism 1937 1956	E. carotovora Ecc15
+T46	Organism 2039 2051	gacA mutants
+T47	Protein 2039 2043	gacA
+T48	Organism 2311 2325	P. entomophila
+T49	Protein 2386 2390	prtR
+T50	Organism 2386 2390	prtR
+T51	Protein 2395 2399	aprA
+T52	Organism 2395 2399	aprA
+T53	Organism 2411 2423	gacA mutants
+T54	Protein 2411 2415	gacA
+T55	Organism 2534 2548	S. entomophila
+T56	Organism 2553 2568	Yersinia pestis
+T57	Organism 2856 2870	S. entomophila
+T58	Organism 3013 3034	Costelytra zealandica
+T59	Organism 3048 3057	Y. pestis
+T60	Organism 3180 3194	P. entomophila
+T61	Protein 3502 3506	aprA
+T62	Protein 3516 3520	gacA
+T63	Organism 3533 3547	P. entomophila
+T64	Organism 3692 3706	P. entomophila
+T65	Organism 3892 3906	P. entomophila

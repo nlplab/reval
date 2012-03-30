@@ -1,0 +1,5 @@
+*	Equiv T2 T3
+T8	Entity 1510 1538	N-linked glycosylation sites
+T9	Glycosylation 1556 1564	utilized
+E1	Glycosylation:T9 Theme:T7 Site:T8
+M1	Speculation E1

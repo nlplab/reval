@@ -1,0 +1,17 @@
+*	Equiv T2 T3
+*	Equiv T18 T19
+T15	Methylation 47 61	trimethylation
+T16	Entity 76 84	lysine 4
+T17	Methylation 87 101	Trimethylation
+T18	Entity 119 127	lysine 4
+T19	Entity 131 133	K4
+T20	Methylation 871 884	dimethylation
+T21	Entity 890 892	R2
+T22	Acetylation 948 959	acetylation
+T23	Entity 965 967	K9
+T24	Entity 974 977	K14
+E1	Methylation:T15 Theme:T1 Site:T16
+E2	Methylation:T17 Theme:T2 Site:T18
+E3	Methylation:T20 Theme:T10 Site:T21
+E4	Acetylation:T22 Theme:T12 Site:T23
+E5	Acetylation:T22 Theme:T13 Site:T24

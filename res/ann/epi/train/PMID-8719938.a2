@@ -1,0 +1,7 @@
+*	Equiv T2 T3
+T11	Entity 417 422	lysyl
+T12	Hydroxylation 423 436	hydroxylation
+T13	Entity 441 446	lysyl
+T14	Glycosylation 447 460	glycosylation
+E1	Hydroxylation:T12 Theme:T5 Site:T11
+E2	Glycosylation:T14 Theme:T5 Site:T13

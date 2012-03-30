@@ -1,0 +1,28 @@
+T44	Regulation 222 231	regulated
+T45	Positive_regulation 728 737	induction
+T46	Transcription 746 759	transcription
+T47	Gene_expression 1383 1393	expression
+T48	Regulation 1406 1417	independent
+T49	Negative_regulation 1423 1432	repressed
+T50	Positive_regulation 1471 1478	induced
+T51	Gene_expression 1543 1553	Expression
+T52	Positive_regulation 1572 1579	induced
+T53	Phosphorylation 2110 2124	phosphorylated
+T54	Positive_regulation 2521 2531	activating
+T55	Phosphorylation 2557 2572	phosphorylation
+E1	Regulation:T44 Theme:T9 Cause:T8
+E2	Regulation:T44 Theme:T10 Cause:T8
+E3	Regulation:T44 Theme:T11 Cause:T8
+E4	Positive_regulation:T45 Theme:E5
+E5	Transcription:T46 Theme:T17
+E6	Gene_expression:T47 Theme:T28
+E7	Regulation:T48 Theme:T28 Cause:T26
+M1	Negation E7
+E8	Negative_regulation:T49 Theme:T28 Cause:T27
+E9	Positive_regulation:T50 Theme:E6
+E10	Gene_expression:T51 Theme:T30
+E11	Positive_regulation:T52 Theme:E10
+E12	Phosphorylation:T53 Theme:T38
+M2	Negation E12
+E13	Positive_regulation:T54 Theme:T43
+E14	Phosphorylation:T55 Theme:T43

@@ -1,0 +1,21 @@
+T6	Glycosylation 17 32	N-glycosylation
+T7	Glycosylation 163 175	glycosylated
+T8	Glycosylation 254 269	N-glycosylation
+T9	Deglycosylation 660 674	deglycosylated
+T10	Glycosylation 748 763	N-glycosylation
+T11	Glycosylation 859 875	non-glycosylated
+T12	Glycosylation 1001 1017	non-glycosylated
+T13	Glycosylation 1152 1168	non-glycosylated
+T14	Glycosylation 1226 1241	N-glycosylation
+E1	Glycosylation:T6 Theme:T1
+E2	Glycosylation:T7 Theme:T2
+E3	Glycosylation:T8 Theme:T2
+E4	Deglycosylation:T9 Theme:T2
+E5	Glycosylation:T10 Theme:T2
+E6	Glycosylation:T11 Theme:T4
+M1	Negation E6
+E7	Glycosylation:T12 Theme:T4
+M2	Negation E7
+E8	Glycosylation:T13 Theme:T4
+M3	Negation E8
+E9	Glycosylation:T14 Theme:T5

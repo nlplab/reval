@@ -1,0 +1,34 @@
+T1	Protein 47 53	Sak189
+T2	Protein 64 76	beta-Antigen
+T3	Organism 113 137	Streptococcus agalactiae
+T4	Organism 150 174	Streptococcus agalactiae
+T5	Two-component-system 476 489	Sak188/Sak189
+T6	Protein 476 482	Sak188
+T7	Protein 483 489	Sak189
+T8	Organism 509 522	S. agalactiae
+T9	Protein 554 557	bac
+T10	Protein 576 588	beta-antigen
+T11	Protein 671 677	sak188
+T12	Protein 682 688	sak189
+T13	Two-component-system 740 753	Sak188/Sak189
+T14	Protein 740 746	Sak188
+T15	Protein 747 753	Sak189
+T16	Protein 796 808	beta-antigen
+T17	Protein 885 888	bac
+T18	Protein 920 932	beta-antigen
+T19	Protein 952 958	Sak189
+T20	Protein 987 993	Sak188
+T21	Protein 1122 1128	sak189
+T22	Protein 1143 1149	sak188
+T23	Organism 1202 1215	S. agalactiae
+T24	Protein 1242 1248	Sak189
+T25	Protein 1299 1302	bac
+T26	Organism 1367 1380	S. agalactiae
+T27	Two-component-system 1424 1437	Sak188/Sak189
+T28	Protein 1424 1430	Sak188
+T29	Protein 1431 1437	Sak189
+T30	Protein 1476 1479	bac
+T31	Two-component-system 1532 1538	BgrR/S
+T32	Protein 1532 1536	BgrR
+T33	Protein 1537 1538	S
+T34	Protein 1540 1543	bac

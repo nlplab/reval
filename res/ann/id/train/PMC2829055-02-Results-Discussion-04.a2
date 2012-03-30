@@ -1,0 +1,58 @@
+*	Equiv T22 T21
+T73	Process 603 612	virulence
+T74	Process 745 754	virulence
+T75	Positive_regulation 833 841	required
+T76	Process 846 855	virulence
+T77	Positive_regulation 957 968	upregulated
+T78	Process 1215 1224	virulence
+T79	Gene_expression 1457 1466	expressed
+T80	Positive_regulation 1690 1701	upregulated
+T81	Gene_expression 1780 1790	Expression
+T82	Positive_regulation 1908 1915	enhance
+T83	Process 1916 1926	resistance
+T84	Positive_regulation 2049 2060	upregulated
+T85	Gene_expression 2195 2205	expression
+T86	Negative_regulation 2210 2223	downregulated
+T87	Gene_expression 2245 2255	expression
+T88	Positive_regulation 2304 2315	upregulated
+T89	Regulation 2415 2424	regulated
+T90	Gene_expression 2440 2449	expressed
+T91	Process 2562 2571	virulence
+T92	Process 2684 2694	resistance
+T93	Positive_regulation 2814 2821	induced
+T94	Process 3273 3282	infection
+T95	Positive_regulation 3344 3351	induced
+T96	Positive_regulation 3432 3444	upregulation
+T97	Regulation 3641 3651	regulation
+E1	Process:T73 
+E2	Process:T74 
+E3	Positive_regulation:T75 Theme:E5 Cause:T12
+E4	Positive_regulation:T75 Theme:E5 Cause:T13
+E5	Process:T76 
+E6	Positive_regulation:T77 Theme:T14
+E7	Process:T78 
+E8	Gene_expression:T79 Theme:T23
+E9	Gene_expression:T79 Theme:T21
+E10	Positive_regulation:T80 Theme:T26
+E11	Gene_expression:T81 Theme:T28
+E12	Gene_expression:T81 Theme:T29
+E13	Gene_expression:T81 Theme:T30
+E14	Gene_expression:T81 Theme:T31
+E15	Gene_expression:T81 Theme:T32
+E16	Positive_regulation:T82 Theme:E17 Cause:T33
+E17	Process:T83 
+E18	Positive_regulation:T84 Theme:T35
+E19	Gene_expression:T85 Theme:T38
+E20	Negative_regulation:T86 Theme:E19
+E21	Gene_expression:T87 Theme:T40
+E22	Positive_regulation:T88 Theme:E21
+E23	Regulation:T89 Theme:T47 Cause:T46
+E24	Gene_expression:T90 Theme:T42
+E25	Gene_expression:T90 Theme:T47
+E26	Process:T91 
+E27	Process:T92 
+E28	Positive_regulation:T93 Theme:T52
+E29	Process:T94 
+E30	Positive_regulation:T95 Theme:T61
+E31	Positive_regulation:T96 Theme:T66
+E32	Regulation:T97 Theme:T72

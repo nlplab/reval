@@ -1,0 +1,16 @@
+*	Equiv T13 T14
+T23	Process 57 66	virulence
+T24	Process 245 254	virulence
+T25	Process 403 412	avirulent
+T26	Process 1014 1023	virulence
+T27	Process 1107 1116	virulence
+T28	Process 1282 1291	virulence
+T29	Process 1341 1350	infection
+E1	Process:T23 Participant:T3
+E2	Process:T24 Participant:T4
+E3	Process:T25 
+M1	Negation E3
+E4	Process:T26 Participant:T20
+E5	Process:T27 
+E6	Process:T28 
+E7	Process:T29 

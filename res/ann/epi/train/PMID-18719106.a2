@@ -1,0 +1,18 @@
+*	Equiv T4 T5
+T30	Catalysis 0 18	Polyubiquitination
+T31	Ubiquitination 0 18	Polyubiquitination
+T32	Ubiquitination 424 442	polyubiquitination
+T33	Catalysis 846 854	promotes
+T34	Ubiquitination 872 890	polyubiquitination
+T35	Catalysis 1312 1319	mediate
+T36	Ubiquitination 1325 1343	polyubiquitination
+E1	Catalysis:T30 Theme:E3 Cause:T2
+E2	Catalysis:T30 Theme:E3 Cause:T3
+E3	Ubiquitination:T31 Theme:T1
+E4	Ubiquitination:T32 Theme:T4
+E5	Catalysis:T33 Theme:E7 Cause:T14
+E6	Catalysis:T33 Theme:E7 Cause:T15
+E7	Ubiquitination:T34 Theme:T17
+E8	Catalysis:T35 Theme:E10 Cause:T26
+E9	Catalysis:T35 Theme:E10 Cause:T27
+E10	Ubiquitination:T36 Theme:T29

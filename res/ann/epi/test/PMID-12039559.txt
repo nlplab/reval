@@ -1,0 +1,2 @@
+The use of dioxygen by HIF prolyl hydroxylase (PHD1). 
+The hypoxic response in animals is mediated by hydroxylation of proline residues in the alpha-subunit of hypoxia inducible factor (HIF). Hydroxylation is catalysed by prolyl-4-hydroxylases (PHD isozymes in humans) which are iron(II) and 2-oxoglutarate dependent oxygenases. Mutation of the arginine proposed to bind 2-oxoglutarate and of the 2His-1-carboxylate iron(II) binding motif in PHD1 dramatically reduces its activity. The source of the oxygen of the product alcohol is (>95%) dioxygen.

@@ -1,0 +1,8 @@
+*	Equiv T2 T3 T4
+T9	DNA_methylation 1315 1326	methylation
+T10	Entity 1408 1425	CpG-dinucleotides
+T11	DNA_methylation 1558 1573	hypomethylation
+T12	Entity 1586 1594	promoter
+E1	DNA_methylation:T9 Theme:T7 Site:T10
+E2	DNA_methylation:T11 Theme:T8 Site:T12
+M1	Negation E2

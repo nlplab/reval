@@ -1,0 +1,26 @@
+T21	Acetylation 223 237	hypoacetylated
+T22	Acetylation 267 282	hyperacetylated
+T23	Acetylation 687 697	acetylated
+T24	Catalysis 687 697	acetylated
+T25	Entity 701 720	lysine residues 170
+T26	Entity 722 725	171
+T27	Entity 727 730	206
+T28	Entity 736 739	208
+T29	Entity 897 907	Lysine 170
+T30	Acetylation 912 922	acetylated
+T31	Acetylation 1003 1014	acetylation
+T32	Acetylation 1180 1191	acetylation
+E1	Acetylation:T21 Theme:T4 Contextgene:T3
+M1	Negation E1
+E2	Acetylation:T22 Theme:T4 Contextgene:T3
+E3	Catalysis:T24 Theme:E10 Cause:T13
+E4	Acetylation:T23 Theme:T12 Site:T25
+E5	Catalysis:T24 Theme:E4 Cause:T13
+E6	Acetylation:T23 Theme:T12 Site:T26
+E7	Catalysis:T24 Theme:E6 Cause:T13
+E8	Acetylation:T23 Theme:T12 Site:T27
+E9	Catalysis:T24 Theme:E8 Cause:T13
+E10	Acetylation:T23 Theme:T12 Site:T28
+E11	Acetylation:T30 Theme:T18 Site:T29
+E12	Acetylation:T31 Theme:T18
+E13	Acetylation:T32 Theme:T19 Contextgene:T3

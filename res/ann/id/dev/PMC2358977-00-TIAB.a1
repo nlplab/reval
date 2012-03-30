@@ -1,0 +1,39 @@
+T1	Two-component-system 0 9	SalK/SalR
+T2	Protein 0 4	SalK
+T3	Protein 5 9	SalR
+T4	Organism 106 135	Streptococcus suis Serotype 2
+T5	Organism 148 177	Streptococcus suis serotype 2
+T6	Organism 179 188	S. suis 2
+T7	Organism 190 193	SS2
+T8	Organism 293 298	human
+T9	Organism 299 302	SS2
+T10	Organism 622 625	SS2
+T11	Two-component-system 798 807	SalK/SalR
+T12	Protein 798 802	SalK
+T13	Protein 803 807	SalR
+T14	Organism 829 853	Streptococcus salivarius
+T15	Two-component-system 867 872	salKR
+T16	Protein 867 871	salK
+T17	Protein 871 872	R
+T18	Organism 901 904	SS2
+T19	Organism 934 941	piglets
+T20	Two-component-system 973 978	salKR
+T21	Protein 973 977	salK
+T22	Protein 977 978	R
+T23	Organism 988 1014	isogenic mutant DeltasalKR
+T24	Two-component-system 1009 1014	salKR
+T25	Protein 1009 1013	salK
+T26	Protein 1013 1014	R
+T27	Organism 1092 1109	DeltasalKR mutant
+T28	Two-component-system 1097 1102	salKR
+T29	Protein 1097 1101	salK
+T30	Protein 1101 1102	R
+T31	Organism 1155 1162	piglets
+T32	Organism 1446 1463	DeltasalKR mutant
+T33	Two-component-system 1451 1456	salKR
+T34	Protein 1451 1455	salK
+T35	Protein 1455 1456	R
+T36	Two-component-system 1518 1527	SalK/SalR
+T37	Protein 1518 1522	SalK
+T38	Protein 1523 1527	SalR
+T39	Organism 1612 1615	SS2

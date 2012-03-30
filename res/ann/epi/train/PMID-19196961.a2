@@ -1,0 +1,10 @@
+*	Equiv T3 T4
+*	Equiv T7 T8
+T19	Catalysis 5 14	regulates
+T20	Ubiquitination 44 58	ubiquitination
+T21	Catalysis 528 541	ubiquitinates
+T22	Ubiquitination 528 541	ubiquitinates
+E1	Catalysis:T19 Theme:E2 Cause:T1
+E2	Ubiquitination:T20 Theme:T2
+E3	Ubiquitination:T22 Theme:T10
+E4	Catalysis:T21 Theme:E3 Cause:T7

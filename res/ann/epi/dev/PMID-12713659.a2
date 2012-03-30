@@ -1,0 +1,10 @@
+*	Equiv T2 T3
+*	Equiv T17 T18
+T15	Glycosylation 22 35	glycosylation
+T16	Glycosylation 315 327	glycosylated
+T17	Entity 766 794	glycosylphosphatidylinositol
+T18	Entity 796 799	GPI
+T19	Glycosylation 1088 1101	glycosylation
+E1	Glycosylation:T15 Theme:T1
+E2	Glycosylation:T16 Theme:T2
+E3	Glycosylation:T19 Theme:T14

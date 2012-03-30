@@ -1,0 +1,9 @@
+*	Equiv T3 T4
+T18	Entity 1102 1110	promoter
+T19	DNA_methylation 1111 1122	methylation
+T20	Deacetylation 1135 1148	deacetylation
+T21	Acetylation 2488 2499	acetylation
+E1	DNA_methylation:T19 Theme:T9 Site:T18
+E2	Deacetylation:T20 Theme:T8 Contextgene:T9
+E3	Acetylation:T21 Theme:T17 Contextgene:T16
+M1	Speculation E3

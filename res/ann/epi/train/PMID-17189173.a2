@@ -1,0 +1,8 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+*	Equiv T9 T10
+T18	Glycosylation 0 13	Glycosylation
+T19	Glycosylation 488 501	glycosylation
+E1	Glycosylation:T18 Theme:T1
+E2	Glycosylation:T19 Theme:T12
+M1	Speculation E2

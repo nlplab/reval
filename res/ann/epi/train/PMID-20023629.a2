@@ -1,0 +1,6 @@
+T20	Deubiquitination 655 662	removes
+T21	Catalysis 655 662	removes
+T22	Ubiquitination 1006 1024	polyubiquitination
+E1	Deubiquitination:T20 Theme:T10
+E2	Catalysis:T21 Theme:E1 Cause:T9
+E3	Ubiquitination:T22 Theme:T17

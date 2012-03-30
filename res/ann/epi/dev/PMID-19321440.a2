@@ -1,0 +1,10 @@
+T22	Catalysis 401 409	promotes
+T23	Ubiquitination 416 430	ubiquitination
+T24	Catalysis 684 692	promotes
+T25	Ubiquitination 697 711	ubiquitination
+E1	Catalysis:T22 Theme:E3 Cause:T4
+E2	Catalysis:T22 Theme:E4 Cause:T4
+E3	Ubiquitination:T23 Theme:T5
+E4	Ubiquitination:T23 Theme:T6
+E5	Catalysis:T24 Theme:E6 Cause:T12
+E6	Ubiquitination:T25 Theme:T13

@@ -1,0 +1,121 @@
+T1	Protein 133 137	sohB
+T2	Organism 303 323	Haemophilus parasuis
+T3	Organism 325 347	Neisseria meningitidis
+T4	Organism 352 366	N. gonorrhoeae
+T5	Organism 382 401	A. pleuropneumoniae
+T6	Protein 781 785	apfB
+T7	Protein 790 794	apfC
+T8	Protein 845 849	ApfB
+T9	Protein 854 858	ApfC
+T10	Organism 917 936	A. pleuropneumoniae
+T11	Protein 1249 1257	APL_0220
+T12	Protein 1284 1288	CscG
+T13	Organism 1437 1444	E. coli
+T14	Organism 1449 1471	Salmonella enteritidis
+T15	Protein 1581 1585	CscG
+T16	Protein 1696 1700	cscG
+T17	Regulon-operon 1764 1771	cscDEFG
+T18	Protein 1764 1768	cscD
+T19	Protein 1768 1769	E
+T20	Protein 1769 1770	F
+T21	Protein 1770 1771	G
+T22	Organism 1776 1799	A. pleuropneumoniae L20
+T23	Protein 1837 1845	APL_0220
+T24	Protein 1885 1893	APL_0221
+T25	Protein 1898 1906	APL_0222
+T26	Protein 1992 1996	kpsF
+T27	Chemical 2144 2173	2-keto-3deozyoctulosonic acid
+T28	Chemical 2175 2178	Kdo
+T29	Organism 2205 2224	A. pleuropneumoniae
+T30	Chemical 2225 2228	LPS
+T31	Organism 2270 2280	serotype 5
+T32	Chemical 2408 2411	LPS
+T33	Regulon-operon 2785 2800	maltose operon,
+T34	Chemical 2842 2849	maltose
+T35	Protein 2885 2889	malP
+T36	Protein 2891 2895	malK
+T37	Protein 2903 2907	malG
+T38	Protein 2909 2913	malQ
+T39	Protein 2920 2924	malM
+T40	Protein 2934 2942	APL_1234
+T41	Protein 3023 3028	lamB1
+T42	Protein 3048 3058	maltoporin
+T43	Organism 3191 3198	E. coli
+T44	Chemical 3265 3272	maltose
+T45	Chemical 3277 3289	maltodextrin
+T46	Chemical 3329 3336	maltose
+T47	Chemical 3340 3352	maltodextrin
+T48	Chemical 3448 3460	maltodextrin
+T49	Organism 3529 3550	Group A Streptococcus
+T50	Organism 3675 3682	E. coli
+T51	Organism 3847 3854	E. coli
+T52	Organism 4151 4170	A. pleuropneumoniae
+T53	Organism 4186 4190	pigs
+T54	Protein 4387 4391	hybB
+T55	Protein 4407 4420	hydrogenase 2
+T56	Chemical 4550 4569	phosphoenolpyruvate
+T57	Chemical 4586 4594	fumarate
+T58	Protein 4646 4650	pepC
+T59	Protein 4655 4659	frdC
+T60	Protein 4828 4832	dmsA
+T61	Protein 4834 4838	aspA
+T62	Protein 4843 4847	hlyX
+T63	Protein 4915 4919	dmsA
+T64	Protein 5001 5005	hlyX
+T65	Protein 5168 5172	HlyX
+T66	Organism 5254 5273	A. pleuropneumoniae
+T67	Protein 5384 5388	HlyX
+T68	Protein 5413 5417	dnaX
+T69	Protein 5419 5423	visC
+T70	Protein 5425 5429	dsbC
+T71	Protein 5431 5435	mazG
+T72	Protein 5437 5441	amiB
+T73	Protein 5443 5447	cpxC
+T74	Protein 5449 5453	dacA
+T75	Protein 5455 5459	rpoZ
+T76	Protein 5461 5469	APL_0086
+T77	Protein 5471 5479	APL_1597
+T78	Protein 5481 5489	APL_1802
+T79	Protein 5494 5502	APL_2043
+T80	Protein 5547 5551	sohB
+T81	Protein 5553 5557	mglB
+T82	Protein 5559 5563	hybB
+T83	Protein 5565 5573	APL_0096
+T84	Protein 5578 5586	APL_0920
+T85	Protein 5698 5702	phoR
+T86	Protein 5740 5744	PhoR
+T87	Organism 5796 5803	E. coli
+T88	Regulon-operon 5942 5959	phosphate regulon
+T89	Organism 5963 5970	E. coli
+T90	Protein 6074 6078	phoR
+T91	Protein 6080 6084	phoB
+T92	Two-component-system 6213 6218	phoBR
+T93	Protein 6213 6217	phoB
+T94	Protein 6217 6218	R
+T95	Organism 6444 6474	A. pleuropneumoniae strain L20
+T96	Regulon-operon 6516 6523	ptsSCAB
+T97	Protein 6516 6520	ptsS
+T98	Protein 6520 6521	C
+T99	Protein 6521 6522	A
+T100	Protein 6522 6523	B
+T101	Two-component-system 6524 6529	phoBR
+T102	Protein 6524 6528	phoB
+T103	Protein 6528 6529	R
+T104	Protein 6545 6549	phoR
+T105	Organism 6745 6764	A. pleuropneumoniae
+T106	Two-component-system 6765 6770	PhoBR
+T107	Protein 6765 6769	PhoB
+T108	Protein 6769 6770	R
+T109	Protein 6947 6955	APL_0628
+T110	Protein 6968 6972	cpxA
+T111	Organism 6995 6999	EPEC
+T112	Organism 7004 7008	UPEC
+T113	Two-component-system 7022 7027	CpxAR
+T114	Protein 7022 7026	CpxA
+T115	Protein 7026 7027	R
+T116	Organism 7134 7137	L20
+T117	Protein 7138 7142	cpxA
+T118	Protein 7249 7253	cpxA
+T119	Protein 7278 7282	cpxR
+T120	Protein 7284 7292	APL_0629
+T121	Protein 7304 7312	APL_0627

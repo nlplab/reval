@@ -1,0 +1,25 @@
+*	Equiv T1 T2
+*	Equiv T5 T6 T7
+T32	Process 126 136	infections
+T33	Process 325 333	virulent
+T34	Process 512 530	infectious disease
+T35	Process 970 980	infections
+T36	Process 1225 1234	virulence
+T37	Process 1401 1409	virulent
+T38	Process 1689 1697	virulent
+T39	Process 2238 2247	virulence
+T40	Regulation 2487 2496	regulated
+T41	Process 3229 3238	Virulence
+T42	Process 3369 3378	virulence
+E1	Process:T32 Participant:T1
+E2	Process:T33 Participant:T5
+E3	Process:T34 Participant:T10
+E4	Process:T35 
+E5	Process:T36 Participant:T11
+E6	Process:T37 Participant:T13
+E7	Process:T37 Participant:T14
+E8	Process:T38 
+E9	Process:T39 
+E10	Regulation:T40 Theme:T18
+E11	Process:T41 
+E12	Process:T42 Participant:T31

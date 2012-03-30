@@ -1,0 +1,19 @@
+T48	Process 473 481	virulent
+T49	Process 2728 2734	infect
+T50	Process 2967 2977	infections
+T51	Process 3076 3084	attended
+T52	Process 3109 3119	infections
+T53	Process 3643 3652	virulence
+T54	Gene_expression 4578 4585	produce
+T55	Process 5674 5683	infection
+T56	Process 5872 5881	virulence
+E1	Process:T48 
+E2	Process:T49 Participant:T30
+E3	Process:T50 
+E4	Process:T51 
+E5	Process:T52 Participant:T36
+E6	Process:T53 
+E7	Gene_expression:T54 Theme:T43
+E8	Gene_expression:T54 Theme:T44
+E9	Process:T55 
+E10	Process:T56 

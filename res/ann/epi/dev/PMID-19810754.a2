@@ -1,0 +1,5 @@
+T19	Catalysis 380 388	mediates
+T20	Entity 389 392	K63
+T21	Ubiquitination 400 418	polyubiquitination
+E1	Catalysis:T19 Theme:E2 Cause:T3
+E2	Ubiquitination:T21 Theme:T6 Site:T20

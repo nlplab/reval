@@ -1,0 +1,5 @@
+*	Equiv T3 T4
+T32	Acetylation 1359 1375	hyperacetylation
+T33	Acetylation 1768 1784	hyperacetylation
+E1	Acetylation:T32 Theme:T19 Contextgene:T20
+E2	Acetylation:T33 Theme:T29

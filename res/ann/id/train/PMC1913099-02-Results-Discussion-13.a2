@@ -1,0 +1,12 @@
+T31	Process 616 625	infection
+T32	Positive_regulation 2045 2056	upregulated
+T33	Process 2124 2133	virulence
+T34	Process 2695 2704	virulence
+T35	Regulation 2789 2798	regulated
+E1	Process:T31 
+E2	Positive_regulation:T32 Theme:T7
+E3	Positive_regulation:T32 Theme:T10
+E4	Process:T33 
+E5	Process:T34 
+E6	Regulation:T35 Theme:T17
+E7	Regulation:T35 Theme:T18

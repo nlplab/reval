@@ -1,0 +1,57 @@
+T86	Positive_regulation 228 235	cleaves
+T87	Protein_catabolism 228 235	cleaves
+T88	Positive_regulation 480 486	cleave
+T89	Protein_catabolism 480 486	cleave
+T90	Positive_regulation 510 516	cleave
+T91	Protein_catabolism 510 516	cleave
+T92	Protein_catabolism 819 828	Cleavable
+T93	Protein_catabolism 862 875	non-cleavable
+T94	Positive_regulation 1004 1016	cleavability
+T95	Positive_regulation 1079 1088	cleavable
+T96	Protein_catabolism 1079 1088	cleavable
+T97	Protein_catabolism 1151 1158	cleaved
+T98	Positive_regulation 1202 1209	cleaved
+T99	Protein_catabolism 1202 1209	cleaved
+T100	Positive_regulation 1403 1409	cleave
+T101	Protein_catabolism 1403 1409	cleave
+T102	Gene_expression 2126 2134	produced
+T103	Regulation 2186 2196	controlled
+T104	Process 2290 2299	virulence
+T105	Regulation 2470 2479	regulated
+E1	Protein_catabolism:T87 Theme:T9
+E2	Positive_regulation:T86 Theme:E1 Cause:T7
+E3	Protein_catabolism:T89 Theme:T19
+E4	Positive_regulation:T88 Theme:E3 Cause:T15
+E5	Positive_regulation:T88 Theme:E3 Cause:T17
+E6	Protein_catabolism:T91 Theme:T21
+E7	Positive_regulation:T90 Theme:E6 Cause:T15
+M1	Negation E7
+E8	Positive_regulation:T90 Theme:E6 Cause:T17
+M2	Negation E8
+E9	Protein_catabolism:T92 Theme:T26
+E10	Protein_catabolism:T93 Theme:T28
+E11	Positive_regulation:T94 Theme:E9 Cause:T29
+E12	Positive_regulation:T94 Theme:E9 Cause:T31
+E13	Positive_regulation:T94 Theme:E10 Cause:T29
+M3	Negation E13
+E14	Positive_regulation:T94 Theme:E10 Cause:T31
+M4	Negation E14
+E15	Protein_catabolism:T96 Theme:T33
+M5	Speculation E15
+E16	Positive_regulation:T95 Theme:E15 Cause:T34
+M6	Speculation E16
+E17	Protein_catabolism:T97 Theme:T36
+M7	Negation E17
+M8	Speculation E17
+E18	Protein_catabolism:T99 Theme:T38
+E19	Positive_regulation:T98 Theme:E18 Cause:T39
+M9	Negation E19
+E20	Protein_catabolism:T101 Theme:T46
+E21	Positive_regulation:T100 Theme:E20 Cause:T44
+E22	Gene_expression:T102 Theme:T63
+M10	Negation E22
+E23	Gene_expression:T102 Theme:T65
+E24	Regulation:T103 Theme:T66 Cause:T67
+E25	Process:T104 
+E26	Regulation:T105 Theme:T71
+E27	Regulation:T105 Theme:T72

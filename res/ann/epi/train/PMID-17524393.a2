@@ -1,0 +1,14 @@
+T7	Acetylation 36 47	acetylation
+T8	Deacetylation 371 384	deacetylation
+T9	Deacetylation 528 541	deacetylation
+T10	Deacetylation 752 765	deacetylation
+T11	Deacetylation 880 893	deacetylation
+T12	Deacetylation 1265 1278	deacetylation
+E1	Acetylation:T7 Theme:T1
+E2	Deacetylation:T8 Theme:T2
+E3	Deacetylation:T9 Theme:T3
+E4	Deacetylation:T10 Theme:T4
+E5	Deacetylation:T10 Theme:T5
+E6	Deacetylation:T11 Theme:T4
+E7	Deacetylation:T11 Theme:T5
+E8	Deacetylation:T12 Theme:T6

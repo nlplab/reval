@@ -1,0 +1,8 @@
+*	Equiv T5 T6
+T14	Acetylation 27 43	hyperacetylation
+T15	Acetylation 690 705	Hyperacetylated
+T16	Phosphorylation 871 890	hypophosphorylation
+E1	Acetylation:T14 Theme:T1
+E2	Acetylation:T15 Theme:T4
+E3	Phosphorylation:T16 Theme:T5
+M1	Negation E3

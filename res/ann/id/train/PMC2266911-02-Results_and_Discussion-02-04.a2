@@ -1,0 +1,41 @@
+*	Equiv T2 T3
+*	Equiv T43 T44
+*	Equiv T63 T64
+*	Equiv T65 T66
+T114	Positive_regulation 86 95	essential
+T115	Process 100 109	virulence
+T116	Process 354 363	virulence
+T117	Process 425 434	infection
+T118	Process 740 749	virulence
+T119	Regulation 750 760	associated
+T120	Process 1765 1774	virulence
+T121	Process 2020 2029	virulence
+T122	Process 2546 2555	virulence
+T123	Process 2695 2704	virulence
+T124	Process 2991 3000	virulence
+T125	Process 3502 3511	virulence
+T126	Binding 4778 4786	interact
+T127	Process 5683 5692	infection
+T128	Regulation 5896 5904	involved
+T129	Process 5912 5921	infection
+T130	Process 6035 6044	infection
+E1	Positive_regulation:T114 Theme:E2 Cause:T2
+E2	Process:T115 Participant:T1
+E3	Process:T116 
+E4	Process:T117 Participant:T6
+E5	Process:T118 
+E6	Regulation:T119 Theme:E5 Cause:T10
+E7	Process:T120 Participant:T32
+E8	Process:T121 Participant:T33
+E9	Process:T122 
+E10	Process:T123 Participant:T39
+E11	Process:T123 Participant:T40
+E12	Process:T124 Participant:T41
+E13	Process:T124 Participant:T42
+E14	Process:T125 
+E15	Binding:T126 Theme:T85
+E16	Process:T127 
+E17	Regulation:T128 Theme:E19 Cause:T110
+E18	Regulation:T128 Theme:E19 Cause:T111
+E19	Process:T129 Participant:T112
+E20	Process:T130 Participant:T113

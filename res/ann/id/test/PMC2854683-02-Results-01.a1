@@ -1,0 +1,20 @@
+T1	Organism 135 143	M1T1 GAS
+T2	Chemical 268 274	carbon
+T3	Chemical 279 287	nitrogen
+T4	Chemical 311 315	salt
+T5	Organism 438 444	AP GAS
+T6	Organism 524 526	AP
+T7	Chemical 584 608	N-acetyl-neuraminic acid
+T8	Chemical 732 736	EGTA
+T9	Chemical 762 796	5-chloro-7-iodo-8-hydroxyquinoline
+T10	Chemical 818 828	tobramycin
+T11	Chemical 833 843	cefotaxime
+T12	Organism 1047 1049	AP
+T13	Organism 1203 1205	AP
+T14	Protein 1257 1262	pilin
+T15	Chemical 1432 1447	hyaluronic acid
+T16	Organism 1457 1459	AP
+T17	Organism 1572 1574	AP
+T18	Organism 1785 1788	GAS
+T19	Organism 1821 1824	GAS
+T20	Organism 1945 1947	AP

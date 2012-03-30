@@ -1,0 +1,7 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+*	Equiv T16 T17
+T23	Catalysis 644 652	promotes
+T24	Ubiquitination 657 671	ubiquitination
+E1	Catalysis:T23 Theme:E2 Cause:T7
+E2	Ubiquitination:T24 Theme:T8

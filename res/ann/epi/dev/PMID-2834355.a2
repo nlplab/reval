@@ -1,0 +1,16 @@
+T9	Acetylation 19 30	acetylation
+T10	Acetylation 172 182	acetylated
+T11	Acetylation 314 324	acetylated
+T12	Acetylation 477 492	hyperacetylated
+T13	Acetylation 560 574	non-acetylated
+T14	Acetylation 578 592	hypoacetylated
+T15	Acetylation 613 628	hyperacetylated
+E1	Acetylation:T9 Theme:T1
+E2	Acetylation:T10 Theme:T2
+E3	Acetylation:T11 Theme:T3
+E4	Acetylation:T12 Theme:T4
+E5	Acetylation:T13 Theme:T5
+M1	Negation E5
+E6	Acetylation:T14 Theme:T5
+M2	Negation E6
+E7	Acetylation:T15 Theme:T6

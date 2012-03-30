@@ -1,0 +1,6 @@
+T11	Acetylation 745 756	acetylation
+T12	Acetylation 835 846	acetylation
+T13	Methylation 851 862	methylation
+E1	Acetylation:T11 Theme:T8 Contextgene:T5
+E2	Acetylation:T12 Theme:T9 Contextgene:T5
+E3	Methylation:T13 Theme:T9 Contextgene:T5

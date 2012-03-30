@@ -1,0 +1,11 @@
+*	Equiv T2 T3
+T11	Glycosylation 1017 1031	unglycosylated
+T12	Glycosylation 1036 1050	O-glycosylated
+T13	Entity 1225 1231	GalNAc
+T14	Entity 1252 1271	Gal(beta 1-3)GalNAc
+T15	Glycosylation 1310 1318	attached
+T16	Entity 1334 1337	Thr
+E1	Glycosylation:T11 Theme:T4
+E2	Glycosylation:T12 Theme:T4
+E3	Glycosylation:T15 Theme:T7 Site:T16 Sidechain:T13
+E4	Glycosylation:T15 Theme:T7 Site:T16 Sidechain:T14

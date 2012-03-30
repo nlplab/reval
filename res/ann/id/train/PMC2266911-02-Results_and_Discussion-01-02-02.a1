@@ -1,0 +1,34 @@
+T1	Chemical 14 18	AI-2
+T2	Chemical 27 30	AHL
+T3	Chemical 120 134	autoinductor 2
+T4	Chemical 136 140	AI-2
+T5	Chemical 143 167	furanosyl borate diester
+T6	Protein 197 201	luxS
+T7	Organism 253 267	P. luminescens
+T8	Organism 272 289	Y. enterocolitica
+T9	Protein 291 298	plu1253
+T10	Protein 300 306	ye0839
+T11	Protein 336 340	luxS
+T12	Chemical 397 407	carbapenem
+T13	Organism 435 449	P. luminescens
+T14	Chemical 479 483	AI-2
+T15	Organism 591 605	P. luminescens
+T16	Protein 643 648	tcdA1
+T17	Protein 653 658	tccC1
+T18	Protein 735 739	mcf2
+T19	Protein 807 811	luxS
+T20	Organism 827 843	DeltaluxS mutant
+T21	Protein 832 836	luxS
+T22	Protein 928 932	CcdB
+T23	Protein 966 970	HlyD
+T24	Protein 972 979	Plu0635
+T25	Two-component-system 1021 1030	RtxD/RtxB
+T26	Protein 1021 1025	RtxD
+T27	Protein 1026 1030	RtxB
+T28	Organism 1076 1093	Y. enterocolitica
+T29	Chemical 1151 1155	AI-2
+T30	Organism 1197 1232	P. luminescens luxS-negative strain
+T31	Protein 1212 1216	luxS
+T32	Chemical 1411 1415	AI-2
+T33	Chemical 1581 1585	AI-2
+T34	Chemical 1678 1681	AHL

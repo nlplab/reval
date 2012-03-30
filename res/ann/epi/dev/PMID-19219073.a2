@@ -1,0 +1,22 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+*	Equiv T10 T11
+T26	Ubiquitination 0 14	Ubiquitination
+T27	Ubiquitination 411 425	ubiquitination
+T28	Ubiquitination 432 446	ubiquitination
+T29	Entity 472 484	Lys residues
+T30	Catalysis 523 531	enhanced
+T31	Ubiquitination 703 717	ubiquitination
+T32	Catalysis 808 816	mediated
+T33	Ubiquitination 817 831	ubiquitination
+T34	Ubiquitination 997 1015	monoubiquitination
+T35	Ubiquitination 1165 1179	ubiquitination
+E1	Ubiquitination:T26 Theme:T1
+E2	Ubiquitination:T27 Theme:T8
+E3	Ubiquitination:T28 Theme:T9 Site:T29
+E4	Catalysis:T30 Theme:E3 Cause:T10
+E5	Ubiquitination:T31 Theme:T15
+E6	Catalysis:T32 Theme:E7 Cause:T19
+E7	Ubiquitination:T33 Theme:T18
+E8	Ubiquitination:T34 Theme:T24
+E9	Ubiquitination:T35 Theme:T25

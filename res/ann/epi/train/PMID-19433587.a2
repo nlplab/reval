@@ -1,0 +1,11 @@
+*	Equiv T7 T8
+T20	Ubiquitination 55 69	ubiquitination
+T21	Ubiquitination 576 590	ubiquitination
+T22	Ubiquitination 742 756	ubiquitination
+T23	Ubiquitination 1552 1566	ubiquitination
+E1	Ubiquitination:T20 Theme:T2
+E2	Ubiquitination:T20 Theme:T3
+E3	Ubiquitination:T21 Theme:T9
+E4	Ubiquitination:T22 Theme:T11
+E5	Ubiquitination:T23 Theme:T18
+E6	Ubiquitination:T23 Theme:T19

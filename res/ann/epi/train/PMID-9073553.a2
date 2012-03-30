@@ -1,0 +1,11 @@
+*	Equiv T3 T4
+T18	Deglycosylation 0 15	Deglycosylation
+T19	Catalysis 0 15	Deglycosylation
+T20	Deglycosylation 992 1007	deglycosylation
+T21	Catalysis 992 1007	deglycosylation
+T22	Deglycosylation 1270 1284	Deglycosylated
+E1	Deglycosylation:T18 Theme:T1
+E2	Catalysis:T19 Theme:E1 Cause:T2
+E3	Deglycosylation:T20 Theme:T12
+E4	Catalysis:T21 Theme:E3 Cause:T13
+E5	Deglycosylation:T22 Theme:T16

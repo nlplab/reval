@@ -1,0 +1,10 @@
+T8	Ubiquitination 37 55	polyubiquitination
+T9	Ubiquitination 265 281	polyubiquitinate
+T10	Entity 282 300	lysine residue 225
+T11	Entity 365 383	lysine residue 219
+T12	Ubiquitination 438 456	polyubiquitination
+T13	Ubiquitination 927 941	ubiquitination
+E1	Ubiquitination:T8 Theme:T1
+E2	Ubiquitination:T9 Theme:T4 Site:T10
+E3	Ubiquitination:T12 Theme:T5 Site:T11
+E4	Ubiquitination:T13 Theme:T7

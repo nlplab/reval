@@ -1,0 +1,18 @@
+*	Equiv T4 T7
+*	Equiv T12 T15
+*	Equiv T18 T21
+*	Equiv T31 T32
+T34	Process 199 209	infections
+T35	Negative_regulation 645 657	Inactivation
+T36	Negative_regulation 902 917	discontinuation
+T37	Gene_expression 942 952	expression
+E1	Process:T34 Participant:T3
+E2	Negative_regulation:T35 Theme:T25
+E3	Negative_regulation:T35 Theme:T26
+E4	Negative_regulation:T35 Theme:T27
+E5	Negative_regulation:T36 Theme:E9
+E6	Negative_regulation:T36 Theme:E10
+E7	Negative_regulation:T36 Theme:E8
+E8	Gene_expression:T37 Theme:T30
+E9	Gene_expression:T37 Theme:T28
+E10	Gene_expression:T37 Theme:T29

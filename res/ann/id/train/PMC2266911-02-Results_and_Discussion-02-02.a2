@@ -1,0 +1,18 @@
+*	Equiv T4 T5
+*	Equiv T10 T11
+*	Equiv T23 T24
+T53	Process 138 147	infection
+T54	Binding 371 379	interact
+T55	Gene_expression 965 974	expressed
+T56	Gene_expression 1187 1195	produces
+T57	Process 1436 1445	virulence
+T58	Regulation 2000 2010	contribute
+T59	Process 2018 2027	infection
+E1	Process:T53 
+E2	Binding:T54 Theme:T1
+E3	Binding:T54 Theme:T2
+E4	Gene_expression:T55 Theme:T23
+E5	Gene_expression:T56 Theme:T31
+E6	Process:T57 
+E7	Regulation:T58 Theme:E8
+E8	Process:T59 

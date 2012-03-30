@@ -1,0 +1,15 @@
+T10	Acetylation 99 110	acetylation
+T11	Acetylation 758 768	acetylated
+T12	Methylation 804 814	methylated
+T13	Entity 815 817	K9
+T14	Entity 822 825	K27
+T15	Acetylation 923 934	Acetylation
+T16	Acetylation 1335 1346	acetylation
+E1	Acetylation:T10 Theme:T1
+E2	Acetylation:T11 Theme:T3
+E3	Acetylation:T11 Theme:T4
+E4	Methylation:T12 Theme:T5 Site:T13
+E5	Methylation:T12 Theme:T5 Site:T14
+E6	Methylation:T12 Theme:T6
+E7	Acetylation:T15 Theme:T7
+E8	Acetylation:T16 Theme:T9

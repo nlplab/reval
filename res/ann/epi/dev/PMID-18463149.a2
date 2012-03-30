@@ -1,0 +1,12 @@
+T21	Catalysis 92 105	ubiquitinates
+T22	Ubiquitination 92 105	ubiquitinates
+T23	Catalysis 1403 1415	ubiquitinate
+T24	Ubiquitination 1403 1415	ubiquitinate
+T25	Ubiquitination 1474 1487	ubiquitinated
+T26	Ubiquitination 1513 1527	ubiquitination
+E1	Ubiquitination:T22 Theme:T3
+E2	Catalysis:T21 Theme:E1 Cause:T1
+E3	Ubiquitination:T24 Theme:T18
+E4	Catalysis:T23 Theme:E3 Cause:T17
+E5	Ubiquitination:T25 Theme:T19
+E6	Ubiquitination:T26 Theme:T20

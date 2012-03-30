@@ -1,0 +1,20 @@
+T1	Protein 14 18	RpoE
+T2	Protein 55 59	ssrB
+T3	Protein 96 100	rpoE
+T4	Protein 113 117	SsrB
+T5	Protein 153 157	RpoE
+T6	Protein 199 203	ssrB
+T7	Protein 246 250	ssrB
+T8	Organism 259 268	DeltarpoE
+T9	Protein 264 268	rpoE
+T10	Regulon-operon 297 307	ssrB::FLAG
+T11	Protein 297 301	ssrB
+T12	Protein 347 351	SsrB
+T13	Regulon-operon 429 438	SsrB-FLAG
+T14	Protein 429 433	SsrB
+T15	Organism 461 470	DeltarpoE
+T16	Protein 466 470	rpoE
+T17	Protein 520 524	RpoE
+T18	Protein 623 627	SsrB
+T19	Protein 685 689	RpoE
+T20	Organism 741 755	S. Typhimurium

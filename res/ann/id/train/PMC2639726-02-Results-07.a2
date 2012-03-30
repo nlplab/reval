@@ -1,0 +1,23 @@
+T31	Binding 66 71	binds
+T32	Regulation 196 206	regulation
+T33	Regulation 303 311	regulate
+T34	Binding 328 335	binding
+T35	Entity 339 340	P
+T36	Binding 366 373	binding
+T37	Entity 377 378	P
+T38	Binding 394 401	binding
+T39	Entity 405 406	P
+T40	Gene_expression 522 532	expression
+T41	Gene_expression 816 826	Expression
+T42	Positive_regulation 855 863	resulted
+T43	Gene_expression 1284 1299	over-expression
+E1	Binding:T31 Theme:T2
+E2	Regulation:T32 Theme:T3
+E3	Regulation:T33 Theme:T4
+E4	Binding:T34 Theme1:T7 Theme2:T8 Site2:T35
+E5	Binding:T36 Theme1:T11 Theme2:T12 Site2:T37
+E6	Binding:T38 Theme1:T13 Theme2:T14 Site2:T39
+E7	Gene_expression:T40 Theme:T15
+E8	Gene_expression:T41 Theme:T17
+E9	Positive_regulation:T42 Theme:E8
+E10	Gene_expression:T43 Theme:T30

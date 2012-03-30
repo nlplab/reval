@@ -1,0 +1,36 @@
+T1	Organism 87 99	Photorhabdus
+T2	Organism 104 115	Xenorhabdus
+T3	Protein 227 231	aceE
+T4	Protein 233 237	aceK
+T5	Protein 242 245	dld
+T6	Chemical 295 305	glyoxylate
+T7	Organism 336 352	X. koppenhoeferi
+T8	Protein 377 381	kdgK
+T9	Protein 386 390	pckA
+T10	Chemical 428 431	TCA
+T11	Organism 458 470	P. temperata
+T12	Chemical 501 504	TCA
+T13	Organism 600 614	P. luminescens
+T14	Organism 634 647	G. mellonella
+T15	Organism 671 686	Vibrio cholerae
+T16	Organism 712 716	mice
+T17	Chemical 795 801	biotin
+T18	Chemical 818 821	TCA
+T19	Chemical 888 902	carbon dioxide
+T20	Protein 936 940	bioB
+T21	Chemical 1001 1004	TCA
+T22	Organism 1026 1038	P. temperata
+T23	Protein 1199 1203	cysK
+T24	Organism 1212 1224	P. temperata
+T25	Organism 1321 1337	X. koppenhoeferi
+T26	Protein 1341 1345	lysC
+T27	Organism 1377 1389	P. temperata
+T28	Protein 1680 1684	CysS
+T29	Organism 1787 1799	P. temperata
+T30	Protein 1939 1943	clpP
+T31	Organism 1993 2009	X. koppenhoeferi
+T32	Protein 2161 2165	lspA
+T33	Organism 2182 2194	P. temperata
+T34	Protein 2258 2262	lspA
+T35	Protein 2403 2407	lspA
+T36	Organism 2440 2452	P. temperata

@@ -1,0 +1,18 @@
+*	Equiv T2 T3
+*	Equiv T6 T7
+T25	Catalysis 43 51	promotes
+T26	Ubiquitination 56 70	ubiquitylation
+T27	Ubiquitination 184 198	ubiquitylation
+T28	Deubiquitination 203 219	deubiquitylation
+T29	Ubiquitination 670 684	ubiquitylation
+T30	Entity 703 713	lysine 123
+T31	Methylation 721 732	methylation
+T32	Entity 736 745	lysines 4
+T33	Entity 750 752	79
+E1	Catalysis:T25 Theme:E2 Cause:T2
+E2	Ubiquitination:T26 Theme:T4
+E3	Ubiquitination:T27 Theme:T5
+E4	Deubiquitination:T28 Theme:T5
+E5	Ubiquitination:T29 Theme:T15 Site:T30
+E6	Methylation:T31 Theme:T16 Site:T32
+E7	Methylation:T31 Theme:T16 Site:T33

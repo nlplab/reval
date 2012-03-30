@@ -1,0 +1,4 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+T20	Ubiquitination 720 738	monoubiquitination
+E1	Ubiquitination:T20 Theme:T14

@@ -1,0 +1,16 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+T11	Glycosylation 108 124	hypoglycosylated
+T12	Glycosylation 510 522	glycosylated
+T13	Glycosylation 1014 1022	N-linked
+T14	Entity 1023 1045	oligosaccharide chains
+T15	Glycosylation 1410 1426	hypoglycosylated
+T16	Glycosylation 1607 1625	underglycosylation
+E1	Glycosylation:T11 Theme:T1
+M1	Negation E1
+E2	Glycosylation:T12 Theme:T7
+E3	Glycosylation:T13 Theme:T8 Sidechain:T14
+E4	Glycosylation:T15 Theme:T9
+M2	Negation E4
+E5	Glycosylation:T16 Theme:T10
+M3	Negation E5

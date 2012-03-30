@@ -1,0 +1,20 @@
+*	Equiv T2 T3
+*	Equiv T6 T7
+T13	Glycosylation 24 37	glycosylation
+T14	Glycosylation 271 283	glycosylated
+T15	Glycosylation 483 505	O-linked glycosylation
+T16	Entity 706 713	Pro(11)
+T17	Entity 718 725	Ser(17)
+T18	Hydroxylation 760 772	hydroxylated
+T19	Phosphorylation 777 791	phosphorylated
+T20	Entity 932 939	Ser(86)
+T21	Glycosylation 959 981	O-linked glycosylation
+T22	Glycosylation 1224 1236	glycosylated
+E1	Glycosylation:T13 Theme:T1
+E2	Glycosylation:T14 Theme:T4
+M1	Speculation E2
+E3	Glycosylation:T15 Theme:T5
+E4	Hydroxylation:T18 Theme:T8 Site:T16
+E5	Phosphorylation:T19 Theme:T8 Site:T17
+E6	Glycosylation:T21 Theme:T9 Site:T20
+E7	Glycosylation:T22 Theme:T11

@@ -1,0 +1,9 @@
+*	Equiv T2 T3
+T7	Methylation 0 11	Methylation
+T8	DNA_methylation 101 112	Methylation
+T9	DNA_demethylation 450 464	hypomethylated
+E1	Methylation:T7 Theme:T1
+M1	Speculation E1
+E2	DNA_methylation:T8 Theme:T2
+E3	DNA_demethylation:T9 Theme:T6
+M2	Negation E3

@@ -1,0 +1,42 @@
+T1	Regulon-operon 44 57	PA3552-PA3559
+T2	Protein 44 50	PA3552
+T3	Protein 51 57	PA3559
+T4	Chemical 58 61	CAP
+T5	Organism 107 120	P. aeruginosa
+T6	Two-component-system 126 131	PhoPQ
+T7	Protein 126 130	PhoP
+T8	Protein 130 131	Q
+T9	Two-component-system 136 141	PmrAB
+T10	Protein 136 140	PmrA
+T11	Protein 140 141	B
+T12	Chemical 165 174	magnesium
+T13	Protein 216 222	PA3552
+T14	Regulon-operon 261 274	PA3552-PA3559
+T15	Protein 261 267	PA3552
+T16	Protein 268 274	PA3559
+T17	Chemical 302 306	Mg2+
+T18	Chemical 396 399	LPS
+T19	Chemical 468 475	lipid A
+T20	Chemical 514 518	CAPs
+T21	Chemical 595 599	Mg2+
+T22	Protein 687 690	lux
+T23	Protein 719 725	PA3553
+T24	Chemical 747 750	CAP
+T25	Protein 804 810	PA3553
+T26	Protein 812 815	lux
+T27	Chemical 965 968	CAP
+T28	Chemical 1121 1125	Mg2+
+T29	Protein 1193 1199	PA3553
+T30	Protein 1336 1342	PA3553
+T31	Protein 1344 1347	lux
+T32	Organism 1405 1418	P. aeruginosa
+T33	Organism 1446 1459	P. aeruginosa
+T34	Organism 1526 1539	P. aeruginosa
+T35	Organism 1598 1604	salmon
+T36	Chemical 1666 1675	magnesium
+T37	Protein 1835 1841	PA3553
+T38	Protein 1965 1971	PA3553
+T39	Protein 2033 2039	PA3553
+T40	Protein 2164 2170	PA3553
+T41	Chemical 2210 2214	Mg2+
+T42	Protein 2372 2378	PA3553

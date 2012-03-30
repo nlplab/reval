@@ -1,0 +1,8 @@
+T6	Phosphorylation 71 85	phosphorylated
+T7	Phosphorylation 214 229	phosphorylation
+T8	Phosphorylation 359 373	phosphorylated
+T9	Phosphorylation 1163 1177	phosphorylated
+E1	Phosphorylation:T6 Theme:T1
+E2	Phosphorylation:T7 Theme:T3
+E3	Phosphorylation:T8 Theme:T4
+E4	Phosphorylation:T9 Theme:T5

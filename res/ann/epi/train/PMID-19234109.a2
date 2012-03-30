@@ -1,0 +1,8 @@
+T20	Catalysis 506 514	mediated
+T21	Ubiquitination 519 533	ubiquitination
+T22	Catalysis 569 577	enhances
+T23	Acetylation 582 593	acetylation
+E1	Catalysis:T20 Theme:E2 Cause:T8
+E2	Ubiquitination:T21 Theme:T9
+E3	Catalysis:T22 Theme:T11 Cause:T10
+E4	Acetylation:T23 Theme:T11

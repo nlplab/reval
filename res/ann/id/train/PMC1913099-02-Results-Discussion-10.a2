@@ -1,0 +1,12 @@
+T26	Localization 445 453	localize
+T27	Entity 461 478	cell-wall surface
+T28	Gene_expression 790 800	expression
+T29	Negative_regulation 888 898	eliminated
+T30	Negative_regulation 1264 1275	elimination
+E1	Localization:T26 Theme:T11 AtLoc:T27
+M1	Negation E1
+E2	Localization:T26 Theme:T12 AtLoc:T27
+M2	Negation E2
+E3	Gene_expression:T28 Theme:T17
+E4	Negative_regulation:T29 Theme:E3
+E5	Negative_regulation:T30 Theme:T22

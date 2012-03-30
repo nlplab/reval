@@ -1,0 +1,12 @@
+T32	Acetylation 769 780	acetylation
+T33	Methylation 869 883	trimethylation
+T34	Entity 901 909	lysine 4
+T35	Acetylation 1575 1591	hyperacetylation
+T36	Methylation 1661 1676	monomethylation
+T37	Entity 1680 1688	lysine 4
+E1	Acetylation:T32 Theme:T12 Contextgene:T11
+E2	Acetylation:T32 Theme:T13 Contextgene:T11
+E3	Methylation:T33 Theme:T14 Site:T34 Contextgene:T11
+E4	Acetylation:T35 Theme:T24 Contextgene:T22
+E5	Acetylation:T35 Theme:T25 Contextgene:T22
+E6	Methylation:T36 Theme:T26 Site:T37 Contextgene:T22

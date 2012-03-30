@@ -1,0 +1,10 @@
+T25	Process 1225 1234	infection
+T26	Process 1691 1700	infection
+T27	Regulation 1839 1845	action
+T28	Process 1860 1869	virulence
+E1	Process:T25 Participant:T15
+E2	Process:T25 Participant:T16
+E3	Process:T26 Participant:T20
+E4	Process:T26 Participant:T21
+E5	Regulation:T27 Theme:E6 Cause:T22
+E6	Process:T28 Participant:T23

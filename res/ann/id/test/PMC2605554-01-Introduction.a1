@@ -1,0 +1,55 @@
+T1	Organism 14 36	Streptococcus pyogenes
+T2	Organism 38 59	group A streptococcus
+T3	Organism 61 64	GAS
+T4	Organism 86 91	human
+T5	Organism 177 180	GAS
+T6	Organism 439 442	GAS
+T7	Organism 470 474	M1T1
+T8	Organism 494 502	M1T1 GAS
+T9	Organism 658 662	M1T1
+T10	Protein 805 809	SpeB
+T11	Protein 856 860	SpeB
+T12	Two-component-system 956 962	covR/S
+T13	Protein 956 960	covR
+T14	Protein 961 962	S
+T15	Protein 968 972	SpeB
+T16	Protein 1127 1131	SpeB
+T17	Protein 1358 1362	SpeB
+T18	Organism 1404 1407	GAS
+T19	Protein 1429 1458	fibrinogen-binding M1 protein
+T20	Protein 1518 1553	plasminogen activator streptokinase
+T21	Protein 1580 1584	Sda1
+T22	Protein 1706 1710	SpeB
+T23	Protein 2000 2004	RopB
+T24	Protein 2020 2023	Rgg
+T25	Organism 2046 2063	SpeB-negative GAS
+T26	Protein 2046 2050	SpeB
+T27	Protein 2082 2086	RopB
+T28	Organism 2092 2095	GAS
+T29	Protein 2176 2180	SpeB
+T30	Protein 2226 2230	speB
+T31	Organism 2277 2280	GAS
+T32	Protein 2299 2303	RopB
+T33	Organism 2374 2377	GAS
+T34	Protein 2594 2598	MF-1
+T35	Protein 2603 2607	MF-3
+T36	Protein 2625 2639	streptolysin S
+T37	Protein 2644 2658	streptolysin O
+T38	Protein 2723 2727	RopB
+T39	Organism 2793 2802	zebrafish
+T40	Organism 2847 2853	M5 GAS
+T41	Protein 2882 2886	RopB
+T42	Organism 2953 2959	murine
+T43	Organism 3006 3013	M49 GAS
+T44	Protein 3042 3046	RopB
+T45	Regulon-operon 3249 3261	RopB regulon
+T46	Protein 3249 3253	RopB
+T47	Protein 3304 3308	ropB
+T48	Organism 3667 3682	ropB mutant GAS
+T49	Protein 3667 3671	ropB
+T50	Regulon-operon 3709 3720	SpeB operon
+T51	Protein 3709 3713	SpeB
+T52	Protein 3827 3831	RopB
+T53	Organism 3947 3955	M1T1 GAS
+T54	Organism 4003 4008	human
+T55	Protein 4079 4083	ropB

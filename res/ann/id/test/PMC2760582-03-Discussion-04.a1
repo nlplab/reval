@@ -1,0 +1,30 @@
+T1	Organism 156 168	P. temperata
+T2	Organism 173 189	X. koppenhoeferi
+T3	Protein 277 281	surA
+T4	Protein 286 290	uspB
+T5	Protein 406 410	surA
+T6	Protein 543 547	uspB
+T7	Chemical 635 642	ethanol
+T8	Protein 714 718	dnaK
+T9	Organism 780 792	P. temperata
+T10	Organism 797 813	X. koppenhoeferi
+T11	Chemical 955 966	glutathione
+T12	Protein 983 987	gshB
+T13	Chemical 1062 1073	glutathione
+T14	Organism 1097 1109	P. temperata
+T15	Chemical 1115 1126	glutathione
+T16	Chemical 1160 1181	glutathione disulfide
+T17	Chemical 1208 1219	glutathione
+T18	Organism 1243 1259	X. koppenhoeferi
+T19	Chemical 1261 1272	Glutathione
+T20	Protein 1413 1417	gshB
+T21	Protein 1422 1425	gor
+T22	Chemical 1475 1486	glutathione
+T23	Organism 1598 1610	P. temperata
+T24	Organism 1615 1631	X. koppenhoeferi
+T25	Organism 1652 1662	R. majalis
+T26	Organism 1676 1688	Photorhabdus
+T27	Organism 1693 1704	Xenorhabdus
+T28	Protein 1992 1996	msrA
+T29	Organism 2061 2077	X. koppenhoeferi
+T30	Protein 2255 2259	msrA

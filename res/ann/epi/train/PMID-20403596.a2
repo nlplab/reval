@@ -1,0 +1,28 @@
+*	Equiv T22 T23
+T19	DNA_methylation 33 44	methylation
+T20	Entity 61 93	differentially methylated domain
+T21	DNA_methylation 200 211	methylation
+T22	Entity 235 267	differentially methylated domain
+T23	Entity 269 272	DMD
+T24	DNA_methylation 748 759	methylation
+T25	Entity 779 782	DMD
+T26	DNA_methylation 984 995	methylation
+T27	Entity 1022 1025	DMD
+T28	DNA_methylation 1544 1555	methylation
+T29	Entity 1572 1575	DMD
+E1	DNA_methylation:T19 Theme:T1 Site:T20
+E2	DNA_methylation:T19 Theme:T2 Site:T20
+E3	DNA_methylation:T21 Theme:T5 Site:T22
+M1	Speculation E3
+E4	DNA_methylation:T21 Theme:T6 Site:T22
+M2	Speculation E4
+E5	DNA_methylation:T24 Theme:T7 Site:T25
+E6	DNA_methylation:T24 Theme:T8 Site:T25
+E7	DNA_methylation:T26 Theme:T11 Site:T27
+M3	Negation E7
+E8	DNA_methylation:T26 Theme:T12 Site:T27
+M4	Negation E8
+E9	DNA_methylation:T28 Theme:T17 Site:T29
+M5	Negation E9
+E10	DNA_methylation:T28 Theme:T16 Site:T29
+M6	Negation E10

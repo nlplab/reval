@@ -1,0 +1,39 @@
+T45	Process 576 585	virulence
+T46	Process 638 649	attenuation
+T47	Process 723 732	virulence
+T48	Process 805 814	infection
+T49	Process 1922 1931	virulence
+T50	Positive_regulation 2574 2582	activate
+T51	Entity 2601 2610	promoters
+T52	Regulation 2720 2726	effect
+T53	Gene_expression 2735 2741	levels
+T54	Transcription 2859 2872	transcription
+T55	Transcription 2890 2903	transcription
+T56	Process 2989 2998	virulence
+T57	Process 3074 3083	infection
+T58	Process 3192 3201	virulence
+T59	Process 3246 3255	virulence
+T60	Negative_regulation 3256 3267	attenuation
+T61	Process 3439 3448	virulence
+T62	Process 3517 3526	virulence
+E1	Process:T45 Participant:T3
+E2	Process:T46 Participant:T3
+E3	Process:T47 Participant:T6
+E4	Process:T48 Participant:T6
+E5	Process:T49 Participant:T21
+E6	Positive_regulation:T50 Theme:T28 Site:T51
+E7	Positive_regulation:T50 Theme:T29 Site:T51
+E8	Regulation:T52 Theme:E9
+M1	Negation E8
+E9	Gene_expression:T53 Theme:T31
+E10	Transcription:T54 Theme:T34
+E11	Transcription:T54 Theme:T35
+E12	Transcription:T55 Theme:T37
+E13	Transcription:T55 Theme:T38
+E14	Process:T56 
+E15	Process:T57 
+E16	Process:T58 
+E17	Process:T59 Participant:T42
+E18	Negative_regulation:T60 Theme:E17
+E19	Process:T61 
+E20	Process:T62 

@@ -1,0 +1,33 @@
+T1	Organism 0 26	Mycobacterium tuberculosis
+T2	Protein 52 58	Rv2623
+T3	Chemical 89 92	ATP
+T4	Organism 328 354	Mycobacterium tuberculosis
+T5	Protein 395 401	rv2623
+T6	Organism 451 468	tubercle bacillus
+T7	Protein 569 575	rv2623
+T8	Organism 593 608	M. tuberculosis
+T9	Organism 730 734	mice
+T10	Protein 803 809	Rv2623
+T11	Organism 862 885	Rv2623-deficient mutant
+T12	Protein 862 868	Rv2623
+T13	Organism 938 949	guinea pigs
+T14	Organism 954 958	mice
+T15	Protein 1140 1146	rv2623
+T16	Protein 1222 1228	Rv2623
+T17	Chemical 1273 1276	ATP
+T18	Protein 1335 1341	Rv2623
+T19	Chemical 1350 1353	ATP
+T20	Protein 1429 1435	Rv2623
+T21	Chemical 1457 1460	ATP
+T22	Organism 1491 1503	mycobacteria
+T23	Protein 1590 1596	Rv2623
+T24	Chemical 1633 1636	ATP
+T25	Organism 1677 1692	M. tuberculosis
+T26	Protein 1693 1699	Rv2623
+T27	Protein 1761 1767	Rv2623
+T28	Organism 1801 1818	tubercle bacillus
+T29	Protein 1886 1892	Rv2623
+T30	Chemical 1899 1902	ATP
+T31	Chemical 1976 1979	ATP
+T32	Protein 2014 2020	Rv2623
+T33	Chemical 2040 2043	ATP

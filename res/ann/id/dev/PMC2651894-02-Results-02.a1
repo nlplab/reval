@@ -1,0 +1,43 @@
+T1	Protein 0 4	RpoE
+T2	Protein 111 117	sigmaE
+T3	Protein 156 160	SsrB
+T4	Organism 210 219	DeltarpoE
+T5	Protein 215 219	rpoE
+T6	Protein 357 361	SsrB
+T7	Regulon-operon 394 428	type III secretion effector operon
+T8	Protein 430 434	sseA
+T9	Regulon-operon 442 461	structural operon I
+T10	Protein 463 467	ssaB
+T11	Regulon-operon 476 496	structural operon II
+T12	Protein 498 502	ssaG
+T13	Protein 552 556	sseL
+T14	Protein 561 565	sifA
+T15	Protein 623 627	srfN
+T16	Protein 661 665	lacZ
+T17	Protein 673 677	sseA
+T18	Protein 679 683	ssaB
+T19	Protein 685 689	ssaG
+T20	Protein 691 695	sseL
+T21	Protein 697 701	sifA
+T22	Protein 706 710	srfN
+T23	Organism 801 810	DeltarpoE
+T24	Protein 806 810	rpoE
+T25	Protein 839 843	SsrB
+T26	Protein 918 936	beta-galactosidase
+T27	Organism 979 988	DeltarpoE
+T28	Protein 984 988	rpoE
+T29	Protein 1483 1487	SsrB
+T30	Protein 1538 1542	sseA
+T31	Protein 1544 1548	ssaB
+T32	Protein 1554 1558	sifA
+T33	Organism 1576 1587	rpoE mutant
+T34	Protein 1576 1580	rpoE
+T35	Protein 1674 1678	ssaG
+T36	Protein 1683 1687	srfN
+T37	Organism 1721 1732	rpoE mutant
+T38	Protein 1721 1725	rpoE
+T39	Protein 1753 1771	beta-galactosidase
+T40	Protein 1799 1803	sseL
+T41	Protein 1834 1838	rpoE
+T42	Protein 2016 2022	sigmaE
+T43	Protein 2071 2075	SsrB

@@ -1,0 +1,40 @@
+T1	Organism 34 39	OG1RF
+T2	Organism 82 86	V583
+T3	Two-component-system 98 143	histidine kinase-response regulator (HK-RR)08
+T4	Protein 98 114	histidine kinase
+T5	Protein 135 137	HK
+T6	Protein 138 143	RR)08
+T7	Two-component-system 145 152	HK-RR12
+T8	Protein 145 147	HK
+T9	Protein 148 152	RR12
+T10	Two-component-system 173 180	HK-RR16
+T11	Protein 173 175	HK
+T12	Protein 176 180	RR16
+T13	Protein 189 193	vanB
+T14	Two-component-system 212 219	HK-RR11
+T15	Protein 212 214	HK
+T16	Protein 215 219	RR11
+T17	Organism 238 243	OG1RF
+T18	Protein 300 304	vanG
+T19	Protein 373 379	EF2860
+T20	Protein 384 390	EF2861
+T21	Organism 394 398	V583
+T22	Protein 410 420	OG1RF_0193
+T23	Protein 448 453	VanRG
+T24	Protein 478 484	VanRG2
+T25	Protein 497 507	OG1RF_0192
+T26	Protein 535 540	VanSG
+T27	Protein 545 551	VanSG2
+T28	Protein 561 571	OG1RF_0191
+T29	Protein 585 588	M15
+T30	Protein 742 752	OG1RF_0191
+T31	Protein 802 808	EF2297
+T32	Regulon-operon 869 880	vanB operon
+T33	Protein 869 873	vanB
+T34	Organism 884 888	V583
+T35	Protein 899 909	OG1RF_0191
+T36	Protein 978 982	VanY
+T37	Organism 1104 1116	Streptomyces
+T38	Organism 1126 1138	Actinomadura
+T39	Chemical 1270 1280	vancomycin
+T40	Organism 1302 1307	OG1RF

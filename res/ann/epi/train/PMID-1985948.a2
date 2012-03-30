@@ -1,0 +1,4 @@
+*	Equiv T1 T2
+T6	Hydroxylation 1262 1275	hydroxylation
+T7	Entity 1279 1285	lysine
+E1	Hydroxylation:T6 Theme:T4 Site:T7

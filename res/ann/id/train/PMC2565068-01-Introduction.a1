@@ -1,0 +1,44 @@
+T1	Organism 14 36	Streptococcus pyogenes
+T2	Organism 38 59	group A streptococcus
+T3	Organism 61 64	GAS
+T4	Organism 92 97	human
+T5	Protein 479 488	M protein
+T6	Organism 701 713	invasive GAS
+T7	Organism 735 750	strains of emm1
+T8	Protein 746 750	emm1
+T9	Protein 781 784	emm
+T10	Protein 825 834	M protein
+T11	Organism 872 875	GAS
+T12	Organism 911 941	GAS with diverse emm genotypes
+T13	Protein 928 931	emm
+T14	Organism 955 969	emm49-genotype
+T15	Protein 955 960	emm49
+T16	Organism 995 1003	patients
+T17	Organism 1014 1026	invasive GAS
+T18	Organism 1130 1139	emm49 GAS
+T19	Protein 1130 1135	emm49
+T20	Organism 1359 1371	invasive GAS
+T21	Organism 1555 1567	invasive GAS
+T22	Organism 1717 1729	invasive GAS
+T23	Organism 1838 1841	GAS
+T24	Organism 1982 1993	GAS mutants
+T25	Organism 1995 2015	gene-manipulated GAS
+T26	Organism 2341 2353	invasive GAS
+T27	Organism 2499 2511	invasive GAS
+T28	Organism 2580 2603	emm49 clinical isolates
+T29	Protein 2580 2585	emm49
+T30	Organism 2609 2617	patients
+T31	Protein 2787 2791	CsrS
+T32	Two-component-system 2834 2843	CsrS/CsrR
+T33	Protein 2834 2838	CsrS
+T34	Protein 2839 2843	CsrR
+T35	Two-component-system 2859 2868	CovS/CovR
+T36	Protein 2859 2863	CovS
+T37	Protein 2864 2868	CovR
+T38	Protein 2945 2949	IL-8
+T39	Organism 3001 3015	CsrS mutations
+T40	Protein 3001 3005	CsrS
+T41	Organism 3030 3042	invasive GAS
+T42	Organism 3193 3198	mouse
+T43	Organism 3250 3253	GAS
+T44	Organism 3324 3332	patients

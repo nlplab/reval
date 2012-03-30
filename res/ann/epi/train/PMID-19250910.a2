@@ -1,0 +1,8 @@
+T15	Ubiquitination 0 12	Modification
+T16	Ubiquitination 54 72	polyubiquitination
+T17	Ubiquitination 927 946	monoubiquitinations
+T18	Ubiquitination 1103 1120	monoubiquitinated
+E1	Ubiquitination:T15 Theme:T2
+E2	Ubiquitination:T16 Theme:T2
+E3	Ubiquitination:T17 Theme:T12
+E4	Ubiquitination:T18 Theme:T14

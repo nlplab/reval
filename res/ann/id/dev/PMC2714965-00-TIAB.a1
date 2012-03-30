@@ -1,0 +1,29 @@
+T1	Organism 0 22	Caenorhabditis elegans
+T2	Protein 103 108	cheB2
+T3	Organism 112 134	Pseudomonas aeruginosa
+T4	Organism 146 168	Pseudomonas aeruginosa
+T5	Organism 189 194	human
+T6	Organism 267 289	Caenorhabditis elegans
+T7	Organism 385 395	C. elegans
+T8	Organism 444 457	P. aeruginosa
+T9	Organism 802 815	P. aeruginosa
+T10	Organism 825 834	TBCF10839
+T11	Organism 906 916	C. elegans
+T12	Protein 1062 1066	AraC
+T13	Protein 1157 1161	cheB
+T14	Chemical 1189 1203	methylesterase
+T15	Protein 1228 1233	CheB2
+T16	Protein 1240 1245	cheB2
+T17	Organism 1269 1275	murine
+T18	Protein 1350 1355	cheB2
+T19	Organism 1473 1486	P. aeruginosa
+T20	Protein 1576 1581	cheB1
+T21	Organism 1616 1628	cheB2 mutant
+T22	Protein 1616 1621	cheB2
+T23	Organism 1632 1644	cheB1 mutant
+T24	Protein 1632 1637	cheB1
+T25	Organism 1680 1690	C. elegans
+T26	Organism 1800 1812	cheB2 mutant
+T27	Protein 1800 1805	cheB2
+T28	Protein 1878 1883	cheB2
+T29	Organism 1992 2005	P. aeruginosa

@@ -1,0 +1,9 @@
+*	Equiv T6 T7
+T28	Catalysis 555 569	ubiquitination
+T29	Ubiquitination 555 569	ubiquitination
+T30	Ubiquitination 757 771	ubiquitination
+E1	Ubiquitination:T29 Theme:T13
+E2	Ubiquitination:T29 Theme:T14
+E3	Catalysis:T28 Theme:E1 Cause:T12
+E4	Catalysis:T28 Theme:E2 Cause:T12
+E5	Ubiquitination:T30 Theme:T17

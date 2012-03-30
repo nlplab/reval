@@ -1,0 +1,8 @@
+*	Equiv T5 T6
+*	Equiv T9 T10
+T7	Acetylation 537 548	acetylation
+T8	Acetylation 1341 1352	acetylation
+T9	Entity 1370 1378	lysine 8
+T10	Entity 1384 1386	K8
+E1	Acetylation:T7 Theme:T3
+E2	Acetylation:T8 Theme:T5 Site:T9

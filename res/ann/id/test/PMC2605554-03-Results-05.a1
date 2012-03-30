@@ -1,0 +1,20 @@
+T1	Protein 0 4	SpeB
+T2	Protein 32 36	RopB
+T3	Organism 142 157	GAS strain 5448
+T4	Organism 177 183	5448R-
+T5	Protein 208 212	ropB
+T6	Organism 225 229	5628
+T7	Organism 407 413	5448R-
+T8	Regulon-operon 433 444	SpeB operon
+T9	Protein 433 437	SpeB
+T10	Protein 484 488	SpeB
+T11	Organism 516 520	5628
+T12	Regulon-operon 550 561	SpeB operon
+T13	Protein 550 554	SpeB
+T14	Regulon-operon 576 597	streptolysin S operon
+T15	Protein 576 590	streptolysin S
+T16	Organism 651 669	ropB mutant strain
+T17	Protein 651 655	ropB
+T18	Protein 717 721	SmeZ
+T19	Organism 819 825	5448R-
+T20	Protein 857 861	RopB

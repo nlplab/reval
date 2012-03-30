@@ -1,0 +1,15 @@
+T15	DNA_methylation 9 20	methylation
+T16	DNA_methylation 685 696	methylation
+T17	Entity 727 736	promoters
+T18	DNA_methylation 818 829	methylation
+T19	Entity 838 847	promoters
+T20	Entity 936 944	promoter
+T21	DNA_methylation 945 956	methylation
+E1	DNA_methylation:T15 Theme:T1
+E2	DNA_methylation:T15 Theme:T2
+E3	DNA_methylation:T16 Theme:T9 Site:T17
+E4	DNA_methylation:T16 Theme:T10 Site:T17
+E5	DNA_methylation:T18 Theme:T9 Site:T19
+E6	DNA_methylation:T18 Theme:T10 Site:T19
+E7	DNA_methylation:T21 Theme:T11 Site:T20
+E8	DNA_methylation:T21 Theme:T12 Site:T20

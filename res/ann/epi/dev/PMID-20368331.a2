@@ -1,0 +1,7 @@
+T10	Entity 79 85	prolyl
+T11	Hydroxylation 86 99	hydroxylation
+T12	Hydroxylation 411 424	hydroxylation
+T13	Hydroxylation 1162 1175	hydroxylation
+E1	Hydroxylation:T11 Theme:T1 Site:T10
+E2	Hydroxylation:T12 Theme:T3
+E3	Hydroxylation:T13 Theme:T7

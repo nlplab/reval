@@ -1,0 +1,7 @@
+*	Equiv T3 T4
+T13	Ubiquitination 247 261	ubiquitylation
+T14	Deubiquitination 957 973	deubiquitylating
+T15	Catalysis 957 973	deubiquitylating
+E1	Ubiquitination:T13 Theme:T3
+E2	Deubiquitination:T14 Theme:T11
+E3	Catalysis:T15 Theme:E2 Cause:T12

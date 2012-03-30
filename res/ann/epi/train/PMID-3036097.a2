@@ -1,0 +1,4 @@
+T11	Phosphorylation 394 409	phosphorylation
+T12	Phosphorylation 523 538	phosphorylation
+E1	Phosphorylation:T11 Theme:T6
+E2	Phosphorylation:T12 Theme:T6

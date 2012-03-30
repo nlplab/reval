@@ -1,0 +1,36 @@
+T13	Methylation 14 28	trimethylation
+T14	Entity 46 55	lysine 20
+T15	Methylation 104 115	Methylation
+T16	Entity 123 140	N-terminal region
+T17	Methylation 534 543	methylate
+T18	Catalysis 534 543	methylate
+T19	Entity 544 552	lysine 9
+T20	Methylation 723 734	methylation
+T21	Methylation 887 898	methylation
+T22	Methylation 1267 1279	dimethylated
+T23	Entity 1280 1289	lysine 20
+T24	Methylation 1348 1358	monomethyl
+T25	Methylation 1441 1454	trimethylated
+T26	Entity 1463 1472	lysine 20
+T27	Methylation 1541 1554	trimethylated
+T28	Methylation 1643 1648	mono-
+T29	Methylation 1653 1665	dimethylated
+T30	Methylation 1772 1785	Trimethylated
+T31	Methylation 1933 1946	trimethylated
+T32	Entity 1947 1956	lysine 20
+E1	Methylation:T13 Theme:T1 Site:T14
+E2	Methylation:T15 Theme:T2 Site:T16
+E3	Methylation:T17 Theme:T7 Site:T19
+E4	Catalysis:T18 Theme:E3 Cause:T5
+E5	Catalysis:T18 Theme:E3 Cause:T6
+E6	Methylation:T20 Theme:T8
+E7	Methylation:T21 Theme:T9
+M1	Speculation E7
+E8	Methylation:T22 Theme:T9 Site:T23
+E9	Methylation:T24 Theme:T9 Site:T23
+E10	Methylation:T25 Theme:T10 Site:T26
+E11	Methylation:T27 Theme:T11
+E12	Methylation:T28 Theme:T11
+E13	Methylation:T29 Theme:T11
+E14	Methylation:T30 Theme:T12
+E15	Methylation:T31 Theme:T12 Site:T32

@@ -1,0 +1,4 @@
+T14	Catalysis 665 673	mediated
+T15	Ubiquitination 674 688	ubiquitination
+E1	Catalysis:T14 Theme:E2 Cause:T8
+E2	Ubiquitination:T15 Theme:T9

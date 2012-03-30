@@ -1,0 +1,12 @@
+T13	Positive_regulation 29 38	Increased
+T14	Gene_expression 39 49	expression
+T15	Process 192 201	infection
+T16	Positive_regulation 230 242	upregulation
+T17	Positive_regulation 851 863	upregulation
+T18	Process 979 988	infection
+E1	Positive_regulation:T13 Theme:E2
+E2	Gene_expression:T14 Theme:T2
+E3	Process:T15 
+E4	Positive_regulation:T16 Theme:T4
+E5	Positive_regulation:T17 Theme:T12
+E6	Process:T18 

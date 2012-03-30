@@ -1,0 +1,13 @@
+*	Equiv T6 T7
+T54	Process 75 84	Virulence
+T55	Regulation 168 177	regulated
+T56	Binding 528 533	binds
+T57	Gene_expression 945 955	production
+T58	Positive_regulation 1010 1017	induced
+E1	Process:T54 
+E2	Regulation:T55 Theme:E1 Cause:T3
+E3	Binding:T56 Theme:T11
+E4	Gene_expression:T57 Theme:T23
+E5	Gene_expression:T57 Theme:T24
+E6	Positive_regulation:T58 Theme:E4
+E7	Positive_regulation:T58 Theme:E5

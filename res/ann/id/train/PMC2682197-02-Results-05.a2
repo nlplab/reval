@@ -1,0 +1,13 @@
+T24	Binding 72 79	binding
+T25	Binding 1618 1630	Dimerization
+T26	Binding 2259 2266	binding
+T27	Binding 3129 3136	binding
+T28	Binding 3291 3298	binding
+T29	Binding 3450 3460	associated
+E1	Binding:T24 Theme1:T3 Theme2:T2
+M1	Speculation E1
+E2	Binding:T25 Theme:T8
+E3	Binding:T26 Theme:T13
+E4	Binding:T27 Theme1:T17 Theme2:T18
+E5	Binding:T28 Theme1:T20 Theme2:T21
+E6	Binding:T29 Theme:T22

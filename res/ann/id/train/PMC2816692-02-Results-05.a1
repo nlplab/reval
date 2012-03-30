@@ -1,0 +1,24 @@
+T1	Protein 0 4	SrcA
+T2	Protein 115 119	SrcA
+T3	Protein 200 204	SrcA
+T4	Protein 408 412	SrcA
+T5	Organism 418 428	Salmonella
+T6	Protein 498 502	srcA
+T7	Protein 544 548	srcA
+T8	Organism 707 718	srcA mutant
+T9	Protein 707 711	srcA
+T10	Protein 1041 1045	SrcA
+T11	Protein 1197 1201	SseL
+T12	Protein 1271 1275	SrcA
+T13	Protein 1301 1305	SseL
+T14	Protein 1353 1357	SrcA
+T15	Protein 1477 1481	OmpF
+T16	Organism 1730 1741	srcA mutant
+T17	Protein 1730 1734	srcA
+T18	Protein 1870 1874	SseL
+T19	Protein 1882 1887	PipB2
+T20	Organism 1943 1954	srcA mutant
+T21	Protein 1943 1947	srcA
+T22	Protein 2110 2114	srcA
+T23	Organism 2159 2170	srcA mutant
+T24	Protein 2159 2163	srcA

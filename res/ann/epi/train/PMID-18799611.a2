@@ -1,0 +1,5 @@
+*	Equiv T4 T5
+T16	Ubiquitination 628 642	ubiquitination
+T17	Ubiquitination 1498 1512	ubiquitination
+E1	Ubiquitination:T16 Theme:T4
+E2	Ubiquitination:T17 Theme:T15

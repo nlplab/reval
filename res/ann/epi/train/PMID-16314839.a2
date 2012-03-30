@@ -1,0 +1,11 @@
+*	Equiv T3 T4
+*	Equiv T6 T7
+T33	Entity 612 616	CpGs
+T34	DNA_methylation 639 649	methylated
+T35	Acetylation 806 817	acetylation
+T36	DNA_methylation 891 906	DNA methylation
+T37	Deacetylation 919 932	deacetylation
+E1	DNA_methylation:T34 Theme:T11 Site:T33
+E2	Acetylation:T35 Theme:T15 Contextgene:T17
+E3	DNA_methylation:T36 Theme:T17
+E4	Deacetylation:T37 Theme:T18 Contextgene:T17

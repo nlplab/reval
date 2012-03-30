@@ -1,0 +1,5 @@
+*	Equiv T7 T8
+T18	Hydroxylation 105 117	hydroxylated
+T19	Hydroxylation 856 869	hydroxylation
+E1	Hydroxylation:T18 Theme:T2
+E2	Hydroxylation:T19 Theme:T11

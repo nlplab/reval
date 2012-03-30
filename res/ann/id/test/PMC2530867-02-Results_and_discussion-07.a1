@@ -1,0 +1,22 @@
+T1	Protein 15 20	Tn916
+T2	Organism 24 29	OG1RF
+T3	Organism 65 70	OG1RF
+T4	Organism 167 172	OG1RF
+T5	Regulon-operon 269 280	rRNA operon
+T6	Organism 302 307	OG1RF
+T7	Protein 311 317	EF1053
+T8	Organism 354 358	V583
+T9	Protein 457 462	Tn916
+T10	Organism 560 570	E. faecium
+T11	Organism 572 585	staphylococci
+T12	Organism 590 600	lactococci
+T13	Protein 713 723	OG1RF_0039
+T14	Protein 770 775	Tn916
+T15	Protein 794 801	Tn916_2
+T16	Protein 805 813	Tn916_12
+T17	Protein 815 823	Tn916_18
+T18	Protein 828 836	Tn916_19
+T19	Protein 916 926	OG1RF_0088
+T20	Protein 988 994	Tn5386
+T21	Organism 998 1014	E. faecium D344R
+T22	Protein 1148 1154	Tn5386

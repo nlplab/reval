@@ -1,0 +1,26 @@
+*	Equiv T9 T11
+T43	Process 59 69	infections
+T44	Process 131 141	infections
+T45	Process 167 176	virulence
+T46	Process 219 227	infected
+T47	Positive_regulation 528 540	introduction
+T48	Process 726 735	virulence
+T49	Process 772 782	infections
+T50	Process 939 947	infected
+T51	Process 1521 1530	infection
+T52	Process 1552 1560	infected
+T53	Process 1700 1708	virulent
+E1	Process:T43 
+E2	Process:T44 
+E3	Process:T45 Participant:T4
+E4	Process:T46 Participant:T6
+E5	Positive_regulation:T47 Theme:T14
+E6	Process:T48 
+E7	Process:T49 
+E8	Process:T50 Participant:T24
+E9	Process:T51 Participant:T36
+E10	Process:T52 Participant:T36
+E11	Process:T52 Participant:T37
+E12	Process:T52 Participant:T38
+E13	Process:T53 Participant:T40
+E14	Process:T53 Participant:T41

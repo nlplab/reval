@@ -1,0 +1,7 @@
+T12	DNA_methylation 83 93	methylated
+T13	Entity 1286 1294	four CpG
+T14	DNA_methylation 1374 1384	methylated
+E1	DNA_methylation:T12 Theme:T1
+E2	DNA_methylation:T14 Theme:T8 Site:T13
+E3	DNA_methylation:T14 Theme:T8 Site:T13
+M1	Negation E3

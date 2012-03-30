@@ -1,0 +1,5 @@
+T22	Deacetylation 283 296	deacetylating
+T23	Entity 297 312	lysine residues
+T24	Acetylation 686 697	acetylation
+E1	Deacetylation:T22 Theme:T3 Site:T23
+E2	Acetylation:T24 Theme:T6

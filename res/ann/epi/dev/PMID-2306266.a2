@@ -1,0 +1,7 @@
+T13	Hydroxylation 995 1009	unhydroxylated
+T14	Hydroxylation 1014 1026	hydroxylated
+T15	Hydroxylation 1050 1063	hydroxylation
+E1	Hydroxylation:T13 Theme:T11
+M1	Negation E1
+E2	Hydroxylation:T14 Theme:T11
+E3	Hydroxylation:T15 Theme:T12

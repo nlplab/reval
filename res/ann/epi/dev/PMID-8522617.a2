@@ -1,0 +1,10 @@
+T25	Glycosylation 44 57	glycosylation
+T26	Entity 873 885	mucin domain
+T27	Glycosylation 916 924	O-linked
+T28	Entity 925 932	glycans
+T29	Glycosylation 1275 1283	O-linked
+T30	Entity 1284 1296	carbohydrate
+T31	Entity 1329 1349	Ser/Thr rich regions
+E1	Glycosylation:T25 Theme:T1
+E2	Glycosylation:T27 Theme:T18 Site:T26 Sidechain:T28
+E3	Glycosylation:T29 Theme:T23 Site:T31 Sidechain:T30

@@ -1,0 +1,6 @@
+T15	Process 61 71	infections
+T16	Process 168 177	infection
+T17	Process 508 518	infections
+E1	Process:T15 Participant:T1
+E2	Process:T16 Participant:T3
+E3	Process:T17 Participant:T9

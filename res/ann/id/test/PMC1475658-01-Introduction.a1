@@ -1,0 +1,54 @@
+T1	Organism 363 373	Drosophila
+T2	Organism 486 496	Drosophila
+T3	Chemical 935 958	reactive oxygen species
+T4	Protein 1249 1253	Toll
+T5	Protein 1276 1279	Imd
+T6	Protein 1295 1299	Toll
+T7	Protein 1428 1438	Drosomycin
+T8	Protein 1490 1493	Dif
+T9	Protein 1498 1504	Dorsal
+T10	Protein 1523 1526	Imd
+T11	Protein 1629 1639	Diptericin
+T12	Protein 1704 1710	Relish
+T13	Protein 1712 1715	Rel
+T14	Protein 1743 1746	Imd
+T15	Organism 1879 1889	Drosophila
+T16	Organism 2555 2565	Drosophila
+T17	Organism 2668 2686	Erwinia carotovora
+T18	Organism 2704 2709	Ecc15
+T19	Organism 2748 2758	Drosophila
+T20	Organism 2876 2886	Drosophila
+T21	Organism 2895 2900	Ecc15
+T22	Organism 2946 2956	Drosophila
+T23	Organism 3108 3131	Pseudomonas entomophila
+T24	Organism 3179 3189	Drosophila
+T25	Organism 3242 3256	P. entomophila
+T26	Organism 3309 3319	Drosophila
+T27	Organism 3419 3424	Ecc15
+T28	Organism 3426 3440	P. entomophila
+T29	Organism 3466 3476	Drosophila
+T30	Organism 3568 3582	P. entomophila
+T31	Organism 3797 3811	P. entomophila
+T32	Organism 3890 3900	Drosophila
+T33	Two-component-system 3931 3940	GacS/GacA
+T34	Protein 3931 3935	GacS
+T35	Protein 3936 3940	GacA
+T36	Organism 3983 4006	Pseudomonas fluorescens
+T37	Organism 4101 4128	P. entomophila gacA mutants
+T38	Protein 4116 4120	gacA
+T39	Two-component-system 4232 4241	GacS/GacA
+T40	Protein 4232 4236	GacS
+T41	Protein 4237 4241	GacA
+T42	Organism 4536 4550	P. entomophila
+T43	Organism 4569 4579	Drosophila
+T44	Organism 4715 4729	P. entomophila
+T45	Chemical 4730 4734	zinc
+T46	Protein 4752 4756	AprA
+T47	Organism 4843 4853	Drosophila
+T48	Protein 4854 4857	Imd
+T49	Organism 4929 4943	P. entomophila
+T50	Protein 4944 4948	AprA
+T51	Two-component-system 4964 4973	GacS/GacA
+T52	Protein 4964 4968	GacS
+T53	Protein 4969 4973	GacA
+T54	Protein 4978 4982	PrtR

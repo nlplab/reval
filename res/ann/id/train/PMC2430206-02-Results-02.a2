@@ -1,0 +1,25 @@
+T20	Positive_regulation 18 23	leads
+T21	Negative_regulation 27 37	attenuated
+T22	Process 38 47	virulence
+T23	Process 59 68	infection
+T24	Negative_regulation 105 112	reduced
+T25	Process 113 123	resistance
+T26	Process 224 234	infections
+T27	Process 260 269	virulence
+T28	Process 379 387	infected
+T29	Process 443 452	infection
+T30	Process 576 584	infected
+T31	Process 618 626	infected
+E1	Positive_regulation:T20 Theme:E2
+E2	Negative_regulation:T21 Theme:E3
+E3	Process:T22 
+E4	Process:T23 
+E5	Negative_regulation:T24 Theme:E6
+E6	Process:T25 Participant:T5
+E7	Process:T26 
+E8	Process:T27 
+E9	Process:T28 Participant:T11
+E10	Process:T28 Participant:T12
+E11	Process:T29 
+E12	Process:T30 Participant:T16
+E13	Process:T31 

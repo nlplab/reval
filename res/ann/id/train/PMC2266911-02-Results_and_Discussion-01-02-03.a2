@@ -1,0 +1,5 @@
+*	Equiv T22 T23
+T43	Process 902 911	infection
+T44	Binding 1259 1263	bind
+E1	Process:T43 
+E2	Binding:T44 Theme:T26

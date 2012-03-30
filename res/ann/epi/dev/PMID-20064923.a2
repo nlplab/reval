@@ -1,0 +1,4 @@
+*	Equiv T10 T11
+T18	Ubiquitination 842 856	ubiquitination
+E1	Ubiquitination:T18 Theme:T10
+M1	Negation E1

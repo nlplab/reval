@@ -1,0 +1,19 @@
+T7	Process 27 36	avirulent
+T8	Process 334 343	virulence
+T9	Negative_regulation 388 398	attenuated
+T10	Process 399 408	virulence
+T11	Process 552 561	virulence
+T12	Process 1943 1952	virulence
+T13	Process 1986 1995	infection
+T14	Process 2812 2821	virulence
+T15	Process 3266 3275	virulence
+E1	Process:T7 
+M1	Negation E1
+E2	Process:T8 
+E3	Negative_regulation:T9 Theme:E4
+E4	Process:T10 
+E5	Process:T11 
+E6	Process:T12 
+E7	Process:T13 
+E8	Process:T14 
+E9	Process:T15 

@@ -1,0 +1,33 @@
+*	Equiv T2 T3
+T14	Entity 594 601	proline
+T15	Hydroxylation 719 732	hydroxylation
+T16	Entity 1079 1090	proline 564
+T17	Hydroxylation 1094 1106	hydroxylated
+T18	Entity 1116 1127	proline 402
+T19	Hydroxylation 1199 1212	hydroxylation
+T20	Entity 1216 1227	proline 402
+T21	Hydroxylation 1288 1301	hydroxylation
+T22	Entity 1305 1316	proline 564
+T23	Hydroxylation 1354 1367	hydroxylation
+T24	Entity 1375 1386	proline 564
+T25	Hydroxylation 1705 1717	hydroxylated
+T26	Entity 1722 1729	proline
+T27	Entity 1893 1904	proline 402
+T28	Hydroxylation 1946 1959	hydroxylation
+T29	Entity 1998 2009	proline 564
+T30	Hydroxylation 2010 2023	hydroxylation
+T31	Hydroxylation 2053 2066	hydroxylation
+T32	Entity 2070 2081	proline 402
+T33	Hydroxylation 2315 2327	hydroxylated
+T34	Entity 2328 2335	proline
+E1	Hydroxylation:T15 Theme:T7 Site:T14
+E2	Hydroxylation:T17 Theme:T8 Site:T16
+E3	Hydroxylation:T17 Theme:T8 Site:T18
+E4	Hydroxylation:T19 Theme:T8 Site:T20
+E5	Hydroxylation:T21 Theme:T8 Site:T22
+E6	Hydroxylation:T23 Theme:T10 Site:T24
+E7	Hydroxylation:T25 Theme:T10 Site:T26
+E8	Hydroxylation:T28 Theme:T8 Site:T27
+E9	Hydroxylation:T30 Theme:T8 Site:T29
+E10	Hydroxylation:T31 Theme:T11 Site:T32
+E11	Hydroxylation:T33 Theme:T12 Site:T34

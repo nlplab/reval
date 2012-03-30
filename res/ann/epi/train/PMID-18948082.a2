@@ -1,0 +1,4 @@
+T19	Ubiquitination 563 577	ubiquitination
+T20	Ubiquitination 1189 1203	ubiquitination
+E1	Ubiquitination:T19 Theme:T7
+E2	Ubiquitination:T20 Theme:T18

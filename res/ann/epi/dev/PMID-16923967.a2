@@ -1,0 +1,12 @@
+T19	Entity 86 94	lysine 4
+T20	Methylation 95 105	methylated
+T21	Entity 1092 1100	lysine 4
+T22	Methylation 1101 1112	methylation
+T23	Entity 1277 1285	lysine 4
+T24	Methylation 1286 1296	methylated
+T25	Entity 1586 1594	lysine 4
+T26	Methylation 1595 1606	methylation
+E1	Methylation:T20 Theme:T3 Site:T19
+E2	Methylation:T22 Theme:T14 Site:T21
+E3	Methylation:T24 Theme:T16 Site:T23
+E4	Methylation:T26 Theme:T18 Site:T25

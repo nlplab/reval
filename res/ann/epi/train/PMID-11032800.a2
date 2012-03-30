@@ -1,0 +1,12 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+T11	Hydroxylation 19 32	hydroxylation
+T12	Entity 40 50	N-terminus
+T13	Hydroxylation 1034 1044	conversion
+T14	Entity 1107 1112	Pro44
+T15	Hydroxylation 1146 1158	hydroxylated
+T16	Hydroxylation 1292 1305	hydroxylation
+E1	Hydroxylation:T11 Theme:T1 Site:T12
+E2	Hydroxylation:T13 Theme:T8 Site:T14
+E3	Hydroxylation:T15 Theme:T9 Site:T14
+E4	Hydroxylation:T16 Theme:T10

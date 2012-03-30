@@ -1,0 +1,2 @@
+Targeting protein ubiquitylation: DDB1 takes its RING off. 
+Ubiquitin E3 ligases of the RING and HECT families are distinct not only in their catalytic mechanisms but also in targeting substrates. Now it seems that one heterodimeric complex can target substrates to both types of E3 ligase.

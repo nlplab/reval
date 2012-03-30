@@ -1,0 +1,20 @@
+*	Equiv T23 T24
+*	Equiv T33 T34
+*	Equiv T35 T36
+*	Equiv T38 T39
+*	Equiv T47 T48
+*	Equiv T60 T61
+T67	Phosphorylation 532 546	phosphorylated
+T68	Phosphorylation 2144 2163	autophosphorylation
+T69	Binding 2641 2648	binding
+T70	Phosphorylation 3122 3136	phosphorylated
+T71	Gene_expression 3479 3493	overexpression
+T72	Gene_expression 3728 3738	expression
+E1	Phosphorylation:T67 Theme:T2
+E2	Phosphorylation:T67 Theme:T3
+E3	Phosphorylation:T67 Theme:T4
+E4	Phosphorylation:T68 Theme:T22
+E5	Binding:T69 Theme:T32
+E6	Phosphorylation:T70 Theme:T40
+E7	Gene_expression:T71 Theme:T44
+E8	Gene_expression:T72 Theme:T46

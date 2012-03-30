@@ -1,0 +1,37 @@
+T11	Methylation 24 35	methylation
+T12	Entity 53 62	lysine 20
+T13	Methylation 87 98	Methylation
+T14	Entity 116 125	lysine 20
+T15	Methylation 467 477	methylated
+T16	Entity 481 484	K20
+T17	Methylation 634 646	dimethylated
+T18	Entity 684 687	K20
+T19	Methylation 688 699	methylation
+T20	Methylation 744 754	methylated
+T21	Acetylation 792 803	acetylation
+T22	Entity 828 831	K20
+T23	Methylation 832 844	dimethylated
+T24	Entity 878 881	K20
+T25	Methylation 882 893	methylation
+T26	Acetylation 909 920	acetylation
+T27	Entity 1052 1055	K20
+T28	Methylation 1056 1067	methylation
+T29	Entity 1157 1160	K20
+T30	Methylation 1161 1172	methylation
+T31	Acetylation 1287 1303	hyperacetylation
+T32	Entity 1484 1487	K20
+T33	Methylation 1488 1499	methylation
+E1	Methylation:T11 Theme:T1 Site:T12
+E2	Methylation:T13 Theme:T2 Site:T14
+E3	Methylation:T15 Theme:T3 Site:T16
+E4	Methylation:T17 Theme:T4
+E5	Methylation:T19 Theme:T4 Site:T18
+E6	Methylation:T20 Theme:T5
+E7	Acetylation:T21 Theme:T6
+E8	Methylation:T23 Theme:T6 Site:T22
+E9	Methylation:T25 Theme:T7 Site:T24
+E10	Acetylation:T26 Theme:T7
+E11	Methylation:T28 Theme:T5 Site:T27
+E12	Methylation:T30 Theme:T5 Site:T29
+E13	Acetylation:T31 Theme:T9
+E14	Methylation:T33 Theme:T5 Site:T32

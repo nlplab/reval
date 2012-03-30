@@ -1,0 +1,10 @@
+T19	Transcription 97 108	transcripts
+T20	Transcription 677 702	transcriptionally coupled
+T21	Transcription 760 774	co-transcribed
+T22	Transcription 851 864	transcription
+E1	Transcription:T19 Theme:T5
+E2	Transcription:T19 Theme:T6
+E3	Transcription:T20 Theme:T11
+E4	Transcription:T20 Theme:T12
+E5	Transcription:T21 Theme:T13
+E6	Transcription:T22 Theme:T13

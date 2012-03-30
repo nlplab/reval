@@ -1,0 +1,19 @@
+*	Equiv T6 T7
+T28	Process 86 93	infects
+T29	Process 285 294	infection
+T30	Gene_expression 2163 2173	expression
+T31	Process 2277 2285	infected
+T32	Process 2360 2369	infection
+T33	Process 2433 2447	hypervirulence
+T34	Gene_expression 2507 2517	expression
+T35	Gene_expression 2594 2608	overexpression
+T36	Binding 2737 2742	binds
+E1	Process:T28 Participant:T1
+E2	Process:T29 Participant:T3
+E3	Gene_expression:T30 Theme:T16
+E4	Process:T31 Participant:T18
+E5	Process:T32 Participant:T18
+E6	Process:T33 Participant:T20
+E7	Gene_expression:T34 Theme:T21
+E8	Gene_expression:T35 Theme:T22
+E9	Binding:T36 Theme1:T23 Theme2:T24

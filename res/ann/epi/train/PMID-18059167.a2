@@ -1,0 +1,6 @@
+*	Equiv T2 T3
+T18	Phosphorylation 362 376	phosphorylated
+T19	Entity 447 450	705
+T20	Ubiquitination 790 808	polyubiquitination
+E1	Phosphorylation:T18 Theme:T2 Site:T19
+E2	Ubiquitination:T20 Theme:T11

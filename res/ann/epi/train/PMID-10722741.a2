@@ -1,0 +1,3 @@
+T8	Hydroxylation 843 856	hydroxylation
+T9	Entity 860 876	proline residues
+E1	Hydroxylation:T8 Theme:T4 Site:T9

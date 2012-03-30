@@ -1,0 +1,44 @@
+*	Equiv T2 T3
+*	Equiv T32 T35
+T45	Process 137 147	infections
+T46	Process 196 206	infections
+T47	Process 432 441	virulence
+T48	Process 876 886	infections
+T49	Process 1027 1037	infections
+T50	Process 1163 1173	infections
+T51	Process 1212 1221	virulence
+T52	Process 1372 1382	infections
+T53	Process 1422 1432	infections
+T54	Process 1568 1577	infection
+T55	Process 1665 1675	infections
+T56	Process 1730 1740	infections
+T57	Process 1842 1851	infection
+T58	Process 1876 1885	infection
+T59	Process 2022 2031	virulence
+T60	Process 2512 2522	infections
+T61	Process 2650 2659	infection
+T62	Process 3094 3103	virulence
+T63	Process 3141 3150	virulence
+T64	Process 3284 3293	infection
+E1	Process:T45 
+E2	Process:T46 
+E3	Process:T47 
+E4	Process:T48 Participant:T11
+E5	Process:T49 Participant:T17
+E6	Process:T50 Participant:T18
+E7	Process:T51 
+E8	Process:T52 Participant:T20
+E9	Process:T53 
+E10	Process:T54 Participant:T21
+E11	Process:T55 
+E12	Process:T56 Participant:T22
+E13	Process:T57 Participant:T23
+E14	Process:T58 
+E15	Process:T59 
+E16	Process:T60 Participant:T27
+E17	Process:T61 Participant:T28
+E18	Process:T61 Participant:T28
+M1	Negation E18
+E19	Process:T62 
+E20	Process:T63 Participant:T39
+E21	Process:T64 Participant:T43

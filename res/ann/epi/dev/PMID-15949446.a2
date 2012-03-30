@@ -1,0 +1,8 @@
+T11	Entity 8 14	lysine
+T12	Methylation 15 26	methylation
+T13	Entity 196 211	lysine residues
+T14	Methylation 230 240	methylated
+T15	Methylation 344 355	methylation
+E1	Methylation:T12 Theme:T1 Site:T11
+E2	Methylation:T14 Theme:T3 Site:T13
+E3	Methylation:T15 Theme:T4 Contextgene:T5

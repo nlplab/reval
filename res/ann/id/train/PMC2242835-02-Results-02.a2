@@ -1,0 +1,4 @@
+T31	Regulation 685 689	role
+T32	Process 701 710	virulence
+E1	Regulation:T31 Theme:E2 Cause:T7
+E2	Process:T32 

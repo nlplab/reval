@@ -1,0 +1,18 @@
+T1	Organism 55 68	P. aeruginosa
+T2	Organism 239 260	Staphylococcus aureus
+T3	Organism 267 280	P. aeruginosa
+T4	Organism 288 307	Serratia marcescens
+T5	Organism 378 388	C. elegans
+T6	Organism 524 537	P. aeruginosa
+T7	Organism 646 658	E. coli OP50
+T8	Organism 1142 1149	E. coli
+T9	Organism 1291 1304	P. aeruginosa
+T10	Organism 1306 1310	PA14
+T11	Organism 1312 1316	PAO1
+T12	Organism 1321 1323	TB
+T13	Organism 1406 1419	P. aeruginosa
+T14	Organism 1512 1523	gacA mutant
+T15	Protein 1512 1516	gacA
+T16	Organism 1533 1537	PA14
+T17	Organism 1706 1716	C. elegans
+T18	Organism 1854 1858	PA14

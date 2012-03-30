@@ -1,0 +1,8 @@
+*	Equiv T9 T10
+*	Equiv T20 T21
+T38	Catalysis 417 429	ubiquitinate
+T39	Ubiquitination 417 429	ubiquitinate
+T40	Phosphorylation 1046 1061	phosphorylation
+E1	Catalysis:T38 Theme:E2 Cause:T13
+E2	Ubiquitination:T39 Theme:T14
+E3	Phosphorylation:T40 Theme:T24

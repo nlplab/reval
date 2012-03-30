@@ -1,0 +1,33 @@
+T48	Positive_regulation 0 9	Induction
+T49	Process 28 37	resistant
+T50	Process 313 321	infected
+T51	Positive_regulation 1038 1049	upregulated
+T52	Gene_expression 1080 1090	expression
+T53	Positive_regulation 1148 1157	induction
+T54	Process 1411 1417	infect
+T55	Process 1761 1771	resistance
+T56	Process 2025 2035	resistance
+T57	Process 2079 2087	infected
+T58	Process 2191 2200	infection
+T59	Process 2242 2251	virulence
+T60	Process 2767 2775	infected
+T61	Positive_regulation 3338 3346	required
+T62	Process 3387 3396	infection
+T63	Positive_regulation 3509 3518	induction
+E1	Positive_regulation:T48 Theme:E2
+E2	Process:T49 
+E3	Process:T50 Participant:T4
+E4	Positive_regulation:T51 Theme:T13
+E5	Gene_expression:T52 Theme:T13
+M1	Negation E5
+E6	Positive_regulation:T53 Theme:T17
+E7	Process:T54 Participant:T22
+E8	Process:T55 
+E9	Process:T56 Participant:T28
+E10	Process:T57 
+E11	Process:T58 
+E12	Process:T59 Participant:T32
+E13	Process:T60 Participant:T39
+E14	Positive_regulation:T61 Theme:E15 Cause:T43
+E15	Process:T62 Participant:T44
+E16	Positive_regulation:T63 Theme:T46

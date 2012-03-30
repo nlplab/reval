@@ -1,0 +1,6 @@
+*	Equiv T4 T5
+*	Equiv T9 T10
+T20	Catalysis 769 781	ubiquitinate
+T21	Ubiquitination 769 781	ubiquitinate
+E1	Ubiquitination:T21 Theme:T14
+E2	Catalysis:T20 Theme:E1 Cause:T13

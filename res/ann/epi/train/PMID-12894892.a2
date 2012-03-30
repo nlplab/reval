@@ -1,0 +1,4 @@
+T13	DNA_methylation 400 411	methylation
+T14	DNA_methylation 564 575	methylation
+E1	DNA_methylation:T13 Theme:T4
+E2	DNA_methylation:T14 Theme:T7

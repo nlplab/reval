@@ -1,0 +1,9 @@
+T11	Acetylation 792 802	acetylated
+T12	Acetylation 954 964	acetylated
+T13	Acetylation 1047 1058	Acetylating
+T14	Acetylation 1215 1226	acetylation
+E1	Acetylation:T11 Theme:T5
+E2	Acetylation:T12 Theme:T7
+E3	Acetylation:T13 Theme:T8
+E4	Acetylation:T13 Theme:T9
+E5	Acetylation:T14 Theme:T10

@@ -1,0 +1,2 @@
+In vitro sulfation of N-acetyllactosaminide by soluble recombinant human beta-Gal-3'-sulfotransferase. 
+Membrane-bound beta-Gal-3'-sulfotransferase (GP3ST) was expressed and used for in vitro sulfation of Tamm-Horsfall glycoprotein. Further, the regioselective transfer of sulfate to an N-acetyllactosamine derivative could be realised with soluble chimeric GP3ST, also in combination with Lac transglycosylation by means of beta-galactosidase. Two alternative straightforward chemical syntheses for the target compound could be elaborated.

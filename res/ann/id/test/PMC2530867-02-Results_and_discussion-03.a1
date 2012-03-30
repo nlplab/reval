@@ -1,0 +1,31 @@
+T1	Protein 59 63	fsrA
+T2	Protein 68 72	fsrB
+T3	Organism 161 173	fsrA-lacking
+T4	Protein 161 165	fsrA
+T5	Protein 174 178	fsrC
+T6	Organism 174 178	fsrC
+T7	Organism 180 193	gelE+ strains
+T8	Protein 180 184	gelE
+T9	Organism 229 233	V583
+T10	Protein 280 286	EF1841
+T11	Two-component-system 300 305	fsrAB
+T12	Protein 300 304	fsrA
+T13	Protein 304 305	B
+T14	Protein 341 345	fsrC
+T15	Protein 352 358	EF1820
+T16	Protein 524 528	gelE
+T17	Protein 592 598	EF1820
+T18	Protein 599 603	fsrC
+T19	Protein 607 613	EF1841
+T20	Organism 749 760	E. faecalis
+T21	Organism 868 871	CC9
+T22	Organism 899 902	CC8
+T23	Organism 921 933	Symbioflor 1
+T24	Organism 1000 1011	E. faecalis
+T25	Protein 1042 1046	gelE
+T26	Organism 1123 1128	OG1RF
+T27	Protein 1220 1226	EF1826
+T28	Protein 1231 1237	EF1827
+T29	Organism 1241 1246	OG1RF
+T30	Organism 1289 1294	OG1RF
+T31	Organism 1467 1490	Pediococcus pentosaceus

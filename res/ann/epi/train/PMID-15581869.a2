@@ -1,0 +1,31 @@
+T15	Methylation 103 114	methylation
+T16	Entity 197 205	arginine
+T17	Entity 210 216	lysine
+T18	Methylation 539 550	methylation
+T19	Entity 561 563	K9
+T20	Entity 582 585	K20
+T21	Methylation 885 898	modifications
+T22	Entity 921 923	K9
+T23	Entity 947 950	K20
+T24	Entity 977 980	K20
+T25	Entity 1207 1209	K9
+T26	Methylation 1210 1222	modification
+T27	Entity 1483 1486	K20
+T28	Methylation 1597 1619	trimethyl modification
+T29	Entity 1766 1772	lysine
+T30	Methylation 1773 1784	methylation
+E1	Methylation:T15 Theme:T3 Site:T16
+E2	Methylation:T15 Theme:T3 Site:T17
+E3	Methylation:T15 Theme:T4 Site:T16
+E4	Methylation:T15 Theme:T4 Site:T17
+E5	Methylation:T18 Theme:T5 Site:T19
+E6	Methylation:T18 Theme:T6 Site:T20
+E7	Methylation:T21 Theme:T8 Site:T23
+M1	Speculation E7
+E8	Methylation:T21 Theme:T9 Site:T24
+M2	Speculation E8
+E9	Methylation:T21 Theme:T7 Site:T22
+M3	Speculation E9
+E10	Methylation:T26 Theme:T10 Site:T25
+E11	Methylation:T28 Theme:T13 Site:T27
+E12	Methylation:T30 Theme:T14 Site:T29

@@ -1,0 +1,21 @@
+*	Equiv T5 T6
+*	Equiv T30 T32
+*	Equiv T12 T13
+*	Equiv T33 T35
+T27	Methylation 70 81	methylation
+T28	Entity 117 123	lysine
+T29	Methylation 124 135	methylation
+T30	Entity 433 441	lysine 4
+T31	Methylation 442 453	methylation
+T32	Entity 457 459	K4
+T33	Entity 892 894	K4
+T34	Methylation 895 909	trimethylation
+T35	Entity 913 915	K4
+T36	Methylation 1023 1034	methylation
+T37	Ubiquitination 1077 1090	ubiquitinated
+E1	Methylation:T27 Theme:T2
+E2	Methylation:T29 Theme:T3 Site:T28
+E3	Methylation:T31 Theme:T5 Site:T30
+E4	Methylation:T34 Theme:T12 Site:T33 Contextgene:T14
+E5	Methylation:T36 Theme:T15
+E6	Ubiquitination:T37 Theme:T17

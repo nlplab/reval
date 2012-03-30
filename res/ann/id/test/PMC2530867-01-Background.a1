@@ -1,0 +1,58 @@
+T1	Organism 12 23	Enterococci
+T2	Organism 513 524	E. faecalis
+T3	Organism 529 539	E. faecium
+T4	Organism 629 640	enterococci
+T5	Organism 763 771	Cylactin
+T6	Organism 779 787	Fargo688
+T7	Organism 792 802	E. faecium
+T8	Organism 808 820	Symbioflor 1
+T9	Organism 822 833	E. faecalis
+T10	Organism 994 1005	E. faecalis
+T11	Organism 1034 1038	V583
+T12	Organism 1069 1081	Symbioflor 1
+T13	Organism 1124 1128	V583
+T14	Organism 1354 1358	V583
+T15	Chemical 1423 1433	vancomycin
+T16	Organism 1569 1572	OG1
+T17	Organism 1599 1602	OG1
+T18	Organism 1608 1613	human
+T19	Organism 1667 1671	rats
+T20	Organism 1677 1682	OG1RF
+T21	Chemical 1688 1698	rifampicin
+T22	Organism 1740 1743	OG1
+T23	Organism 1833 1838	OG1RF
+T24	Organism 1953 1958	OG1RF
+T25	Organism 1985 1989	V583
+T26	Organism 2121 2126	OG1RF
+T27	Organism 2194 2197	OG1
+T28	Organism 2365 2369	rats
+T29	Organism 2423 2434	E. faecalis
+T30	Organism 2450 2455	mouse
+T31	Organism 2485 2491	rabbit
+T32	Organism 2525 2528	rat
+T33	Organism 2565 2570	mouse
+T34	Organism 2607 2612	OG1RF
+T35	Organism 2649 2653	V583
+T36	Organism 2672 2694	Caenorhabditis elegans
+T37	Organism 2773 2778	OG1RF
+T38	Chemical 2946 2956	rifampicin
+T39	Chemical 2961 2973	fusidic acid
+T40	Organism 3019 3022	OG1
+T41	Organism 3279 3284	OG1RF
+T42	Regulon-operon 3367 3370	ebp
+T43	Protein 3416 3420	EbpR
+T44	Organism 3517 3520	rat
+T45	Organism 3557 3563	murine
+T46	Protein 3616 3619	Ace
+T47	Protein 3725 3728	ace
+T48	Regulon-operon 3744 3747	ebp
+T49	Organism 3772 3783	E. faecalis
+T50	Protein 3888 3891	Ace
+T51	Organism 4004 4015	E. faecalis
+T52	Organism 4108 4113	OG1RF
+T53	Protein 4213 4216	Fsr
+T54	Organism 4284 4289	OG1RF
+T55	Protein 4360 4364	gelE
+T56	Organism 4545 4550	OG1RF
+T57	Organism 4778 4795	E. faecalis OG1RF
+T58	Organism 4925 4929	V583

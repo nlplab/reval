@@ -1,0 +1,22 @@
+*	Equiv T5 T6
+*	Equiv T12 T13
+*	Equiv T15 T16
+*	Equiv T18 T19
+T21	Hydroxylation 398 410	hydroxylated
+T22	Entity 411 418	Pro-402
+T23	Entity 422 429	Pro-564
+T24	Entity 862 869	Pro-564
+T25	Hydroxylation 870 883	hydroxylation
+T26	Catalysis 870 883	hydroxylation
+T27	Hydroxylation 910 922	hydroxylated
+T28	Entity 923 930	Pro-564
+T29	Hydroxylation 1070 1082	hydroxylated
+T30	Entity 1190 1196	prolyl
+T31	Hydroxylation 1197 1210	hydroxylation
+E1	Hydroxylation:T21 Theme:T8 Site:T22
+E2	Hydroxylation:T21 Theme:T8 Site:T23
+E3	Hydroxylation:T25 Theme:T10 Site:T24
+E4	Catalysis:T26 Theme:E3 Cause:T12
+E5	Hydroxylation:T27 Theme:T14 Site:T28
+E6	Hydroxylation:T29 Theme:T14
+E7	Hydroxylation:T31 Theme:T14 Site:T30

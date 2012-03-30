@@ -1,0 +1,24 @@
+T1	Organism 115 122	E. coli
+T2	Protein 2061 2064	trg
+T3	Protein 2069 2072	aer
+T4	Protein 2106 2110	fliT
+T5	Protein 2283 2287	fliT
+T6	Protein 2292 2295	aer
+T7	Protein 2366 2370	fliT
+T8	Organism 2404 2421	fliT null strains
+T9	Protein 2404 2408	fliT
+T10	Organism 2464 2475	S. enterica
+T11	Protein 2521 2525	fliT
+T12	Protein 2597 2601	FliT
+T13	Two-component-system 2693 2698	FlhDC
+T14	Protein 2693 2697	FlhD
+T15	Protein 2697 2698	C
+T16	Chemical 2741 2747	oxygen
+T17	Protein 2816 2819	Tsr
+T18	Organism 2868 2890	aer tsr double mutants
+T19	Protein 2868 2871	aer
+T20	Protein 2872 2875	tsr
+T21	Protein 2977 2980	trg
+T22	Chemical 3059 3068	galactose
+T23	Protein 3142 3145	trg
+T24	Protein 3262 3265	trg

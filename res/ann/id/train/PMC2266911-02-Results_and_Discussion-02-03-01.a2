@@ -1,0 +1,7 @@
+*	Equiv T21 T22
+T25	Regulation 163 185	play an important role
+T26	Process 197 206	infection
+T27	Localization 1175 1183	secreted
+E1	Regulation:T25 Theme:E2
+E2	Process:T26 
+E3	Localization:T27 Theme:T21

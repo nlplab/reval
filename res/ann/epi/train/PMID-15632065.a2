@@ -1,0 +1,24 @@
+*	Equiv T15 T16
+T34	Ubiquitination 12 26	ubiquitylation
+T35	Ubiquitination 91 105	ubiquitylation
+T36	Entity 124 134	lysine 123
+T37	Entity 203 209	lysine
+T38	Methylation 210 221	methylation
+T39	Ubiquitination 263 277	ubiquitylation
+T40	Methylation 322 333	methylation
+T41	Ubiquitination 721 735	ubiquitylation
+T42	Ubiquitination 1417 1431	ubiquitylation
+T43	Ubiquitination 1964 1978	ubiquitylation
+T44	Ubiquitination 2118 2132	ubiquitylation
+T45	Methylation 2214 2225	methylation
+E1	Ubiquitination:T34 Theme:T1
+E2	Ubiquitination:T35 Theme:T3 Site:T36
+E3	Methylation:T38 Theme:T4 Site:T37
+E4	Ubiquitination:T39 Theme:T6
+E5	Methylation:T40 Theme:T7
+E6	Ubiquitination:T41 Theme:T15
+E7	Ubiquitination:T42 Theme:T26
+E8	Ubiquitination:T43 Theme:T30
+M1	Negation E8
+E9	Ubiquitination:T44 Theme:T32
+E10	Methylation:T45 Theme:T33

@@ -1,0 +1,5 @@
+*	Equiv T2 T3
+T11	Catalysis 1008 1020	ubiquitinate
+T12	Ubiquitination 1008 1020	ubiquitinate
+E1	Ubiquitination:T12 Theme:T7
+E2	Catalysis:T11 Theme:E1 Cause:T6

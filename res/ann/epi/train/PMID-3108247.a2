@@ -1,0 +1,3 @@
+T9	Hydroxylation 873 886	hydroxylation
+T10	Entity 890 905	lysine residues
+E1	Hydroxylation:T9 Theme:T7 Site:T10

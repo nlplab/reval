@@ -1,0 +1,31 @@
+*	Equiv T4 T5
+T20	Process 58 68	Resistance
+T21	Process 290 299	resistant
+T22	Positive_regulation 1008 1017	induction
+T23	Regulation 1042 1051	regulated
+T24	Process 1083 1093	resistance
+T25	Gene_expression 1158 1168	expression
+T26	Positive_regulation 1212 1221	increased
+T27	Process 1222 1232	resistance
+T28	Positive_regulation 1281 1290	increased
+T29	Process 1291 1301	resistance
+T30	Regulation 1333 1339	effect
+T31	Process 1375 1385	resistance
+T32	Process 1527 1537	resistance
+T33	Process 1591 1600	infection
+E1	Process:T20 Participant:T1
+E2	Process:T21 
+E3	Positive_regulation:T22 Theme:T12
+E4	Regulation:T23 Theme:T12 Cause:T6
+E5	Regulation:T23 Theme:T12 Cause:T9
+E6	Process:T24 Participant:T15
+E7	Gene_expression:T25 Theme:T12
+E8	Positive_regulation:T26 Theme:E9
+E9	Process:T27 
+E10	Positive_regulation:T28 Theme:E11
+E11	Process:T29 
+E12	Regulation:T30 Theme:E13
+M1	Negation E12
+E13	Process:T31 
+E14	Process:T32 
+E15	Process:T33 

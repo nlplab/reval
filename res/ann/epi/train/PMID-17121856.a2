@@ -1,0 +1,10 @@
+T15	Acetylation 14 25	acetylation
+T16	Acetylation 252 262	acetylated
+T17	Acetylation 303 314	acetylation
+T18	Acetylation 747 758	acetylation
+T19	Acetylation 1257 1268	acetylation
+E1	Acetylation:T15 Theme:T1
+E2	Acetylation:T16 Theme:T3
+E3	Acetylation:T17 Theme:T4
+E4	Acetylation:T18 Theme:T9
+E5	Acetylation:T19 Theme:T14

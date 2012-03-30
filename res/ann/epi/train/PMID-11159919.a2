@@ -1,0 +1,9 @@
+T4	Glycosylation 249 265	Hypoglycosylated
+T5	Glycosylation 399 416	hypoglycosylation
+T6	Glycosylation 524 541	hypoglycosylation
+E1	Glycosylation:T4 Theme:T1
+M1	Negation E1
+E2	Glycosylation:T5 Theme:T2
+M2	Negation E2
+E3	Glycosylation:T6 Theme:T3
+M3	Negation E3

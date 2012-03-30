@@ -1,0 +1,13 @@
+T1	Organism 10 19	DeltavicK
+T2	Protein 15 19	vicK
+T3	Organism 69 85	DeltavicK mutant
+T4	Protein 74 78	vicK
+T5	Protein 242 246	vicK
+T6	Organism 278 285	S. equi
+T7	Organism 324 331	S. equi
+T8	Organism 385 402	DeltavicK S. equi
+T9	Protein 390 394	vicK
+T10	Organism 761 770	DeltavicK
+T11	Protein 766 770	vicK
+T12	Organism 814 830	DeltavicK mutant
+T13	Protein 819 823	vicK

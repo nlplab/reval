@@ -1,0 +1,18 @@
+T22	Gene_expression 43 53	Expression
+T23	Gene_expression 262 272	production
+T24	Gene_expression 551 559	produced
+T25	Gene_expression 595 603	produced
+T26	Process 627 636	infection
+T27	Process 818 827	infection
+T28	Gene_expression 926 934	produced
+T29	Process 950 959	infection
+E1	Gene_expression:T22 Theme:T2
+E2	Gene_expression:T23 Theme:T8
+E3	Gene_expression:T24 Theme:T13
+M1	Negation E3
+E4	Gene_expression:T25 Theme:T14
+M2	Speculation E4
+E5	Process:T26 Participant:T15
+E6	Process:T27 Participant:T19
+E7	Gene_expression:T28 Theme:T21
+E8	Process:T29 

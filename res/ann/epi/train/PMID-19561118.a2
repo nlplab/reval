@@ -1,0 +1,13 @@
+T16	Ubiquitination 39 53	ubiquitination
+T17	Ubiquitination 897 911	ubiquitination
+T18	Ubiquitination 1090 1104	ubiquitination
+T19	Ubiquitination 1268 1286	overubiquitination
+T20	Ubiquitination 1662 1676	ubiquitination
+T21	Ubiquitination 1835 1849	ubiquitination
+E1	Ubiquitination:T16 Theme:T1
+E2	Ubiquitination:T17 Theme:T6
+E3	Ubiquitination:T18 Theme:T7
+M1	Negation E3
+E4	Ubiquitination:T19 Theme:T9
+E5	Ubiquitination:T20 Theme:T14
+E6	Ubiquitination:T21 Theme:T15

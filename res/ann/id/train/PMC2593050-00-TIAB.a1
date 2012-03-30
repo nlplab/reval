@@ -1,0 +1,35 @@
+T1	Two-component-system 36 41	VicRK
+T2	Protein 36 40	VicR
+T3	Protein 40 41	K
+T4	Organism 71 105	Streptococcus equi Subspecies equi
+T5	Two-component-system 191 196	VicRK
+T6	Protein 191 195	VicR
+T7	Protein 195 196	K
+T8	Organism 217 222	horse
+T9	Organism 232 266	Streptococcus equi subspecies equi
+T10	Protein 290 294	vicK
+T11	Organism 336 341	mouse
+T12	Protein 364 368	vicK
+T13	Organism 411 427	DeltavicK mutant
+T14	Protein 416 420	vicK
+T15	Organism 505 509	mice
+T16	Organism 511 520	DeltavicK
+T17	Protein 516 520	vicK
+T18	Organism 589 596	S. equi
+T19	Protein 677 681	vicK
+T20	Organism 713 722	DeltavicK
+T21	Protein 718 722	vicK
+T22	Organism 742 746	mice
+T23	Organism 784 791	S. equi
+T24	Organism 811 820	DeltavicK
+T25	Protein 816 820	vicK
+T26	Protein 858 861	SeM
+T27	Protein 870 873	IgA
+T28	Protein 887 890	IgG
+T29	Two-component-system 920 925	VicRK
+T30	Protein 920 924	VicR
+T31	Protein 924 925	K
+T32	Organism 942 949	S. equi
+T33	Organism 988 997	DeltavicK
+T34	Protein 993 997	vicK
+T35	Organism 1042 1049	S. equi

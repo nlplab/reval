@@ -1,0 +1,3 @@
+T12	Glycosylation 1377 1389	glycosylated
+T13	Entity 1390 1394	core
+E1	Glycosylation:T12 Theme:T11 Site:T13

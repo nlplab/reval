@@ -1,0 +1,6 @@
+T14	Methylation 20 34	tri-methylated
+T15	Entity 35 44	lysine 20
+T16	Methylation 72 86	Tri-methylated
+T17	Entity 87 96	lysine 20
+E1	Methylation:T14 Theme:T1 Site:T15
+E2	Methylation:T16 Theme:T2 Site:T17

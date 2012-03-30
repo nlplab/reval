@@ -1,0 +1,21 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T7 T8
+*	Equiv T9 T10
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T15 T16
+*	Equiv T17 T18
+*	Equiv T24 T25
+T28	Phosphorylation 29 43	phosphorylates
+T29	Phosphorylation 877 892	phosphorylation
+T30	Entity 896 901	Ser-8
+T31	Entity 906 913	Ser-268
+T32	Phosphorylation 1165 1180	phosphorylation
+T33	Entity 1194 1199	Ser-8
+T34	Ubiquitination 1248 1262	ubiquitination
+E1	Phosphorylation:T28 Theme:T1
+E2	Phosphorylation:T29 Theme:T15 Site:T30
+E3	Phosphorylation:T29 Theme:T15 Site:T31
+E4	Phosphorylation:T32 Theme:T24 Site:T33
+E5	Ubiquitination:T34 Theme:T24

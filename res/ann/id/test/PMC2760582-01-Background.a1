@@ -1,0 +1,40 @@
+T1	Organism 58 70	Photorhabdus
+T2	Organism 75 86	Xenorhabdus
+T3	Organism 138 153	Heterorhabditis
+T4	Organism 158 169	Steinernema
+T5	Organism 815 827	Photorhabdus
+T6	Organism 832 843	Xenorhabdus
+T7	Organism 966 995	Photorhabdus luminescens TT01
+T8	Organism 1178 1190	Photorhabdus
+T9	Organism 1195 1206	Xenorhabdus
+T10	Organism 1390 1402	Photorhabdus
+T11	Protein 1431 1435	phoP
+T12	Organism 1556 1570	X. nematophila
+T13	Two-component-system 1572 1577	phoPQ
+T14	Protein 1572 1576	phoP
+T15	Protein 1576 1577	Q
+T16	Organism 1654 1668	P. luminescens
+T17	Protein 1699 1703	AI-2
+T18	Chemical 1714 1737	reactive oxygen species
+T19	Organism 1890 1904	X. nematophila
+T20	Organism 2015 2029	P. luminescens
+T21	Protein 2092 2096	LopT
+T22	Organism 2192 2212	Xenorhabdus bovienii
+T23	Organism 2217 2231	X. nematophila
+T24	Protein 2258 2262	LopT
+T25	Organism 2313 2324	Xenorhabdus
+T26	Organism 2479 2491	Photorhabdus
+T27	Organism 2496 2507	Xenorhabdus
+T28	Organism 2674 2688	P. luminescens
+T29	Organism 2717 2736	Galleria mellonella
+T30	Organism 3108 3130	Photorhabdus temperata
+T31	Organism 3161 3196	Heterorhabditis bacteriophora GPS11
+T32	Organism 3202 3227	Xenorhabdus koppenhoeferi
+T33	Organism 3258 3286	Steinernema scarabaei AMK001
+T34	Organism 3329 3348	Rhizotrogus majalis
+T35	Organism 3454 3466	S. scarabaei
+T36	Organism 3487 3497	R. majalis
+T37	Organism 3503 3519	H. bacteriophora
+T38	Organism 3608 3627	Rhizotrogus majalis
+T39	Organism 3651 3667	X. koppenhoeferi
+T40	Organism 3686 3698	P. temperata

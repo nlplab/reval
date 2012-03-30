@@ -1,0 +1,158 @@
+T1	Organism 391 408	Bacillus subtilis
+T2	Organism 439 457	Myxococcus xanthus
+T3	Protein 915 918	Pel
+T4	Protein 923 926	Psl
+T5	Two-component-system 1072 1077	BfiRS
+T6	Protein 1072 1076	BfiR
+T7	Protein 1076 1077	S
+T8	Two-component-system 1079 1090	PA4196-4197
+T9	Protein 1079 1085	PA4196
+T10	Protein 1086 1090	4197
+T11	Two-component-system 1162 1167	BfmRS
+T12	Protein 1162 1166	BfmR
+T13	Protein 1166 1167	S
+T14	Two-component-system 1169 1180	PA4101-4102
+T15	Protein 1169 1175	PA4101
+T16	Protein 1176 1180	4102
+T17	Two-component-system 1239 1244	MifRS
+T18	Protein 1239 1243	MifR
+T19	Protein 1243 1244	S
+T20	Two-component-system 1246 1257	PA5511-5512
+T21	Protein 1246 1252	PA5511
+T22	Protein 1253 1257	5512
+T23	Organism 1698 1711	P. aeruginosa
+T24	Protein 1803 1807	BfiS
+T25	Protein 1848 1852	GacS
+T26	Protein 1866 1870	MifR
+T27	Protein 2203 2207	GacS
+T28	Two-component-system 2237 2246	RetS/LadS
+T29	Protein 2237 2241	RetS
+T30	Protein 2242 2246	LadS
+T31	Protein 2247 2251	GacA
+T32	Protein 2251 2252	S
+T33	Protein 2253 2257	RsmA
+T34	Organism 2579 2592	P. aeruginosa
+T35	Chemical 3807 3816	glutamate
+T36	Chemical 3820 3827	citrate
+T37	Chemical 3838 3844	carbon
+T38	Protein 4386 4390	BfiS
+T39	Protein 4392 4398	PA4197
+T40	Protein 4404 4408	BfmR
+T41	Protein 4410 4416	PA4101
+T42	Protein 4616 4620	BfiS
+T43	Organism 4878 4885	E. coli
+T44	Organism 4887 4908	Klebsiella pneumoniae
+T45	Organism 4914 4929	Enterobacter sp
+T46	Protein 4942 4946	BfmR
+T47	Organism 5003 5014	Yersinia sp
+T48	Organism 5017 5032	Burkholderia sp
+T49	Organism 5035 5047	Rhizobium sp
+T50	Organism 5050 5059	Vibrio sp
+T51	Organism 5061 5073	Geobacter sp
+T52	Organism 5080 5090	M. xanthus
+T53	Protein 5149 5153	MifR
+T54	Organism 5272 5282	M. xanthus
+T55	Protein 5314 5318	MifR
+T56	Organism 5332 5342	M. xanthus
+T57	Protein 5365 5369	NtrC
+T58	Protein 5413 5417	CrdA
+T59	Protein 5450 5454	crdA
+T60	Organism 5491 5501	M. xanthus
+T61	Protein 5534 5538	NtrC
+T62	Protein 5784 5798	RNA polymerase
+T63	Protein 5856 5860	rpoN
+T64	Protein 5889 5893	NtrC
+T65	Organism 5955 5965	M. xanthus
+T66	Protein 6145 6149	NtrC
+T67	Organism 6258 6268	M. xanthus
+T68	Protein 6345 6349	RpoN
+T69	Organism 6424 6435	B. subtilis
+T70	Protein 6506 6513	Sigma E
+T71	Protein 6515 6516	F
+T72	Protein 6518 6519	G
+T73	Protein 6525 6526	K
+T74	Protein 6974 6978	RpoD
+T75	Protein 6983 6987	RpoN
+T76	Protein 7004 7008	BfiR
+T77	Protein 7029 7037	Sigma-70
+T78	Protein 7039 7043	RpoD
+T79	Protein 7134 7138	BfiR
+T80	Protein 7154 7158	BfiS
+T81	Protein 7245 7249	RpoD
+T82	Protein 7261 7265	MifR
+T83	Protein 7276 7284	sigma-54
+T84	Protein 7294 7298	RpoN
+T85	Two-component-system 7370 7375	BfiRS
+T86	Protein 7370 7374	BfiR
+T87	Protein 7374 7375	S
+T88	Two-component-system 7380 7385	BfmRS
+T89	Protein 7380 7384	BfmR
+T90	Protein 7384 7385	S
+T91	Organism 7479 7492	P. aeruginosa
+T92	Organism 7620 7631	B. subtilis
+T93	Organism 7662 7672	M. xanthus
+T94	Organism 7918 7931	P. aeruginosa
+T95	Protein 8197 8201	SadA
+T96	Protein 8201 8202	R
+T97	Protein 8202 8203	S
+T98	Protein 8205 8210	RocS1
+T99	Protein 8210 8212	RA
+T100	Protein 8212 8213	1
+T101	Protein 8502 8506	RetS
+T102	Protein 8508 8512	LadS
+T103	Protein 8518 8522	GacS
+T104	Organism 8633 8646	P. aeruginosa
+T105	Organism 8896 8909	P. aeruginosa
+T106	Protein 8992 8996	RetS
+T107	Protein 9000 9004	LadS
+T108	Protein 9020 9024	GacS
+T109	Protein 9067 9071	GacS
+T110	Protein 9122 9126	GacS
+T111	Protein 9151 9155	RetS
+T112	Protein 9178 9182	RetS
+T113	Protein 9247 9251	GacS
+T114	Protein 9357 9361	GacS
+T115	Protein 9463 9467	GacS
+T116	Protein 9487 9491	GacS
+T117	Protein 9695 9699	GacS
+T118	Protein 9771 9775	RetS
+T119	Protein 9824 9828	GacS
+T120	Protein 9865 9869	RetS
+T121	Protein 9956 9960	RetS
+T122	Protein 9995 9999	GacS
+T123	Protein 10036 10040	BfiS
+T124	Protein 10086 10090	BfiS
+T125	Protein 10119 10123	BfiR
+T126	Protein 10141 10145	RsmA
+T127	Protein 10258 10262	RetS
+T128	Protein 10263 10267	LadS
+T129	Protein 10268 10272	GacA
+T130	Protein 10272 10273	S
+T131	Protein 10274 10278	RsmA
+T132	Organism 10490 10503	P. aeruginosa
+T133	Two-component-system 10666 10671	BfiSR
+T134	Protein 10666 10670	BfiS
+T135	Protein 10670 10671	R
+T136	Two-component-system 10673 10684	PA4196-4197
+T137	Protein 10673 10679	PA4196
+T138	Protein 10680 10684	4197
+T139	Two-component-system 10687 10692	BfmSR
+T140	Protein 10687 10691	BfmS
+T141	Protein 10691 10692	R
+T142	Two-component-system 10693 10704	PA4101-4102
+T143	Protein 10693 10699	PA4101
+T144	Protein 10700 10704	4102
+T145	Two-component-system 10711 10716	MifSR
+T146	Protein 10711 10715	MifS
+T147	Protein 10715 10716	R
+T148	Two-component-system 10718 10729	PA5511-5512
+T149	Protein 10718 10724	PA5511
+T150	Protein 10725 10729	5512
+T151	Protein 10893 10897	GacS
+T152	Protein 10902 10906	RsmA
+T153	Protein 10958 10962	RetS
+T154	Protein 10963 10967	LadS
+T155	Protein 10968 10972	GacA
+T156	Protein 10972 10973	S
+T157	Protein 10974 10978	RsmA
+T158	Organism 11485 11498	P. aeruginosa

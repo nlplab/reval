@@ -1,0 +1,14 @@
+T8	Glycosylation 0 13	Glycosylation
+T9	Entity 17 21	158N
+T10	Deglycosylation 818 825	removal
+T11	Entity 833 837	158N
+T12	Glycosylation 838 851	glycosylation
+T13	Entity 1637 1641	158N
+T14	Glycosylation 1642 1655	glycosylation
+T15	Entity 1848 1852	158N
+T16	Glycosylation 1853 1866	glycosylation
+E1	Glycosylation:T8 Theme:T1 Site:T9
+E2	Deglycosylation:T10 Theme:T2 Site:T11
+E3	Glycosylation:T12 Theme:T2 Site:T11
+E4	Glycosylation:T14 Theme:T6 Site:T13
+E5	Glycosylation:T16 Theme:T7 Site:T15

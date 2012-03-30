@@ -1,0 +1,8 @@
+T9	Process 3087 3096	infection
+T10	Process 3149 3155	infect
+T11	Process 3765 3774	virulence
+T12	Process 4197 4206	infection
+E1	Process:T9 
+E2	Process:T10 
+E3	Process:T11 
+E4	Process:T12 

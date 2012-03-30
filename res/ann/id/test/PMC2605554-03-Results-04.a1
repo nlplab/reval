@@ -1,0 +1,23 @@
+T1	Protein 0 4	SpeB
+T2	Protein 35 39	SpeB
+T3	Organism 86 99	C57BL6/J mice
+T4	Protein 138 142	SpeB
+T5	Organism 159 165	5628R+
+T6	Protein 251 255	SpeB
+T7	Protein 324 328	SpeB
+T8	Organism 402 406	mice
+T9	Protein 448 452	SpeB
+T10	Two-component-system 513 519	covR/S
+T11	Protein 513 517	covR
+T12	Protein 518 519	S
+T13	Two-component-system 625 631	covR/S
+T14	Protein 625 629	covR
+T15	Protein 630 631	S
+T16	Protein 659 663	CovS
+T17	Protein 696 700	SpeB
+T18	Two-component-system 806 812	CovR/S
+T19	Protein 806 810	CovR
+T20	Protein 811 812	S
+T21	Protein 831 835	ropB
+T22	Organism 855 859	5628
+T23	Organism 900 905	mouse

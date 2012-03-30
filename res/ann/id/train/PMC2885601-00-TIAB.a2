@@ -1,0 +1,18 @@
+*	Equiv T6 T7
+*	Equiv T11 T12
+T46	Localization 141 149	secreted
+T47	Gene_expression 494 502	produces
+T48	Gene_expression 717 730	overexpressed
+T49	Process 811 820	infection
+T50	Gene_expression 914 922	produced
+T51	Process 938 947	infection
+T52	Positive_regulation 1027 1034	cleaves
+T53	Protein_catabolism 1027 1034	cleaves
+E1	Localization:T46 Theme:T5
+E2	Gene_expression:T47 Theme:T16
+E3	Gene_expression:T48 Theme:T22
+E4	Process:T49 Participant:T25
+E5	Gene_expression:T50 Theme:T29
+E6	Process:T51 
+E7	Protein_catabolism:T53 Theme:T33
+E8	Positive_regulation:T52 Theme:E7 Cause:T30

@@ -1,0 +1,7 @@
+*	Equiv T2 T3 T4
+T5	Glycosylation 413 421	O-linked
+T6	Entity 422 434	carbohydrate
+T7	Glycosylation 1493 1501	O-linked
+T8	Entity 1502 1526	carbohydrate side chains
+E1	Glycosylation:T5 Theme:T2 Sidechain:T6
+E2	Glycosylation:T7 Theme:T2 Sidechain:T8

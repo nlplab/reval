@@ -1,0 +1,38 @@
+T21	Methylation 0 11	Methylation
+T22	Entity 18 20	K4
+T23	Entity 25 28	K79
+T24	Entity 62 66	K123
+T25	Ubiquitination 67 81	ubiquitylation
+T26	Methylation 300 314	trimethylation
+T27	Entity 318 320	K4
+T28	Entity 325 328	K79
+T29	Ubiquitination 345 359	ubiquitylation
+T30	Entity 367 371	K123
+T31	Ubiquitination 463 476	ubiquitylated
+T32	Methylation 519 533	trimethylation
+T33	Entity 542 544	K4
+T34	Entity 549 552	K79
+T35	Methylation 573 584	methylation
+T36	Ubiquitination 623 637	ubiquitylation
+T37	Methylation 697 708	methylation
+T38	Methylation 918 929	methylation
+T39	Methylation 1016 1027	methylation
+T40	Methylation 1132 1143	methylation
+E1	Methylation:T21 Theme:T1 Site:T22
+E2	Methylation:T21 Theme:T1 Site:T23
+E3	Ubiquitination:T25 Theme:T2 Site:T24
+E4	Methylation:T26 Theme:T4 Site:T27
+E5	Methylation:T26 Theme:T4 Site:T28
+E6	Ubiquitination:T29 Theme:T5 Site:T30
+E7	Ubiquitination:T31 Theme:T6
+M1	Negation E7
+E8	Methylation:T32 Theme:T7 Site:T34
+E9	Methylation:T32 Theme:T7 Site:T33
+E10	Methylation:T35 Theme:T8
+E11	Ubiquitination:T36 Theme:T9
+E12	Methylation:T37 Theme:T11
+E13	Methylation:T38 Theme:T14
+M2	Negation E13
+E14	Methylation:T39 Theme:T17
+M3	Negation E14
+E15	Methylation:T40 Theme:T20

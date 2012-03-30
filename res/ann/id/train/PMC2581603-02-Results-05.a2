@@ -1,0 +1,22 @@
+T24	Gene_expression 0 10	Expression
+T25	Process 22 32	resistance
+T26	Positive_regulation 57 64	induced
+T27	Gene_expression 174 184	expression
+T28	Gene_expression 1252 1262	expression
+T29	Gene_expression 1343 1353	expression
+T30	Positive_regulation 1367 1374	induced
+T31	Gene_expression 1499 1509	expression
+T32	Gene_expression 1749 1759	expression
+T33	Negative_regulation 1775 1784	repressed
+E1	Gene_expression:T24 Theme:T2
+E2	Process:T25 
+E3	Positive_regulation:T26 Theme:E1
+E4	Gene_expression:T27 Theme:T5
+E5	Gene_expression:T28 Theme:T14
+E6	Gene_expression:T28 Theme:T15
+E7	Gene_expression:T29 Theme:T17
+E8	Positive_regulation:T30 Theme:E7
+E9	Gene_expression:T31 Theme:T20
+E10	Gene_expression:T31 Theme:T21
+E11	Gene_expression:T32 Theme:T23
+E12	Negative_regulation:T33 Theme:E11 Cause:T22

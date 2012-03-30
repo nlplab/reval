@@ -1,0 +1,38 @@
+T1	Protein 0 4	SmpB
+T2	Protein 38 42	SmpB
+T3	Protein 192 196	RpoS
+T4	Protein 226 230	SmpB
+T5	Protein 377 381	SmpB
+T6	Organism 459 481	Salmonella Typhimurium
+T7	Protein 680 684	SmpB
+T8	Organism 746 768	Salmonella Typhimurium
+T9	Protein 815 819	RpoS
+T10	Protein 918 922	RpoS
+T11	Organism 934 956	Salmonella Typhimurium
+T12	Protein 1016 1020	RpoS
+T13	Protein 1143 1147	RpoS
+T14	Protein 1197 1201	YciF
+T15	Protein 1220 1224	SmpB
+T16	Protein 1392 1396	SmpB
+T17	Protein 1418 1422	SmpB
+T18	Protein 1453 1457	SmpB
+T19	Regulon-operon 1511 1521	HisDGCBHAF
+T20	Protein 1511 1515	HisD
+T21	Protein 1515 1516	G
+T22	Protein 1516 1517	C
+T23	Protein 1517 1518	B
+T24	Protein 1518 1519	H
+T25	Protein 1519 1520	A
+T26	Protein 1520 1521	F
+T27	Organism 1556 1578	Salmonella Typhimurium
+T28	Protein 1688 1692	CheZ
+T29	Protein 1694 1698	CheY
+T30	Protein 1700 1704	CheW
+T31	Protein 1706 1710	CheA
+T32	Protein 1715 1718	Tsr
+T33	Protein 1753 1757	FliC
+T34	Protein 1759 1763	FliD
+T35	Protein 1765 1769	FliG
+T36	Protein 1774 1778	FljB
+T37	Protein 1842 1846	SmpB
+T38	Protein 1948 1952	FliC

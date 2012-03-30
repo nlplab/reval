@@ -1,0 +1,22 @@
+*	Equiv T4 T5 T6
+T16	Entity 704 708	edge
+T17	DNA_methylation 713 723	methylated
+T18	Entity 773 779	center
+T19	DNA_methylation 788 798	methylated
+T20	DNA_methylation 902 913	methylation
+T21	DNA_methylation 976 987	methylation
+T22	Entity 995 999	edge
+T23	DNA_methylation 1175 1186	methylation
+T24	Entity 1194 1198	edge
+T25	Entity 1337 1359	CGI overlapping exon 8
+T26	DNA_methylation 1369 1380	methylation
+T27	DNA_methylation 1429 1440	methylation
+T28	Entity 1446 1449	CGI
+E1	DNA_methylation:T17 Theme:T9 Site:T16
+E2	DNA_methylation:T19 Theme:T9 Site:T18
+M1	Negation E2
+E3	DNA_methylation:T20 Theme:T10
+E4	DNA_methylation:T21 Theme:T11 Site:T22
+E5	DNA_methylation:T23 Theme:T12 Site:T24
+E6	DNA_methylation:T26 Theme:T13 Site:T25
+E7	DNA_methylation:T27 Theme:T13 Site:T28

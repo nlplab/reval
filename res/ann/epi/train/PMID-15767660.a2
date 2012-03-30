@@ -1,0 +1,33 @@
+*	Equiv T2 T3
+*	Equiv T26 T27
+T24	Entity 32 40	lysine 9
+T25	Methylation 41 52	methylation
+T26	Entity 135 143	lysine 9
+T27	Entity 148 150	K9
+T28	Methylation 152 163	methylation
+T29	Entity 357 359	K9
+T30	Methylation 360 371	methylation
+T31	Catalysis 604 611	induced
+T32	Entity 615 617	K9
+T33	Methylation 618 629	methylation
+T34	Entity 755 757	K9
+T35	DNA_methylation 758 769	methylation
+T36	Deacetylation 1075 1088	deacetylation
+T37	Entity 1204 1206	K9
+T38	Methylation 1207 1218	methylation
+T39	Acetylation 1237 1248	acetylation
+T40	Catalysis 1237 1248	acetylation
+T41	Entity 1339 1341	K9
+T42	Methylation 1342 1353	methylation
+E1	Methylation:T25 Theme:T1 Site:T24
+E2	Methylation:T28 Theme:T2 Site:T26
+E3	Methylation:T30 Theme:T4 Site:T29
+E4	Catalysis:T31 Theme:E6 Cause:T8
+E5	Catalysis:T31 Theme:E6 Cause:T9
+E6	Methylation:T33 Theme:T10 Site:T32
+E7	DNA_methylation:T35 Theme:T10 Site:T34
+E8	Deacetylation:T36 Theme:T14
+E9	Methylation:T38 Theme:T19 Site:T37
+E10	Acetylation:T39 Theme:T20
+E11	Catalysis:T40 Theme:E10 Cause:T21
+E12	Methylation:T42 Theme:T22 Site:T41

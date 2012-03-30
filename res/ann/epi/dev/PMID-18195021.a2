@@ -1,0 +1,14 @@
+*	Equiv T7 T8
+T21	Methylation 967 977	methylated
+T22	Methylation 1132 1143	methylation
+T23	Catalysis 1218 1226	modified
+T24	Entity 1294 1302	lysine 3
+T25	Methylation 1308 1319	methylation
+T26	Catalysis 1325 1333	modified
+T27	Methylation 1626 1637	methylation
+E1	Methylation:T21 Theme:T11
+E2	Methylation:T22 Theme:T14 Site:T24
+E3	Catalysis:T23 Theme:E2 Cause:T13
+E4	Methylation:T25 Theme:T16
+E5	Catalysis:T26 Theme:E4 Cause:T15
+E6	Methylation:T27 Theme:T19

@@ -1,0 +1,42 @@
+T1	Protein 0 4	csrS
+T2	Organism 75 80	mouse
+T3	Protein 122 126	csrS
+T4	Organism 180 183	GAS
+T5	Organism 201 206	mouse
+T6	Organism 228 231	GAS
+T7	Organism 255 272	non-invasive 1566
+T8	Organism 359 374	invasive NIH230
+T9	Organism 403 416	csrS deletion
+T10	Protein 403 407	csrS
+T11	Organism 418 431	1566DeltacsrS
+T12	Protein 427 431	csrS
+T13	Organism 496 502	NIH230
+T14	Protein 555 559	csrS
+T15	Organism 574 580	NIH230
+T16	Organism 589 602	NIH230::csrS+
+T17	Protein 597 602	csrS+
+T18	Organism 656 675	non-invasive strain
+T19	Protein 705 709	csrS
+T20	Organism 750 755	mouse
+T21	Organism 811 817	NIH230
+T22	Organism 846 850	mice
+T23	Organism 934 938	mice
+T24	Organism 953 966	NIH230::csrS+
+T25	Protein 961 966	csrS+
+T26	Organism 981 985	1566
+T27	Organism 1016 1028	non-invasive
+T28	Organism 1065 1088	invasive isolates +CsrS
+T29	Protein 1084 1088	CsrS
+T30	Organism 1119 1123	mice
+T31	Organism 1142 1148	NIH230
+T32	Organism 1413 1417	mice
+T33	Organism 1436 1440	1566
+T34	Organism 1445 1458	NIH230::csrS+
+T35	Protein 1453 1458	csrS+
+T36	Organism 1534 1540	NIH230
+T37	Organism 1614 1618	1566
+T38	Organism 1623 1636	NIH230::csrS+
+T39	Protein 1631 1636	csrS+
+T40	Organism 1669 1681	invasive GAS
+T41	Organism 1722 1738	non-invasive GAS
+T42	Protein 1822 1826	csrS

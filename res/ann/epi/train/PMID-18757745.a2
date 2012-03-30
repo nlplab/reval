@@ -1,0 +1,4 @@
+T13	Ubiquitination 515 528	ubiquitinated
+T14	Ubiquitination 712 726	ubiquitination
+E1	Ubiquitination:T13 Theme:T5
+E2	Ubiquitination:T14 Theme:T7

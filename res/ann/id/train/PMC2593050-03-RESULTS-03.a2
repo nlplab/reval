@@ -1,0 +1,17 @@
+T26	Regulation 3 9	Effect
+T27	Process 34 44	Resistance
+T28	Regulation 125 132	affects
+T29	Process 137 147	resistance
+T30	Process 621 630	resistant
+T31	Process 859 869	resistance
+T32	Process 1151 1157	resist
+E1	Regulation:T26 Theme:E2
+M1	Negation E1
+E2	Process:T27 Participant:T2
+E3	Regulation:T28 Theme:E4
+M2	Speculation E3
+E4	Process:T29 Participant:T4
+E5	Process:T30 Participant:T13
+M3	Negation E5
+E6	Process:T31 
+E7	Process:T32 Participant:T25

@@ -1,0 +1,4 @@
+T18	Ubiquitination 138 152	ubiquitination
+T19	Ubiquitination 523 537	ubiquitination
+E1	Ubiquitination:T18 Theme:T5
+E2	Ubiquitination:T19 Theme:T14

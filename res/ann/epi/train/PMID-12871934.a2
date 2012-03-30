@@ -1,0 +1,6 @@
+*	Equiv T1 T2
+*	Equiv T4 T5
+T7	Glycosylation 418 430	glycosylated
+T8	Glycosylation 987 1000	glycosylation
+E1	Glycosylation:T7 Theme:T3
+E2	Glycosylation:T8 Theme:T6

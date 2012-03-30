@@ -1,0 +1,6 @@
+*	Equiv T3 T5
+*	Equiv T4 T6
+T24	Hydroxylation 930 943	hydroxylation
+T25	Catalysis 930 943	hydroxylation
+E1	Hydroxylation:T24 Theme:T18
+E2	Catalysis:T25 Theme:E1 Cause:T17

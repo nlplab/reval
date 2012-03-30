@@ -1,0 +1,14 @@
+T20	Methylation 15 26	methylation
+T21	Demethylation 269 282	demethylation
+T22	Demethylation 412 425	demethylation
+T23	Methylation 527 539	remethylated
+T24	Methylation 575 588	remethylation
+T25	Catalysis 575 588	remethylation
+T26	Methylation 841 854	remethylation
+E1	Methylation:T20 Theme:T2
+E2	Demethylation:T21 Theme:T4
+E3	Demethylation:T22 Theme:T6
+E4	Methylation:T23 Theme:T7
+E5	Methylation:T24 Theme:T7
+E6	Catalysis:T25 Theme:E5 Cause:T8
+E7	Methylation:T26 Theme:T9

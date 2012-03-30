@@ -1,0 +1,21 @@
+T41	Positive_regulation 191 199	required
+T42	Positive_regulation 204 214	activation
+T43	Gene_expression 1011 1021	expressing
+T44	Positive_regulation 1087 1094	promote
+T45	Gene_expression 1100 1110	expression
+T46	Gene_expression 1163 1173	expression
+T47	Gene_expression 2218 2228	expression
+T48	Gene_expression 3301 3309	produced
+T49	Gene_expression 3595 3602	express
+T50	Positive_regulation 3620 3628	response
+E1	Positive_regulation:T41 Theme:E2 Cause:T2
+E2	Positive_regulation:T42 Theme:T3
+E3	Gene_expression:T43 Theme:T18
+E4	Positive_regulation:T44 Theme:E5 Cause:T18
+E5	Gene_expression:T45 Theme:T19
+E6	Gene_expression:T46 Theme:T20
+E7	Gene_expression:T46 Theme:T20
+E8	Gene_expression:T47 Theme:T30
+E9	Gene_expression:T48 Theme:T34
+E10	Gene_expression:T49 Theme:T37
+E11	Positive_regulation:T50 Theme:E10 Cause:T38

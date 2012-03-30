@@ -1,0 +1,12 @@
+T1	Organism 72 78	Murine
+T2	Organism 205 209	Mice
+T3	Organism 343 377	sak189/sak188 double mutant strain
+T4	Protein 343 349	sak189
+T5	Protein 350 356	sak188
+T6	Organism 453 474	sak188 mutant strains
+T7	Protein 453 459	sak188
+T8	Organism 591 625	sak189/sak188 double mutant strain
+T9	Protein 591 597	sak189
+T10	Protein 598 604	sak188
+T11	Organism 674 694	sak188 mutant strain
+T12	Protein 674 680	sak188

@@ -1,0 +1,23 @@
+T9	Glycosylation 15 17	O-
+T10	Glycosylation 22 44	N-linked glycosylation
+T11	Entity 428 451	carboxy-terminal region
+T12	Glycosylation 512 534	O-linked glycosylation
+T13	Glycosylation 567 569	O-
+T14	Glycosylation 574 596	N-linked glycosylation
+T15	Glycosylation 859 861	N-
+T16	Glycosylation 866 888	O-linked glycosylation
+T17	Glycosylation 1080 1102	N-linked glycosylation
+T18	Glycosylation 1117 1139	O-linked glycosylation
+T19	Glycosylation 1279 1301	O-linked glycosylation
+E1	Glycosylation:T9 Theme:T1
+E2	Glycosylation:T10 Theme:T1
+E3	Glycosylation:T12 Theme:T3 Site:T11
+E4	Glycosylation:T13 Theme:T4
+M1	Speculation E4
+E5	Glycosylation:T14 Theme:T4
+M2	Speculation E5
+E6	Glycosylation:T15 Theme:T6
+E7	Glycosylation:T16 Theme:T6
+E8	Glycosylation:T17 Theme:T7
+E9	Glycosylation:T18 Theme:T8
+E10	Glycosylation:T19 Theme:T8

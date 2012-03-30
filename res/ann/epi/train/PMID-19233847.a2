@@ -1,0 +1,4 @@
+T16	Catalysis 1412 1425	ubiquitinates
+T17	Ubiquitination 1412 1425	ubiquitinates
+E1	Ubiquitination:T17 Theme:T13
+E2	Catalysis:T16 Theme:E1 Cause:T12

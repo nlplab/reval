@@ -1,0 +1,32 @@
+Test Data for BioNLP Shared Task 2011 Main Task - Infectious Diseases (ID)
+
+
+- Contains parts of PubMed Central (PMC) Open Access subset full texts
+  with annotations. The text of these articles is distributed under
+  the Creative Commons Attribution License
+  (http://creativecommons.org/licenses/by/2.0).
+
+
+- For format details, please refer to the shared task homepage.
+  http://sites.google.com/site/bionlpst/
+
+
+
+File Descriptions:
+
+*.txt	files containing the target text.
+
+*.a1	files contain standoff annotations for given entities.
+
+
+
+History:
+
+ 1 Mar 2011: initial version released.
+
+
+Authors:
+
+BioNLP Shared Task 2011 organizers,
+bionlp-st@googlegroups.com
+http://sites.google.com/site/bionlpst/

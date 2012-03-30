@@ -1,0 +1,27 @@
+T34	Binding 93 100	Binding
+T35	Positive_regulation 428 435	induced
+T36	Positive_regulation 556 565	Induction
+T37	Process 925 934	infection
+T38	Gene_expression 1122 1136	overexpression
+T39	Binding 1267 1272	binds
+T40	Binding 1342 1349	engages
+T41	Binding 1461 1468	binding
+T42	Binding 1628 1632	bind
+T43	Positive_regulation 1771 1779	required
+T44	Process 1845 1854	infection
+T45	Binding 1893 1898	binds
+T46	Positive_regulation 2044 2053	dependent
+E1	Binding:T34 Theme1:T2 Theme2:T3
+E2	Positive_regulation:T35 Theme:T5
+E3	Positive_regulation:T36 Theme:T7
+E4	Process:T37 Participant:T11
+E5	Gene_expression:T38 Theme:T15
+E6	Binding:T39 Theme1:T16 Theme2:T17
+E7	Binding:T40 Theme1:T18 Theme2:T19
+E8	Binding:T41 Theme:T21
+E9	Binding:T42 Theme1:T23 Theme2:T24
+E10	Positive_regulation:T43 Theme:E11 Cause:T27
+E11	Process:T44 Participant:T28
+E12	Binding:T45 Theme1:T29 Theme2:T30
+E13	Positive_regulation:T46 Theme:T32 Cause:T33
+M1	Speculation E13

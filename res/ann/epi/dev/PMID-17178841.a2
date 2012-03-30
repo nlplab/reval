@@ -1,0 +1,5 @@
+*	Equiv T1 T2
+*	Equiv T4 T5
+T22	Entity 1002 1004	K4
+T23	Methylation 1005 1019	trimethylation
+E1	Methylation:T23 Theme:T18 Site:T22

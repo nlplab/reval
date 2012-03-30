@@ -1,0 +1,6 @@
+T6	DNA_methylation 768 778	methylated
+E1	DNA_methylation:T6 Theme:T1
+E2	DNA_methylation:T6 Theme:T2
+E3	DNA_methylation:T6 Theme:T3
+E4	DNA_methylation:T6 Theme:T4
+E5	DNA_methylation:T6 Theme:T5

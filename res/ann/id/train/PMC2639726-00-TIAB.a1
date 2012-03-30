@@ -1,0 +1,17 @@
+T1	Organism 65 104	Salmonella enterica Serovar Typhimurium
+T2	Organism 137 147	Salmonella
+T3	Organism 195 200	mouse
+T4	Organism 520 554	Salmonella enteriditis Typhimurium
+T5	Organism 556 559	STM
+T6	Organism 675 686	BALB/c mice
+T7	Organism 707 721	129X1/SvJ mice
+T8	Organism 876 881	mouse
+T9	Organism 1476 1486	Salmonella
+T10	Organism 1670 1680	Salmonella
+T11	Protein 1801 1805	SsrB
+T12	Protein 1814 1818	MarR
+T13	Protein 1835 1839	SlyA
+T14	Protein 1992 1996	SsrB
+T15	Protein 2009 2013	SlyA
+T16	Protein 2034 2038	SlyA
+T17	Protein 2051 2055	SsrB

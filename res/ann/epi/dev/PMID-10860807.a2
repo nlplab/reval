@@ -1,0 +1,13 @@
+*	Equiv T2 T3 T4 T5 T6 T7
+T14	Phosphorylation 0 15	Phosphorylation
+T15	Phosphorylation 573 587	phosphorylated
+T16	Phosphorylation 821 835	phosphorylated
+T17	Phosphorylation 866 880	phosphorylated
+T18	Phosphorylation 1021 1035	phosphorylated
+T19	Phosphorylation 1071 1086	phosphorylation
+E1	Phosphorylation:T14 Theme:T1
+E2	Phosphorylation:T15 Theme:T11
+E3	Phosphorylation:T16 Theme:T12
+E4	Phosphorylation:T17 Theme:T12
+E5	Phosphorylation:T18 Theme:T13
+E6	Phosphorylation:T19 Theme:T13

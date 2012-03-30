@@ -1,0 +1,3 @@
+T6	Entity 137 143	prolyl
+T7	Hydroxylation 144 157	hydroxylation
+E1	Hydroxylation:T7 Theme:T1 Site:T6

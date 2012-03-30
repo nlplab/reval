@@ -1,0 +1,36 @@
+T1	Chemical 17 21	Mg2+
+T2	Chemical 23 27	Ca2+
+T3	Chemical 31 35	Mn2+
+T4	Chemical 44 48	Zn2+
+T5	Protein 57 63	PA3553
+T6	Chemical 244 248	Mg2+
+T7	Chemical 250 254	Ca2+
+T8	Chemical 258 262	Mn2+
+T9	Chemical 272 276	Zn2+
+T10	Chemical 517 521	Mg2+
+T11	Chemical 523 527	Ca2+
+T12	Chemical 529 533	Mn2+
+T13	Chemical 537 541	Zn2+
+T14	Chemical 804 808	Mg2+
+T15	Protein 973 979	PA3553
+T16	Chemical 1023 1027	Mg2+
+T17	Organism 1054 1067	P. aeruginosa
+T18	Chemical 1075 1079	Mg2+
+T19	Organism 1085 1098	P. aeruginosa
+T20	Protein 1099 1103	PhoQ
+T21	Chemical 1172 1176	Mg2+
+T22	Chemical 1181 1185	Ca2+
+T23	Chemical 1220 1224	Mg2+
+T24	Chemical 1260 1264	Mg2+
+T25	Chemical 1266 1270	Ca2+
+T26	Chemical 1274 1278	Mn2+
+T27	Chemical 1288 1292	Zn2+
+T28	Protein 1304 1310	PA3553
+T29	Organism 1373 1386	P. aeruginosa
+T30	Chemical 1413 1417	Mg2+
+T31	Chemical 1419 1423	Ca2+
+T32	Chemical 1427 1431	Mn2+
+T33	Regulon-operon 1508 1521	PA3552-PA3559
+T34	Protein 1508 1514	PA3552
+T35	Protein 1515 1521	PA3559
+T36	Chemical 1522 1525	LPS

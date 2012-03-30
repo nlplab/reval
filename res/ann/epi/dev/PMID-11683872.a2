@@ -1,0 +1,10 @@
+T13	Glycosylation 322 335	glycosylation
+T14	Glycosylation 529 541	glycosylated
+T15	Glycosylation 830 842	glycosylated
+T16	Entity 885 889	N604
+T17	Glycosylation 928 941	glycosylation
+E1	Glycosylation:T13 Theme:T3
+E2	Glycosylation:T14 Theme:T4
+E3	Glycosylation:T15 Theme:T5
+M1	Negation E3
+E4	Glycosylation:T17 Theme:T6 Site:T16

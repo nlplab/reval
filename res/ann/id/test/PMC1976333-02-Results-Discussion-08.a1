@@ -1,0 +1,39 @@
+T1	Protein 0 4	yhjH
+T2	Protein 48 52	yhjH
+T3	Protein 157 161	yhjH
+T4	Organism 435 438	chi
+T5	Protein 650 654	cheA
+T6	Organism 650 654	cheA
+T7	Protein 656 660	cheR
+T8	Organism 656 660	cheR
+T9	Organism 666 678	cheW mutants
+T10	Protein 666 670	cheW
+T11	Protein 774 778	yhjH
+T12	Organism 819 828	DeltayhjH
+T13	Protein 824 828	yhjH
+T14	Protein 1109 1113	yhjH
+T15	Organism 1208 1211	chi
+T16	Organism 1242 1251	DeltayhjH
+T17	Protein 1247 1251	yhjH
+T18	Organism 1301 1313	cheR mutants
+T19	Protein 1301 1305	cheR
+T20	Organism 1410 1422	cheZ mutants
+T21	Protein 1410 1414	cheZ
+T22	Organism 1547 1556	DeltayhjH
+T23	Protein 1552 1556	yhjH
+T24	Protein 1867 1871	yhjH
+T25	Protein 1873 1877	cheR
+T26	Protein 1883 1887	cheZ
+T27	Organism 2129 2138	DeltayhjH
+T28	Protein 2134 2138	yhjH
+T29	Organism 2326 2335	DeltacheR
+T30	Protein 2331 2335	cheR
+T31	Organism 2393 2396	chi
+T32	Organism 2441 2475	DeltayhjH DeltacheZ double mutants
+T33	Protein 2446 2450	yhjH
+T34	Protein 2456 2460	cheZ
+T35	Organism 2525 2544	cheZ single mutants
+T36	Protein 2525 2529	cheZ
+T37	Protein 2599 2603	cheZ
+T38	Protein 2639 2643	yhjH
+T39	Protein 2687 2691	yhjH

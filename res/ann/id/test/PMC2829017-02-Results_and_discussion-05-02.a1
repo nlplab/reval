@@ -1,0 +1,37 @@
+T1	Organism 102 121	A. pleuropneumoniae
+T2	Organism 360 379	A. pleuropneumoniae
+T3	Organism 592 611	A. pleuropneumoniae
+T4	Protein 818 822	fucI
+T5	Chemical 837 845	L-fucose
+T6	Protein 857 861	nrdD
+T7	Chemical 875 912	anaerobic ribonucleoside triphosphate
+T8	Protein 928 934	apxIVA
+T9	Protein 949 955	ApxIVA
+T10	Organism 1043 1062	A. pleuropneumoniae
+T11	Regulon-operon 1338 1345	apxIBCD
+T12	Protein 1338 1342	apxI
+T13	Protein 1343 1344	C
+T14	Protein 1344 1345	D
+T15	Regulon-operon 1350 1357	apxIIAB
+T16	Protein 1350 1356	apxIIA
+T17	Protein 1356 1357	B
+T18	Protein 1544 1548	nanE
+T19	Chemical 1577 1608	N-acetylmannosamine-6-phosphate
+T20	Chemical 1655 1674	N-acetylneuraminate
+T21	Chemical 1679 1698	N-acetylmannosamine
+T22	Chemical 1702 1708	carbon
+T23	Organism 2236 2255	A. pleuropneumoniae
+T24	Organism 2413 2432	A. pleuropneumoniae
+T25	Organism 2720 2739	A. pleuropneumoniae
+T26	Organism 2837 2859	Pseudomonas aeruginosa
+T27	Organism 2937 2944	patient
+T28	Organism 3073 3086	P. aeruginosa
+T29	Organism 3453 3472	A. pleuropneumoniae
+T30	Organism 3539 3550	serotype 5b
+T31	Protein 3579 3584	ApxIV
+T32	Protein 3613 3616	Hsf
+T33	Protein 3862 3866	HgbA
+T34	Protein 3986 3990	TbpA
+T35	Protein 3995 3999	TbpB
+T36	Organism 4599 4612	P. aeruginosa
+T37	Organism 4880 4899	A. pleuropneumoniae

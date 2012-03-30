@@ -1,0 +1,23 @@
+T3	Glycosylation 100 113	glycosylation
+T4	Glycosylation 610 632	N-linked glycosylation
+T5	Entity 668 672	N459
+T6	Entity 674 678	N550
+T7	Entity 680 684	N605
+T8	Entity 690 694	N627
+T9	Glycosylation 881 893	glycosylated
+T10	Entity 1083 1087	N570
+T11	Glycosylation 1091 1103	glycosylated
+T12	Deglycosylation 1177 1184	Removal
+T13	Entity 1192 1208	oligosaccharides
+T14	Glycosylation 1475 1497	N-linked glycosylation
+T15	Glycosylation 1728 1750	N-linked glycosylation
+E1	Glycosylation:T3 Theme:T1
+E2	Glycosylation:T4 Theme:T2 Site:T5
+E3	Glycosylation:T4 Theme:T2 Site:T6
+E4	Glycosylation:T4 Theme:T2 Site:T7
+E5	Glycosylation:T4 Theme:T2 Site:T8
+E6	Glycosylation:T9 Theme:T2
+E7	Glycosylation:T11 Theme:T2 Site:T10
+E8	Deglycosylation:T12 Theme:T2 Sidechain:T13
+E9	Glycosylation:T14 Theme:T2
+E10	Glycosylation:T15 Theme:T2

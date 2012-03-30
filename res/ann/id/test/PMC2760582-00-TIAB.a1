@@ -1,0 +1,38 @@
+T1	Organism 68 90	Photorhabdus temperata
+T2	Organism 95 120	Xenorhabdus koppenhoeferi
+T3	Organism 161 180	Rhizotrogus majalis
+T4	Organism 193 205	Photorhabdus
+T5	Organism 210 221	Xenorhabdus
+T6	Organism 267 281	enterobacteria
+T7	Organism 337 352	Heterorhabditis
+T8	Organism 357 368	Steinernema
+T9	Organism 668 690	Photorhabdus temperata
+T10	Organism 695 720	Xenorhabdus koppenhoeferi
+T11	Organism 754 773	Rhizotrogus majalis
+T12	Organism 865 877	P. temperata
+T13	Organism 888 904	X. koppenhoeferi
+T14	Organism 937 947	R. majalis
+T15	Organism 1717 1729	P. temperata
+T16	Protein 1730 1734	lysR
+T17	Protein 1800 1804	yijC
+T18	Protein 1809 1813	rseA
+T19	Organism 1866 1882	X. koppenhoeferi
+T20	Chemical 1884 1902	Lipopolysaccharide
+T21	Protein 1918 1922	lpsE
+T22	Organism 1938 1954	X. koppenhoeferi
+T23	Organism 1966 1978	P. temperata
+T24	Protein 1987 1991	tcaC
+T25	Chemical 2102 2105	TCA
+T26	Organism 2128 2140	P. temperata
+T27	Chemical 2167 2177	glyoxylate
+T28	Organism 2202 2218	X. koppenhoeferi
+T29	Organism 2489 2511	Photorhabdus temperata
+T30	Chemical 2575 2579	iron
+T31	Organism 2599 2615	X. koppenhoeferi
+T32	Organism 2686 2708	Photorhabdus temperata
+T33	Organism 2754 2770	X. koppenhoeferi
+T34	Protein 2783 2787	malF
+T35	Chemical 2805 2812	maltose
+T36	Organism 3082 3094	P. temperata
+T37	Organism 3099 3115	X. koppenhoeferi
+T38	Organism 3134 3144	R. majalis

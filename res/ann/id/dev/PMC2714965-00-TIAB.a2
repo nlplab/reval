@@ -1,0 +1,26 @@
+T30	Process 135 144	Virulence
+T31	Process 216 226	infections
+T32	Process 346 355	virulence
+T33	Process 891 902	attenuation
+T34	Process 1281 1290	infection
+T35	Negative_regulation 1324 1334	attenuated
+T36	Process 1335 1344	virulence
+T37	Negative_regulation 1652 1662	attenuated
+T38	Process 1667 1676	virulence
+T39	Process 1776 1785	virulence
+T40	Process 1962 1971	infection
+E1	Process:T30 Participant:T3
+E2	Process:T31 Participant:T4
+E3	Process:T32 
+E4	Process:T33 
+E5	Process:T34 
+E6	Negative_regulation:T35 Theme:E7
+E7	Process:T36 
+E8	Negative_regulation:T37 Theme:E10
+M1	Negation E8
+E9	Negative_regulation:T37 Theme:E11
+M2	Negation E9
+E10	Process:T38 Participant:T23
+E11	Process:T38 Participant:T21
+E12	Process:T39 Participant:T26
+E13	Process:T40 Participant:T29

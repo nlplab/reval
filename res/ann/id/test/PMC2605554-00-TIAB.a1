@@ -1,0 +1,33 @@
+T1	Protein 34 38	ropB
+T2	Protein 50 54	SpeB
+T3	Organism 78 82	M1T1
+T4	Organism 152 173	group A streptococcus
+T5	Organism 175 178	GAS
+T6	Protein 223 227	SpeB
+T7	Protein 282 286	SpeB
+T8	Organism 359 377	SpeB-negative M1T1
+T9	Protein 359 363	SpeB
+T10	Organism 396 400	5628
+T11	Protein 473 477	RopB
+T12	Protein 504 508	RopB
+T13	Protein 513 517	SpeB
+T14	Protein 602 606	ropB
+T15	Organism 617 621	5628
+T16	Organism 681 685	5448
+T17	Protein 757 761	ropB
+T18	Organism 765 769	5448
+T19	Organism 799 803	5628
+T20	Protein 815 819	ropB
+T21	Protein 850 854	SpeB
+T22	Protein 877 881	ropB
+T23	Protein 1040 1044	ropB
+T24	Organism 1074 1080	murine
+T25	Organism 1123 1143	SpeB knockout strain
+T26	Protein 1123 1127	SpeB
+T27	Protein 1165 1169	RopB
+T28	Regulon-operon 1245 1256	SpeB operon
+T29	Protein 1245 1249	SpeB
+T30	Protein 1285 1289	RopB
+T31	Protein 1333 1337	RopB
+T32	Protein 1352 1356	SpeB
+T33	Organism 1410 1413	GAS

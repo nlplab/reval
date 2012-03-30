@@ -1,0 +1,29 @@
+*	Equiv T17 T18
+*	Equiv T4 T5
+*	Equiv T20 T21
+*	Equiv T6 T7
+*	Equiv T24 T25
+*	Equiv T10 T11
+*	Equiv T27 T28
+*	Equiv T12 T13
+T16	Methylation 665 678	di-methylated
+T17	Entity 679 687	lysine 4
+T18	Entity 705 707	K4
+T19	Methylation 713 727	tri-methylated
+T20	Entity 728 736	lysine 4
+T21	Entity 754 756	K4
+T22	Acetylation 764 774	acetylated
+T23	Methylation 794 809	mono-methylated
+T24	Entity 810 818	lysine 4
+T25	Entity 836 838	K4
+T26	Methylation 913 927	tri-methylated
+T27	Entity 928 937	lysine 27
+T28	Entity 955 958	K27
+E1	Methylation:T16 Theme:T4 Site:T17
+E2	Methylation:T19 Theme:T6 Site:T20
+E3	Acetylation:T22 Theme:T8
+E4	Methylation:T23 Theme:T10 Site:T24
+M1	Negation E4
+E5	Methylation:T26 Theme:T12 Site:T27
+M2	Negation E5
+E6	Methylation:T26 Theme:T12 Site:T27

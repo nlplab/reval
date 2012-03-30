@@ -1,0 +1,45 @@
+T1	Organism 38 72	Streptococcus equi subspeices equi
+T2	Organism 74 81	S. equi
+T3	Organism 90 96	equine
+T4	Organism 201 207	horses
+T5	Organism 483 490	S. equi
+T6	Organism 514 519	horse
+T7	Organism 580 586	Horses
+T8	Organism 637 644	S. equi
+T9	Organism 775 782	S. equi
+T10	Organism 786 791	horse
+T11	Organism 914 921	S. equi
+T12	Organism 926 947	group A Streptococcus
+T13	Organism 949 952	GAS
+T14	Chemical 966 981	hyaluronic acid
+T15	Protein 1010 1019	M protein
+T16	Organism 1087 1090	GAS
+T17	Protein 1111 1114	Mac
+T18	Protein 1138 1142	IdeE
+T19	Organism 1182 1185	GAS
+T20	Organism 1189 1194	human
+T21	Organism 1248 1253	human
+T22	Protein 1254 1270	immunoglobulin G
+T23	Protein 1272 1275	IgG
+T24	Protein 1361 1364	Mac
+T25	Organism 1377 1380	GAS
+T26	Protein 1459 1462	IgG
+T27	Protein 1467 1478	Fc receptor
+T28	Protein 1514 1517	Mac
+T29	Protein 1530 1533	Mac
+T30	Organism 1546 1561	serotype M1 GAS
+T31	Protein 1619 1630	Fc receptor
+T32	Protein 1672 1675	Mac
+T33	Protein 1692 1703	Fc receptor
+T34	Organism 1742 1749	S. equi
+T35	Organism 1769 1772	GAS
+T36	Protein 1776 1779	Mac
+T37	Protein 1792 1797	SeMac
+T38	Protein 1815 1820	SeMac
+T39	Protein 1879 1884	SeMac
+T40	Protein 1890 1912	cysteine endopeptidase
+T41	Organism 1956 1963	S. equi
+T42	Organism 1967 1972	horse
+T43	Protein 1995 2000	SeMac
+T44	Organism 2033 2038	horse
+T45	Organism 2065 2072	S. equi

@@ -1,0 +1,4 @@
+T13	Methylation 823 834	methylation
+T14	Catalysis 823 834	methylation
+E1	Methylation:T13 Theme:T6
+E2	Catalysis:T14 Theme:E1 Cause:T5

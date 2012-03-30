@@ -1,0 +1,24 @@
+T30	Binding 88 92	bind
+T31	Gene_expression 313 319	levels
+T32	Gene_expression 421 435	overexpression
+T33	Binding 588 595	binding
+T34	Negative_regulation 596 605	deficient
+T35	Negative_regulation 973 982	defective
+T36	Binding 990 997	binding
+T37	Binding 1063 1070	binding
+T38	Gene_expression 1118 1132	overexpression
+T39	Process 1176 1184	virulent
+T40	Gene_expression 1243 1257	overexpressing
+T41	Gene_expression 1460 1474	overexpression
+E1	Binding:T30 Theme1:T2 Theme2:T3
+E2	Gene_expression:T31 Theme:T5
+E3	Gene_expression:T32 Theme:T6
+E4	Binding:T33 Theme1:T7 Theme2:T8
+E5	Negative_regulation:T34 Theme:E4
+E6	Negative_regulation:T35 Theme:E7
+E7	Binding:T36 Theme:T12
+E8	Binding:T37 Theme:T13
+E9	Gene_expression:T38 Theme:T14
+E10	Process:T39 Participant:T16
+E11	Gene_expression:T40 Theme:T18
+E12	Gene_expression:T41 Theme:T22

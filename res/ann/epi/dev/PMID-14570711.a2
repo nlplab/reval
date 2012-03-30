@@ -1,0 +1,23 @@
+*	Equiv T13 T14
+T8	Entity 23 28	Lys 4
+T9	Methylation 29 43	di-methylation
+T10	Methylation 95 106	Methylation
+T11	Entity 118 123	tails
+T12	Methylation 176 186	Methylated
+T13	Entity 190 195	Lys 4
+T14	Entity 197 199	K4
+T15	Entity 478 480	K4
+T16	Methylation 481 495	di-methylation
+T17	Methylation 631 644	di-methylated
+T18	Entity 647 649	K4
+T19	Entity 718 720	K4
+T20	Methylation 721 735	di-methylation
+T21	Entity 905 910	Lys 4
+T22	Methylation 911 925	di-methylation
+E1	Methylation:T9 Theme:T1 Site:T8
+E2	Methylation:T10 Theme:T2 Site:T11
+E3	Methylation:T12 Theme:T3 Site:T13
+E4	Methylation:T16 Theme:T4 Site:T15
+E5	Methylation:T17 Theme:T5 Site:T18
+E6	Methylation:T20 Theme:T6 Site:T19
+E7	Methylation:T22 Theme:T7 Site:T21

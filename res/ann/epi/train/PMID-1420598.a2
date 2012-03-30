@@ -1,0 +1,12 @@
+*	Equiv T2 T3
+T7	Glycosylation 0 13	Glycosylation
+T8	Glycosylation 276 289	glycosylation
+T9	Glycosylation 1310 1323	glycosylation
+T10	Entity 1386 1399	carbohydrates
+T11	Glycosylation 1420 1433	glycosylation
+T12	Glycosylation 1488 1510	N-linked glycosylation
+E1	Glycosylation:T7 Theme:T1
+E2	Glycosylation:T8 Theme:T2
+E3	Glycosylation:T9 Theme:T6 Sidechain:T10
+E4	Glycosylation:T11 Theme:T6
+E5	Glycosylation:T12 Theme:T6

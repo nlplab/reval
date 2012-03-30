@@ -1,0 +1,4 @@
+T15	Glycosylation 109 126	underglycosylated
+T16	Glycosylation 1615 1632	underglycosylated
+E1	Glycosylation:T15 Theme:T1
+E2	Glycosylation:T16 Theme:T14

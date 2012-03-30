@@ -1,0 +1,11 @@
+T14	Methylation 26 37	methylation
+T15	Methylation 736 751	radiomethylated
+T16	Methylation 864 875	methylation
+T17	Methylation 982 993	methylation
+T18	Methylation 1095 1105	methylated
+E1	Methylation:T14 Theme:T1
+E2	Methylation:T15 Theme:T5
+E3	Methylation:T16 Theme:T7
+E4	Methylation:T17 Theme:T8
+E5	Methylation:T18 Theme:T9
+M1	Negation E5

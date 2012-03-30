@@ -1,0 +1,17 @@
+T20	Hydroxylation 541 558	beta-hydroxylated
+T21	Entity 559 580	aspartic acid residue
+T22	Glycosylation 588 602	N-glycosylated
+T23	Entity 603 622	asparagine residues
+T24	Entity 1421 1444	Asparagine residues 145
+T25	Entity 1449 1452	322
+T26	Glycosylation 1476 1490	N-glycosylated
+T27	Entity 1552 1574	asparagine residue 322
+T28	Glycosylation 1585 1597	glycosylated
+T29	Entity 1606 1628	asparagine residue 145
+T30	Glycosylation 1668 1680	glycosylated
+E1	Hydroxylation:T20 Theme:T7 Site:T21
+E2	Glycosylation:T22 Theme:T7 Site:T23
+E3	Glycosylation:T26 Theme:T16 Site:T24
+E4	Glycosylation:T26 Theme:T16 Site:T25
+E5	Glycosylation:T28 Theme:T17 Site:T27
+E6	Glycosylation:T30 Theme:T17 Site:T29

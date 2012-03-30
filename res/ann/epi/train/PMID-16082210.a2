@@ -1,0 +1,16 @@
+T20	Acetylation 8 19	acetylation
+T21	Acetylation 493 504	acetylation
+T22	Acetylation 591 607	hyperacetylation
+T23	Acetylation 730 745	hyperacetylated
+T24	Catalysis 771 779	mediated
+T25	Acetylation 791 807	hyperacetylation
+E1	Acetylation:T20 Theme:T1
+E2	Acetylation:T21 Theme:T3
+E3	Acetylation:T22 Theme:T5
+E4	Acetylation:T22 Theme:T6
+E5	Acetylation:T22 Theme:T4
+E6	Acetylation:T23 Theme:T8 Contextgene:T7
+E7	Acetylation:T23 Theme:T9
+M1	Negation E7
+E8	Catalysis:T24 Theme:E9 Cause:T10
+E9	Acetylation:T25 Theme:T11 Contextgene:T12

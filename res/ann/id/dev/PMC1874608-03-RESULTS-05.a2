@@ -1,0 +1,18 @@
+T25	Negative_regulation 13 22	represses
+T26	Binding 31 38	binding
+T27	Entity 46 57	P3 promoter
+T28	Negative_regulation 148 157	represses
+T29	Entity 167 178	P3 promoter
+T30	Binding 898 905	binding
+T31	Entity 925 936	P3 promoter
+T32	Regulation 1550 1558	regulate
+T33	Entity 1577 1588	P3 promoter
+T34	Binding 1592 1599	binding
+T35	Entity 1607 1615	promoter
+E1	Negative_regulation:T25 Theme:T2 Cause:E2
+E2	Binding:T26 Theme1:T1 Theme2:T2 Site2:T27
+E3	Negative_regulation:T28 Theme:T5 Site:T29 Cause:T4
+M1	Speculation E3
+E4	Binding:T30 Theme1:T14 Theme2:T15 Site2:T31
+E5	Regulation:T32 Theme:T24 Site:T33 Cause:E6
+E6	Binding:T34 Theme1:T23 Theme2:T24 Site2:T35

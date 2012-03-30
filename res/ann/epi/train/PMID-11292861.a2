@@ -1,0 +1,4 @@
+*	Equiv T2 T3
+T7	Hydroxylation 652 665	hydroxylation
+T8	Entity 699 703	P564
+E1	Hydroxylation:T7 Theme:T5 Site:T8

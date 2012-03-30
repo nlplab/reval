@@ -1,0 +1,35 @@
+T1	Organism 12 33	Staphylococcus aureus
+T2	Organism 55 60	human
+T3	Organism 566 575	S. aureus
+T4	Protein 745 761	phospholipase A2
+T5	Protein 767 782	myeloperoxidase
+T6	Chemical 958 978	phosphatidylglycerol
+T7	Protein 986 990	MprF
+T8	Regulon-operon 1119 1126	dltABCD
+T9	Protein 1119 1123	dltA
+T10	Protein 1123 1124	B
+T11	Protein 1124 1125	C
+T12	Protein 1125 1126	D
+T13	Chemical 1273 1287	teichoic acids
+T14	Organism 1455 1464	S. aureus
+T15	Two-component-system 1497 1502	graRS
+T16	Protein 1497 1501	graR
+T17	Protein 1501 1502	S
+T18	Regulon-operon 1542 1545	dlt
+T19	Organism 1559 1596	S. aureus SA113 graRS deletion mutant
+T20	Two-component-system 1575 1580	graRS
+T21	Protein 1575 1579	graR
+T22	Protein 1579 1580	S
+T23	Chemical 1626 1640	teichoic acids
+T24	Chemical 1734 1745	polymyxin B
+T25	Chemical 1747 1758	gallidermin
+T26	Chemical 1764 1774	vancomycin
+T27	Two-component-system 1797 1802	graRS
+T28	Protein 1797 1801	graR
+T29	Protein 1801 1802	S
+T30	Chemical 1852 1862	vancomycin
+T31	Regulon-operon 1900 1903	dlt
+T32	Organism 1931 1940	S. aureus
+T33	Two-component-system 1998 2003	graRS
+T34	Protein 1998 2002	graR
+T35	Protein 2002 2003	S

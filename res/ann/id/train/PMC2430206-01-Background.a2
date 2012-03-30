@@ -1,0 +1,26 @@
+T36	Process 61 71	infections
+T37	Process 83 92	resistant
+T38	Process 662 672	resistance
+T39	Positive_regulation 1145 1156	responsible
+T40	Process 1342 1352	resistance
+T41	Positive_regulation 1503 1523	positively regulates
+T42	Gene_expression 1524 1534	expression
+T43	Negative_regulation 1682 1689	reduced
+T44	Process 1690 1700	resistance
+T45	Regulation 1838 1848	regulation
+T46	Process 1876 1886	resistance
+T47	Regulation 1911 1927	plays a key role
+T48	Process 1941 1951	resistance
+E1	Process:T36 Participant:T1
+E2	Process:T37 Participant:T1
+E3	Process:T38 Participant:T3
+E4	Positive_regulation:T39 Theme:T8
+E5	Process:T40 
+E6	Positive_regulation:T41 Theme:E7 Cause:T15
+E7	Gene_expression:T42 Theme:T18
+E8	Negative_regulation:T43 Theme:E9
+E9	Process:T44 Participant:T19
+E10	Regulation:T45 Theme:E11 Cause:T27
+E11	Process:T46 
+E12	Regulation:T47 Theme:E13 Cause:T31
+E13	Process:T48 Participant:T32

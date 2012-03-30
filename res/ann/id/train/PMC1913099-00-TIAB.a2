@@ -1,0 +1,4 @@
+T3	Process 261 270	infection
+T4	Process 511 520	infection
+E1	Process:T3 
+E2	Process:T4 

@@ -1,0 +1,8 @@
+T7	Hydroxylation 1021 1034	hydroxylation
+T8	Entity 1038 1043	Pro-9
+T9	Hydroxylation 1374 1387	hydroxylation
+T10	Hydroxylation 1489 1502	hydroxylation
+T11	Entity 1506 1511	Pro-9
+E1	Hydroxylation:T7 Theme:T6 Site:T8
+E2	Hydroxylation:T9 Theme:T6
+E3	Hydroxylation:T10 Theme:T6 Site:T11

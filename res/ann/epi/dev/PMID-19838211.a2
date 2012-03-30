@@ -1,0 +1,13 @@
+*	Equiv T3 T4
+T36	Deubiquitination 201 215	deubiquitinate
+T37	Catalysis 201 215	deubiquitinate
+T38	Catalysis 244 252	mediated
+T39	Ubiquitination 257 271	ubiquitination
+T40	Deubiquitination 622 636	deubiquitinate
+T41	Catalysis 622 636	deubiquitinate
+E1	Deubiquitination:T36 Theme:T9
+E2	Catalysis:T37 Theme:E1 Cause:T7
+E3	Catalysis:T38 Theme:E4 Cause:T10
+E4	Ubiquitination:T39 Theme:T11
+E5	Deubiquitination:T40 Theme:T23
+E6	Catalysis:T41 Theme:E5 Cause:T22

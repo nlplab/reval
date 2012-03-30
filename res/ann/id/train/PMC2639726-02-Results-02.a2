@@ -1,0 +1,25 @@
+T24	Process 108 117	virulence
+T25	Negative_regulation 242 252	attenuated
+T26	Process 257 266	virulence
+T27	Process 289 298	infection
+T28	Process 771 780	infection
+T29	Process 1038 1047	virulence
+T30	Process 1193 1203	attenuated
+T31	Process 1331 1340	infection
+T32	Process 1720 1729	infection
+T33	Process 1925 1934	infection
+T34	Process 3036 3045	infection
+T35	Process 3096 3105	avirulent
+E1	Process:T24 Participant:T1
+E2	Negative_regulation:T25 Theme:E3
+E3	Process:T26 Participant:T3
+E4	Process:T27 Participant:T3
+E5	Process:T28 Participant:T7
+E6	Process:T29 
+E7	Process:T30 
+E8	Process:T31 
+E9	Process:T32 
+E10	Process:T33 
+E11	Process:T34 
+E12	Process:T35 
+M1	Negation E12

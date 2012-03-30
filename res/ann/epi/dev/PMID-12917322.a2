@@ -1,0 +1,16 @@
+T16	Catalysis 5 14	catalyzed
+T17	Methylation 15 26	methylation
+T18	Methylation 141 152	methylation
+T19	Catalysis 677 686	catalyzes
+T20	Methylation 687 698	methylation
+T21	Entity 702 711	lysine 36
+T22	Entity 915 924	lysine 36
+T23	Methylation 950 960	methylated
+T24	Catalysis 990 999	dependent
+E1	Catalysis:T16 Theme:E2 Cause:T1
+E2	Methylation:T17 Theme:T2 Contextgene:T3
+E3	Methylation:T18 Theme:T4
+E4	Catalysis:T19 Theme:E5 Cause:T9
+E5	Methylation:T20 Theme:T10 Site:T21
+E6	Methylation:T23 Theme:T13 Site:T22 Contextgene:T14
+E7	Catalysis:T24 Theme:E6 Cause:T15

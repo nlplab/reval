@@ -1,0 +1,32 @@
+T1	Protein 0 4	SsrB
+T2	Organism 191 206	S. glossinidius
+T3	Protein 242 246	SsrB
+T4	Protein 492 496	SsrB
+T5	Protein 532 536	sseA
+T6	Protein 823 827	ssaG
+T7	Organism 926 941	S. glossinidius
+T8	Protein 1120 1124	ssaG
+T9	Protein 2201 2205	ssrB
+T10	Protein 2309 2313	SsrB
+T11	Organism 2570 2581	ssrB mutant
+T12	Protein 2570 2574	ssrB
+T13	Organism 2636 2647	ssrB mutant
+T14	Protein 2636 2640	ssrB
+T15	Protein 3384 3388	SsrB
+T16	Protein 3793 3797	SsrB
+T17	Organism 3806 3813	Sodalis
+T18	Protein 3824 3830	SG1279
+T19	Protein 4010 4014	SsrB
+T20	Organism 4041 4048	Sodalis
+T21	Organism 4137 4144	Sodalis
+T22	Organism 4283 4290	Sodalis
+T23	Protein 4291 4297	SG1292
+T24	Protein 4308 4312	ssaG
+T25	Organism 4359 4373	S. Typhimurium
+T26	Organism 4381 4392	ssrB mutant
+T27	Protein 4381 4385	ssrB
+T28	Organism 4440 4447	Sodalis
+T29	Organism 4513 4524	ssrB mutant
+T30	Protein 4513 4517	ssrB
+T31	Organism 4695 4702	Sodalis
+T32	Protein 4727 4731	SsrB

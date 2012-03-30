@@ -1,0 +1,25 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+*	Equiv T8 T9
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T15 T16
+T24	Hydroxylation 403 416	hydroxylation
+T25	Catalysis 403 416	hydroxylation
+T26	Entity 420 439	proline residue 402
+T27	Entity 441 444	564
+T28	Ubiquitination 576 590	ubiquitination
+T29	Hydroxylation 637 650	hydroxylation
+T30	Catalysis 637 650	hydroxylation
+T31	Entity 654 676	asparagine residue 803
+T32	Hydroxylation 823 836	hydroxylation
+T33	Ubiquitination 1428 1442	ubiquitination
+E1	Hydroxylation:T24 Theme:T3 Site:T26
+E2	Catalysis:T25 Theme:E1 Cause:T4
+E3	Hydroxylation:T24 Theme:T3 Site:T27
+E4	Catalysis:T25 Theme:E3 Cause:T4
+E5	Ubiquitination:T28 Theme:T3
+E6	Hydroxylation:T29 Theme:T3 Site:T31
+E7	Catalysis:T30 Theme:E6 Cause:T8
+E8	Hydroxylation:T32 Theme:T3
+E9	Ubiquitination:T33 Theme:T17

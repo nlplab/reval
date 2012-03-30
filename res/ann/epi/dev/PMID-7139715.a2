@@ -1,0 +1,20 @@
+T11	DNA_methylation 0 16	Undermethylation
+T12	Entity 24 30	5' end
+T13	DNA_methylation 158 169	methylation
+T14	DNA_methylation 372 387	undermethylated
+T15	Entity 396 409	entire length
+T16	Entity 433 439	5' end
+T17	DNA_methylation 448 463	undermethylated
+T18	DNA_methylation 493 509	undermethylation
+T19	Entity 517 523	5' end
+T20	DNA_methylation 627 643	undermethylation
+T21	DNA_methylation 824 840	undermethylation
+T22	Entity 848 854	5' end
+E1	DNA_methylation:T11 Theme:T1 Site:T12
+E2	DNA_methylation:T13 Theme:T3
+M1	Speculation E2
+E3	DNA_methylation:T14 Theme:T6 Site:T15
+E4	DNA_methylation:T17 Theme:T6 Site:T16
+E5	DNA_methylation:T18 Theme:T7 Site:T19
+E6	DNA_methylation:T20 Theme:T7 Site:T19
+E7	DNA_methylation:T21 Theme:T10 Site:T22

@@ -1,0 +1,13 @@
+*	Equiv T13 T14
+*	Equiv T24 T26
+*	Equiv T47 T49
+*	Equiv T51 T53
+T58	Process 195 204	virulence
+T59	Negative_regulation 205 211	defect
+T60	Process 1162 1171	virulence
+T61	Process 2652 2661	virulence
+E1	Process:T58 Participant:T3
+E2	Negative_regulation:T59 Theme:E1
+E3	Process:T60 Participant:T21
+E4	Process:T61 Participant:T51
+E5	Process:T61 Participant:T56

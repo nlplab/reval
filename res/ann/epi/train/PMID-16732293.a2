@@ -1,0 +1,26 @@
+*	Equiv T32 T33
+*	Equiv T4 T5
+*	Equiv T9 T10 T11
+T22	Demethylation 28 40	demethylates
+T23	Catalysis 28 40	demethylates
+T24	Methylation 41 45	tri-
+T25	Methylation 50 62	dimethylated
+T26	Entity 63 71	lysine 9
+T27	Methylation 88 99	Methylation
+T28	Entity 103 109	lysine
+T29	Entity 114 131	arginine residues
+T30	Methylation 201 205	Tri-
+T31	Methylation 210 223	dimethylation
+T32	Entity 227 235	lysine 9
+T33	Entity 253 255	K9
+T34	Demethylation 817 828	demethylate
+T35	Entity 831 833	K9
+E1	Demethylation:T22 Theme:T2 Site:T26
+E2	Catalysis:T23 Theme:E1 Cause:T1
+E3	Methylation:T24 Theme:T2 Site:T26
+E4	Methylation:T25 Theme:T2 Site:T26
+E5	Methylation:T27 Theme:T3 Site:T28
+E6	Methylation:T27 Theme:T3 Site:T29
+E7	Methylation:T30 Theme:T4 Site:T32
+E8	Methylation:T31 Theme:T4 Site:T32
+E9	Demethylation:T34 Theme:T12 Site:T35

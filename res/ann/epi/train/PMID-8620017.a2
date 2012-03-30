@@ -1,0 +1,12 @@
+T4	Entity 255 271	oligosaccharides
+T5	Glycosylation 272 280	attached
+T6	Entity 299 320	N-glycosylation sites
+T7	Glycosylation 901 909	received
+T8	Entity 914 930	oligosaccharides
+T9	Glycosylation 1330 1338	transfer
+T10	Entity 1342 1368	truncated oligosaccharides
+T11	Entity 1376 1400	first glycosylation site
+E1	Glycosylation:T5 Theme:T1 Site:T6 Sidechain:T4
+E2	Glycosylation:T5 Theme:T2 Site:T6 Sidechain:T4
+E3	Glycosylation:T7 Theme:T3 Sidechain:T8
+E4	Glycosylation:T9 Theme:T3 Site:T11 Sidechain:T10

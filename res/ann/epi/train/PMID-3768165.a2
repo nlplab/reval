@@ -1,0 +1,24 @@
+T16	Methylation 194 205	methylation
+T17	Acetylation 210 221	acetylation
+T18	Methylation 311 322	methylation
+T19	Methylation 524 534	methylated
+T20	Methylation 1012 1022	methylated
+T21	Methylation 1068 1079	methylation
+T22	Acetylation 1230 1241	acetylation
+T23	Acetylation 1381 1393	unacetylated
+T24	Methylation 1458 1469	methylation
+T25	Acetylation 1474 1485	acetylation
+E1	Methylation:T16 Theme:T2
+M1	Speculation E1
+E2	Acetylation:T17 Theme:T2
+M2	Speculation E2
+E3	Methylation:T18 Theme:T3
+E4	Methylation:T19 Theme:T4
+E5	Methylation:T20 Theme:T9
+E6	Methylation:T21 Theme:T10
+E7	Methylation:T21 Theme:T11
+E8	Acetylation:T22 Theme:T12
+E9	Acetylation:T23 Theme:T14
+M3	Negation E9
+E10	Methylation:T24 Theme:T15
+E11	Acetylation:T25 Theme:T15

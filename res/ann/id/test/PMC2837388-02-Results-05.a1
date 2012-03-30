@@ -1,0 +1,22 @@
+T1	Organism 59 73	S. Typhimurium
+T2	Organism 88 108	Sodalis glossinidius
+T3	Protein 333 337	SsrB
+T4	Organism 483 493	Salmonella
+T5	Organism 529 549	Sodalis glossinidius
+T6	Organism 563 570	Sodalis
+T7	Organism 646 657	S. enterica
+T8	Two-component-system 771 780	ssrA-ssrB
+T9	Protein 771 775	ssrA
+T10	Protein 776 780	ssrB
+T11	Protein 822 826	sseF
+T12	Protein 831 835	sseG
+T13	Organism 862 869	Sodalis
+T14	Protein 1104 1108	SsrB
+T15	Protein 1417 1421	sseA
+T16	Regulon-operon 1603 1619	ssrA-ssrB operon
+T17	Protein 1603 1607	ssrA
+T18	Protein 1608 1612	ssrB
+T19	Organism 1623 1637	S. Typhimurium
+T20	Organism 1704 1711	Sodalis
+T21	Protein 2011 2015	SsrB
+T22	Protein 2123 2127	SsrB

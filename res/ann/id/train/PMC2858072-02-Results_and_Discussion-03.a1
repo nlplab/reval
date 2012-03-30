@@ -1,0 +1,113 @@
+T1	Two-component-system 0 9	BvrR/BvrS
+T2	Protein 0 4	BvrR
+T3	Protein 5 9	BvrS
+T4	Organism 156 167	bvrR mutant
+T5	Protein 156 160	bvrR
+T6	Protein 197 206	BAB1_0237
+T7	Protein 208 217	BAB1_0891
+T8	Protein 219 223	exoR
+T9	Protein 226 235	BAB1_1397
+T10	Protein 237 246	BAB2_0118
+T11	Protein 248 252	vjbR
+T12	Protein 255 264	BAB2_0762
+T13	Protein 266 270	ompR
+T14	Protein 273 282	BAB2_1127
+T15	Protein 287 296	BAB2_1152
+T16	Protein 321 325	exoR
+T17	Protein 327 331	ompR
+T18	Protein 336 340	vjbR
+T19	Organism 399 407	Brucella
+T20	Organism 419 444	B. melitensis vjbR mutant
+T21	Protein 433 437	vjbR
+T22	Organism 487 492	mouse
+T23	Protein 519 523	VjbR
+T24	Regulon-operon 621 632	virB operon
+T25	Protein 621 625	virB
+T26	Protein 775 779	VjbR
+T27	Protein 975 979	vjbR
+T28	Protein 1054 1058	VjbR
+T29	Two-component-system 1077 1086	BvrR/BvrS
+T30	Protein 1077 1081	BvrR
+T31	Protein 1082 1086	BvrS
+T32	Protein 1280 1284	VjbR
+T33	Protein 1303 1307	ompR
+T34	Two-component-system 1335 1344	OmpR/EnvZ
+T35	Protein 1335 1339	OmpR
+T36	Protein 1340 1344	EnvZ
+T37	Organism 1367 1374	E. coli
+T38	Two-component-system 1375 1384	OmpR/EnvZ
+T39	Protein 1375 1379	OmpR
+T40	Protein 1380 1384	EnvZ
+T41	Protein 1448 1452	OmpF
+T42	Protein 1457 1461	OmpC
+T43	Organism 1587 1594	E. coli
+T44	Two-component-system 1621 1630	OmpR/EnvZ
+T45	Protein 1621 1625	OmpR
+T46	Protein 1626 1630	EnvZ
+T47	Protein 1813 1817	fliM
+T48	Protein 1819 1830	BAB2_0124/5
+T49	Protein 1832 1836	flgJ
+T50	Protein 1838 1847	BAB1_0260
+T51	Protein 1849 1853	motB
+T52	Protein 1855 1864	BAB2_1103
+T53	Organism 1893 1904	bvrR mutant
+T54	Protein 1893 1897	bvrR
+T55	Two-component-system 1944 1959	ChvG(ExoS)/ChvI
+T56	Protein 1944 1948	ChvG
+T57	Protein 1949 1953	ExoS
+T58	Protein 1955 1959	ChvI
+T59	Organism 1963 1974	S. meliloti
+T60	Organism 1979 1993	A. tumefaciens
+T61	Organism 2035 2043	Brucella
+T62	Two-component-system 2044 2053	BvrR/BvrS
+T63	Protein 2044 2048	BvrR
+T64	Protein 2049 2053	BvrS
+T65	Organism 2105 2115	B. abortus
+T66	Organism 2116 2127	bvrS mutant
+T67	Protein 2116 2120	bvrS
+T68	Protein 2150 2154	ExoS
+T69	Two-component-system 2280 2289	BvrR/BvrS
+T70	Protein 2280 2284	BvrR
+T71	Protein 2285 2289	BvrS
+T72	Two-component-system 2338 2347	ExoS/ChvI
+T73	Protein 2338 2342	ExoS
+T74	Protein 2343 2347	ChvI
+T75	Organism 2356 2370	A. tumefaciens
+T76	Two-component-system 2371 2380	ChvI/ChvG
+T77	Protein 2371 2375	ChvI
+T78	Protein 2376 2380	ChvG
+T79	Protein 2419 2422	Aop
+T80	Organism 2445 2453	Brucella
+T81	Protein 2454 2460	Omp25a
+T82	Organism 2474 2485	S. meliloti
+T83	Two-component-system 2487 2496	ExoS/ChvI
+T84	Protein 2487 2491	ExoS
+T85	Protein 2492 2496	ChvI
+T86	Organism 2633 2644	S. meliloti
+T87	Protein 2650 2654	exoR
+T88	Protein 2713 2717	ExoR
+T89	Protein 2750 2754	ExoS
+T90	Protein 2759 2763	ChvI
+T91	Two-component-system 2777 2786	ExoS/ChvI
+T92	Protein 2777 2781	ExoS
+T93	Protein 2782 2786	ChvI
+T94	Protein 2849 2853	ExoR
+T95	Two-component-system 2870 2879	ExoS/ChvI
+T96	Protein 2870 2874	ExoS
+T97	Protein 2875 2879	ChvI
+T98	Organism 3038 3049	S. meliloti
+T99	Protein 3050 3054	lpsS
+T100	Chemical 3107 3110	LPS
+T101	Protein 3132 3136	exoR
+T102	Protein 3180 3184	ExoR
+T103	Protein 3375 3379	exoR
+T104	Two-component-system 3393 3402	BvrR/BvrS
+T105	Protein 3393 3397	BvrR
+T106	Protein 3398 3402	BvrS
+T107	Organism 3505 3513	Brucella
+T108	Protein 3561 3565	VjbR
+T109	Protein 3567 3571	OmpR
+T110	Protein 3576 3580	ExoR
+T111	Organism 3600 3611	bvrR mutant
+T112	Protein 3600 3604	bvrR
+T113	Chemical 3789 3792	LPS

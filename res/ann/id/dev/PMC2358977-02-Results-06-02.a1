@@ -1,0 +1,12 @@
+T1	Protein 115 124	05SSU0063
+T2	Protein 126 135	05SSU0588
+T3	Protein 140 149	05SSU0953
+T4	Protein 182 191	05SSU0503
+T5	Protein 196 205	05SSU1233
+T6	Two-component-system 241 250	SalK/SalR
+T7	Protein 241 245	SalK
+T8	Protein 246 250	SalR
+T9	Organism 389 399	DeltasalKR
+T10	Two-component-system 394 399	salKR
+T11	Protein 394 398	salK
+T12	Protein 398 399	R

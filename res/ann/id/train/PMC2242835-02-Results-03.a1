@@ -1,0 +1,15 @@
+T1	Organism 187 192	H37Ra
+T2	Organism 232 237	H37Ra
+T3	Organism 242 247	H37Rv
+T4	Organism 483 488	H37Ra
+T5	Organism 522 527	H37Rv
+T6	Organism 587 592	H37Ra
+T7	Organism 698 710	H37Ra::fadE5
+T8	Protein 705 710	fadE5
+T9	Organism 726 737	H37Ra::rpsL
+T10	Protein 733 737	rpsL
+T11	Organism 814 825	H37Ra::phoP
+T12	Protein 821 825	phoP
+T13	Organism 991 996	H37Ra
+T14	Protein 1006 1010	phoP
+T15	Organism 1104 1109	H37Rv

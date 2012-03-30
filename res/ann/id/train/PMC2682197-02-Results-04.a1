@@ -1,0 +1,36 @@
+T1	Organism 0 15	M. tuberculosis
+T2	Protein 16 22	Rv2623
+T3	Protein 99 105	Rv2623
+T4	Organism 245 260	M. tuberculosis
+T5	Protein 261 267	Rv2623
+T6	Organism 285 292	E. coli
+T7	Protein 390 396	Rv2623
+T8	Protein 535 541	Rv2623
+T9	Protein 594 600	Rv2623
+T10	Protein 736 742	Rv2623
+T11	Protein 1011 1017	MJ0577
+T12	Organism 1044 1068	Methanococcus jannaschii
+T13	Chemical 1107 1110	ATP
+T14	Chemical 1147 1150	ATP
+T15	Chemical 1167 1170	ATP
+T16	Chemical 1259 1262	ATP
+T17	Protein 1337 1343	Rv2623
+T18	Chemical 1399 1402	ATP
+T19	Protein 1491 1497	Rv2623
+T20	Protein 1521 1527	Rv2623
+T21	Chemical 1550 1553	ATP
+T22	Chemical 1558 1561	ADP
+T23	Organism 1586 1593	E. coli
+T24	Protein 1604 1610	Rv2623
+T25	Chemical 1670 1673	ATP
+T26	Protein 1700 1706	Rv2623
+T27	Chemical 1728 1731	ATP
+T28	Protein 1997 2003	Rv2623
+T29	Chemical 2036 2049	guanidine-HCl
+T30	Chemical 2134 2137	ATP
+T31	Protein 2159 2165	Rv2623
+T32	Organism 2206 2213	E. coli
+T33	Chemical 2600 2603	ADP
+T34	Protein 2629 2635	Rv2623
+T35	Chemical 2647 2650	ATP
+T36	Chemical 2678 2681	ATP

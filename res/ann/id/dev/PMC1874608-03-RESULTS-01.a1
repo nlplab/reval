@@ -1,0 +1,24 @@
+T1	Protein 25 28	mlc
+T2	Organism 42 52	Salmonella
+T3	Organism 275 289	S. Typhimurium
+T4	Organism 321 331	mlc mutant
+T5	Protein 321 324	mlc
+T6	Organism 333 339	SR1304
+T7	Organism 360 365	HEp-2
+T8	Organism 393 399	SL1344
+T9	Organism 506 516	Salmonella
+T10	Organism 628 634	SR1304
+T11	Organism 715 721	SL1344
+T12	Organism 741 755	S. Typhimurium
+T13	Organism 912 922	mlc mutant
+T14	Protein 912 915	mlc
+T15	Organism 1128 1134	SL1344
+T16	Organism 1174 1180	SR1304
+T17	Protein 1264 1267	mlc
+T18	Protein 1383 1386	mlc
+T19	Organism 1567 1572	mouse
+T20	Organism 1744 1750	SL1344
+T21	Organism 1755 1761	SR1304
+T22	Protein 1835 1838	Mlc
+T23	Organism 1849 1859	Salmonella
+T24	Organism 1940 1950	Salmonella

@@ -1,0 +1,4 @@
+T22	Process 914 923	virulence
+T23	Process 2306 2315	virulence
+E1	Process:T22 
+E2	Process:T23 

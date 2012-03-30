@@ -1,0 +1,8 @@
+T20	Acetylation 56 72	hyperacetylation
+T21	Acetylation 559 570	acetylation
+T22	Acetylation 975 986	Acetylation
+T23	Acetylation 1325 1336	acetylation
+E1	Acetylation:T20 Theme:T1 Contextgene:T3
+E2	Acetylation:T21 Theme:T5 Contextgene:T6
+E3	Acetylation:T22 Theme:T10 Contextgene:T11
+E4	Acetylation:T23 Theme:T14 Contextgene:T16

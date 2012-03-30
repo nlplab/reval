@@ -1,0 +1,7 @@
+*	Equiv T1 T2
+*	Equiv T3 T4 T5 T6
+*	Equiv T7 T8
+T14	Ubiquitination 925 939	ubiquitination
+T15	Phosphorylation 990 1005	phosphorylation
+E1	Ubiquitination:T14 Theme:T11
+E2	Phosphorylation:T15 Theme:T12

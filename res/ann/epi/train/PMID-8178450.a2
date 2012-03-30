@@ -1,0 +1,36 @@
+T14	DNA_methylation 467 478	methylation
+T15	Entity 493 523	5'-flanking regulatory regions
+T16	Entity 542 555	BCR2 promoter
+T17	DNA_methylation 678 689	methylation
+T18	Entity 711 731	regulatory sequences
+T19	DNA_demethylation 748 762	hypomethylated
+T20	DNA_methylation 808 818	methylated
+T21	DNA_methylation 1017 1028	methylation
+T22	Catalysis 1017 1028	methylation
+T23	Entity 1032 1040	5'-CG-3'
+T24	DNA_methylation 1176 1187	Methylation
+T25	Catalysis 1176 1187	Methylation
+T26	Entity 1191 1200	5-CCGG-3'
+T27	DNA_methylation 1277 1288	methylation
+T28	Catalysis 1277 1288	methylation
+T29	Entity 1292 1301	5'GCGC-3'
+T30	DNA_methylation 1378 1389	methylation
+T31	Catalysis 1378 1389	methylation
+T32	Entity 1393 1403	5'-GCGC-3'
+E1	DNA_methylation:T14 Theme:T3 Site:T15
+M1	Speculation E1
+E2	DNA_methylation:T14 Theme:T3 Site:T16
+M2	Speculation E2
+E3	DNA_methylation:T17 Theme:T5 Site:T18
+M3	Speculation E3
+E4	DNA_demethylation:T19 Theme:T5 Site:T18
+M4	Negation E4
+E5	DNA_methylation:T20 Theme:T5 Site:T18
+E6	DNA_methylation:T21 Theme:T8 Site:T23
+E7	Catalysis:T22 Theme:E6 Cause:T9
+E8	DNA_methylation:T24 Theme:T8 Site:T26
+E9	Catalysis:T25 Theme:E8 Cause:T10
+E10	DNA_methylation:T27 Theme:T8 Site:T29
+E11	Catalysis:T28 Theme:E10 Cause:T11
+E12	DNA_methylation:T30 Theme:T8 Site:T32
+E13	Catalysis:T31 Theme:E12 Cause:T12

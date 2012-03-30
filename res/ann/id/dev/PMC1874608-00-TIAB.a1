@@ -1,0 +1,35 @@
+T1	Protein 0 3	Mlc
+T2	Organism 18 28	Salmonella
+T3	Protein 72 76	hilE
+T4	Protein 110 113	Mlc
+T5	Organism 210 260	Salmonella enterica serovar Typhimurium mlc mutant
+T6	Protein 250 253	mlc
+T7	Protein 382 386	hilD
+T8	Protein 388 392	hilA
+T9	Protein 397 401	invF
+T10	Organism 437 447	Salmonella
+T11	Protein 503 506	Mlc
+T12	Protein 510 514	hilD
+T13	Organism 574 585	hilE mutant
+T14	Protein 574 578	hilE
+T15	Protein 591 595	hilE
+T16	Organism 628 638	mlc mutant
+T17	Protein 628 631	mlc
+T18	Protein 660 663	Mlc
+T19	Protein 750 754	HilE
+T20	Protein 849 853	HilD
+T21	Protein 896 900	hilE
+T22	Protein 923 926	Mlc
+T23	Protein 1002 1005	Mlc
+T24	Protein 1076 1079	Mlc
+T25	Protein 1090 1094	hilE
+T26	Protein 1154 1158	hilE
+T27	Protein 1211 1215	hilD
+T28	Protein 1244 1247	Mlc
+T29	Chemical 1282 1289	glucose
+T30	Chemical 1294 1301	mannose
+T31	Organism 1332 1342	mlc mutant
+T32	Protein 1332 1335	mlc
+T33	Protein 1384 1387	Mlc
+T34	Protein 1503 1507	hilE
+T35	Organism 1522 1532	Salmonella

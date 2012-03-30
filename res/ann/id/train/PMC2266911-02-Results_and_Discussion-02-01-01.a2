@@ -1,0 +1,10 @@
+T14	Process 0 9	Virulence
+T15	Process 39 48	virulence
+T16	Process 93 102	infection
+T17	Process 287 296	virulence
+T18	Process 2038 2047	infection
+E1	Process:T14 
+E2	Process:T15 
+E3	Process:T16 
+E4	Process:T17 
+E5	Process:T18 Participant:T13

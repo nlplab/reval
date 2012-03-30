@@ -1,0 +1,7 @@
+T8	Glycosylation 119 132	glycosylation
+T9	Glycosylation 574 586	glycosylated
+T10	Entity 844 856	position 934
+T11	Glycosylation 878 891	glycosylation
+E1	Glycosylation:T8 Theme:T2
+E2	Glycosylation:T9 Theme:T5
+E3	Glycosylation:T11 Theme:T6 Site:T10

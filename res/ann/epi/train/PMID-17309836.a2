@@ -1,0 +1,9 @@
+T17	Acetylation 119 130	Acetylation
+T18	Entity 142 147	tails
+T19	Acetylation 742 752	acetylates
+T20	Acetylation 824 834	acetylates
+E1	Acetylation:T17 Theme:T4 Site:T18
+E2	Acetylation:T19 Theme:T10
+E3	Acetylation:T19 Theme:T11
+E4	Acetylation:T20 Theme:T12
+E5	Acetylation:T20 Theme:T13

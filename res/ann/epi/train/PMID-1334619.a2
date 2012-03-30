@@ -1,0 +1,5 @@
+T12	Hydroxylation 0 12	Hydroxylated
+T13	Hydroxylation 614 626	hydroxylated
+E1	Hydroxylation:T12 Theme:T1
+E2	Hydroxylation:T12 Theme:T2
+E3	Hydroxylation:T13 Theme:T10

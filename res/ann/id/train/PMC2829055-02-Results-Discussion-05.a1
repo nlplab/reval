@@ -1,0 +1,47 @@
+T1	Organism 55 59	flea
+T2	Organism 86 95	Y. pestis
+T3	Organism 214 218	flea
+T4	Organism 288 297	Y. pestis
+T5	Organism 322 327	fleas
+T6	Organism 360 366	murine
+T7	Organism 406 411	fleas
+T8	Organism 526 531	human
+T9	Organism 600 609	Y. pestis
+T10	Organism 784 788	flea
+T11	Organism 904 909	fleas
+T12	Organism 951 956	fleas
+T13	Protein 963 967	yitR
+T14	Organism 1066 1070	flea
+T15	Organism 1115 1118	rat
+T16	Organism 1165 1169	flea
+T17	Protein 1173 1177	yitR
+T18	Organism 1302 1306	flea
+T19	Protein 1329 1333	yitR
+T20	Protein 1337 1341	yitA
+T21	Protein 1342 1346	yipB
+T22	Organism 1392 1407	Y. pestis KIM6+
+T23	Organism 1427 1432	fleas
+T24	Organism 1693 1697	host
+T25	Organism 1835 1854	Y. pestis DeltayitR
+T26	Organism 1960 1964	flea
+T27	Protein 1984 1988	yitR
+T28	Organism 2055 2064	Y. pestis
+T29	Organism 2088 2093	fleas
+T30	Organism 2154 2163	Y. pestis
+T31	Organism 2204 2209	fleas
+T32	Organism 2269 2288	DeltayitR Y. pestis
+T33	Organism 2394 2403	Y. pestis
+T34	Organism 2479 2483	flea
+T35	Organism 2548 2552	mice
+T36	Organism 2569 2603	Y. pestis DeltayitR-infected fleas
+T37	Organism 2721 2726	fleas
+T38	Organism 2736 2740	mice
+T39	Organism 2757 2766	Y. pestis
+T40	Organism 2776 2781	fleas
+T41	Organism 2982 2986	flea
+T42	Organism 3216 3221	fleas
+T43	Protein 3330 3334	phoP
+T44	Organism 3350 3359	Y. pestis
+T45	Organism 3400 3405	fleas
+T46	Protein 3504 3508	phoP
+T47	Organism 3526 3530	flea

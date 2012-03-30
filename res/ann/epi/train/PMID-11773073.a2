@@ -1,0 +1,7 @@
+T25	Hydroxylation 784 797	hydroxylation
+T26	Entity 805 841	epidermal growth factor (EGF) domain
+T27	Hydroxylation 1206 1224	beta-hydroxylation
+T28	Entity 1228 1240	Asp residues
+E1	Hydroxylation:T25 Theme:T14 Site:T26
+M1	Negation E1
+E2	Hydroxylation:T27 Theme:T18 Site:T28

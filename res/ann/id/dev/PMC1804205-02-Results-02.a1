@@ -1,0 +1,44 @@
+T1	Protein 4 8	PmrB
+T2	Protein 62 66	PmrA
+T3	Protein 72 76	PmrB
+T4	Protein 120 124	PmrA
+T5	Chemical 140 144	Mg2+
+T6	Chemical 212 216	Fe3+
+T7	Protein 272 276	PmrB
+T8	Protein 307 311	PmrA
+T9	Protein 337 341	PmrB
+T10	Protein 394 398	pbgP
+T11	Protein 435 439	PmrA
+T12	Protein 467 471	PmrA
+T13	Protein 493 497	pbgP
+T14	Organism 647 659	pmrB strains
+T15	Protein 647 651	pmrB
+T16	Regulon-operon 685 693	pbgP-lac
+T17	Protein 685 689	pbgP
+T18	Organism 766 777	pmrB mutant
+T19	Protein 766 770	pmrB
+T20	Organism 790 802	pmrB+ strain
+T21	Protein 790 794	pmrB
+T22	Protein 869 873	pmrB
+T23	Protein 950 954	pbgP
+T24	Organism 973 984	pmrB mutant
+T25	Protein 973 977	pmrB
+T26	Protein 1061 1065	pbgP
+T27	Organism 1087 1098	pmrA mutant
+T28	Protein 1087 1091	pmrA
+T29	Protein 1129 1133	PmrA
+T30	Protein 1196 1200	PmrB
+T31	Protein 1250 1254	PmrA
+T32	Chemical 1281 1297	acetyl phosphate
+T33	Chemical 1306 1322	acetyl phosphate
+T34	Protein 1497 1501	pbgP
+T35	Organism 1537 1548	pmrB mutant
+T36	Protein 1537 1541	pmrB
+T37	Protein 1570 1573	pta
+T38	Protein 1578 1582	ackA
+T39	Chemical 1668 1684	acetyl phosphate
+T40	Chemical 1765 1781	acetyl phosphate
+T41	Protein 1804 1808	pmrB
+T42	Protein 1834 1838	pbgP
+T43	Protein 1929 1933	pmrB
+T44	Protein 1991 1995	PmrA

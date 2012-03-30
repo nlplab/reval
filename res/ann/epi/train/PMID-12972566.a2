@@ -1,0 +1,10 @@
+T10	Acetylation 8 24	hyperacetylation
+T11	Deacetylation 284 297	deacetylation
+T12	Acetylation 437 452	hyperacetylated
+T13	Deacetylation 760 773	deacetylation
+T14	Acetylation 1445 1460	hyperacetylated
+E1	Acetylation:T10 Theme:T1
+E2	Deacetylation:T11 Theme:T3
+E3	Acetylation:T12 Theme:T5
+E4	Deacetylation:T13 Theme:T8
+E5	Acetylation:T14 Theme:T9

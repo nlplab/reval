@@ -1,0 +1,4 @@
+T23	Phosphorylation 755 770	phosphorylation
+T24	Ubiquitination 1110 1124	ubiquitination
+E1	Phosphorylation:T23 Theme:T8
+E2	Ubiquitination:T24 Theme:T15

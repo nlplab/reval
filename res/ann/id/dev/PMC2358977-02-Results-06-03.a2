@@ -1,0 +1,9 @@
+T41	Negative_regulation 113 122	repressed
+T42	Process 488 497	virulence
+T43	Negative_regulation 498 502	loss
+T44	Process 973 982	virulence
+E1	Negative_regulation:T41 Theme:T1
+E2	Negative_regulation:T41 Theme:T2
+E3	Process:T42 Participant:T7
+E4	Negative_regulation:T43 Theme:E3
+E5	Process:T44 

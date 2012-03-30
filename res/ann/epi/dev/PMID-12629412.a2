@@ -1,0 +1,13 @@
+*	Equiv T5 T6
+*	Equiv T8 T9
+T28	DNA_methylation 1100 1111	methylation
+T29	DNA_methylation 1868 1879	methylation
+E1	DNA_methylation:T28 Theme:T11
+M1	Speculation E1
+E2	DNA_methylation:T28 Theme:T12
+M2	Speculation E2
+E3	DNA_methylation:T28 Theme:T13
+M3	Speculation E3
+E4	DNA_methylation:T29 Theme:T19
+E5	DNA_methylation:T29 Theme:T20
+E6	DNA_methylation:T29 Theme:T21

@@ -1,0 +1,5 @@
+*	Equiv T4 T5
+T25	Acetylation 19 30	acetylation
+T26	Acetylation 983 994	acetylation
+E1	Acetylation:T25 Theme:T1 Contextgene:T2
+E2	Acetylation:T26 Theme:T12

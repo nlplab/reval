@@ -1,0 +1,41 @@
+T1	Organism 232 271	Salmonella enterica serovar Typhimurium
+T2	Organism 406 416	Salmonella
+T3	Organism 618 628	Salmonella
+T4	Organism 1169 1179	Salmonella
+T5	Organism 1448 1458	Salmonella
+T6	Organism 1624 1634	Salmonella
+T7	Organism 1718 1728	Salmonella
+T8	Protein 1824 1828	PmrA
+T9	Organism 2055 2065	Salmonella
+T10	Protein 2112 2116	PmrA
+T11	Protein 2155 2159	PmrB
+T12	Organism 2233 2237	mice
+T13	Organism 2272 2279	chicken
+T14	Chemical 2402 2413	polymyxin B
+T15	Chemical 2454 2458	Fe3+
+T16	Chemical 2486 2490	Al3+
+T17	Protein 2536 2540	PmrA
+T18	Chemical 2639 2655	ipopolysacharide
+T19	Chemical 2657 2660	LPS
+T20	Chemical 2686 2693	lipid A
+T21	Protein 2889 2893	PmrA
+T22	Organism 3039 3049	Salmonella
+T23	Protein 3148 3152	PmrA
+T24	Chemical 3212 3216	Fe3+
+T25	Chemical 3220 3224	Al3+
+T26	Protein 3259 3263	PmrB
+T27	Chemical 3340 3344	Mg2+
+T28	Chemical 3392 3396	Mg2+
+T29	Protein 3415 3419	PmrA
+T30	Protein 3437 3441	PhoQ
+T31	Chemical 3479 3483	Mg2+
+T32	Protein 3515 3519	PhoQ
+T33	Protein 3540 3544	PhoP
+T34	Protein 3554 3558	PhoP
+T35	Protein 3577 3581	PmrD
+T36	Protein 3627 3631	PmrD
+T37	Protein 3668 3672	PmrA
+T38	Protein 3713 3717	PmrB
+T39	Protein 3763 3767	PmrA
+T40	Protein 3792 3796	PmrB
+T41	Protein 4010 4014	PmrD

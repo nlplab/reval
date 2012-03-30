@@ -1,0 +1,43 @@
+T1	Protein 0 4	AprA
+T2	Protein 32 42	Diptericin
+T3	Protein 63 67	AprA
+T4	Organism 77 91	P. entomophila
+T5	Protein 104 107	Imd
+T6	Protein 270 279	Attacin A
+T7	Protein 284 294	Diptericin
+T8	Protein 450 454	AprA
+T9	Organism 609 623	P. entomophila
+T10	Protein 624 628	AprA
+T11	Protein 646 656	Cecropin A
+T12	Protein 728 732	AprA
+T13	Organism 812 826	P. entomophila
+T14	Protein 830 833	imd
+T15	Protein 866 875	Attacin A
+T16	Protein 879 889	Diptericin
+T17	Protein 941 945	Gal4
+T18	Protein 956 960	Gal4
+T19	Protein 976 980	Gal4
+T20	Organism 1136 1150	P. entomophila
+T21	Protein 1254 1257	Dpt
+T22	Protein 1261 1265	AttA
+T23	Organism 1298 1312	P. entomophila
+T24	Protein 1339 1348	Attacin A
+T25	Protein 1353 1363	Diptericin
+T26	Protein 1376 1380	Gal4
+T27	Organism 1424 1434	imd mutant
+T28	Protein 1424 1427	imd
+T29	Organism 1529 1543	P. entomophila
+T30	Protein 1604 1611	Attacin
+T31	Protein 1744 1754	Diptericin
+T32	Organism 1990 2004	P. entomophila
+T33	Protein 2009 2013	aprA
+T34	Protein 2055 2065	Diptericin
+T35	Organism 2092 2103	aprA mutant
+T36	Protein 2092 2096	aprA
+T37	Protein 2177 2187	Diptericin
+T38	Protein 2240 2244	AprA
+T39	Protein 2253 2263	Diptericin
+T40	Protein 2298 2307	Attacin A
+T41	Protein 2473 2477	AprA
+T42	Organism 2509 2523	P. entomophila
+T43	Organism 2532 2542	Drosophila

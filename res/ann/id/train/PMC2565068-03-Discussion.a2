@@ -1,0 +1,79 @@
+*	Equiv T60 T61
+T122	Process 129 138	virulence
+T123	Process 373 383	infections
+T124	Positive_regulation 451 459	enhanced
+T125	Gene_expression 464 474	expression
+T126	Process 549 558	virulence
+T127	Gene_expression 560 572	Introduction
+T128	Process 925 935	infections
+T129	Gene_expression 1735 1745	expression
+T130	Positive_regulation 1816 1824	enhanced
+T131	Process 2409 2417	virulent
+T132	Process 2571 2580	infection
+T133	Process 2747 2756	infection
+T134	Gene_expression 2823 2833	expression
+T135	Positive_regulation 2841 2849	enhanced
+T136	Process 3269 3278	virulence
+T137	Gene_expression 3765 3775	expression
+T138	Positive_regulation 3852 3860	enhanced
+T139	Process 4110 4119	infection
+T140	Positive_regulation 4139 4148	increased
+T141	Gene_expression 4149 4159	expression
+T142	Process 4565 4573	virulent
+T143	Process 6233 6242	virulence
+T144	Process 6298 6307	virulence
+T145	Regulation 6337 6347	regulation
+T146	Process 6555 6563	infected
+T147	Process 6648 6658	infections
+T148	Process 7002 7010	infected
+T149	Process 7165 7174	infection
+T150	Process 7445 7454	infection
+T151	Process 7515 7525	infections
+T152	Process 7556 7565	virulence
+T153	Process 7661 7671	infections
+T154	Process 7838 7848	infections
+E1	Process:T122 Participant:T4
+E2	Process:T123 Participant:T7
+E3	Positive_regulation:T124 Theme:E5
+E4	Positive_regulation:T124 Theme:E6
+E5	Gene_expression:T125 Theme:T10
+E6	Gene_expression:T125 Theme:T11
+E7	Process:T126 
+E8	Gene_expression:T127 Theme:T12
+E9	Process:T128 Participant:T15
+E10	Gene_expression:T129 Theme:T34
+E11	Positive_regulation:T130 Theme:E10
+E12	Process:T131 
+E13	Process:T132 
+E14	Process:T133 
+E15	Gene_expression:T134 Theme:T50
+E16	Gene_expression:T134 Theme:T51
+E17	Positive_regulation:T135 Theme:E15
+M1	Negation E17
+E18	Positive_regulation:T135 Theme:E16
+M2	Negation E18
+E19	Process:T136 
+E20	Gene_expression:T137 Theme:T71
+E21	Gene_expression:T137 Theme:T72
+E22	Gene_expression:T137 Theme:T73
+E23	Positive_regulation:T138 Theme:E20
+E24	Positive_regulation:T138 Theme:E21
+E25	Positive_regulation:T138 Theme:E22
+E26	Process:T139 
+E27	Positive_regulation:T140 Theme:E29
+E28	Positive_regulation:T140 Theme:E30
+E29	Gene_expression:T141 Theme:T79
+E30	Gene_expression:T141 Theme:T80
+E31	Process:T142 Participant:T90
+E32	Process:T143 
+E33	Process:T144 
+E34	Regulation:T145 Theme:T110
+E35	Process:T146 Participant:T112
+E36	Process:T147 Participant:T114
+E37	Process:T148 Participant:T117
+E38	Process:T149 Participant:T119
+E39	Process:T150 Participant:T120
+E40	Process:T151 Participant:T121
+E41	Process:T152 
+E42	Process:T153 
+E43	Process:T154 

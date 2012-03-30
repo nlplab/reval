@@ -1,0 +1,56 @@
+T1	Chemical 15 23	c-di-GMP
+T2	Chemical 47 65	Cyclic diguanylate
+T3	Chemical 67 75	c-di-GMP
+T4	Chemical 313 321	c-di-GMP
+T5	Protein 408 413	GGDEF
+T6	Chemical 458 466	c-di-GMP
+T7	Protein 495 498	EAL
+T8	Protein 564 569	GGDEF
+T9	Protein 574 577	EAL
+T10	Protein 636 640	PilZ
+T11	Chemical 659 667	c-di-GMP
+T12	Protein 673 677	PilZ
+T13	Protein 741 746	GGDEF
+T14	Protein 748 751	EAL
+T15	Organism 873 890	Y. enterocolitica
+T16	Protein 938 943	GGDEF
+T17	Protein 948 951	EAL
+T18	Protein 1003 1008	GGDEF
+T19	Protein 1034 1037	EAL
+T20	Protein 1113 1117	AdrA
+T21	Protein 1119 1125	YE3010
+T22	Protein 1127 1132	GGDEF
+T23	Chemical 1168 1179	diguanylate
+T24	Protein 1189 1195	YE2278
+T25	Protein 1197 1202	GGDEF
+T26	Protein 1203 1206	EAL
+T27	Protein 1241 1247	YE3818
+T28	Protein 1249 1254	GGDEF
+T29	Protein 1285 1291	YE3806
+T30	Protein 1293 1298	GGDEF
+T31	Protein 1299 1302	EAL
+T32	Protein 1346 1351	GGDEF
+T33	Protein 1356 1359	EAL
+T34	Protein 1443 1447	PilZ
+T35	Organism 1464 1481	Y. enterocolitica
+T36	Protein 1490 1496	YE3197
+T37	Protein 1501 1505	BcsA
+T38	Protein 1507 1513	YE4074
+T39	Protein 1752 1755	EAL
+T40	Protein 1784 1790	YE4063
+T41	Protein 1795 1801	YE1324
+T42	Chemical 1969 1977	c-di-GMP
+T43	Organism 2001 2018	Y. enterocolitica
+T44	Organism 2108 2113	human
+T45	Organism 2152 2166	P. luminescens
+T46	Protein 2192 2197	GGDEF
+T47	Protein 2199 2202	EAL
+T48	Protein 2206 2210	PilZ
+T49	Organism 2292 2311	Helicobacter pylori
+T50	Chemical 2348 2356	c-di-GMP
+T51	Organism 2406 2420	P. luminescens
+T52	Organism 2457 2478	luxS-deficient mutant
+T53	Protein 2457 2461	luxS
+T54	Protein 2527 2531	AI-2
+T55	Organism 2612 2626	P. luminescens
+T56	Chemical 2640 2648	c-di-GMP

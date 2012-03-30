@@ -1,0 +1,54 @@
+*	Equiv T3 T2 T4
+*	Equiv T5 T6
+*	Equiv T8 T7 T9
+*	Equiv T10 T11
+*	Equiv T21 T20
+T37	Process 0 9	Virulence
+T38	Process 72 81	infection
+T39	Process 249 258	virulence
+T40	Negative_regulation 367 380	downregulated
+T41	Positive_regulation 500 511	upregulated
+T42	Gene_expression 542 552	expression
+T43	Process 610 619	virulence
+T44	Process 667 676	infection
+T45	Transcription 1033 1044	transcribed
+T46	Negative_regulation 1233 1245	downregulate
+T47	Gene_expression 1246 1256	production
+T48	Process 1455 1464	infection
+T49	Gene_expression 1568 1578	production
+T50	Negative_regulation 1618 1627	decreases
+T51	Process 1712 1721	infection
+T52	Gene_expression 1744 1754	expression
+T53	Negative_regulation 1854 1863	decreased
+T54	Gene_expression 1869 1879	production
+T55	Positive_regulation 2187 2199	upregulation
+T56	Negative_regulation 2540 2554	downregulation
+T57	Positive_regulation 2742 2753	upregulated
+T58	Gene_expression 2819 2829	production
+T59	Process 2980 2989	virulence
+E1	Process:T37 
+E2	Process:T38 Participant:T1
+E3	Process:T39 
+E4	Negative_regulation:T40 Theme:T2
+E5	Negative_regulation:T40 Theme:T5
+E6	Positive_regulation:T41 Theme:T7
+E7	Positive_regulation:T41 Theme:T10
+E8	Gene_expression:T42 Theme:T12
+E9	Gene_expression:T42 Theme:T13
+E10	Process:T43 
+E11	Process:T44 
+E12	Transcription:T45 Theme:T17
+E13	Negative_regulation:T46 Theme:E14
+E14	Gene_expression:T47 Theme:T17
+E15	Process:T48 
+E16	Gene_expression:T49 Theme:T23
+E17	Negative_regulation:T50 Theme:E16
+E18	Process:T51 
+E19	Gene_expression:T52 Theme:T26
+E20	Negative_regulation:T53 Theme:E21
+E21	Gene_expression:T54 Theme:T27
+E22	Positive_regulation:T55 Theme:T31
+E23	Negative_regulation:T56 Theme:T34
+E24	Positive_regulation:T57 Theme:T35
+E25	Gene_expression:T58 Theme:T36
+E26	Process:T59 

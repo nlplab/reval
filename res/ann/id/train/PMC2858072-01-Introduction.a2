@@ -1,0 +1,16 @@
+*	Equiv T32 T33
+*	Equiv T34 T35
+T44	Regulation 1591 1601	implicated
+T45	Process 1605 1614	virulence
+T46	Process 1662 1671	avirulent
+T47	Regulation 2350 2359	regulates
+T48	Transcription 2360 2373	transcription
+E1	Regulation:T44 Theme:E2 Cause:T14
+M1	Speculation E1
+E2	Process:T45 Participant:T13
+E3	Process:T46 Participant:T17
+M2	Negation E3
+E4	Regulation:T47 Theme:E6 Cause:T29
+E5	Regulation:T47 Theme:E7 Cause:T29
+E6	Transcription:T48 Theme:T32
+E7	Transcription:T48 Theme:T34

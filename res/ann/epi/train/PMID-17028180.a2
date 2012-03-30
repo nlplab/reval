@@ -1,0 +1,11 @@
+*	Equiv T5 T6
+*	Equiv T7 T8
+T29	Acetylation 107 118	acetylation
+T30	Deacetylation 935 948	deacetylation
+T31	Acetylation 1135 1146	acetylation
+E1	Acetylation:T29 Theme:T2
+E2	Deacetylation:T30 Theme:T21 Contextgene:T19
+E3	Deacetylation:T30 Theme:T21 Contextgene:T20
+E4	Acetylation:T31 Theme:T26 Contextgene:T23
+E5	Acetylation:T31 Theme:T26 Contextgene:T24
+E6	Acetylation:T31 Theme:T26 Contextgene:T25

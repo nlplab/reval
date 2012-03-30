@@ -1,0 +1,62 @@
+T68	Positive_regulation 78 84	cleave
+T69	Protein_catabolism 78 84	cleave
+T70	Gene_expression 648 657	expressed
+T71	Positive_regulation 745 752	cleaved
+T72	Protein_catabolism 745 752	cleaved
+T73	Positive_regulation 1094 1100	cleave
+T74	Protein_catabolism 1094 1100	cleave
+T75	Positive_regulation 1184 1190	cleave
+T76	Protein_catabolism 1184 1190	cleave
+T77	Positive_regulation 1222 1229	cleaved
+T78	Protein_catabolism 1222 1229	cleaved
+T79	Positive_regulation 1292 1299	cleaved
+T80	Protein_catabolism 1292 1299	cleaved
+T81	Positive_regulation 1369 1375	digest
+T82	Protein_catabolism 1369 1375	digest
+T83	Positive_regulation 1535 1542	cleaved
+T84	Protein_catabolism 1535 1542	cleaved
+T85	Positive_regulation 1631 1637	cleave
+T86	Protein_catabolism 1631 1637	cleave
+T87	Positive_regulation 1745 1752	cleaves
+T88	Protein_catabolism 1745 1752	cleaves
+E1	Protein_catabolism:T69 Theme:T9
+E2	Positive_regulation:T68 Theme:E1 Cause:T7
+E3	Gene_expression:T70 Theme:T16
+E4	Gene_expression:T70 Theme:T17
+E5	Gene_expression:T70 Theme:T18
+E6	Protein_catabolism:T72 Theme:T26
+E7	Positive_regulation:T71 Theme:E6 Cause:T24
+E8	Protein_catabolism:T74 Theme:T34
+E9	Positive_regulation:T73 Theme:E8 Cause:T31
+E10	Protein_catabolism:T76 Theme:T39
+E11	Positive_regulation:T75 Theme:E10 Cause:T35
+M1	Speculation E11
+E12	Positive_regulation:T75 Theme:E10 Cause:T37
+M2	Speculation E12
+E13	Protein_catabolism:T78 Theme:T41
+E14	Positive_regulation:T77 Theme:E13 Cause:T35
+E15	Positive_regulation:T77 Theme:E13 Cause:T37
+E16	Protein_catabolism:T80 Theme:T43
+E17	Positive_regulation:T79 Theme:E16 Cause:T35
+E18	Positive_regulation:T79 Theme:E16 Cause:T37
+E19	Protein_catabolism:T82 Theme:T48
+E20	Positive_regulation:T81 Theme:E19 Cause:T44
+E21	Positive_regulation:T81 Theme:E19 Cause:T46
+E22	Protein_catabolism:T84 Theme:T59
+E23	Protein_catabolism:T84 Theme:T60
+E24	Protein_catabolism:T84 Theme:T61
+E25	Positive_regulation:T83 Theme:E22 Cause:T56
+E26	Positive_regulation:T83 Theme:E22 Cause:T58
+E27	Positive_regulation:T83 Theme:E23 Cause:T56
+E28	Positive_regulation:T83 Theme:E23 Cause:T58
+E29	Positive_regulation:T83 Theme:E24 Cause:T56
+M3	Negation E29
+E30	Positive_regulation:T83 Theme:E24 Cause:T58
+M4	Negation E30
+E31	Protein_catabolism:T86 Theme:T63
+E32	Positive_regulation:T85 Theme:E31 Cause:T62
+E33	Protein_catabolism:T86 Theme:T64
+E34	Positive_regulation:T85 Theme:E33 Cause:T62
+M5	Negation E34
+E35	Protein_catabolism:T88 Theme:T67
+E36	Positive_regulation:T87 Theme:E35 Cause:T66

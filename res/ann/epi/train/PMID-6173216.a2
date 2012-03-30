@@ -1,0 +1,9 @@
+T7	Methylation 298 307	methylate
+T8	Entity 308 336	glutamine residue number 150
+T9	Methylation 662 674	unmethylated
+T10	Methylation 1138 1149	methylation
+E1	Methylation:T7 Theme:T2 Site:T8
+M1	Negation E1
+E2	Methylation:T9 Theme:T3
+M2	Negation E2
+E3	Methylation:T10 Theme:T5

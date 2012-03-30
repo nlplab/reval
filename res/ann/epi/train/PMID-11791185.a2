@@ -1,0 +1,8 @@
+*	Equiv T7 T8
+*	Equiv T10 T11
+T26	Methylation 1003 1014	methylation
+T27	Catalysis 1379 1387	mediated
+T28	Methylation 1396 1407	methylation
+E1	Methylation:T26 Theme:T17
+E2	Catalysis:T27 Theme:E3 Cause:T24
+E3	Methylation:T28 Theme:T25

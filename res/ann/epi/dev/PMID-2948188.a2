@@ -1,0 +1,4 @@
+*	Equiv T5 T6
+T9	Hydroxylation 845 858	hydroxylation
+T10	Entity 862 872	asparagine
+E1	Hydroxylation:T9 Theme:T8 Site:T10

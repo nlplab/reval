@@ -1,0 +1,10 @@
+*	Equiv T8 T9
+*	Equiv T10 T11
+T15	Glycosylation 1183 1196	glycosylation
+T16	Glycosylation 1287 1302	O-glycosylation
+T17	Glycosylation 1544 1559	N-glycosylation
+E1	Glycosylation:T15 Theme:T6
+E2	Glycosylation:T16 Theme:T6
+M1	Speculation E2
+E3	Glycosylation:T17 Theme:T12
+E4	Glycosylation:T17 Theme:T13

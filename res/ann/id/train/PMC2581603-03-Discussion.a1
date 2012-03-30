@@ -1,0 +1,111 @@
+T1	Organism 33 46	P. aeruginosa
+T2	Organism 115 123	patients
+T3	Organism 140 153	P. aeruginosa
+T4	Organism 401 409	patients
+T5	Organism 839 852	P. aeruginosa
+T6	Chemical 881 884	LPS
+T7	Chemical 938 947	Magnesium
+T8	Chemical 1028 1032	CAPs
+T9	Organism 1036 1049	P. aeruginosa
+T10	Two-component-system 1090 1095	PhoPQ
+T11	Protein 1090 1094	PhoP
+T12	Protein 1094 1095	Q
+T13	Organism 1106 1128	Salmonella typhimurium
+T14	Chemical 1154 1163	magnesium
+T15	Protein 1177 1181	phoP
+T16	Chemical 1306 1310	Mg2+
+T17	Two-component-system 1446 1451	PhoPQ
+T18	Protein 1446 1450	PhoP
+T19	Protein 1450 1451	Q
+T20	Two-component-system 1537 1542	PhoPQ
+T21	Protein 1537 1541	PhoP
+T22	Protein 1541 1542	Q
+T23	Chemical 1564 1573	magnesium
+T24	Organism 1736 1749	P. aeruginosa
+T25	Chemical 1889 1893	Mg2+
+T26	Chemical 1971 1986	aminoglycosides
+T27	Organism 1990 2003	P. aeruginosa
+T28	Two-component-system 2034 2039	PhoPQ
+T29	Protein 2034 2038	PhoP
+T30	Protein 2038 2039	Q
+T31	Chemical 2050 2053	LPS
+T32	Organism 2101 2113	PhoQ mutants
+T33	Protein 2101 2105	PhoQ
+T34	Protein 2144 2148	phoP
+T35	Chemical 2245 2260	aminoglycosides
+T36	Organism 2270 2284	S. typhimurium
+T37	Two-component-system 2286 2291	PhoPQ
+T38	Protein 2286 2290	PhoP
+T39	Protein 2290 2291	Q
+T40	Chemical 2311 2314	LPS
+T41	Chemical 2428 2438	gentamicin
+T42	Chemical 2477 2491	aminoglycoside
+T43	Organism 2506 2519	P. aeruginosa
+T44	Chemical 2580 2583	LPS
+T45	Regulon-operon 2604 2617	PA3552-PA3559
+T46	Protein 2604 2610	PA3552
+T47	Protein 2611 2617	PA3559
+T48	Chemical 2693 2708	aminoglycosides
+T49	Chemical 2775 2778	LPS
+T50	Organism 2847 2860	P. aeruginosa
+T51	Two-component-system 2861 2866	PmrAB
+T52	Protein 2861 2865	PmrA
+T53	Protein 2865 2866	B
+T54	Organism 2880 2887	E. coli
+T55	Two-component-system 2888 2893	PmrAB
+T56	Protein 2888 2892	PmrA
+T57	Protein 2892 2893	B
+T58	Two-component-system 2903 2908	BasRS
+T59	Protein 2903 2907	BasR
+T60	Protein 2907 2908	S
+T61	Organism 3026 3039	P. aeruginosa
+T62	Chemical 3209 3212	CAP
+T63	Regulon-operon 3267 3280	PA3552-PA3559
+T64	Protein 3267 3273	PA3552
+T65	Protein 3274 3280	PA3559
+T66	Organism 3329 3342	P. aeruginosa
+T67	Chemical 3592 3595	LPS
+T68	Regulon-operon 3616 3629	PA3552-PA3559
+T69	Protein 3616 3622	PA3552
+T70	Protein 3623 3629	PA3559
+T71	Chemical 4405 4409	Mn2+
+T72	Chemical 4414 4418	Zn2+
+T73	Organism 4512 4533	Staphylococcus aureus
+T74	Chemical 5016 5022	oxygen
+T75	Chemical 5434 5438	Mg2+
+T76	Organism 5560 5568	patients
+T77	Protein 5886 5892	PA3553
+T78	Two-component-system 5936 5941	PhoPQ
+T79	Protein 5936 5940	PhoP
+T80	Protein 5940 5941	Q
+T81	Two-component-system 5946 5951	PmrAB
+T82	Protein 5946 5950	PmrA
+T83	Protein 5950 5951	B
+T84	Regulon-operon 6076 6089	PA3552-PA3559
+T85	Protein 6076 6082	PA3552
+T86	Protein 6083 6089	PA3559
+T87	Organism 6125 6138	P. aeruginosa
+T88	Chemical 6156 6159	LPS
+T89	Chemical 6209 6216	lipid A
+T90	Organism 6231 6244	P. aeruginosa
+T91	Chemical 6314 6326	EPS alginate
+T92	Chemical 6349 6357	alginate
+T93	Regulon-operon 6423 6436	PA3552-PA3559
+T94	Protein 6423 6429	PA3552
+T95	Protein 6430 6436	PA3559
+T96	Protein 6467 6473	PA3553
+T97	Chemical 6524 6532	alginate
+T98	Organism 6606 6614	patients
+T99	Two-component-system 6885 6890	PhoPQ
+T100	Protein 6885 6889	PhoP
+T101	Protein 6889 6890	Q
+T102	Two-component-system 6891 6896	PmrAB
+T103	Protein 6891 6895	PmrA
+T104	Protein 6895 6896	B
+T105	Two-component-system 7471 7476	PhoPQ
+T106	Protein 7471 7475	PhoP
+T107	Protein 7475 7476	Q
+T108	Two-component-system 7477 7482	PmrAB
+T109	Protein 7477 7481	PmrA
+T110	Protein 7481 7482	B
+T111	Chemical 7507 7510	LPS

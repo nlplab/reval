@@ -1,0 +1,8 @@
+*	Equiv T10 T11
+T12	Acetylation 363 374	acetylation
+T13	Acetylation 502 518	hyperacetylation
+T14	Acetylation 710 721	acetylation
+T15	Entity 737 741	tail
+E1	Acetylation:T12 Theme:T5
+E2	Acetylation:T13 Theme:T6
+E3	Acetylation:T14 Theme:T9 Site:T15

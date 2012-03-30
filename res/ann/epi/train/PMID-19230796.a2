@@ -1,0 +1,8 @@
+T20	Ubiquitination 515 534	mono-ubiquitinating
+T21	Entity 559 569	lysine 123
+T22	Methylation 630 641	methylation
+T23	Methylation 1084 1094	methylated
+E1	Ubiquitination:T20 Theme:T12 Site:T21
+E2	Methylation:T22 Theme:T13
+M1	Speculation E2
+E3	Methylation:T23 Theme:T15

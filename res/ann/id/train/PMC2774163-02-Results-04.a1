@@ -1,0 +1,51 @@
+T1	Organism 234 247	P. aeruginosa
+T2	Protein 301 305	BfiS
+T3	Protein 307 311	BfmR
+T4	Protein 317 321	MifR
+T5	Protein 323 329	PA4197
+T6	Protein 331 337	PA4101
+T7	Protein 339 345	PA5511
+T8	Chemical 398 409	polystyrene
+T9	Protein 648 651	Pel
+T10	Protein 656 659	Psl
+T11	Protein 858 861	Pel
+T12	Protein 866 869	Psl
+T13	Organism 957 973	DeltagacS mutant
+T14	Protein 962 966	gacS
+T15	Organism 1310 1319	DeltabfiS
+T16	Protein 1315 1319	bfiS
+T17	Organism 1324 1340	DeltabfmR mutant
+T18	Protein 1329 1333	bfmR
+T19	Organism 1465 1478	P. aeruginosa
+T20	Organism 1665 1674	DeltabfmR
+T21	Protein 1670 1674	bfmR
+T22	Organism 1714 1723	DeltabfiS
+T23	Protein 1719 1723	bfiS
+T24	Protein 1845 1849	BfiS
+T25	Protein 1854 1858	BfmR
+T26	Organism 1907 1916	DeltamifR
+T27	Protein 1912 1916	mifR
+T28	Organism 2002 2011	DeltamifR
+T29	Protein 2007 2011	mifR
+T30	Protein 2066 2070	MifR
+T31	Protein 2196 2200	MifR
+T32	Organism 2237 2250	P. aeruginosa
+T33	Organism 2368 2377	DeltabfiS
+T34	Protein 2373 2377	bfiS
+T35	Organism 2379 2388	DeltabfmR
+T36	Protein 2384 2388	bfmR
+T37	Organism 2394 2410	DeltamifR mutant
+T38	Protein 2399 2403	mifR
+T39	Organism 2561 2570	DeltabfiS
+T40	Protein 2566 2570	bfiS
+T41	Organism 2575 2584	DeltabfmR
+T42	Protein 2580 2584	bfmR
+T43	Organism 2898 2907	DeltabfiS
+T44	Protein 2903 2907	bfiS
+T45	Organism 2912 2921	DeltabfmR
+T46	Protein 2917 2921	bfmR
+T47	Organism 2970 2979	DeltamifR
+T48	Protein 2975 2979	mifR
+T49	Organism 3064 3077	P. aeruginosa
+T50	Organism 3185 3194	DeltamifR
+T51	Protein 3190 3194	mifR

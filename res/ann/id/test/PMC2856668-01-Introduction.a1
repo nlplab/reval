@@ -1,0 +1,124 @@
+T1	Organism 14 38	Streptococcus agalactiae
+T2	Organism 40 61	group B streptococcus
+T3	Organism 144 149	human
+T4	Organism 1360 1373	S. pneumoniae
+T5	Organism 1378 1389	S. pyogenes
+T6	Organism 1391 1404	S. agalactiae
+T7	Organism 1525 1531	NEM316
+T8	Organism 1556 1571	strain 2603 V/R
+T9	Two-component-system 1592 1597	CsrRS
+T10	Protein 1592 1596	CsrR
+T11	Protein 1596 1597	S
+T12	Two-component-system 1598 1603	CovRS
+T13	Protein 1598 1602	CovR
+T14	Protein 1602 1603	S
+T15	Two-component-system 1605 1614	DltR/DltS
+T16	Protein 1605 1609	DltR
+T17	Protein 1610 1614	DltS
+T18	Two-component-system 1620 1629	RgfA/RgfC
+T19	Protein 1620 1624	RgfA
+T20	Protein 1625 1629	RgfC
+T21	Organism 1675 1688	S. agalactiae
+T22	Two-component-system 1689 1694	CsrRS
+T23	Protein 1689 1693	CsrR
+T24	Protein 1693 1694	S
+T25	Two-component-system 1695 1700	CovRS
+T26	Protein 1695 1699	CovR
+T27	Protein 1699 1700	S
+T28	Two-component-system 1735 1740	CsrRS
+T29	Protein 1735 1739	CsrR
+T30	Protein 1739 1740	S
+T31	Two-component-system 1741 1746	CovRS
+T32	Protein 1741 1745	CovR
+T33	Protein 1745 1746	S
+T34	Organism 1750 1761	S. pyogenes
+T35	Protein 1783 1787	covR
+T36	Organism 1791 1804	S. agalactiae
+T37	Protein 1849 1853	cylE
+T38	Protein 1877 1881	scpB
+T39	Protein 1925 1928	cfb
+T40	Two-component-system 1960 1965	CovRS
+T41	Protein 1960 1964	CovR
+T42	Protein 1964 1965	S
+T43	Two-component-system 2128 2133	CovRS
+T44	Protein 2128 2132	CovR
+T45	Protein 2132 2133	S
+T46	Organism 2251 2264	S. agalactiae
+T47	Two-component-system 2300 2309	DltR/DltS
+T48	Protein 2300 2304	DltR
+T49	Protein 2305 2309	DltS
+T50	Organism 2313 2326	S. agalactiae
+T51	Regulon-operon 2361 2371	dlt operon
+T52	Protein 2373 2377	dltA
+T53	Protein 2381 2382	t
+T54	Protein 2385 2389	dltC
+T55	Protein 2395 2399	dltD
+T56	Chemical 2470 2488	lipoteichoic acids
+T57	Two-component-system 2502 2511	DltR/DltS
+T58	Protein 2502 2506	DltR
+T59	Protein 2507 2511	DltS
+T60	Organism 2515 2528	S. agalactiae
+T61	Protein 2590 2594	dltA
+T62	Protein 2599 2603	dltR
+T63	Two-component-system 2633 2642	RgfA/RgfC
+T64	Protein 2633 2637	RgfA
+T65	Protein 2638 2642	RgfC
+T66	Organism 2664 2677	S. agalactiae
+T67	Protein 2750 2754	rgfC
+T68	Protein 2794 2798	scpB
+T69	Protein 2905 2911	sak188
+T70	Protein 2949 2955	sak189
+T71	Organism 2976 3005	S. agalactiae strains 98-D60C
+T72	Organism 3010 3014	A909
+T73	Protein 3027 3033	sak188
+T74	Protein 3038 3044	sak189
+T75	Protein 3118 3121	bac
+T76	Protein 3140 3152	beta-antigen
+T77	Protein 3196 3199	IgA
+T78	Protein 3204 3212	factor H
+T79	Protein 3289 3295	Sak188
+T80	Protein 3300 3306	Sak189
+T81	Protein 3377 3381	HK06
+T82	Protein 3417 3421	RR06
+T83	Organism 3425 3438	S. pneumoniae
+T84	Organism 3481 3494	S. pneumoniae
+T85	Protein 3507 3511	hk06
+T86	Protein 3516 3520	rr06
+T87	Protein 3543 3547	cbpA
+T88	Chemical 3562 3569	choline
+T89	Protein 3587 3591	CbpA
+T90	Organism 3654 3667	S. pneumoniae
+T91	Protein 3697 3709	beta-antigen
+T92	Protein 3711 3715	CbpA
+T93	Protein 3737 3745	factor H
+T94	Protein 3790 3794	CbpA
+T95	Protein 3835 3847	beta-antigen
+T96	Protein 3865 3869	RR06
+T97	Organism 3873 3886	S. pneumoniae
+T98	Protein 3911 3915	CbpA
+T99	Protein 3938 3942	HK06
+T100	Protein 3943 3947	RR06
+T101	Organism 3986 3997	pneumococci
+T102	Organism 4082 4087	mouse
+T103	Two-component-system 4183 4196	Sak188/Sak189
+T104	Protein 4183 4189	Sak188
+T105	Protein 4190 4196	Sak189
+T106	Two-component-system 4201 4210	HK06/RR06
+T107	Protein 4201 4205	HK06
+T108	Protein 4206 4210	RR06
+T109	Protein 4216 4228	beta-antigen
+T110	Protein 4233 4237	CbpA
+T111	Two-component-system 4257 4270	Sak188/Sak189
+T112	Protein 4257 4263	Sak188
+T113	Protein 4264 4270	Sak189
+T114	Protein 4284 4296	beta-antigen
+T115	Organism 4335 4348	S. agalactiae
+T116	Two-component-system 4371 4380	HK06/RR06
+T117	Protein 4371 4375	HK06
+T118	Protein 4376 4380	RR06
+T119	Protein 4390 4394	CbpA
+T120	Organism 4398 4411	S. pneumoniae
+T121	Organism 4478 4491	S. agalactiae
+T122	Two-component-system 4492 4505	Sak188/Sak189
+T123	Protein 4492 4498	Sak188
+T124	Protein 4499 4505	Sak189

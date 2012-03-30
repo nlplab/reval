@@ -1,0 +1,7 @@
+T10	Binding 50 61	interaction
+T11	Positive_regulation 700 706	induce
+T12	Entity 711 724	ATPase domain
+T13	Binding 736 747	oligomerize
+E1	Binding:T10 Theme1:T1 Theme2:T2
+E2	Positive_regulation:T11 Theme:E3
+E3	Binding:T13 Theme:T5 Site:T12

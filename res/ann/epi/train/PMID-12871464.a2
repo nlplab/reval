@@ -1,0 +1,30 @@
+T10	Glycosylation 14 22	O-linked
+T11	Entity 23 33	Xyl-GlcNAc
+T12	Entity 38 45	Xyl-Glc
+T13	Glycosylation 484 496	glycosylated
+T14	Glycosylation 519 527	O-linked
+T15	Entity 528 547	carbohydrate moiety
+T16	Entity 555 566	light chain
+T17	Glycosylation 574 582	N-linked
+T18	Entity 583 611	carbohydrate oligosaccharide
+T19	Entity 619 630	heavy chain
+T20	Glycosylation 701 709	O-linked
+T21	Entity 746 757	Xyl-GlcNAc-
+T22	Entity 759 766	GlcNAc-
+T23	Entity 768 776	Xyl-Glc-
+T24	Entity 781 785	Glc-
+T25	Entity 807 813	Ser 52
+T26	Glycosylation 819 827	N-linked
+T27	Entity 844 850	Asn 45
+T28	Entity 875 914	sialylated, diantennary oligosaccharide
+E1	Glycosylation:T10 Theme:T1 Sidechain:T11
+E2	Glycosylation:T10 Theme:T1 Sidechain:T12
+E3	Glycosylation:T13 Theme:T7
+M1	Negation E3
+E4	Glycosylation:T14 Theme:T8 Site:T16 Sidechain:T15
+E5	Glycosylation:T17 Theme:T8 Site:T19 Sidechain:T18
+E6	Glycosylation:T20 Theme:T8 Site:T25 Sidechain:T24
+E7	Glycosylation:T20 Theme:T8 Site:T25 Sidechain:T21
+E8	Glycosylation:T20 Theme:T8 Site:T25 Sidechain:T22
+E9	Glycosylation:T20 Theme:T8 Site:T25 Sidechain:T23
+E10	Glycosylation:T26 Theme:T8 Site:T27 Sidechain:T28

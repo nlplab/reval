@@ -1,0 +1,12 @@
+T25	Binding 5 10	binds
+T26	Localization 1914 1922	secreted
+T27	Gene_expression 1975 1982	reached
+T28	Gene_expression 2096 2106	expression
+E1	Binding:T25 Theme:T1
+E2	Localization:T26 Theme:T18
+M1	Negation E2
+E3	Localization:T26 Theme:T19
+M2	Negation E3
+E4	Gene_expression:T27 Theme:T18
+E5	Gene_expression:T27 Theme:T19
+E6	Gene_expression:T28 Theme:T22

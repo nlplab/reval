@@ -1,0 +1,32 @@
+T22	Phosphorylation 346 361	Phosphorylation
+T23	Entity 365 372	Thr-426
+T24	Entity 377 384	Ser-430
+T25	Phosphorylation 534 549	phosphorylation
+T26	Entity 567 574	Ser-434
+T27	Phosphorylation 683 697	phosphorylated
+T28	Entity 715 722	Ser-410
+T29	Phosphorylation 809 823	phosphorylated
+T30	Entity 827 834	Ser-434
+T31	Phosphorylation 863 877	phosphorylates
+T32	Entity 878 885	Ser-434
+T33	Phosphorylation 990 1005	phosphorylation
+T34	Entity 1009 1016	Ser-434
+T35	Phosphorylation 1067 1082	phosphorylation
+T36	Entity 1086 1093	Thr-426
+T37	Entity 1098 1105	Ser-430
+T38	Phosphorylation 1438 1452	phosphorylated
+T39	Entity 1469 1486	C-terminal domain
+T40	Phosphorylation 1495 1510	phosphorylation
+T41	Entity 1514 1521	Ser-434
+E1	Phosphorylation:T22 Theme:T2 Site:T23
+E2	Phosphorylation:T22 Theme:T2 Site:T24
+E3	Phosphorylation:T25 Theme:T5 Site:T26
+E4	Phosphorylation:T27 Theme:T8
+E5	Phosphorylation:T27 Theme:T9 Site:T28
+E6	Phosphorylation:T29 Theme:T11 Site:T30
+E7	Phosphorylation:T31 Theme:T11 Site:T32
+E8	Phosphorylation:T33 Theme:T13 Site:T34
+E9	Phosphorylation:T35 Theme:T13 Site:T37
+E10	Phosphorylation:T35 Theme:T13 Site:T36
+E11	Phosphorylation:T38 Theme:T21 Site:T39
+E12	Phosphorylation:T40 Theme:T21 Site:T41

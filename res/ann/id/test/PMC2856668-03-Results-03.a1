@@ -1,0 +1,10 @@
+T1	Protein 52 64	beta-antigen
+T2	Chemical 216 233	2-mercaptoethanol
+T3	Organism 766 786	sak188 mutant strain
+T4	Protein 766 772	sak188
+T5	Organism 806 840	sak189/sak188 double mutant strain
+T6	Protein 806 812	sak189
+T7	Protein 813 819	sak188
+T8	Organism 872 877	human
+T9	Protein 878 881	IgA
+T10	Protein 909 921	beta-antigen

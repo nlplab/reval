@@ -1,0 +1,12 @@
+T27	Process 214 222	virulent
+T28	Process 582 591	infection
+T29	Process 791 801	infections
+T30	Process 836 845	infection
+T31	Process 1118 1127	infection
+T32	Process 1356 1367	attenuation
+E1	Process:T27 Participant:T8
+E2	Process:T28 
+E3	Process:T29 Participant:T17
+E4	Process:T30 
+E5	Process:T31 
+E6	Process:T32 Participant:T24

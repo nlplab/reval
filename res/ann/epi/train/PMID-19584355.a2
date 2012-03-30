@@ -1,0 +1,26 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+T17	Hydroxylation 45 58	hydroxylation
+T18	Catalysis 45 58	hydroxylation
+T19	Catalysis 72 86	ubiquitylation
+T20	Ubiquitination 72 86	ubiquitylation
+T21	Ubiquitination 544 558	ubiquitylation
+T22	Ubiquitination 820 833	ubiquitylates
+T23	Hydroxylation 972 985	hydroxylation
+T24	Catalysis 972 985	hydroxylation
+T25	Entity 987 998	proline-382
+T26	Entity 1003 1007	-395
+T27	Hydroxylation 1169 1182	hydroxylation
+T28	Ubiquitination 1198 1212	ubiquitylation
+E1	Hydroxylation:T17 Theme:T1
+E2	Catalysis:T18 Theme:E1 Cause:T2
+E3	Ubiquitination:T20 Theme:T1
+E4	Catalysis:T19 Theme:E3 Cause:T3
+E5	Ubiquitination:T21 Theme:T4
+E6	Ubiquitination:T22 Theme:T8
+E7	Catalysis:T24 Theme:E9 Cause:T11
+E8	Hydroxylation:T23 Theme:T10 Site:T25
+E9	Hydroxylation:T23 Theme:T10 Site:T26
+E10	Catalysis:T24 Theme:E8 Cause:T11
+E11	Hydroxylation:T27 Theme:T12
+E12	Ubiquitination:T28 Theme:T12

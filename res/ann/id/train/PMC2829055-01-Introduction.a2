@@ -1,0 +1,16 @@
+*	Equiv T16 T15
+*	Equiv T21 T22
+T54	Process 623 632	infection
+T55	Process 697 706	virulence
+T56	Process 1028 1037	infection
+T57	Regulation 1239 1250	responsible
+T58	Process 1671 1679	infected
+T59	Negative_regulation 2489 2498	competing
+E1	Process:T54 
+E2	Process:T55 Participant:T12
+E3	Process:T56 
+E4	Regulation:T57 Theme:T19
+E5	Regulation:T57 Theme:T20
+E6	Process:T58 
+E7	Negative_regulation:T59 Theme:T34 Cause:T33
+E8	Negative_regulation:T59 Theme:T36 Cause:T33

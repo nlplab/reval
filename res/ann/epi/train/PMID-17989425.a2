@@ -1,0 +1,25 @@
+*	Equiv T6 T7
+*	Equiv T8 T9
+T27	Catalysis 35 49	ubiquitination
+T28	Ubiquitination 35 49	ubiquitination
+T29	Catalysis 505 513	catalyze
+T30	Ubiquitination 518 532	ubiquitination
+T31	Catalysis 904 922	autoubiquitination
+T32	Ubiquitination 904 922	autoubiquitination
+T33	Catalysis 1070 1088	autoubiquitination
+T34	Ubiquitination 1070 1088	autoubiquitination
+T35	Ubiquitination 1201 1215	ubiquitination
+T36	Catalysis 1326 1340	ubiquitination
+T37	Ubiquitination 1326 1340	ubiquitination
+E1	Ubiquitination:T28 Theme:T1
+E2	Catalysis:T27 Theme:E1 Cause:T2
+E3	Catalysis:T29 Theme:E5 Cause:T6
+E4	Catalysis:T29 Theme:E5 Cause:T8
+E5	Ubiquitination:T30 Theme:T10
+E6	Ubiquitination:T32 Theme:T16
+E7	Catalysis:T31 Theme:E6 Cause:T16
+E8	Ubiquitination:T34 Theme:T18
+E9	Catalysis:T33 Theme:E8 Cause:T18
+E10	Ubiquitination:T35 Theme:T20
+E11	Ubiquitination:T37 Theme:T21
+E12	Catalysis:T36 Theme:E11 Cause:T22

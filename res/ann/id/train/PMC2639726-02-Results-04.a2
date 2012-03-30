@@ -1,0 +1,38 @@
+*	Equiv T23 T24
+T39	Gene_expression 339 349	expression
+T40	Transcription 515 526	transcripts
+T41	Transcription 675 688	transcription
+T42	Regulation 799 805	effect
+T43	Gene_expression 834 844	expression
+T44	Process 963 972	virulence
+T45	Transcription 1518 1528	transcript
+T46	Negative_regulation 1913 1922	decreased
+T47	Transcription 1923 1936	transcription
+T48	Negative_regulation 1990 1998	decrease
+T49	Regulation 2430 2439	regulates
+T50	Process 2963 2972	virulence
+E1	Gene_expression:T39 Theme:T2
+E2	Gene_expression:T39 Theme:T3
+E3	Transcription:T40 Theme:T4
+E4	Transcription:T40 Theme:T5
+E5	Transcription:T41 Theme:T6
+E6	Regulation:T42 Theme:E7
+E7	Gene_expression:T43 Theme:T8
+E8	Process:T44 
+E9	Transcription:T45 Theme:T9
+E10	Negative_regulation:T46 Theme:E18
+E11	Negative_regulation:T46 Theme:E12
+E12	Transcription:T47 Theme:T25
+E13	Transcription:T47 Theme:T26
+E14	Transcription:T47 Theme:T27
+E15	Transcription:T47 Theme:T28
+E16	Transcription:T47 Theme:T29
+E17	Transcription:T47 Theme:T30
+E18	Transcription:T47 Theme:T23
+E19	Negative_regulation:T48 Theme:E13
+E20	Negative_regulation:T48 Theme:E14
+E21	Negative_regulation:T48 Theme:E15
+E22	Negative_regulation:T48 Theme:E16
+E23	Negative_regulation:T48 Theme:E17
+E24	Regulation:T49 Theme:T36 Cause:T35
+E25	Process:T50 

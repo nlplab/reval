@@ -1,0 +1,22 @@
+T1	Organism 0 8	Deltahfq
+T2	Protein 5 8	hfq
+T3	Organism 13 45	DeltasmpB Salmonella Typhimurium
+T4	Protein 18 22	smpB
+T5	Protein 107 110	Hfq
+T6	Protein 115 119	SmpB
+T7	Organism 123 145	Salmonella Typhimurium
+T8	Organism 160 171	BALB/c mice
+T9	Organism 227 235	Deltahfq
+T10	Protein 232 235	hfq
+T11	Organism 251 260	DeltasmpB
+T12	Protein 256 260	smpB
+T13	Protein 347 351	smpB
+T14	Protein 356 359	hfq
+T15	Organism 371 381	Salmonella
+T16	Organism 393 397	mice
+T17	Organism 416 439	DeltasmpB mutant strain
+T18	Protein 421 425	smpB
+T19	Organism 477 481	mice
+T20	Organism 500 508	Deltahfq
+T21	Protein 505 508	hfq
+T22	Organism 562 566	Mice

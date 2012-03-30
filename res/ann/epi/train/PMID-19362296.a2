@@ -1,0 +1,14 @@
+*	Equiv T3 T4
+*	Equiv T8 T9
+T19	Catalysis 5 16	facilitates
+T20	Ubiquitination 17 31	ubiquitination
+T21	Ubiquitination 432 445	ubiquitinated
+T22	Catalysis 459 468	dependent
+T23	Catalysis 779 787	promoted
+T24	Ubiquitination 788 802	ubiquitination
+E1	Catalysis:T19 Theme:E2 Cause:T1
+E2	Ubiquitination:T20 Theme:T2
+E3	Ubiquitination:T21 Theme:T7
+E4	Catalysis:T22 Theme:E3 Cause:T8
+E5	Catalysis:T23 Theme:E6 Cause:T14
+E6	Ubiquitination:T24 Theme:T15

@@ -1,0 +1,12 @@
+T25	Catalysis 25 33	mediates
+T26	Ubiquitination 57 71	ubiquitination
+T27	Ubiquitination 657 670	ubiquitinated
+T28	Catalysis 987 995	mediates
+T29	Ubiquitination 1002 1016	ubiquitination
+T30	Ubiquitination 1160 1174	ubiquitination
+E1	Catalysis:T25 Theme:E2 Cause:T1
+E2	Ubiquitination:T26 Theme:T3
+E3	Ubiquitination:T27 Theme:T12
+E4	Catalysis:T28 Theme:E5 Cause:T18
+E5	Ubiquitination:T29 Theme:T19
+E6	Ubiquitination:T30 Theme:T22

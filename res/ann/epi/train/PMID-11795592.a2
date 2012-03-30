@@ -1,0 +1,6 @@
+*	Equiv T3 T4
+*	Equiv T10 T11
+T9	Hydroxylation 1159 1172	hydroxylation
+T10	Entity 1189 1203	prolyl residue
+T11	Entity 1217 1224	Pro 564
+E1	Hydroxylation:T9 Theme:T8 Site:T10

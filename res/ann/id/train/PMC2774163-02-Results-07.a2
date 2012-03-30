@@ -1,0 +1,19 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+*	Equiv T8 T9
+T25	Gene_expression 0 10	Expression
+T26	Negative_regulation 499 511	inactivation
+T27	Negative_regulation 1147 1151	Loss
+T28	Gene_expression 1176 1186	expression
+E1	Gene_expression:T25 Theme:T1
+E2	Gene_expression:T25 Theme:T2
+E3	Gene_expression:T25 Theme:T3
+E4	Negative_regulation:T26 Theme:T4
+E5	Negative_regulation:T26 Theme:T6
+E6	Negative_regulation:T26 Theme:T8
+E7	Negative_regulation:T27 Theme:E10
+E8	Negative_regulation:T27 Theme:E11
+E9	Negative_regulation:T27 Theme:E12
+E10	Gene_expression:T28 Theme:T14
+E11	Gene_expression:T28 Theme:T15
+E12	Gene_expression:T28 Theme:T16

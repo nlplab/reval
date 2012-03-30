@@ -1,0 +1,72 @@
+T1	Organism 40 49	Y. pestis
+T2	Organism 108 117	Y. pestis
+T3	Organism 129 134	fleas
+T4	Organism 146 149	rat
+T5	Organism 308 312	flea
+T6	Organism 345 354	Y. pestis
+T7	Organism 442 446	flea
+T8	Organism 520 524	flea
+T9	Organism 579 584	hosts
+T10	Organism 662 667	hosts
+T11	Chemical 764 768	iron
+T12	Regulon-operon 804 807	ybt
+T13	Regulon-operon 812 815	yfe
+T14	Protein 924 944	hmp virulence factor
+T15	Organism 976 979	rat
+T16	Organism 998 1002	flea
+T17	Organism 1048 1057	Y. pestis
+T18	Chemical 1069 1089	hexaacylated lipid A
+T19	Organism 1097 1101	flea
+T20	Chemical 1153 1166	tetraacylated
+T21	Protein 1318 1349	Y. pestis plasminogen activator
+T22	Protein 1351 1354	pla
+T23	Protein 1441 1444	ymt
+T24	Organism 1475 1480	hosts
+T25	Organism 1506 1515	Y. pestis
+T26	Protein 1543 1547	yadB
+T27	Organism 1714 1718	flea
+T28	Protein 1827 1831	psaE
+T29	Protein 1831 1832	F
+T30	Protein 1832 1833	A
+T31	Protein 1833 1834	B
+T32	Protein 1834 1835	C
+T33	Protein 1889 1893	PsaA
+T34	Organism 2002 2006	flea
+T35	Protein 2040 2044	psaC
+T36	Organism 2068 2072	flea
+T37	Protein 2147 2151	RovA
+T38	Protein 2190 2194	rovA
+T39	Organism 2231 2235	flea
+T40	Protein 2259 2263	rovM
+T41	Protein 2289 2293	rovA
+T42	Protein 2352 2356	phoP
+T43	Two-component-system 2364 2369	PhoPQ
+T44	Protein 2364 2368	PhoP
+T45	Protein 2368 2369	Q
+T46	Protein 2410 2414	PhoP
+T47	Protein 2425 2429	mgtC
+T48	Organism 2478 2483	fleas
+T49	Protein 2532 2536	PhoP
+T50	Protein 2541 2545	MgtC
+T51	Organism 2618 2627	Y. pestis
+T52	Two-component-system 2798 2803	PhoPQ
+T53	Protein 2798 2802	PhoP
+T54	Protein 2802 2803	Q
+T55	Chemical 2829 2833	Mg2+
+T56	Chemical 2902 2906	Mg2+
+T57	Organism 2935 2939	flea
+T58	Organism 3148 3164	X. cheopis fleas
+T59	Protein 3201 3209	cecropin
+T60	Protein 3214 3222	defensin
+T61	Two-component-system 3313 3318	PhoPQ
+T62	Protein 3313 3317	PhoP
+T63	Protein 3317 3318	Q
+T64	Organism 3359 3363	flea
+T65	Organism 3395 3404	Y. pestis
+T66	Protein 3448 3452	phoP
+T67	Organism 3460 3464	flea
+T68	Protein 3496 3500	mgtC
+T69	Protein 3548 3552	PhoP
+T70	Organism 3607 3611	flea
+T72	Regulon-operon 3670 3674	PhoP
+T71	Protein 3670 3674	PhoP

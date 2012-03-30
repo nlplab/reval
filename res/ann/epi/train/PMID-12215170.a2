@@ -1,0 +1,10 @@
+*	Equiv T1 T2
+*	Equiv T4 T5
+T8	Entity 120 134	Asparagine-803
+T9	Hydroxylation 235 247	hydroxylated
+T10	Catalysis 235 247	hydroxylated
+T11	Hydroxylation 453 466	hydroxylation
+T12	Entity 496 503	Asn-803
+E1	Hydroxylation:T9 Theme:T3 Site:T8
+E2	Catalysis:T10 Theme:E1 Cause:T4
+E3	Hydroxylation:T11 Theme:T3 Site:T12

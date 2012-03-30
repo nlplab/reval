@@ -1,0 +1,15 @@
+T9	Entity 11 15	tail
+T10	Acetylation 16 27	acetylation
+T11	Acetylation 83 94	acetylation
+T12	Entity 98 113	lysine residues
+T13	Acetylation 543 554	acetylation
+T14	Acetylation 628 639	acetylation
+T15	Acetylation 758 769	acetylation
+T16	Acetylation 990 1001	acetylation
+E1	Acetylation:T10 Theme:T1 Site:T9
+E2	Acetylation:T11 Theme:T2 Site:T12
+E3	Acetylation:T13 Theme:T4
+E4	Acetylation:T14 Theme:T5
+E5	Acetylation:T15 Theme:T6
+M1	Speculation E5
+E6	Acetylation:T16 Theme:T6

@@ -1,0 +1,69 @@
+T1	Organism 38 43	OG1RF
+T2	Organism 45 50	OG1RF
+T3	Organism 121 125	V583
+T4	Organism 171 176	OG1RF
+T5	Organism 223 243	Streptococcus mutans
+T6	Organism 302 307	OG1RF
+T7	Protein 311 317	EF2046
+T8	Regulon-operon 345 350	ComYA
+T9	Organism 359 364	OG1RF
+T10	Protein 378 384	EF2045
+T11	Regulon-operon 403 408	ComYB
+T12	Organism 413 422	S. mutans
+T13	Organism 503 507	V583
+T14	Protein 558 568	OG1RF_0148
+T15	Protein 597 603	EF1896
+T16	Protein 604 610	EF2043
+T17	Protein 626 632	EF1984
+T18	Organism 704 709	OG1RF
+T19	Protein 711 721	OG1RF_0228
+T20	Organism 769 780	E. faecalis
+T21	Organism 828 833	OG1RF
+T22	Organism 1077 1081	V583
+T23	Organism 1128 1133	OG1RF
+T24	Regulon-operon 1198 1201	com
+T25	Organism 1324 1329	OG1RF
+T26	Organism 1362 1367	OG1RF
+T27	Protein 1382 1388	EF2045
+T28	Regulon-operon 1403 1408	comGB
+T29	Organism 1431 1436	OG1RF
+T30	Protein 1451 1457	EF1986
+T31	Regulon-operon 1472 1477	comGF
+T32	Organism 1644 1649	OG1RF
+T33	Organism 1654 1658	V583
+T34	Organism 1692 1716	Streptococcus pneumoniae
+T35	Regulon-operon 1808 1813	ComDE
+T36	Protein 1821 1851	competence-stimulating peptide
+T37	Protein 1853 1856	CSP
+T38	Protein 1869 1873	comC
+T39	Protein 1910 1913	CSP
+T40	Organism 1917 1922	OG1RF
+T41	Regulon-operon 1939 1944	ComDE
+T42	Organism 2003 2008	OG1RF
+T43	Two-component-system 2026 2035	FsrC/FsrA
+T44	Protein 2026 2030	FsrC
+T45	Protein 2031 2035	FsrA
+T46	Regulon-operon 2113 2124	comY operon
+T47	Protein 2113 2117	comY
+T48	Regulon-operon 2267 2272	ComDE
+T49	Organism 2328 2333	OG1RF
+T50	Protein 2335 2345	OG1RF_0199
+T51	Protein 2350 2360	OG1RF_0198
+T52	Protein 2434 2440	EF3114
+T53	Protein 2445 2451	EF3115
+T54	Organism 2455 2459	V583
+T55	Protein 2499 2509	OG1RF_0200
+T56	Protein 2514 2524	OG1RF_0201
+T57	Protein 2553 2557	YhaQ
+T58	Protein 2562 2566	YhaP
+T59	Chemical 2567 2573	sodium
+T60	Chemical 2581 2584	ATP
+T61	Regulon-operon 2812 2817	ComAB
+T62	Organism 2821 2834	S. pneumoniae
+T63	Regulon-operon 2844 2849	CslAB
+T64	Organism 2855 2864	S. mutans
+T65	Protein 2990 2994	yhaP
+T66	Protein 2999 3007	OG1RF199
+T67	Protein 3058 3066	OG1RF198
+T68	Organism 3149 3154	OG1RF
+T69	Regulon-operon 3155 3158	com

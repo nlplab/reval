@@ -1,0 +1,53 @@
+*	Equiv T3 T4
+T19	DNA_methylation 25 40	DNA methylation
+T20	Entity 63 79	imprinted region
+T21	DNA_methylation 368 379	methylation
+T22	Entity 428 446	5' flanking region
+T23	DNA_methylation 631 642	methylation
+T24	Entity 653 661	cytosine
+T25	Entity 746 756	CpG island
+T26	DNA_methylation 923 933	methylated
+T27	DNA_methylation 971 982	methylation
+T28	Entity 989 998	CpG sites
+T29	DNA_methylation 1079 1090	methylation
+T30	DNA_methylation 1112 1123	methylation
+T31	Entity 1141 1144	DMR
+T32	Entity 1250 1262	25 CpG sites
+T33	DNA_methylation 1279 1289	methylated
+T34	DNA_methylation 1343 1354	methylation
+T35	Entity 1380 1390	CpG island
+T36	DNA_methylation 1449 1460	methylation
+T37	Entity 1468 1480	25 CpG sites
+T38	Entity 1522 1532	CpG region
+T39	DNA_methylation 1582 1592	methylated
+T40	DNA_methylation 1635 1645	methylated
+T41	Entity 1655 1660	CpNpG
+T42	Entity 1665 1670	GpNpC
+T43	Entity 1707 1712	CpNpG
+T44	Entity 1769 1778	cytosines
+T45	DNA_methylation 1797 1807	methylated
+T46	Entity 1858 1867	cytosines
+T47	DNA_methylation 1902 1912	methylated
+T48	DNA_methylation 1977 1988	methylation
+E1	DNA_methylation:T19 Theme:T1 Site:T20
+E2	DNA_methylation:T19 Theme:T2 Site:T20
+E3	DNA_methylation:T21 Theme:T8 Site:T22
+E4	DNA_methylation:T23 Theme:T9 Site:T24
+M1	Speculation E4
+E5	DNA_methylation:T23 Theme:T10 Site:T24
+M2	Speculation E5
+E6	DNA_methylation:T26 Theme:T11 Site:T25
+M3	Negation E6
+E7	DNA_methylation:T27 Theme:T12 Site:T28
+E8	DNA_methylation:T29 Theme:T13
+E9	DNA_methylation:T30 Theme:T14 Site:T31
+E10	DNA_methylation:T33 Theme:T15 Site:T32
+E11	DNA_methylation:T34 Theme:T16 Site:T35
+E12	DNA_methylation:T36 Theme:T16 Site:T37
+E13	DNA_methylation:T39 Theme:T17 Site:T38
+E14	DNA_methylation:T40 Theme:T17 Site:T41
+E15	DNA_methylation:T40 Theme:T17 Site:T42
+E16	DNA_methylation:T40 Theme:T17 Site:T43
+E17	DNA_methylation:T45 Theme:T17 Site:T44
+E18	DNA_methylation:T47 Theme:T17 Site:T46
+E19	DNA_methylation:T48 Theme:T18

@@ -1,0 +1,3 @@
+T27	DNA_methylation 1016 1031	DNA methylation
+T28	Entity 1050 1058	promoter
+E1	DNA_methylation:T27 Theme:T12 Site:T28

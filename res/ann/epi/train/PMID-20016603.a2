@@ -1,0 +1,6 @@
+*	Equiv T6 T7
+*	Equiv T9 T10
+*	Equiv T12 T13
+*	Equiv T15 T16
+T40	Phosphorylation 411 426	phosphorylation
+E1	Phosphorylation:T40 Theme:T6

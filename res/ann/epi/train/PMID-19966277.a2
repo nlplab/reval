@@ -1,0 +1,20 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+*	Equiv T7 T8
+T18	Phosphorylation 561 575	phosphorylates
+T19	Entity 591 606	serine residues
+T20	Entity 619 626	lysines
+T21	Acetylation 627 637	acetylated
+T22	Acetylation 707 718	acetylation
+T23	Phosphorylation 723 738	phosphorylation
+T24	Acetylation 860 871	acetylation
+T25	Entity 879 900	amino-terminal region
+T26	Phosphorylation 1003 1018	phosphorylation
+T27	Acetylation 1128 1139	acetylation
+E1	Phosphorylation:T18 Theme:T6 Site:T19
+E2	Acetylation:T21 Theme:T6 Site:T20
+E3	Acetylation:T22 Theme:T6
+E4	Phosphorylation:T23 Theme:T6
+E5	Acetylation:T24 Theme:T6 Site:T25
+E6	Phosphorylation:T26 Theme:T6
+E7	Acetylation:T27 Theme:T6

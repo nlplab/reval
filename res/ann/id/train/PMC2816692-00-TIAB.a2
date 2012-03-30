@@ -1,0 +1,12 @@
+T20	Process 703 712	infection
+T21	Process 977 986	infection
+T22	Binding 1272 1284	interactions
+T23	Process 1460 1470	infections
+T24	Process 1537 1546	infection
+E1	Process:T20 
+E2	Process:T21 
+E3	Binding:T22 Theme1:T13 Theme2:T14
+E4	Binding:T22 Theme1:T13 Theme2:T15
+E5	Binding:T22 Theme1:T13 Theme2:T16
+E6	Process:T23 
+E7	Process:T24 

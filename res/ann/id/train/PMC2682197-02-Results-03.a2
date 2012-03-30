@@ -1,0 +1,11 @@
+*	Equiv T14 T15
+T27	Process 309 323	hypervirulence
+T28	Process 700 709	infection
+T29	Positive_regulation 1493 1502	essential
+T30	Process 1507 1517	resistance
+T31	Process 1601 1615	hypervirulence
+E1	Process:T27 Participant:T3
+E2	Process:T28 Participant:T13
+E3	Positive_regulation:T29 Theme:E4 Cause:T24
+E4	Process:T30 
+E5	Process:T31 Participant:T25

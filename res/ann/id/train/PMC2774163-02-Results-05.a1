@@ -1,0 +1,21 @@
+T1	Protein 0 4	GacS
+T2	Organism 26 39	P. aeruginosa
+T3	Protein 67 71	GacS
+T4	Protein 108 112	BfiS
+T5	Organism 176 192	DeltagacS mutant
+T6	Protein 181 185	gacS
+T7	Organism 235 244	DeltabfiS
+T8	Protein 240 244	bfiS
+T9	Protein 271 275	gacS
+T10	Organism 448 457	DeltagacS
+T11	Protein 453 457	gacS
+T12	Organism 674 683	DeltagacS
+T13	Protein 679 683	gacS
+T14	Organism 908 917	DeltagacS
+T15	Protein 913 917	gacS
+T16	Organism 1206 1215	DeltagacS
+T17	Protein 1211 1215	gacS
+T18	Organism 1434 1443	DeltagacS
+T19	Protein 1439 1443	gacS
+T20	Protein 1619 1623	GacS
+T21	Protein 1742 1746	GacS

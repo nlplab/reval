@@ -1,0 +1,94 @@
+T1	Organism 0 9	Y. pestis
+T2	Organism 38 42	flea
+T3	Organism 96 100	flea
+T4	Organism 421 425	flea
+T5	Chemical 507 510	TCA
+T6	Chemical 531 540	succinate
+T7	Chemical 542 549	formate
+T8	Chemical 555 574	alpha-ketoglutarate
+T9	Protein 580 584	gabD
+T10	Protein 589 593	gabT
+T11	Chemical 630 639	succinate
+T12	Chemical 645 664	gamma-aminobutyrate
+T13	Chemical 666 670	GABA
+T14	Organism 746 750	flea
+T15	Protein 756 760	gabD
+T16	Chemical 787 796	succinate
+T17	Chemical 807 811	GABA
+T18	Chemical 816 836	hydroxyphenylacetate
+T19	Chemical 838 841	HPA
+T20	Protein 900 913	HPA transport
+T21	Protein 915 919	hpaX
+T22	Protein 937 941	hpaC
+T23	Protein 941 942	B
+T24	Protein 942 943	I
+T25	Protein 943 944	F
+T26	Protein 944 945	H
+T27	Protein 945 946	D
+T28	Protein 946 947	E
+T29	Organism 958 967	Y. pestis
+T30	Organism 1004 1008	flea
+T31	Organism 1036 1045	Y. pestis
+T32	Chemical 1098 1102	GABA
+T33	Chemical 1106 1109	HPA
+T34	Organism 1154 1158	flea
+T35	Protein 1195 1199	gabD
+T36	Protein 1204 1208	gabT
+T37	Chemical 1272 1276	GABA
+T38	Organism 1416 1420	flea
+T39	Chemical 1487 1496	glutamate
+T40	Chemical 1501 1505	GABA
+T41	Organism 1943 1952	Y. pestis
+T42	Organism 1971 1975	flea
+T43	Chemical 2069 2076	hexoses
+T44	Organism 2148 2152	flea
+T45	Protein 2182 2211	chitobiose phosphotransferase
+T46	Protein 2213 2216	PTS
+T47	Two-component-system 2250 2255	chbBC
+T48	Protein 2250 2254	chbB
+T49	Protein 2254 2255	C
+T50	Protein 2257 2261	chbF
+T51	Protein 2309 2313	frwB
+T52	Protein 2313 2314	C
+T53	Protein 2314 2315	D
+T54	Organism 2355 2359	flea
+T55	Protein 2371 2381	Chitobiose
+T56	Organism 2406 2410	flea
+T57	Chemical 2499 2506	glucose
+T58	Organism 2672 2676	flea
+T59	Chemical 2697 2704	hexoses
+T60	Protein 2835 2839	actP
+T61	Protein 2844 2847	acs
+T62	Organism 2861 2865	flea
+T63	Chemical 2894 2901	acetate
+T64	Chemical 2924 2934	acetyl-CoA
+T65	Chemical 2968 2978	acetyl-CoA
+T66	Chemical 3023 3026	TCA
+T67	Chemical 3050 3057	acetate
+T68	Chemical 3071 3078	acetate
+T69	Chemical 3178 3184	hexose
+T70	Organism 3201 3210	Y. pestis
+T71	Protein 3229 3238	permeases
+T72	Chemical 3247 3262	pentoses ribose
+T73	Chemical 3264 3270	xylose
+T74	Chemical 3276 3285	arabinose
+T75	Organism 3306 3310	flea
+T76	Chemical 3331 3339	pentoses
+T77	Organism 3386 3395	Y. pestis
+T78	Protein 3413 3446	glucose 6-phosphate dehydrogenase
+T79	Chemical 3479 3496	pentose phosphate
+T80	Organism 3524 3528	flea
+T81	Organism 3577 3586	Y. pestis
+T82	Organism 3713 3717	flea
+T83	Chemical 3763 3771	glycerol
+T84	Chemical 3776 3796	glycerol-3-phosphate
+T85	Organism 3854 3858	flea
+T86	Chemical 3897 3910	glycerolipids
+T87	Organism 3926 3935	Y. pestis
+T88	Organism 3949 3958	Y. pestis
+T89	Chemical 4035 4041	carbon
+T90	Chemical 4043 4051	nitrogen
+T91	Organism 4079 4083	flea
+T92	Chemical 4096 4102	carbon
+T93	Chemical 4135 4138	TCA
+T94	Organism 4194 4198	flea

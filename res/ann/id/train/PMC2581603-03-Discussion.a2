@@ -1,0 +1,69 @@
+T112	Process 12 22	Infections
+T113	Process 392 400	infected
+T114	Process 462 472	resistance
+T115	Process 519 529	resistance
+T116	Process 692 702	resistance
+T117	Process 908 918	resistance
+T118	Positive_regulation 1006 1013	induces
+T119	Process 1014 1024	resistance
+T120	Positive_regulation 1132 1141	activated
+T121	Positive_regulation 1452 1462	activation
+T122	Regulation 1552 1560	responds
+T123	Positive_regulation 1949 1956	induced
+T124	Process 1957 1967	resistance
+T125	Gene_expression 2136 2143	express
+T126	Process 2172 2181	resistant
+T127	Process 2232 2241	resistant
+T128	Process 2492 2502	resistance
+T129	Process 2539 2549	resistance
+T130	Positive_regulation 2563 2572	dependent
+T131	Binding 2725 2729	bind
+T132	Gene_expression 3253 3262	expresses
+T133	Positive_regulation 3575 3584	induction
+T134	Positive_regulation 5879 5885	induce
+T135	Gene_expression 5893 5908	gene expression
+T136	Positive_regulation 6050 6056	induce
+T137	Gene_expression 6061 6071	expression
+T138	Positive_regulation 6396 6404	inducing
+T139	Gene_expression 6405 6415	expression
+T140	Positive_regulation 6454 6463	induction
+T141	Gene_expression 6474 6489	gene expression
+T142	Process 6921 6931	resistance
+T143	Positive_regulation 7185 7192	induces
+T144	Process 7193 7203	resistance
+T145	Process 7539 7549	resistance
+E1	Process:T112 Participant:T1
+E2	Process:T113 Participant:T3
+E3	Process:T114 
+E4	Process:T115 
+E5	Process:T116 
+E6	Process:T117 Participant:T5
+E7	Positive_regulation:T118 Theme:E8
+E8	Process:T119 Participant:T9
+E9	Positive_regulation:T120 Theme:T10
+E10	Positive_regulation:T121 Theme:T17
+E11	Regulation:T122 Theme:T20 Cause:T23
+E12	Positive_regulation:T123 Theme:E13
+E13	Process:T124 Participant:T27
+E14	Gene_expression:T125 Theme:T34
+E15	Process:T126 
+E16	Process:T127 
+E17	Process:T128 
+E18	Process:T129 
+E19	Positive_regulation:T130 Theme:E18 Cause:T45
+E20	Binding:T131 Theme1:T48 Theme2:T49
+E21	Gene_expression:T132 Theme:T63
+E22	Positive_regulation:T133 Theme:T68
+E23	Positive_regulation:T134 Theme:E24
+E24	Gene_expression:T135 Theme:T77
+E25	Positive_regulation:T136 Theme:E26
+E26	Gene_expression:T137 Theme:T84
+E27	Positive_regulation:T138 Theme:E28 Cause:T92
+E28	Gene_expression:T139 Theme:T93
+E29	Positive_regulation:T140 Theme:E30
+M1	Negation E29
+E30	Gene_expression:T141 Theme:T96
+E31	Process:T142 
+E32	Positive_regulation:T143 Theme:E33
+E33	Process:T144 
+E34	Process:T145 

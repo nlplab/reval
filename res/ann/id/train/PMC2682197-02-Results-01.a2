@@ -1,0 +1,8 @@
+T31	Process 102 110	virulent
+T32	Process 419 429	resistance
+T33	Transcription 761 772	transcribed
+T34	Gene_expression 1638 1652	overexpression
+E1	Process:T31 Participant:T5
+E2	Process:T32 
+E3	Transcription:T33 Theme:T14
+E4	Gene_expression:T34 Theme:T28

@@ -1,0 +1,26 @@
+T1	Protein 0 4	SrcA
+T2	Organism 20 30	Salmonella
+T3	Organism 52 56	host
+T4	Protein 63 67	SsrB
+T5	Organism 136 146	Salmonella
+T6	Organism 152 156	host
+T7	Protein 192 196	srcA
+T8	Organism 234 253	Salmonella enterica
+T9	Organism 327 337	S. bongori
+T10	Protein 402 406	srcA
+T11	Protein 491 495	SrcA
+T12	Organism 577 581	host
+T13	Protein 614 618	SrcA
+T14	Organism 634 644	Salmonella
+T15	Organism 658 662	host
+T16	Protein 696 700	srcA
+T17	Organism 713 727	S. Typhimurium
+T18	Organism 805 809	mice
+T19	Protein 1046 1050	srcA
+T20	Protein 1151 1155	srcA
+T21	Organism 1195 1206	srcA mutant
+T22	Protein 1195 1199	srcA
+T23	Protein 1224 1228	srcA
+T24	Organism 1375 1386	srcA mutant
+T25	Protein 1375 1379	srcA
+T26	Protein 1480 1484	SrcA

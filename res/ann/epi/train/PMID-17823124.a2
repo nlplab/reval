@@ -1,0 +1,27 @@
+*	Equiv T3 T4
+*	Equiv T9 T10
+T34	Ubiquitination 118 136	polyubiquitination
+T35	Phosphorylation 141 156	phosphorylation
+T36	Phosphorylation 265 281	phosphorylations
+T37	Phosphorylation 524 540	phosphorylations
+T38	Phosphorylation 722 737	phosphorylation
+T39	Phosphorylation 770 784	phosphorylated
+T40	Ubiquitination 927 945	polyubiquitination
+T41	Phosphorylation 1105 1120	phosphorylating
+T42	Phosphorylation 1217 1232	phosphorylation
+T43	Ubiquitination 1319 1337	polyubiquitination
+E1	Ubiquitination:T34 Theme:T3
+E2	Phosphorylation:T35 Theme:T3
+E3	Phosphorylation:T36 Theme:T7
+E4	Phosphorylation:T36 Theme:T8
+E5	Phosphorylation:T37 Theme:T13
+E6	Phosphorylation:T37 Theme:T14
+E7	Phosphorylation:T38 Theme:T17
+E8	Phosphorylation:T39 Theme:T18
+E9	Ubiquitination:T40 Theme:T18
+E10	Phosphorylation:T41 Theme:T26
+E11	Phosphorylation:T41 Theme:T27
+E12	Phosphorylation:T42 Theme:T30
+E13	Phosphorylation:T42 Theme:T31
+E14	Phosphorylation:T42 Theme:T32
+E15	Ubiquitination:T43 Theme:T33

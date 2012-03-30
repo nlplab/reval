@@ -1,0 +1,25 @@
+T1	Protein 35 39	SrcA
+T2	Organism 115 129	S. Typhimurium
+T3	Organism 287 291	host
+T4	Protein 358 362	SrcA
+T5	Protein 715 719	SigE
+T6	Organism 841 848	E. coli
+T7	Protein 899 903	CesT
+T8	Protein 947 950	Tir
+T9	Protein 969 972	Tir
+T10	Protein 1100 1104	SrcA
+T11	Chemical 1143 1151	carboxyl
+T12	Protein 1164 1168	CesT
+T13	Protein 1349 1353	SrcA
+T14	Protein 1394 1398	SrcA
+T15	Protein 1483 1487	CesT
+T16	Protein 1511 1515	SrcA
+T17	Protein 1701 1706	Spa15
+T18	Organism 1746 1754	Shigella
+T19	Protein 1772 1776	CesT
+T20	Protein 1781 1785	SicP
+T21	Protein 1810 1814	SrcA
+T22	Protein 1928 1933	Spa15
+T23	Organism 2183 2193	Salmonella
+T24	Protein 2240 2244	SrcA
+T25	Protein 2317 2321	SrcA

@@ -1,0 +1,4 @@
+*	Equiv T2 T3
+T15	Entity 359 374	promoter-region
+T16	DNA_methylation 375 391	hypermethylation
+E1	DNA_methylation:T16 Theme:T5 Site:T15

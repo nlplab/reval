@@ -1,0 +1,16 @@
+*	Equiv T5 T6
+*	Equiv T7 T8
+T35	Ubiquitination 21 40	multiubiquitination
+T36	Catalysis 447 457	stimulated
+T37	Ubiquitination 458 472	ubiquitination
+T38	Ubiquitination 767 781	ubiquitination
+T39	Ubiquitination 893 912	multiubiquitination
+T40	Ubiquitination 1012 1026	ubiquitination
+T41	Ubiquitination 1656 1675	multiubiquitination
+E1	Ubiquitination:T35 Theme:T3
+E2	Catalysis:T36 Theme:E3 Cause:T14
+E3	Ubiquitination:T37 Theme:T15
+E4	Ubiquitination:T38 Theme:T16
+E5	Ubiquitination:T39 Theme:T19
+E6	Ubiquitination:T40 Theme:T21
+E7	Ubiquitination:T41 Theme:T34

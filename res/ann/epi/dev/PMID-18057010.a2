@@ -1,0 +1,11 @@
+*	Equiv T9 T10
+T29	Ubiquitination 27 41	ubiquitination
+T30	Ubiquitination 324 338	ubiquitination
+T31	Ubiquitination 621 635	ubiquitination
+T32	Ubiquitination 835 849	ubiquitination
+T33	Ubiquitination 1009 1023	ubiquitination
+E1	Ubiquitination:T29 Theme:T2
+E2	Ubiquitination:T30 Theme:T6
+E3	Ubiquitination:T31 Theme:T12
+E4	Ubiquitination:T32 Theme:T18
+E5	Ubiquitination:T33 Theme:T23

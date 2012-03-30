@@ -1,0 +1,9 @@
+*	Equiv T1 T2
+*	Equiv T15 T16
+T14	Methylation 289 299	methylates
+T15	Entity 314 323	lysine 27
+T16	Entity 327 330	K27
+T17	Entity 678 681	K27
+T18	Methylation 682 696	trimethylation
+E1	Methylation:T14 Theme:T1 Site:T15
+E2	Methylation:T18 Theme:T4 Site:T17

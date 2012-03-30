@@ -1,0 +1,16 @@
+*	Equiv T29 T28 T30
+*	Equiv T36 T35
+*	Equiv T38 T37
+T40	Process 749 758	infection
+T41	Binding 2197 2202	binds
+T42	Process 2246 2255	virulence
+T43	Binding 2994 2999	binds
+T44	Regulation 4707 4716	regulated
+T45	Binding 5224 5231	binding
+E1	Process:T40 
+E2	Binding:T41 Theme1:T7 Theme2:T9
+E3	Process:T42 Participant:T10
+E4	Binding:T43 Theme1:T14 Theme2:T15
+E5	Binding:T43 Theme1:T14 Theme2:T16
+E6	Regulation:T44 Theme:T28 Cause:T27
+E7	Binding:T45 Theme1:T33 Theme2:T34

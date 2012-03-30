@@ -1,0 +1,6 @@
+T44	Process 60 69	virulence
+T45	Process 588 597	virulence
+T46	Positive_regulation 1470 1478	inducing
+E1	Process:T44 
+E2	Process:T45 Participant:T4
+E3	Positive_regulation:T46 Theme:T29

@@ -1,0 +1,11 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+T19	Entity 1495 1499	Lys4
+T20	Methylation 1500 1511	methylation
+T21	Entity 1519 1523	Lys9
+T22	Acetylation 1524 1535	acetylation
+T23	Entity 1559 1563	Lys9
+T24	Methylation 1564 1575	methylation
+E1	Methylation:T20 Theme:T15 Site:T19
+E2	Acetylation:T22 Theme:T16 Site:T21
+E3	Methylation:T24 Theme:T17 Site:T23

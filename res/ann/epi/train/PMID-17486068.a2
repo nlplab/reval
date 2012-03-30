@@ -1,0 +1,16 @@
+*	Equiv T2 T3
+T12	Ubiquitination 10 26	ubiquitinylation
+T13	Catalysis 387 395	mediated
+T14	Ubiquitination 405 421	ubiquitinylation
+T15	Catalysis 659 675	ubiquitinylation
+T16	Ubiquitination 659 675	ubiquitinylation
+E1	Ubiquitination:T12 Theme:T1
+M1	Negation E1
+E2	Catalysis:T13 Theme:E3 Cause:T5
+E3	Ubiquitination:T14 Theme:T4
+E4	Ubiquitination:T16 Theme:T7
+M2	Negation E4
+E5	Catalysis:T15 Theme:E4 Cause:T9
+E6	Ubiquitination:T16 Theme:T8
+M3	Negation E6
+E7	Catalysis:T15 Theme:E6 Cause:T9

@@ -1,0 +1,6 @@
+T5	Phosphorylation 855 870	phosphorylation
+T6	Ubiquitination 875 889	ubiquitination
+E1	Phosphorylation:T5 Theme:T3
+E2	Phosphorylation:T5 Theme:T4
+E3	Ubiquitination:T6 Theme:T3
+E4	Ubiquitination:T6 Theme:T4

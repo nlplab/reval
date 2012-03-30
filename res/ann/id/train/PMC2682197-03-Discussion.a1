@@ -1,0 +1,122 @@
+T1	Organism 40 55	M. tuberculosis
+T2	Organism 109 126	tubercle bacillus
+T3	Organism 217 232	M. tuberculosis
+T4	Chemical 271 283	nitric oxide
+T5	Chemical 285 287	NO
+T6	Organism 363 370	bacilli
+T7	Two-component-system 508 517	DosR-DosS
+T8	Protein 508 512	DosR
+T9	Protein 513 517	DosS
+T10	Protein 620 624	DosS
+T11	Protein 691 695	DosT
+T12	Protein 766 770	DosR
+T13	Chemical 790 792	O2
+T14	Chemical 794 796	NO
+T15	Chemical 802 804	CO
+T16	Protein 1019 1023	dosR
+T17	Organism 1043 1058	M. tuberculosis
+T18	Organism 1377 1392	M. tuberculosis
+T19	Organism 1433 1448	M. tuberculosis
+T20	Organism 1516 1531	M. tuberculosis
+T21	Protein 1536 1542	rv2623
+T22	Organism 1623 1630	bacilli
+T23	Protein 1718 1724	rv2623
+T24	Organism 1768 1785	tubercle bacillus
+T25	Organism 1805 1810	human
+T26	Organism 1815 1820	mouse
+T27	Organism 1870 1874	mice
+T28	Organism 1891 1906	M. tuberculosis
+T29	Protein 1979 1985	rv2623
+T30	Protein 2049 2055	Rv2623
+T31	Protein 2137 2143	Rv2623
+T32	Protein 2208 2212	DosR
+T33	Protein 2303 2309	Rv2623
+T34	Chemical 2320 2326	oxygen
+T35	Protein 2415 2421	rv2623
+T36	Protein 2496 2502	Rv2623
+T37	Organism 2526 2541	M. tuberculosis
+T38	Organism 2944 2959	M. tuberculosis
+T39	Protein 3117 3121	DosR
+T40	Protein 3200 3204	DosR
+T41	Organism 3260 3275	M. tuberculosis
+T42	Organism 3363 3378	M. tuberculosis
+T43	Protein 3398 3402	DosR
+T44	Protein 3526 3542	alpha-crystallin
+T45	Organism 3554 3569	M. tuberculosis
+T46	Protein 3570 3574	hspX
+T47	Protein 3576 3579	acr
+T48	Organism 3643 3655	BALB/c mouse
+T49	Organism 3709 3731	rv2623 knockout mutant
+T50	Protein 3709 3715	rv2623
+T51	Organism 3744 3766	M. tuberculosis Erdman
+T52	Protein 4016 4022	Rv2623
+T53	Protein 4127 4133	Rv2623
+T54	Organism 4229 4244	M. tuberculosis
+T55	Protein 4249 4255	Rv2623
+T56	Protein 4418 4422	HspX
+T57	Protein 4525 4529	LacZ
+T58	Chemical 4985 4988	ATP
+T59	Chemical 5180 5183	ATP
+T60	Protein 5192 5196	UspA
+T61	Organism 5206 5219	H. influenzae
+T62	Chemical 5242 5245	ATP
+T63	Protein 5259 5265	MJ0577
+T64	Organism 5267 5280	M. jannaschii
+T65	Chemical 5391 5394	ATP
+T66	Chemical 5475 5478	ATP
+T67	Chemical 5636 5639	ATP
+T68	Chemical 5811 5814	ATP
+T69	Chemical 5851 5854	ATP
+T70	Protein 5863 5867	UspA
+T71	Chemical 6009 6012	ATP
+T72	Protein 6107 6113	Rv2623
+T73	Chemical 6147 6150	ATP
+T74	Chemical 6190 6193	ATP
+T75	Organism 6318 6333	M. tuberculosis
+T76	Protein 6334 6340	Rv2623
+T77	Organism 6383 6390	E. coli
+T78	Protein 6406 6412	Rv2623
+T79	Chemical 6444 6447	ATP
+T80	Chemical 6452 6455	ADP
+T81	Protein 6495 6501	Rv2623
+T82	Chemical 6582 6585	ATP
+T83	Chemical 6826 6829	ATP
+T84	Protein 6932 6938	Rv2623
+T85	Protein 7113 7119	Rv2623
+T86	Chemical 7138 7141	ATP
+T87	Organism 7230 7245	M. tuberculosis
+T88	Protein 7250 7256	Rv2623
+T89	Organism 7361 7372	Deltarv2623
+T90	Protein 7366 7372	rv2623
+T91	Organism 7534 7549	M. tuberculosis
+T92	Protein 7550 7556	Rv2623
+T93	Organism 7695 7711	tubercle bacilli
+T94	Protein 7839 7845	Rv2623
+T95	Organism 7926 7931	human
+T96	Protein 8055 8061	Rv2623
+T97	Chemical 8087 8090	ATP
+T98	Chemical 8165 8168	ATP
+T99	Protein 8191 8197	Rv2623
+T100	Organism 8288 8301	M. jannaschii
+T101	Protein 8303 8309	MJ0577
+T102	Chemical 8338 8341	ATP
+T103	Chemical 8516 8519	GTP
+T104	Organism 8634 8641	E. coli
+T105	Protein 8652 8658	Rv2623
+T106	Chemical 8676 8679	ADP
+T107	Chemical 8691 8694	ATP
+T108	Protein 8754 8760	MJ0577
+T109	Chemical 8776 8779	ATP
+T110	Organism 8825 8840	M. tuberculosis
+T111	Protein 8841 8847	Rv2623
+T112	Chemical 8969 8972	ATP
+T113	Chemical 8994 8997	ATP
+T114	Chemical 9125 9128	ATP
+T115	Protein 9153 9159	Rv2623
+T116	Protein 9213 9217	DosR
+T117	Protein 9262 9266	DosR
+T118	Organism 9433 9448	M. tuberculosis
+T119	Chemical 9686 9689	ATP
+T120	Chemical 9734 9737	ATP
+T121	Protein 9741 9747	Rv2623
+T122	Organism 9757 9772	M. tuberculosis

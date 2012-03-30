@@ -1,0 +1,19 @@
+*	Equiv T6 T7
+*	Equiv T8 T9
+*	Equiv T10 T11 T12
+*	Equiv T14 T15
+*	Equiv T16 T17
+*	Equiv T23 T24
+*	Equiv T25 T26
+*	Equiv T27 T28
+*	Equiv T35 T36
+T48	Catalysis 19 27	mediated
+T49	Ubiquitination 28 42	ubiquitination
+T50	Catalysis 948 962	ubiquitination
+T51	Ubiquitination 948 962	ubiquitination
+T52	Ubiquitination 1277 1291	ubiquitination
+E1	Catalysis:T48 Theme:E2 Cause:T2
+E2	Ubiquitination:T49 Theme:T3
+E3	Ubiquitination:T51 Theme:T29
+E4	Catalysis:T50 Theme:E3 Cause:T30
+E5	Ubiquitination:T52 Theme:T42

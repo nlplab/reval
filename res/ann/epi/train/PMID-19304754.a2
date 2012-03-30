@@ -1,0 +1,14 @@
+T24	Acetylation 53 68	autoacetylation
+T25	Catalysis 53 68	autoacetylation
+T26	Acetylation 538 548	acetylates
+T27	Entity 549 556	lysines
+T28	Acetylation 659 674	autoacetylation
+T29	Catalysis 659 674	autoacetylation
+T30	Acetylation 816 826	acetylated
+E1	Acetylation:T24 Theme:T2
+E2	Catalysis:T25 Theme:E1 Cause:T2
+E3	Acetylation:T26 Theme:T14 Site:T27
+E4	Acetylation:T26 Theme:T15 Site:T27
+E5	Acetylation:T28 Theme:T17
+E6	Catalysis:T29 Theme:E5 Cause:T17
+E7	Acetylation:T30 Theme:T23

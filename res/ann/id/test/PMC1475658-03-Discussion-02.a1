@@ -1,0 +1,33 @@
+T1	Protein 0 4	AprA
+T2	Organism 14 28	P. entomophila
+T3	Chemical 71 79	nitrogen
+T4	Chemical 84 90	carbon
+T5	Organism 328 350	Pseudomonas aeruginosa
+T6	Organism 352 365	S. marcescens
+T7	Organism 371 393	Bacillus thuringiensis
+T8	Protein 900 904	AprA
+T9	Organism 1015 1027	aprA mutants
+T10	Protein 1015 1019	aprA
+T11	Organism 1060 1072	aprA mutants
+T12	Protein 1060 1064	aprA
+T13	Organism 1106 1120	P. entomophila
+T14	Organism 1124 1134	Drosophila
+T15	Protein 1161 1164	Imd
+T16	Protein 1193 1197	AprA
+T17	Protein 1243 1253	Diptericin
+T18	Organism 1402 1416	P. entomophila
+T19	Protein 1458 1462	aprA
+T20	Organism 1495 1508	S. marcescens
+T21	Organism 1542 1552	Drosophila
+T22	Organism 1646 1670	Serratia protease mutant
+T23	Organism 1847 1857	Drosophila
+T24	Protein 1944 1948	AprA
+T25	Organism 2086 2102	B. thuringiensis
+T26	Protein 2143 2148	InhA2
+T27	Protein 2229 2232	Cry
+T28	Organism 2267 2291	Photorhabdus luminescens
+T29	Protein 2296 2300	AprA
+T30	Protein 2312 2316	PrtA
+T31	Protein 2569 2573	AprA
+T32	Protein 2741 2745	AprA
+T33	Protein 2800 2804	AprA

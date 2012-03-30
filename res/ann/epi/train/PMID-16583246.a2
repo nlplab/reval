@@ -1,0 +1,11 @@
+T26	Glycosylation 10 23	glycosylation
+T27	Glycosylation 596 609	glycosylation
+T28	Entity 617 633	dermatan sulfate
+T29	Glycosylation 1449 1463	monoglycanated
+T30	Glycosylation 2131 2144	glycosylation
+E1	Glycosylation:T26 Theme:T1
+E2	Glycosylation:T26 Theme:T2
+E3	Glycosylation:T27 Theme:T6 Sidechain:T28
+E4	Glycosylation:T29 Theme:T15
+E5	Glycosylation:T30 Theme:T23
+E6	Glycosylation:T30 Theme:T24

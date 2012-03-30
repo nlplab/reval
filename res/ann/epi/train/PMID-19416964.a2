@@ -1,0 +1,8 @@
+*	Equiv T2 T3
+T17	Phosphorylation 941 955	phosphorylates
+T18	Catalysis 941 955	phosphorylates
+T19	Entity 964 970	Ser322
+T20	Ubiquitination 1035 1049	ubiquitination
+E1	Phosphorylation:T17 Theme:T11 Site:T19
+E2	Catalysis:T18 Theme:E1 Cause:T10
+E3	Ubiquitination:T20 Theme:T13

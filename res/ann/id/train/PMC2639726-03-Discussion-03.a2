@@ -1,0 +1,58 @@
+T44	Binding 185 192	binding
+T45	Entity 221 236	promoter region
+T46	Binding 272 277	binds
+T47	Binding 409 414	binds
+T48	Entity 451 459	promoter
+T49	Binding 733 740	binding
+T50	Process 1038 1047	virulence
+T51	Negative_regulation 1296 1306	counteract
+T52	Negative_regulation 1350 1359	competing
+T53	Binding 1364 1371	binding
+T54	Negative_regulation 2219 2229	counteract
+T55	Negative_regulation 2235 2244	silencing
+T56	Gene_expression 2329 2344	over-expression
+T57	Negative_regulation 2392 2402	counteract
+T58	Binding 2403 2410	binding
+T59	Entity 2484 2505	A+T rich SPI-2 region
+T60	Gene_expression 2636 2651	over-expression
+E1	Binding:T44 Theme1:T6 Theme2:T7 Site2:T45
+E2	Binding:T46 Theme:T8
+E3	Binding:T47 Theme1:T9 Theme2:T10 Site2:T48
+E4	Binding:T49 Theme:T11
+E5	Binding:T49 Theme:T12
+E6	Binding:T49 Theme:T13
+E7	Binding:T49 Theme:T14
+E8	Process:T50 
+E9	Negative_regulation:T51 Theme:T23 Cause:E15
+E10	Negative_regulation:T51 Theme:T24 Cause:E16
+E11	Negative_regulation:T51 Theme:T25 Cause:E17
+E12	Negative_regulation:T51 Theme:T23 Cause:E18
+E13	Negative_regulation:T51 Theme:T24 Cause:E19
+E14	Negative_regulation:T51 Theme:T25 Cause:E20
+E15	Negative_regulation:T52 Theme:E25 Cause:E21
+E16	Negative_regulation:T52 Theme:E22 Cause:E21
+E17	Negative_regulation:T52 Theme:E23 Cause:E21
+E18	Negative_regulation:T52 Theme:E25 Cause:E24
+E19	Negative_regulation:T52 Theme:E22 Cause:E24
+E20	Negative_regulation:T52 Theme:E23 Cause:E24
+E21	Binding:T53 Theme:T21
+E22	Binding:T53 Theme:T24
+E23	Binding:T53 Theme:T25
+E24	Binding:T53 Theme:T22
+E25	Binding:T53 Theme:T23
+E26	Negative_regulation:T54 Theme:E28 Cause:T31
+E27	Negative_regulation:T54 Theme:E28 Cause:T32
+E28	Negative_regulation:T55 Theme:T34 Cause:T33
+E29	Gene_expression:T56 Theme:T35
+E30	Gene_expression:T56 Theme:T36
+E31	Negative_regulation:T57 Theme:E37 Cause:T37
+E32	Negative_regulation:T57 Theme:E38 Cause:T37
+E33	Negative_regulation:T57 Theme:E39 Cause:T37
+E34	Negative_regulation:T57 Theme:E37 Cause:T38
+E35	Negative_regulation:T57 Theme:E38 Cause:T38
+E36	Negative_regulation:T57 Theme:E39 Cause:T38
+E37	Binding:T58 Theme:T39 Site:T59
+E38	Binding:T58 Theme:T40 Site:T59
+E39	Binding:T58 Theme:T41 Site:T59
+E40	Gene_expression:T60 Theme:T42
+E41	Gene_expression:T60 Theme:T43

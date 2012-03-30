@@ -1,0 +1,33 @@
+T1	Organism 11 20	DeltavicK
+T2	Protein 16 20	vicK
+T3	Protein 39 42	SeM
+T4	Protein 60 63	IgA
+T5	Protein 77 80	IgG
+T6	Organism 140 149	DeltavicK
+T7	Protein 145 149	vicK
+T8	Organism 216 220	mice
+T9	Organism 248 257	DeltavicK
+T10	Protein 253 257	vicK
+T11	Organism 274 278	mice
+T12	Organism 307 314	S. equi
+T13	Organism 380 384	mice
+T14	Organism 399 408	DeltavicK
+T15	Protein 404 408	vicK
+T16	Protein 431 436	SeM38
+T17	Protein 437 440	260
+T18	Protein 441 444	IgA
+T19	Organism 476 480	mice
+T20	Organism 537 541	mice
+T21	Protein 554 557	IgA
+T22	Protein 591 594	SeM
+T23	Protein 613 616	IgG
+T24	Protein 690 693	SeM
+T25	Protein 703 706	IgG
+T26	Organism 742 751	DeltavicK
+T27	Protein 747 751	vicK
+T28	Protein 792 797	SeM38
+T29	Protein 798 801	260
+T30	Organism 852 868	DeltavicK mutant
+T31	Protein 857 861	vicK
+T32	Organism 995 1004	DeltavicK
+T33	Protein 1000 1004	vicK

@@ -1,0 +1,17 @@
+T10	Entity 14 23	aspartate
+T11	Hydroxylation 24 37	hydroxylation
+T12	Hydroxylation 522 540	beta-hydroxylation
+T13	Entity 567 583	EGF-like modules
+T14	Hydroxylation 1020 1032	hydroxylated
+T15	Hydroxylation 1037 1052	nonhydroxylated
+T16	Hydroxylation 1080 1093	hydroxylation
+T17	Hydroxylation 1177 1190	hydroxylation
+E1	Hydroxylation:T11 Theme:T1 Site:T10
+E2	Hydroxylation:T11 Theme:T2 Site:T10
+E3	Hydroxylation:T12 Theme:T3 Site:T13
+E4	Hydroxylation:T12 Theme:T4 Site:T13
+E5	Hydroxylation:T14 Theme:T8
+E6	Hydroxylation:T15 Theme:T8
+M1	Negation E6
+E7	Hydroxylation:T16 Theme:T8
+E8	Hydroxylation:T17 Theme:T9

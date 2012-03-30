@@ -1,0 +1,12 @@
+*	Equiv T1 T2
+T18	Glycosylation 111 124	glycosylation
+T19	Glycosylation 989 1002	glycosylation
+T20	Glycosylation 1327 1340	glycosylation
+T21	Glycosylation 1434 1447	glycosylation
+T22	Glycosylation 1684 1697	glycosylation
+E1	Glycosylation:T18 Theme:T1
+E2	Glycosylation:T19 Theme:T9
+E3	Glycosylation:T20 Theme:T15
+E4	Glycosylation:T21 Theme:T16
+E5	Glycosylation:T22 Theme:T16
+M1	Negation E5

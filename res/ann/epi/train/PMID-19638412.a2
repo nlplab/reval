@@ -1,0 +1,13 @@
+*	Equiv T9 T10
+*	Equiv T2 T3
+T7	Methylation 11 22	methylation
+T8	Methylation 79 93	Trimethylation
+T9	Entity 97 105	lysine 9
+T10	Entity 123 125	K9
+T11	Methylation 897 911	trimethylation
+T12	Entity 917 919	K9
+T13	Entity 926 929	K20
+E1	Methylation:T7 Theme:T1
+E2	Methylation:T8 Theme:T2 Site:T9
+E3	Methylation:T11 Theme:T5 Site:T12
+E4	Methylation:T11 Theme:T6 Site:T13

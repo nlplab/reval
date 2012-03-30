@@ -1,0 +1,41 @@
+T1	Chemical 0 11	Propanediol
+T2	Regulon-operon 36 46	cob operon
+T3	Chemical 91 102	vitamin B12
+T4	Organism 106 128	Salmonella Typhimurium
+T5	Chemical 130 141	Propanediol
+T6	Chemical 156 164	rhamnose
+T7	Chemical 169 175	fucose
+T8	Regulon-operon 219 255	propanediol utilization (pdu) operon
+T9	Chemical 219 230	propanediol
+T10	Regulon-operon 285 295	cob operon
+T11	Chemical 302 313	vitamin B12
+T12	Organism 344 366	Salmonella Typhimurium
+T13	Chemical 381 392	propanediol
+T14	Chemical 403 409	carbon
+T15	Protein 578 581	Hfq
+T16	Regulon-operon 596 610	cob-pdu operon
+T17	Regulon-operon 713 727	cob-pdu operon
+T18	Protein 800 804	PduA
+T19	Protein 806 810	PduB
+T20	Protein 812 816	PduG
+T21	Protein 818 822	PduL
+T22	Protein 824 828	PduM
+T23	Protein 833 837	PduT
+T24	Protein 849 853	CobT
+T25	Protein 855 859	CbiH
+T26	Protein 861 865	CbiF
+T27	Protein 867 871	CbiC
+T28	Protein 877 881	CbiL
+T29	Organism 912 921	DeltasmpB
+T30	Protein 917 921	smpB
+T31	Protein 1040 1044	PduA
+T32	Protein 1049 1053	PduE
+T33	Protein 1205 1208	Hfq
+T34	Regulon-operon 1222 1232	pdu operon
+T35	Protein 1446 1450	pduA
+T36	Protein 1455 1459	pduE
+T37	Organism 1473 1481	Deltahfq
+T38	Protein 1478 1481	hfq
+T39	Protein 1558 1561	Hfq
+T40	Protein 1656 1659	Hfq
+T41	Regulon-operon 1743 1757	cob-pdu operon

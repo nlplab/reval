@@ -1,0 +1,64 @@
+*	Equiv T56 T57
+T74	Process 28 37	infection
+T75	Gene_expression 1315 1324	expressed
+T76	Gene_expression 1465 1475	expression
+T77	Positive_regulation 1542 1549	induced
+T78	Positive_regulation 1827 1838	upregulated
+T79	Positive_regulation 2185 2196	upregulated
+T80	Positive_regulation 2408 2419	upregulated
+T81	Gene_expression 2656 2666	expression
+T82	Positive_regulation 2939 2950	upregulated
+T83	Positive_regulation 3192 3203	upregulated
+T84	Process 3512 3521	infection
+T85	Positive_regulation 3741 3748	induced
+T86	Negative_regulation 3913 3919	defect
+T87	Process 3928 3937	infection
+E1	Process:T74 
+E2	Gene_expression:T75 Theme:T8
+E3	Gene_expression:T76 Theme:T14
+E4	Gene_expression:T76 Theme:T15
+E5	Gene_expression:T76 Theme:T16
+E6	Gene_expression:T76 Theme:T10
+E7	Gene_expression:T76 Theme:T11
+E8	Gene_expression:T76 Theme:T12
+E9	Gene_expression:T76 Theme:T13
+E10	Positive_regulation:T77 Theme:T13
+E11	Positive_regulation:T77 Theme:T14
+E12	Positive_regulation:T77 Theme:T16
+E13	Positive_regulation:T77 Theme:T15
+E14	Positive_regulation:T77 Theme:T10
+E15	Positive_regulation:T77 Theme:T11
+E16	Positive_regulation:T77 Theme:T12
+E17	Positive_regulation:T78 Theme:T20
+E18	Positive_regulation:T78 Theme:T22
+E19	Positive_regulation:T79 Theme:T29
+E20	Positive_regulation:T79 Theme:T30
+E21	Positive_regulation:T80 Theme:T35
+E22	Positive_regulation:T80 Theme:T36
+E23	Positive_regulation:T80 Theme:T37
+E24	Gene_expression:T81 Theme:T46
+E25	Gene_expression:T81 Theme:T47
+E26	Gene_expression:T81 Theme:T48
+E27	Gene_expression:T81 Theme:T49
+E28	Gene_expression:T81 Theme:T50
+E29	Gene_expression:T81 Theme:T51
+E30	Gene_expression:T81 Theme:T52
+E31	Positive_regulation:T82 Theme:T46
+E32	Positive_regulation:T82 Theme:T47
+E33	Positive_regulation:T82 Theme:T48
+E34	Positive_regulation:T82 Theme:T49
+E35	Positive_regulation:T82 Theme:T50
+E36	Positive_regulation:T82 Theme:T51
+E37	Positive_regulation:T82 Theme:T52
+E38	Positive_regulation:T83 Theme:T55
+E39	Positive_regulation:T83 Theme:T56
+E40	Positive_regulation:T83 Theme:T58
+E41	Positive_regulation:T83 Theme:T59
+E42	Process:T84 
+E43	Positive_regulation:T85 Theme:T63
+E44	Positive_regulation:T85 Theme:T64
+E45	Positive_regulation:T85 Theme:T65
+E46	Positive_regulation:T85 Theme:T66
+E47	Negative_regulation:T86 Theme:E48
+M1	Negation E47
+E48	Process:T87 Participant:T70

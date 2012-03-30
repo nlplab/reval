@@ -1,0 +1,18 @@
+T15	Catalysis 22 41	self-ubiquitination
+T16	Ubiquitination 22 41	self-ubiquitination
+T17	Ubiquitination 744 763	auto-ubiquitination
+T18	Catalysis 1153 1172	self-ubiquitination
+T19	Ubiquitination 1153 1172	self-ubiquitination
+T20	Catalysis 1312 1331	self-ubiquitination
+T21	Ubiquitination 1312 1331	self-ubiquitination
+T22	Catalysis 1387 1406	self-ubiquitination
+T23	Ubiquitination 1387 1406	self-ubiquitination
+E1	Ubiquitination:T16 Theme:T1
+E2	Catalysis:T15 Theme:E1 Cause:T1
+E3	Ubiquitination:T17 Theme:T7
+E4	Ubiquitination:T19 Theme:T10
+E5	Catalysis:T18 Theme:E4 Cause:T10
+E6	Ubiquitination:T21 Theme:T11
+E7	Catalysis:T20 Theme:E6 Cause:T11
+E8	Ubiquitination:T23 Theme:T12
+E9	Catalysis:T22 Theme:E8 Cause:T12

@@ -1,0 +1,67 @@
+T1	Two-component-system 686 695	SsrA-SsrB
+T2	Protein 686 690	SsrA
+T3	Protein 691 695	SsrB
+T4	Organism 731 742	S. enterica
+T5	Protein 1156 1160	SsrB
+T6	Protein 1355 1359	SsrB
+T7	Organism 1632 1642	Salmonella
+T8	Regulon-operon 1668 1680	SsrB regulon
+T9	Protein 1668 1672	SsrB
+T10	Protein 1710 1714	srfN
+T11	Protein 1774 1778	SsrB
+T12	Protein 1852 1856	SsrB
+T13	Protein 1914 1918	SsrB
+T14	Protein 2133 2137	SsrB
+T15	Protein 2349 2353	SsrB
+T16	Protein 2505 2509	SsrB
+T17	Protein 2828 2832	SsrB
+T18	Protein 2953 2957	SsrB
+T19	Protein 3208 3212	SsrB
+T20	Protein 3277 3281	SsrB
+T21	Protein 3385 3389	SsrB
+T22	Protein 3429 3433	SsrB
+T23	Protein 3534 3538	SsrB
+T24	Protein 3654 3658	SsrB
+T25	Protein 3796 3800	SsrB
+T26	Protein 3971 3975	SsrB
+T27	Protein 4035 4039	ssaG
+T28	Protein 4092 4096	ssaG
+T29	Protein 4338 4342	ssrB
+T30	Organism 4369 4380	S. enterica
+T31	Protein 4633 4637	sseA
+T32	Protein 4645 4649	ssaE
+T33	Protein 4775 4779	SsrB
+T34	Protein 5056 5060	SsrB
+T35	Protein 5531 5535	SsrB
+T36	Protein 5891 5895	SsrB
+T37	Protein 6522 6526	SsrB
+T38	Organism 6617 6637	Sodalis glossinidius
+T39	Organism 6673 6680	Sodalis
+T40	Organism 6727 6737	Salmonella
+T41	Organism 6811 6821	Salmonella
+T42	Organism 6927 6942	S. glossinidius
+T43	Organism 6986 6996	tsetse fly
+T44	Organism 7086 7101	S. glossinidius
+T45	Protein 7233 7237	sseF
+T46	Protein 7242 7246	sseG
+T47	Organism 7287 7297	Salmonella
+T48	Protein 7352 7356	SsrB
+T49	Organism 7369 7384	S. glossinidius
+T50	Protein 7420 7424	SsrB
+T51	Organism 7603 7613	Salmonella
+T52	Organism 7618 7625	Sodalis
+T53	Protein 7666 7670	SsrB
+T54	Organism 7838 7845	Sodalis
+T55	Protein 7896 7900	ssrA
+T56	Organism 7973 7983	Salmonella
+T57	Organism 7988 7995	Sodalis
+T58	Organism 8040 8050	Salmonella
+T59	Protein 8134 8138	ssrA
+T60	Organism 8176 8186	Salmonella
+T61	Protein 8216 8220	SsrB
+T62	Protein 8402 8406	PhoP
+T63	Organism 8483 8493	tsetse fly
+T64	Protein 8763 8767	SsrB
+T65	Protein 8881 8885	SsrB
+T66	Protein 9243 9247	SsrB
+T67	Organism 9281 9291	Salmonella

@@ -1,0 +1,36 @@
+*	Equiv T4 T5
+*	Equiv T25 T27
+*	Equiv T7 T8
+*	Equiv T30 T32
+T21	Catalysis 4 12	mediates
+T22	Demethylation 13 26	demethylation
+T23	Entity 32 35	K27
+T24	Catalysis 261 271	catalysing
+T25	Entity 283 288	Lys27
+T26	Methylation 289 303	trimethylation
+T27	Entity 307 310	K27
+T28	Entity 334 337	K27
+T29	Demethylation 351 358	removed
+T30	Entity 409 413	Lys4
+T31	Methylation 414 428	trimethylation
+T32	Entity 432 434	K4
+T33	Demethylation 848 852	loss
+T34	Entity 858 861	K27
+T35	Demethylation 940 947	Removal
+T36	Entity 968 971	K27
+T37	Methylation 1130 1139	increased
+T38	Entity 1142 1145	K27
+T39	Demethylation 1245 1252	removal
+T40	Catalysis 1245 1252	removal
+T41	Entity 1269 1272	K27
+E1	Catalysis:T21 Theme:E2 Cause:T1
+E2	Demethylation:T22 Theme:T2 Site:T23
+E3	Catalysis:T24 Theme:E4 Cause:T3
+E4	Methylation:T26 Theme:T4 Site:T25
+E5	Demethylation:T29 Theme:T6 Site:T28
+E6	Methylation:T31 Theme:T7 Site:T30
+E7	Demethylation:T33 Theme:T14 Site:T34
+E8	Demethylation:T35 Theme:T15 Site:T36
+E9	Methylation:T37 Theme:T16 Site:T38
+E10	Demethylation:T39 Theme:T19 Site:T41
+E11	Catalysis:T40 Theme:E10 Cause:T20

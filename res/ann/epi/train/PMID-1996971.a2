@@ -1,0 +1,47 @@
+T17	Acetylation 12 22	acetylated
+T18	Methylation 72 82	methylated
+T19	Acetylation 118 129	acetylation
+T20	Methylation 134 145	methylation
+T21	Methylation 321 331	methylated
+T22	Methylation 368 378	methylated
+T23	Acetylation 393 408	hyperacetylated
+T24	Acetylation 441 451	acetylated
+T25	Methylation 497 508	methylation
+T26	Methylation 603 614	methylation
+T27	Acetylation 635 646	acetylation
+T28	Methylation 662 672	methylated
+T29	Acetylation 778 789	acetylation
+T30	Methylation 808 818	methylated
+T31	Acetylation 819 831	unacetylated
+T32	Acetylation 1034 1044	acetylated
+T33	Acetylation 1080 1096	hyperacetylation
+T34	Methylation 1235 1245	methylated
+T35	Acetylation 1301 1311	acetylated
+T36	Methylation 1418 1429	methylation
+T37	Methylation 1540 1551	methylation
+T38	Acetylation 1564 1575	acetylation
+E1	Acetylation:T17 Theme:T1
+E2	Methylation:T18 Theme:T1
+E3	Acetylation:T19 Theme:T2
+E4	Methylation:T20 Theme:T2
+E5	Methylation:T21 Theme:T3
+E6	Methylation:T21 Theme:T4
+E7	Methylation:T22 Theme:T5
+E8	Acetylation:T23 Theme:T5
+E9	Acetylation:T24 Theme:T6
+E10	Methylation:T25 Theme:T6
+E11	Methylation:T26 Theme:T8
+E12	Acetylation:T27 Theme:T9
+E13	Methylation:T28 Theme:T9
+E14	Acetylation:T29 Theme:T10
+E15	Methylation:T30 Theme:T10
+E16	Acetylation:T31 Theme:T10
+M1	Negation E16
+E17	Acetylation:T32 Theme:T11
+E18	Acetylation:T33 Theme:T11
+E19	Methylation:T34 Theme:T12
+E20	Methylation:T34 Theme:T13
+E21	Acetylation:T35 Theme:T14
+E22	Methylation:T36 Theme:T15
+E23	Methylation:T37 Theme:T16
+E24	Acetylation:T38 Theme:T16

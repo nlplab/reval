@@ -1,0 +1,21 @@
+T1	Organism 29 60	Actinobacillus pleuropneumoniae
+T2	Organism 110 114	pigs
+T3	Organism 127 158	Actinobacillus pleuropneumoniae
+T4	Chemical 382 385	LPS
+T5	Chemical 395 399	iron
+T6	Organism 557 576	A. pleuropneumoniae
+T7	Organism 632 643	serotype 5b
+T8	Organism 668 671	App
+T9	Organism 738 764	App serotype 5b strain L20
+T10	Organism 869 888	A. pleuropneumoniae
+T11	Organism 918 921	pig
+T12	Organism 1230 1249	A. pleuropneumoniae
+T13	Protein 1445 1451	apxIVA
+T14	Protein 1488 1493	ApxIV
+T15	Protein 1590 1598	APL_0878
+T16	Protein 1603 1611	APL_0879
+T17	Protein 1930 1933	irp
+T18	Protein 1938 1946	APL_0959
+T19	Protein 2002 2027	filamentous hemagglutinin
+T20	Protein 2028 2035	adhesin
+T21	Protein 2072 2080	APL_0920

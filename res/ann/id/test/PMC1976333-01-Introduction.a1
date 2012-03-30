@@ -1,0 +1,9 @@
+T1	Organism 1312 1319	E. coli
+T2	Organism 1343 1362	Salmonella enterica
+T3	Two-component-system 2705 2710	FlhDC
+T4	Protein 2705 2709	FlhD
+T5	Protein 2709 2710	C
+T6	Organism 3938 3945	E. coli
+T7	Organism 4284 4287	chi
+T8	Chemical 5053 5066	cyclic di-GMP
+T9	Chemical 5068 5076	c-di-GMP

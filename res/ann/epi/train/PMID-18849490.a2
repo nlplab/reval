@@ -1,0 +1,15 @@
+*	Equiv T6 T7
+*	Equiv T28 T29
+T48	Ubiquitination 12 30	monoubiquitination
+T49	Ubiquitination 111 125	Ubiquitination
+T50	Ubiquitination 302 320	monoubiquitination
+T51	Methylation 1189 1199	methylated
+T52	Entity 1211 1213	K4
+T53	Entity 1223 1226	K36
+T54	Ubiquitination 1235 1253	monoubiquitination
+E1	Ubiquitination:T48 Theme:T1
+E2	Ubiquitination:T49 Theme:T3
+E3	Ubiquitination:T50 Theme:T4
+E4	Methylation:T51 Theme:T40 Site:T52 Contextgene:T35
+E5	Methylation:T51 Theme:T41 Site:T53 Contextgene:T35
+E6	Ubiquitination:T54 Theme:T42

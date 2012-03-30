@@ -1,0 +1,18 @@
+*	Equiv T3 T4
+T16	Entity 41 49	arginine
+T17	Methylation 50 61	methylation
+T18	Entity 629 639	KIX domain
+T19	Methylation 668 678	methylated
+T20	Catalysis 668 678	methylated
+T21	Methylation 757 767	methylated
+T22	Catalysis 757 767	methylated
+T23	Entity 871 888	arginine residues
+T24	Methylation 889 899	methylated
+T25	Catalysis 889 899	methylated
+E1	Methylation:T17 Theme:T1 Site:T16
+E2	Methylation:T19 Theme:T10 Site:T18
+E3	Catalysis:T20 Theme:E2 Cause:T11
+E4	Methylation:T21 Theme:T12
+E5	Catalysis:T22 Theme:E4 Cause:T13
+E6	Methylation:T24 Theme:T12 Site:T23
+E7	Catalysis:T25 Theme:E6 Cause:T14

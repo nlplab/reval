@@ -1,0 +1,57 @@
+T1	Protein 21 25	rpoE
+T2	Protein 46 50	SsrB
+T3	Organism 77 87	Salmonella
+T4	Protein 311 315	SsrB
+T5	Organism 412 426	S. Typhimurium
+T6	Protein 428 432	rpoS
+T7	Protein 434 438	rpoN
+T8	Protein 440 444	rpoE
+T9	Protein 446 450	rpoH
+T10	Protein 503 507	sseB
+T11	Protein 523 527	SsrB
+T12	Protein 618 622	rpoH
+T13	Protein 806 812	sigmaH
+T14	Protein 861 865	rpoS
+T15	Protein 908 912	SseB
+T16	Protein 954 958	RpoS
+T17	Protein 992 996	rpoE
+T18	Protein 1001 1005	rpoN
+T19	Protein 1038 1042	SseB
+T20	Protein 1087 1091	rpoE
+T21	Organism 1237 1249	rpoE mutants
+T22	Protein 1237 1241	rpoE
+T23	Protein 1302 1306	RpoE
+T24	Protein 1361 1365	SseB
+T25	Protein 1419 1423	rpoE
+T26	Organism 1446 1474	S. Typhimurium strain SL1344
+T27	Protein 1542 1546	SseB
+T28	Organism 1554 1570	rpoE::cat mutant
+T29	Protein 1554 1558	rpoE
+T30	Protein 1560 1563	cat
+T31	Protein 1642 1646	rpoE
+T32	Protein 1757 1761	SseB
+T33	Organism 1765 1774	DeltarpoE
+T34	Protein 1770 1774	rpoE
+T35	Protein 1845 1849	rpoE
+T36	Protein 1942 1946	SseB
+T37	Protein 2066 2070	rpoE
+T38	Protein 2265 2271	sigmaE
+T39	Protein 2273 2277	rpoE
+T40	Protein 2317 2321	SsrB
+T41	Protein 2388 2392	rpoE
+T42	Protein 2418 2422	sseB
+T43	Protein 2450 2454	SsrB
+T44	Protein 2509 2517	SseL-2HA
+T45	Protein 2519 2527	SifA-2HA
+T46	Protein 2532 2540	SrfN-2HA
+T47	Protein 2660 2664	SseB
+T48	Protein 2690 2698	SifA-2HA
+T49	Organism 2709 2718	DeltarpoE
+T50	Protein 2714 2718	rpoE
+T51	Protein 2763 2767	rpoE
+T52	Protein 2794 2802	SseL-2HA
+T53	Protein 2864 2872	SrfN-2HA
+T54	Organism 2907 2916	DeltarpoE
+T55	Protein 2912 2916	rpoE
+T56	Regulon-operon 2946 2952	sigmaE
+T57	Protein 2974 2978	SrfN

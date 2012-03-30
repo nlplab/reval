@@ -1,0 +1,19 @@
+T1	Two-component-system 12 17	graRS
+T2	Protein 12 16	graR
+T3	Protein 16 17	S
+T4	Organism 53 58	mouse
+T5	Organism 131 143	graRS mutant
+T6	Two-component-system 131 136	graRS
+T7	Protein 131 135	graR
+T8	Protein 135 136	S
+T9	Organism 301 306	mouse
+T10	Organism 341 352	BALB/c mice
+T11	Organism 393 402	S. aureus
+T12	Organism 409 421	graRS mutant
+T13	Two-component-system 409 414	graRS
+T14	Protein 409 413	graR
+T15	Protein 413 414	S
+T16	Organism 594 606	graRS mutant
+T17	Two-component-system 594 599	graRS
+T18	Protein 594 598	graR
+T19	Protein 598 599	S

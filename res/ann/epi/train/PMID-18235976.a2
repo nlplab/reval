@@ -1,0 +1,22 @@
+T13	Glycosylation 0 15	N-glycosylation
+T14	Entity 19 35	Asn residues 554
+T15	Entity 40 43	566
+T16	Glycosylation 486 501	N-glycosylation
+T17	Entity 603 624	N-glycosylation sites
+T18	Glycosylation 644 658	N-glycosylated
+T19	Deglycosylation 703 710	Removal
+T20	Entity 714 722	N-glycan
+T21	Entity 726 732	Asn633
+T22	Deglycosylation 1145 1152	Removal
+T23	Entity 1156 1165	N-glycans
+T24	Entity 1176 1182	Asn554
+T25	Entity 1186 1192	Asn566
+T26	Glycosylation 1624 1639	N-glycosylation
+E1	Glycosylation:T13 Theme:T1 Site:T14
+E2	Glycosylation:T13 Theme:T1 Site:T15
+E3	Glycosylation:T16 Theme:T4
+E4	Glycosylation:T18 Theme:T5 Site:T17
+E5	Deglycosylation:T19 Theme:T6 Site:T21 Sidechain:T20
+E6	Deglycosylation:T22 Theme:T9 Site:T24 Sidechain:T23
+E7	Deglycosylation:T22 Theme:T9 Site:T25 Sidechain:T23
+E8	Glycosylation:T26 Theme:T12

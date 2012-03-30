@@ -1,0 +1,28 @@
+T37	Positive_regulation 49 56	induces
+T38	Gene_expression 64 74	expression
+T39	Positive_regulation 960 969	induction
+T40	Negative_regulation 1003 1012	repressed
+T41	Binding 1144 1148	bind
+T42	Negative_regulation 1159 1168	repressed
+T43	Negative_regulation 1294 1303	repressed
+T44	Gene_expression 1311 1321	expression
+T45	Positive_regulation 1491 1500	induction
+E1	Positive_regulation:T37 Theme:E5 Cause:T1
+E2	Positive_regulation:T37 Theme:E5 Cause:T2
+E3	Positive_regulation:T37 Theme:E5 Cause:T3
+E4	Positive_regulation:T37 Theme:E5 Cause:T4
+M1	Negation E4
+E5	Gene_expression:T38 Theme:T5
+E6	Positive_regulation:T39 Theme:T15
+E7	Negative_regulation:T40 Theme:E6 Cause:T16
+E8	Binding:T41 Theme1:T20 Theme2:T21
+E9	Binding:T41 Theme1:T20 Theme2:T22
+E10	Negative_regulation:T42 Theme:T20 Cause:T21
+E11	Negative_regulation:T42 Theme:T20 Cause:T22
+E12	Negative_regulation:T43 Theme:E16 Cause:T24
+E13	Negative_regulation:T43 Theme:E16 Cause:T25
+E14	Negative_regulation:T43 Theme:E16 Cause:T26
+E15	Negative_regulation:T43 Theme:E16 Cause:T27
+M2	Negation E15
+E16	Gene_expression:T44 Theme:T28
+E17	Positive_regulation:T45 Theme:T33

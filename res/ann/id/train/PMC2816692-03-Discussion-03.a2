@@ -1,0 +1,28 @@
+*	Equiv T22 T21
+T41	Gene_expression 326 336	expression
+T42	Regulation 348 359	coordinated
+T43	Binding 474 481	binding
+T44	Entity 497 512	promoter region
+T45	Regulation 547 557	regulation
+T46	Localization 1406 1418	translocated
+T47	Regulation 1457 1466	regulated
+T48	Localization 1534 1546	translocated
+T49	Entity 1575 1585	host cells
+T50	Localization 1659 1668	secretion
+T51	Binding 1683 1694	interaction
+T52	Localization 1780 1793	translocation
+T53	Process 2066 2075	virulence
+E1	Gene_expression:T41 Theme:T7
+E2	Regulation:T42 Theme:E1 Cause:T8
+E3	Binding:T43 Theme1:T11 Theme2:T12 Site2:T44
+E4	Regulation:T45 Theme:T14 Cause:T13
+E5	Regulation:T45 Theme:T15 Cause:T13
+E6	Localization:T46 Theme:T21
+E7	Regulation:T47 Theme:T24 Cause:T25
+E8	Localization:T48 Theme:T24 ToLoc:T49
+E9	Localization:T50 Theme:T29
+M1	Negation E9
+E10	Binding:T51 Theme1:T29 Theme2:T30
+M2	Negation E10
+E11	Localization:T52 Theme:T32
+E12	Process:T53 

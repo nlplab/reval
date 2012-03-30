@@ -1,0 +1,11 @@
+*	Equiv T2 T3
+T23	Glycosylation 41 53	glycosylated
+T24	Glycosylation 58 73	nonglycosylated
+T25	Glycosylation 195 207	glycosylated
+T26	Glycosylation 212 227	nonglycosylated
+E1	Glycosylation:T23 Theme:T1
+E2	Glycosylation:T24 Theme:T1
+M1	Negation E2
+E3	Glycosylation:T25 Theme:T2
+E4	Glycosylation:T26 Theme:T2
+M2	Negation E4

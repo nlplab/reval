@@ -1,0 +1,31 @@
+T1	Protein 412 416	H-NS
+T2	Organism 1230 1249	Salmonella enterica
+T3	Organism 1382 1392	Salmonella
+T4	Organism 1494 1504	Salmonella
+T5	Two-component-system 1810 1819	EnvZ-OmpR
+T6	Protein 1810 1814	EnvZ
+T7	Protein 1815 1819	OmpR
+T8	Two-component-system 1824 1833	PhoQ-PhoP
+T9	Protein 1824 1828	PhoQ
+T10	Protein 1829 1833	PhoP
+T11	Protein 1862 1866	SlyA
+T12	Two-component-system 1873 1882	SsrA-SsrB
+T13	Protein 1873 1877	SsrA
+T14	Protein 1878 1882	SsrB
+T15	Protein 2037 2041	SsrA
+T16	Protein 2119 2123	SsrB
+T17	Organism 2255 2265	Salmonella
+T18	Organism 2339 2358	Salmonella enterica
+T19	Organism 2411 2429	Salmonella bongori
+T20	Organism 2526 2545	Salmonella enterica
+T21	Organism 2568 2578	S. bongori
+T22	Protein 2652 2656	SsrB
+T23	Organism 2764 2803	Salmonella enterica serovar Typhimurium
+T24	Organism 2805 2819	S. Typhimurium
+T25	Protein 2862 2866	SsrB
+T26	Organism 2922 2933	Salmonellae
+T27	Organism 3026 3036	Salmonella
+T28	Protein 3201 3205	SsrB
+T29	Organism 3458 3478	Sodalis glossinidius
+T30	Protein 3535 3539	SsrB
+T31	Protein 3695 3699	SsrB

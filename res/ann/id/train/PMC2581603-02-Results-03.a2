@@ -1,0 +1,4 @@
+T27	Process 1767 1777	resistance
+T28	Process 1919 1929	resistance
+E1	Process:T27 Participant:T25
+E2	Process:T28 

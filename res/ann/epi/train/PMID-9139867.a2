@@ -1,0 +1,15 @@
+T7	Entity 35 38	CpG
+T8	DNA_methylation 39 50	methylation
+T9	Entity 209 212	CpG
+T10	DNA_methylation 213 224	methylation
+T11	Entity 553 556	CpG
+T12	DNA_methylation 557 568	methylation
+T13	Entity 817 820	CpG
+T14	DNA_methylation 821 832	methylation
+T15	Entity 940 943	CpG
+T16	DNA_methylation 944 955	methylation
+E1	DNA_methylation:T8 Theme:T1 Site:T7
+E2	DNA_methylation:T10 Theme:T2 Site:T9
+E3	DNA_methylation:T12 Theme:T3 Site:T11
+E4	DNA_methylation:T14 Theme:T5 Site:T13
+E5	DNA_methylation:T16 Theme:T6 Site:T15

@@ -1,0 +1,5 @@
+T10	Ubiquitination 467 484	monoubiquitinated
+T11	Entity 506 511	K(57)
+T12	Ubiquitination 1082 1100	monoubiquitination
+E1	Ubiquitination:T10 Theme:T2 Site:T11
+E2	Ubiquitination:T12 Theme:T9

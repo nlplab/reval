@@ -1,0 +1,46 @@
+T11	DNA_demethylation 362 375	demethylation
+T12	DNA_methylation 381 394	remethylation
+T13	Entity 406 414	promoter
+T14	Entity 419 442	second-exon CpG islands
+T15	Entity 543 553	CpG island
+T16	DNA_methylation 554 565	methylation
+T17	DNA_methylation 707 720	remethylation
+T18	Entity 732 749	exon 2 CpG island
+T19	Entity 797 805	promoter
+T20	DNA_methylation 938 951	remethylation
+T21	Entity 963 969	exon 2
+T22	Entity 977 983	exon 5
+T23	Entity 991 998	exon 11
+T24	Entity 1010 1016	exon 3
+T25	DNA_methylation 1123 1138	hypermethylated
+T26	DNA_methylation 1153 1166	Remethylation
+T27	DNA_methylation 1320 1333	remethylation
+E1	DNA_demethylation:T11 Theme:T1 Site:T13
+M1	Speculation E1
+E2	DNA_demethylation:T11 Theme:T1 Site:T14
+M2	Speculation E2
+E3	DNA_methylation:T12 Theme:T1 Site:T13
+M3	Speculation E3
+E4	DNA_methylation:T12 Theme:T1 Site:T14
+M4	Speculation E4
+E5	DNA_methylation:T16 Theme:T1 Site:T15
+E6	DNA_methylation:T17 Theme:T2 Site:T18
+E7	DNA_methylation:T17 Theme:T3 Site:T19
+E8	DNA_methylation:T20 Theme:T6 Site:T23
+M5	Speculation E8
+E9	DNA_methylation:T20 Theme:T7 Site:T24
+M6	Speculation E9
+E10	DNA_methylation:T20 Theme:T4 Site:T21
+M7	Speculation E10
+E11	DNA_methylation:T20 Theme:T5 Site:T22
+M8	Speculation E11
+E12	DNA_methylation:T25 Theme:T4 Site:T21
+E13	DNA_methylation:T25 Theme:T5 Site:T22
+E14	DNA_methylation:T25 Theme:T6 Site:T23
+E15	DNA_methylation:T25 Theme:T7 Site:T24
+E16	DNA_methylation:T26 Theme:T8
+E17	DNA_methylation:T26 Theme:T9
+E18	DNA_methylation:T26 Theme:T10
+E19	DNA_methylation:T27 Theme:T8
+E20	DNA_methylation:T27 Theme:T9
+E21	DNA_methylation:T27 Theme:T10

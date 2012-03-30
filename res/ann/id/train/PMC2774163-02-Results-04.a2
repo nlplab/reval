@@ -1,0 +1,27 @@
+*	Equiv T2 T5
+*	Equiv T3 T6
+*	Equiv T4 T7
+T52	Negative_regulation 285 297	Inactivation
+T53	Regulation 369 375	affect
+T54	Binding 384 394	attachment
+T55	Negative_regulation 989 996	reduced
+T56	Binding 1005 1015	attachment
+T57	Phosphorylation 1859 1874	phosphorylation
+T58	Phosphorylation 2090 2104	phosphorylated
+T59	Phosphorylation 2177 2192	phosphorylation
+E1	Negative_regulation:T52 Theme:T2
+E2	Negative_regulation:T52 Theme:T3
+E3	Negative_regulation:T52 Theme:T4
+E4	Regulation:T53 Theme:E7 Cause:E1
+M1	Negation E4
+E5	Regulation:T53 Theme:E7 Cause:E2
+M2	Negation E5
+E6	Regulation:T53 Theme:E7 Cause:E3
+M3	Negation E6
+E7	Binding:T54 Theme:T8
+E8	Negative_regulation:T55 Theme:E9
+E9	Binding:T56 Theme:T13
+E10	Phosphorylation:T57 Theme:T24
+E11	Phosphorylation:T57 Theme:T25
+E12	Phosphorylation:T58 Theme:T30
+E13	Phosphorylation:T59 Theme:T31

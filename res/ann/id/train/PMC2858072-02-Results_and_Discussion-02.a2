@@ -1,0 +1,78 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+*	Equiv T7 T8
+*	Equiv T9 T10
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T15 T16
+*	Equiv T17 T18
+*	Equiv T19 T20
+*	Equiv T21 T22
+*	Equiv T27 T29
+*	Equiv T31 T33
+*	Equiv T34 T36
+*	Equiv T47 T49
+*	Equiv T50 T51
+*	Equiv T79 T80
+*	Equiv T83 T84
+*	Equiv T85 T86
+*	Equiv T113 T114
+*	Equiv T122 T123
+T152	Gene_expression 185 194	expressed
+T153	Positive_regulation 651 663	up-regulated
+T154	Regulation 1449 1457	affected
+T155	Negative_regulation 1540 1554	down-regulated
+T156	Negative_regulation 1595 1615	negatively regulated
+T157	Negative_regulation 2370 2384	down regulated
+T158	Positive_regulation 2483 2495	up regulated
+T159	Regulation 2597 2605	affected
+T160	Negative_regulation 3708 3722	down-regulated
+T161	Gene_expression 3872 3881	expressed
+T162	Positive_regulation 3886 3898	up-regulated
+T163	Gene_expression 4344 4353	expressed
+T164	Binding 4704 4712	interact
+T165	Regulation 4816 4823	control
+T166	Transcription 4824 4837	transcription
+T167	Regulation 5172 5179	control
+E1	Gene_expression:T152 Theme:T3
+E2	Gene_expression:T152 Theme:T21
+E3	Gene_expression:T152 Theme:T23
+E4	Gene_expression:T152 Theme:T24
+E5	Gene_expression:T152 Theme:T5
+E6	Gene_expression:T152 Theme:T7
+E7	Gene_expression:T152 Theme:T9
+E8	Gene_expression:T152 Theme:T11
+E9	Gene_expression:T152 Theme:T13
+E10	Gene_expression:T152 Theme:T15
+E11	Gene_expression:T152 Theme:T17
+E12	Gene_expression:T152 Theme:T19
+E13	Positive_regulation:T153 Theme:T27
+E14	Positive_regulation:T153 Theme:T31
+E15	Positive_regulation:T153 Theme:T34
+E16	Positive_regulation:T153 Theme:T38
+E17	Positive_regulation:T153 Theme:T40
+E18	Positive_regulation:T153 Theme:T42
+E19	Positive_regulation:T153 Theme:T43
+E20	Positive_regulation:T153 Theme:T45
+E21	Positive_regulation:T153 Theme:T47
+E22	Positive_regulation:T153 Theme:T50
+E23	Regulation:T154 Theme:T53
+E24	Negative_regulation:T155 Theme:T56
+E25	Negative_regulation:T155 Theme:T57
+E26	Negative_regulation:T155 Theme:T58
+E27	Negative_regulation:T155 Theme:T59
+E28	Negative_regulation:T155 Theme:T60
+E29	Negative_regulation:T156 Theme:T53
+E30	Negative_regulation:T157 Theme:T79
+E31	Positive_regulation:T158 Theme:T83
+E32	Positive_regulation:T158 Theme:T85
+E33	Regulation:T159 Theme:T87
+E34	Regulation:T159 Theme:T88
+E35	Negative_regulation:T160 Theme:T113
+E36	Gene_expression:T161 Theme:T122
+E37	Positive_regulation:T162 Theme:T122
+E38	Gene_expression:T163 Theme:T131
+E39	Binding:T164 Theme:T136
+E40	Regulation:T165 Theme:E41 Cause:T137
+E41	Transcription:T166 Theme:T138
+E42	Regulation:T167 Theme:T141 Cause:T142

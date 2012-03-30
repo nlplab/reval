@@ -1,0 +1,18 @@
+T26	Phosphorylation 1026 1041	phosphorylation
+T27	Catalysis 1026 1041	phosphorylation
+T28	Entity 1072 1078	Thr172
+T29	Phosphorylation 1357 1371	phosphorylated
+T30	Entity 1377 1383	Thr172
+T31	Deacetylation 1562 1575	deacetylation
+T32	Ubiquitination 1577 1591	ubiquitination
+T33	Acetylation 1978 1989	acetylation
+T34	Deacetylation 1990 2003	deacetylation
+E1	Phosphorylation:T26 Theme:T7 Site:T28
+E2	Catalysis:T27 Theme:E1 Cause:T6
+E3	Phosphorylation:T29 Theme:T12 Site:T30
+E4	Deacetylation:T31 Theme:T17
+E5	Ubiquitination:T32 Theme:T17
+E6	Acetylation:T33 Theme:T25
+M1	Speculation E6
+E7	Deacetylation:T34 Theme:T25
+M2	Speculation E7

@@ -1,0 +1,21 @@
+*	Equiv T1 T2
+T5	DNA_methylation 526 537	methylation
+T6	Entity 556 562	3' end
+T7	Entity 567 578	center part
+T8	DNA_methylation 946 957	methylation
+T9	Entity 1023 1029	5' end
+T10	Entity 1070 1082	35S promoter
+T11	DNA_methylation 1093 1104	methylation
+T12	Entity 1153 1161	promoter
+T13	Entity 1243 1261	transcribed region
+T14	DNA_methylation 1610 1620	methylated
+T15	Entity 1621 1629	promoter
+E1	DNA_methylation:T5 Theme:T1 Site:T6
+M1	Negation E1
+E2	DNA_methylation:T5 Theme:T1 Site:T7
+M2	Negation E2
+E3	DNA_methylation:T8 Theme:T3 Site:T9
+E4	DNA_methylation:T8 Theme:T3 Site:T10
+E5	DNA_methylation:T11 Theme:T3 Site:T12
+E6	DNA_methylation:T11 Theme:T3 Site:T13
+E7	DNA_methylation:T14 Theme:T4 Site:T15

@@ -1,0 +1,4 @@
+T10	Glycosylation 643 665	N-linked glycosylation
+T11	Glycosylation 1727 1749	N-linked glycosylation
+E1	Glycosylation:T10 Theme:T3
+E2	Glycosylation:T11 Theme:T9

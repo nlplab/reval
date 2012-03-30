@@ -1,0 +1,6 @@
+*	Equiv T8 T9
+T19	Acetylation 864 875	acetylation
+T20	Entity 879 886	lysines
+T21	Acetylation 1177 1188	acetylation
+E1	Acetylation:T19 Theme:T12 Site:T20
+E2	Acetylation:T21 Theme:T17

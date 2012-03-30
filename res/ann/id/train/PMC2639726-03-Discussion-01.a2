@@ -1,0 +1,35 @@
+T69	Process 34 43	infection
+T70	Process 135 144	virulence
+T71	Process 230 239	virulence
+T72	Process 427 436	virulence
+T73	Process 493 503	attenuated
+T74	Process 524 533	infection
+T75	Process 920 929	infection
+T76	Process 952 961	infection
+T77	Process 1477 1486	infection
+T78	Process 1508 1518	attenuated
+T79	Process 1563 1573	attenuated
+T80	Process 1773 1782	infection
+T81	Process 1866 1875	infection
+T82	Process 2873 2882	infection
+T83	Transcription 3841 3852	transcribed
+T84	Positive_regulation 5452 5462	activation
+T85	Process 5613 5622	infection
+E1	Process:T69 Participant:T2
+E2	Process:T70 
+E3	Process:T71 Participant:T3
+E4	Process:T72 
+E5	Process:T73 
+E6	Process:T74 
+E7	Process:T75 Participant:T29
+E8	Process:T76 Participant:T29
+E9	Process:T77 
+E10	Process:T78 
+E11	Process:T79 
+E12	Process:T80 
+E13	Process:T81 Participant:T32
+E14	Process:T82 Participant:T34
+E15	Transcription:T83 Theme:T48
+M1	Negation E15
+E16	Positive_regulation:T84 Theme:T59
+E17	Process:T85 Participant:T62

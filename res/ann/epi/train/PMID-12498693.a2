@@ -1,0 +1,24 @@
+*	Equiv T2 T3
+*	Equiv T12 T13
+T10	Entity 29 31	K9
+T11	Methylation 32 43	methylation
+T12	Entity 218 226	lysine 9
+T13	Entity 230 232	K9
+T14	Methylation 234 245	methylation
+T15	Entity 399 401	K9
+T16	Methylation 402 413	methylation
+T17	Entity 524 526	K9
+T18	Methylation 527 538	methylation
+T19	Entity 739 741	K9
+T20	Methylation 742 753	methylation
+T21	Methylation 1112 1123	methylation
+T22	Entity 1137 1139	K9
+T23	Entity 1372 1374	K9
+T24	Methylation 1375 1386	methylation
+E1	Methylation:T11 Theme:T1 Site:T10
+E2	Methylation:T14 Theme:T2 Site:T12
+E3	Methylation:T16 Theme:T4 Site:T15
+E4	Methylation:T18 Theme:T5 Site:T17
+E5	Methylation:T20 Theme:T6 Site:T19
+E6	Methylation:T21 Theme:T8 Site:T22 Contextgene:T7
+E7	Methylation:T24 Theme:T9 Site:T23

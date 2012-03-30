@@ -1,0 +1,15 @@
+*	Equiv T18 T19
+T42	Process 2220 2229	virulence
+T43	Process 2259 2268	infection
+T44	Positive_regulation 3397 3407	activation
+T45	Positive_regulation 3428 3436	requires
+T46	Positive_regulation 3559 3568	activated
+T47	Binding 3632 3637	binds
+T48	Phosphorylation 3645 3659	phosphorylated
+E1	Process:T42 
+E2	Process:T43 
+E3	Positive_regulation:T44 Theme:T29
+E4	Positive_regulation:T45 Theme:E3 Cause:T30
+E5	Positive_regulation:T46 Theme:T35 Cause:T34
+E6	Binding:T47 Theme1:T36 Theme2:T37
+E7	Phosphorylation:T48 Theme:T37

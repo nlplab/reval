@@ -1,0 +1,15 @@
+T1	Organism 18 38	Group A Streptococci
+T2	Organism 471 498	M1T1 Streptococcus pyogenes
+T3	Organism 523 527	mice
+T4	Two-component-system 563 568	covRS
+T5	Protein 563 567	covR
+T6	Protein 567 568	S
+T7	Organism 710 716	murine
+T8	Organism 890 922	animal-passaged (AP) covS mutant
+T9	Protein 911 915	covS
+T10	Organism 1211 1213	AP
+T11	Protein 1519 1523	covS
+T12	Protein 1537 1541	SpeB
+T13	Organism 1594 1598	mice
+T14	Organism 1879 1891	covS mutants
+T15	Protein 1879 1883	covS

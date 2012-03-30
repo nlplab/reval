@@ -1,0 +1,23 @@
+T44	Positive_regulation 628 635	respond
+T45	Gene_expression 778 793	over-expression
+T46	Positive_regulation 1031 1039	requires
+T47	Phosphorylation 1040 1055	phosphorylation
+T48	Gene_expression 1075 1085	expression
+T49	Phosphorylation 1204 1218	phosphorylated
+T50	Gene_expression 1283 1298	over-expression
+T51	Positive_regulation 1332 1342	activation
+T52	Regulation 1913 1919	affect
+T53	Process 2334 2344	attenuated
+E1	Positive_regulation:T44 Theme:T10 Cause:T11
+E2	Gene_expression:T45 Theme:T16
+E3	Positive_regulation:T46 Theme:T22 Cause:E4
+E4	Phosphorylation:T47 Theme:T22
+E5	Gene_expression:T48 Theme:T23
+E6	Phosphorylation:T49 Theme:T25
+E7	Gene_expression:T50 Theme:T25
+E8	Positive_regulation:T51 Theme:T25 Cause:E7
+E9	Regulation:T52 Theme:T35 Cause:T33
+E10	Regulation:T52 Theme:T33 Cause:E12
+E11	Regulation:T52 Theme:T32 Cause:E9
+E12	Regulation:T52 Theme:T35 Cause:T32
+E13	Process:T53 

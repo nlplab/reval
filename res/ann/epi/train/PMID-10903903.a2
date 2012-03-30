@@ -1,0 +1,17 @@
+*	Equiv T4 T5
+T21	Methylation 433 443	methylated
+T22	Catalysis 433 443	methylated
+E1	Methylation:T21 Theme:T7
+E2	Methylation:T21 Theme:T14
+M1	Negation E2
+E3	Catalysis:T22 Theme:E1 Cause:T10
+E4	Methylation:T21 Theme:T8
+E5	Catalysis:T22 Theme:E4 Cause:T10
+E6	Methylation:T21 Theme:T9
+E7	Catalysis:T22 Theme:E6 Cause:T10
+E8	Methylation:T21 Theme:T11
+M2	Negation E8
+E9	Methylation:T21 Theme:T12
+M3	Negation E9
+E10	Methylation:T21 Theme:T13
+M4	Negation E10

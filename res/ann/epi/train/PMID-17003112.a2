@@ -1,0 +1,10 @@
+*	Equiv T1 T2 T3
+*	Equiv T4 T5 T6
+*	Equiv T8 T9
+T14	Hydroxylation 866 878	hydroxylated
+T15	Catalysis 866 878	hydroxylated
+T16	Entity 898 910	Asn residues
+E1	Hydroxylation:T14 Theme:T8 Site:T16
+E2	Catalysis:T15 Theme:E1 Cause:T11
+E3	Hydroxylation:T14 Theme:T10 Site:T16
+E4	Catalysis:T15 Theme:E3 Cause:T11

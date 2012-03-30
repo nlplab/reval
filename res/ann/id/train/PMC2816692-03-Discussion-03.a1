@@ -1,0 +1,40 @@
+T1	Protein 38 42	SrcA
+T2	Protein 91 95	srcA
+T3	Protein 131 136	pipB2
+T4	Protein 141 145	sseL
+T5	Organism 177 196	Salmonella enterica
+T6	Organism 274 284	S. bongori
+T7	Protein 340 344	srcA
+T8	Two-component-system 403 412	SsrA-SsrB
+T9	Protein 403 407	SsrA
+T10	Protein 408 412	SsrB
+T11	Protein 485 489	SsrB
+T12	Protein 525 529	srcA
+T13	Protein 542 546	SsrB
+T14	Protein 566 570	sseL
+T15	Protein 585 590	pipB2
+T16	Organism 855 865	Salmonella
+T17	Organism 873 877	host
+T18	Protein 887 891	srcA
+T19	Protein 1089 1093	srcA
+T20	Protein 1126 1133	STM2137
+T21	Protein 1334 1341	STM2137
+T22	Protein 1357 1362	SseK2
+T23	Protein 1387 1392	SseK1
+T24	Protein 1443 1448	SseK2
+T25	Two-component-system 1474 1483	SsrA-SsrB
+T26	Protein 1474 1478	SsrA
+T27	Protein 1479 1483	SsrB
+T28	Protein 1521 1526	SseK1
+T29	Protein 1653 1658	SseK2
+T30	Protein 1700 1704	SrcA
+T31	Protein 1739 1743	SrcA
+T32	Protein 1760 1765	SseK2
+T33	Protein 1795 1799	SrcA
+T34	Protein 1941 1945	InvB
+T35	Protein 1950 1954	SicP
+T36	Organism 1956 1966	Salmonella
+T37	Protein 1975 1979	CesT
+T38	Organism 1998 2005	E. coli
+T39	Organism 2049 2057	Shigella
+T40	Protein 2268 2272	srcA

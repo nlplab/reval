@@ -1,0 +1,4 @@
+T9	Methylation 1144 1155	methylation
+T10	Entity 1163 1170	lysines
+E1	Methylation:T9 Theme:T5 Site:T10
+E2	Methylation:T9 Theme:T6 Site:T10

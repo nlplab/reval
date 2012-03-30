@@ -1,0 +1,17 @@
+*	Equiv T9 T10
+*	Equiv T26 T27
+T24	Acetylation 515 525	acetylated
+T25	Methylation 579 591	dimethylated
+T26	Entity 595 603	lysine 9
+T27	Entity 610 612	K9
+T28	Acetylation 982 998	hyperacetylation
+T29	Methylation 1213 1225	dimethylated
+T30	Acetylation 1234 1244	acetylated
+T31	Entity 1245 1262	N-terminal domain
+T32	Acetylation 1560 1576	hyperacetylation
+E1	Acetylation:T24 Theme:T8
+E2	Methylation:T25 Theme:T9 Site:T26
+E3	Acetylation:T28 Theme:T15
+E4	Methylation:T29 Theme:T19 Site:T31
+E5	Acetylation:T30 Theme:T19 Site:T31
+E6	Acetylation:T32 Theme:T23

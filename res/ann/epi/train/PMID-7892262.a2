@@ -1,0 +1,14 @@
+T10	Methylation 520 531	methylation
+T11	Methylation 720 731	methylation
+T12	Methylation 833 844	methylation
+T13	Methylation 1045 1055	methylated
+T14	Methylation 1168 1179	methylation
+T15	Methylation 1181 1192	Methylation
+T16	Methylation 1465 1486	methyl esterification
+E1	Methylation:T10 Theme:T4
+E2	Methylation:T11 Theme:T5
+E3	Methylation:T12 Theme:T6
+E4	Methylation:T13 Theme:T7
+E5	Methylation:T14 Theme:T7
+E6	Methylation:T15 Theme:T8
+E7	Methylation:T16 Theme:T9

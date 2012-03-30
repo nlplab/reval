@@ -1,0 +1,14 @@
+T16	Catalysis 41 55	ubiquitination
+T17	Ubiquitination 41 55	ubiquitination
+T18	Ubiquitination 198 212	ubiquitination
+T19	Catalysis 489 497	mediated
+T20	Ubiquitination 502 516	ubiquitination
+T21	Catalysis 677 691	ubiquitination
+T22	Ubiquitination 677 691	ubiquitination
+E1	Ubiquitination:T17 Theme:T2
+E2	Catalysis:T16 Theme:E1 Cause:T3
+E3	Ubiquitination:T18 Theme:T4
+E4	Catalysis:T19 Theme:E5 Cause:T9
+E5	Ubiquitination:T20 Theme:T10
+E6	Ubiquitination:T22 Theme:T12
+E7	Catalysis:T21 Theme:E6 Cause:T13

@@ -1,0 +1,8 @@
+*	Equiv T1 T2
+T12	Ubiquitination 120 134	ubiquitination
+T13	Hydroxylation 294 307	hydroxylation
+T14	Entity 320 328	prolines
+T15	Hydroxylation 787 799	hydroxylated
+E1	Ubiquitination:T12 Theme:T1
+E2	Hydroxylation:T13 Theme:T3 Site:T14
+E3	Hydroxylation:T15 Theme:T8

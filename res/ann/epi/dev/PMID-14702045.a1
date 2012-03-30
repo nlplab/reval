@@ -1,0 +1,21 @@
+T1	Protein 67 74	Suv39h1
+T2	Protein 79 86	Suv39h2
+T3	Protein 87 94	histone
+T4	Protein 600 607	histone
+T5	Protein 637 644	Suv39h1
+T6	Protein 649 656	Suv39h2
+T7	Protein 680 687	Suv39h1
+T8	Protein 692 699	Suv39h2
+T9	Protein 722 732	histone H3
+T10	Protein 739 741	H3
+T11	Protein 1008 1010	H3
+T12	Protein 1092 1094	H3
+T13	Protein 1124 1126	H3
+T14	Protein 1166 1168	H3
+T15	Protein 1260 1264	Cbx1
+T16	Protein 1266 1270	Cbx3
+T17	Protein 1275 1279	Cbx5
+T18	Protein 1317 1342	heterochromatin protein 1
+T19	Protein 1344 1347	HP1
+T20	Protein 1602 1609	Suv39h1
+T21	Protein 1614 1621	Suv39h2

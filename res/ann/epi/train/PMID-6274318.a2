@@ -1,0 +1,9 @@
+T3	Entity 1631 1636	lysyl
+T4	Hydroxylation 1637 1650	hydroxylation
+T5	Glycosylation 1699 1711	glycosylated
+T6	Glycosylation 1715 1731	non-glycosylated
+T7	Entity 1732 1745	hydroxylysine
+E1	Hydroxylation:T4 Theme:T2 Site:T3
+E2	Glycosylation:T5 Theme:T2 Site:T7
+E3	Glycosylation:T6 Theme:T2 Site:T7
+M1	Negation E3

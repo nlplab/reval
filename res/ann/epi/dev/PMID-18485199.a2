@@ -1,0 +1,4 @@
+T47	Catalysis 1161 1180	auto-ubiquitination
+T48	Ubiquitination 1161 1180	auto-ubiquitination
+E1	Ubiquitination:T48 Theme:T23
+E2	Catalysis:T47 Theme:E1 Cause:T23

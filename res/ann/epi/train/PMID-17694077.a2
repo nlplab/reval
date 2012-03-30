@@ -1,0 +1,5 @@
+*	Equiv T12 T13
+T19	Acetylation 126 137	acetylation
+T20	Acetylation 1273 1284	acetylation
+E1	Acetylation:T19 Theme:T3
+E2	Acetylation:T20 Theme:T15

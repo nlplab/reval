@@ -1,0 +1,7 @@
+T10	DNA_methylation 412 423	methylation
+E1	DNA_methylation:T10 Theme:T3
+M1	Speculation E1
+E2	DNA_methylation:T10 Theme:T4
+M2	Speculation E2
+E3	DNA_methylation:T10 Theme:T5
+M3	Speculation E3

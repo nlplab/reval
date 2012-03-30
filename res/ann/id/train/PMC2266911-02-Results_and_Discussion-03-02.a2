@@ -1,0 +1,25 @@
+*	Equiv T30 T31
+*	Equiv T87 T88
+*	Equiv T89 T90
+T108	Gene_expression 1309 1317	produces
+T109	Binding 1421 1428	binding
+T110	Positive_regulation 2185 2197	up-regulated
+T111	Process 2515 2524	infection
+T112	Process 2743 2752	virulence
+E1	Gene_expression:T108 Theme:T67
+E2	Gene_expression:T108 Theme:T75
+E3	Gene_expression:T108 Theme:T76
+E4	Gene_expression:T108 Theme:T78
+E5	Gene_expression:T108 Theme:T80
+E6	Gene_expression:T108 Theme:T81
+E7	Gene_expression:T108 Theme:T68
+E8	Gene_expression:T108 Theme:T69
+E9	Gene_expression:T108 Theme:T70
+E10	Gene_expression:T108 Theme:T71
+E11	Gene_expression:T108 Theme:T72
+E12	Gene_expression:T108 Theme:T73
+E13	Binding:T109 Theme:T75
+E14	Binding:T109 Theme:T76
+E15	Positive_regulation:T110 Theme:T97
+E16	Process:T111 
+E17	Process:T112 

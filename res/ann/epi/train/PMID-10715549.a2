@@ -1,0 +1,21 @@
+T20	Glycosylation 11 26	N-glycosylation
+T21	Entity 30 37	Asn(13)
+T22	Entity 1016 1032	oligosaccharides
+T23	Glycosylation 1038 1046	attached
+T24	Entity 1054 1061	Asn(13)
+T25	Deglycosylation 1073 1080	Removal
+T26	Entity 1088 1100	carbohydrate
+T27	Entity 1113 1120	Asn(13)
+T28	Glycosylation 1345 1360	N-glycosylation
+T29	Entity 1364 1371	Asn(13)
+T30	Glycosylation 1579 1601	N-linked glycosylation
+T31	Entity 1605 1612	Asn(30)
+T32	Glycosylation 1665 1680	N-glycosylation
+T33	Entity 1684 1691	Asn(13)
+E1	Glycosylation:T20 Theme:T1 Site:T21
+E2	Glycosylation:T23 Theme:T9 Site:T24 Sidechain:T22
+E3	Deglycosylation:T25 Theme:T10 Site:T27 Sidechain:T26
+E4	Glycosylation:T28 Theme:T14 Site:T29
+M1	Negation E4
+E5	Glycosylation:T30 Theme:T17 Site:T31
+E6	Glycosylation:T32 Theme:T17 Site:T33

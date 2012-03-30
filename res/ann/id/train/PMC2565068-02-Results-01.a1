@@ -1,0 +1,14 @@
+T1	Organism 9 30	Group A streptococcus
+T2	Organism 99 104	human
+T3	Organism 128 137	emm49 GAS
+T4	Protein 128 133	emm49
+T5	Organism 190 195	human
+T6	Organism 269 272	GAS
+T7	Organism 333 336	GAS
+T8	Organism 342 347	human
+T9	Organism 447 450	GAS
+T10	Organism 634 650	non-invasive GAS
+T11	Organism 711 723	invasive GAS
+T12	Organism 803 808	human
+T13	Organism 975 987	invasive GAS
+T14	Organism 1035 1040	human

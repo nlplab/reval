@@ -1,0 +1,7 @@
+T19	Entity 9 20	P3 promoter
+T20	Negative_regulation 24 33	repressed
+T21	Gene_expression 1641 1650	expresses
+T22	Transcription 1669 1690	transcriptional level
+E1	Negative_regulation:T20 Theme:T1 Site:T19 Cause:T2
+E2	Gene_expression:T21 Theme:T16
+E3	Transcription:T22 Theme:T17

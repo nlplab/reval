@@ -1,0 +1,43 @@
+*	Equiv T18 T19
+*	Equiv T27 T28
+T17	DNA_methylation 15 30	DNA methylation
+T18	Entity 83 125	ubiquitously-acting chromatin open element
+T19	Entity 127 131	UCOE
+T20	DNA_methylation 139 150	methylation
+T21	Entity 156 166	CpG island
+T22	DNA_methylation 495 510	DNA methylation
+T23	Entity 701 704	CpG
+T24	DNA_methylation 705 716	methylation
+T25	Entity 874 881	3' half
+T26	DNA_methylation 899 909	methylated
+T27	Entity 922 928	lysine
+T28	Entity 930 931	K
+T29	Acetylation 933 944	acetylation
+T30	Entity 1009 1015	lysine
+T31	Acetylation 1016 1027	acetylation
+T32	Entity 1139 1141	K4
+T33	Methylation 1142 1156	di-methylation
+T34	Entity 1213 1215	K4
+T35	Methylation 1216 1231	tri-methylation
+E1	DNA_methylation:T17 Theme:T2 Site:T18
+E2	DNA_methylation:T17 Theme:T3 Site:T18
+E3	DNA_methylation:T20 Theme:T4 Site:T21
+M1	Negation E3
+E4	DNA_methylation:T20 Theme:T5 Site:T21
+M2	Negation E4
+E5	DNA_methylation:T22 Theme:T8
+E6	DNA_methylation:T22 Theme:T7
+E7	DNA_methylation:T24 Theme:T9 Site:T23
+M3	Negation E7
+E8	DNA_methylation:T24 Theme:T10 Site:T23
+M4	Negation E8
+E9	DNA_methylation:T26 Theme:T9 Site:T25
+E10	DNA_methylation:T26 Theme:T10 Site:T25
+E11	Acetylation:T29 Theme:T11 Site:T27 Contextgene:T9
+E12	Acetylation:T29 Theme:T11 Site:T27 Contextgene:T10
+E13	Acetylation:T31 Theme:T12 Site:T30 Contextgene:T10
+E14	Acetylation:T31 Theme:T12 Site:T30 Contextgene:T9
+E15	Methylation:T33 Theme:T13 Site:T32 Contextgene:T10
+E16	Methylation:T33 Theme:T13 Site:T32 Contextgene:T9
+E17	Methylation:T35 Theme:T14 Site:T34 Contextgene:T10
+E18	Methylation:T35 Theme:T14 Site:T34 Contextgene:T9

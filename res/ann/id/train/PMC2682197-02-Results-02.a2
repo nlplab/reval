@@ -1,0 +1,70 @@
+T91	Process 428 437	infection
+T92	Process 766 774	infected
+T93	Process 1031 1040	infection
+T94	Process 1255 1264	infection
+T95	Process 1339 1348	infection
+T96	Process 1362 1372	challenged
+T97	Process 1476 1489	hypervirulent
+T98	Gene_expression 1570 1579	expressed
+T99	Process 1899 1908	infection
+T100	Process 2145 2153	infected
+T101	Process 2180 2188	infected
+T102	Process 2344 2352	infected
+T103	Gene_expression 2565 2575	expression
+T104	Process 2777 2786	infection
+T105	Process 2808 2816	infected
+T106	Process 3029 3038	resistant
+T107	Process 3252 3261	infection
+T108	Process 3283 3297	hypervirulence
+T109	Process 3442 3451	virulence
+T110	Process 3573 3581	virulent
+T111	Process 3646 3655	infection
+T112	Process 3711 3719	infected
+T113	Process 3762 3771	infection
+T114	Process 4069 4083	hypervirulence
+T115	Process 4131 4140	infection
+T116	Process 4181 4189	infected
+T117	Process 4278 4286	infected
+T118	Gene_expression 4379 4393	reintroduction
+T119	Negative_regulation 4462 4470	reverses
+T120	Process 4475 4489	hypervirulence
+T121	Process 5013 5022	infection
+T122	Process 5037 5050	hypervirulent
+E1	Process:T91 
+E2	Process:T92 
+E3	Process:T93 Participant:T14
+E4	Process:T94 Participant:T15
+E5	Process:T95 
+E6	Process:T96 Participant:T19
+E7	Process:T97 
+E8	Gene_expression:T98 Theme:T20
+E9	Process:T99 
+E10	Process:T100 Participant:T28
+E11	Process:T101 Participant:T30
+E12	Process:T102 Participant:T31
+E13	Gene_expression:T103 Theme:T40
+E14	Process:T104 
+E15	Process:T105 Participant:T44
+E16	Process:T105 Participant:T45
+E17	Process:T105 Participant:T47
+E18	Process:T106 
+E19	Process:T107 Participant:T54
+E20	Process:T108 Participant:T56
+E21	Process:T109 Participant:T60
+E22	Process:T110 Participant:T63
+E23	Process:T110 Participant:T65
+E24	Process:T111 Participant:T63
+E25	Process:T111 Participant:T65
+E26	Process:T112 Participant:T63
+E27	Process:T112 Participant:T65
+E28	Process:T113 Participant:T67
+E29	Process:T113 Participant:T68
+E30	Process:T114 Participant:T70
+E31	Process:T115 
+E32	Process:T116 Participant:T74
+E33	Process:T117 
+E34	Gene_expression:T118 Theme:T77
+E35	Negative_regulation:T119 Theme:E36 Cause:E34
+E36	Process:T120 Participant:T78
+E37	Process:T121 Participant:T90
+E38	Process:T122 Participant:T90

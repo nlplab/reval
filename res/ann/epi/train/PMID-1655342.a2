@@ -1,0 +1,4 @@
+T20	Glycosylation 30 43	glycosylation
+T21	Glycosylation 1456 1468	glycosylated
+E1	Glycosylation:T20 Theme:T1
+E2	Glycosylation:T21 Theme:T17

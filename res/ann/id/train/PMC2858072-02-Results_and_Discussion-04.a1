@@ -1,0 +1,80 @@
+T1	Organism 54 71	BvrR/bvrS mutants
+T2	Two-component-system 54 63	BvrR/bvrS
+T3	Protein 54 58	BvrR
+T4	Protein 59 63	bvrS
+T5	Organism 136 141	mouse
+T6	Organism 250 261	bvrR mutant
+T7	Protein 250 254	bvrR
+T8	Protein 438 442	bvrS
+T9	Organism 499 507	Brucella
+T10	Protein 579 583	vjbR
+T11	Protein 594 598	motB
+T12	Protein 600 609	BAB2_1103
+T13	Protein 612 616	malK
+T14	Protein 618 627	BAB1_0241
+T15	Protein 630 634	norC
+T16	Protein 636 645	BAB2_0955
+T17	Protein 648 652	oppA
+T18	Protein 654 663	BAB1_1601
+T19	Protein 666 670	aspB
+T20	Protein 672 681	BAB1_1397
+T21	Protein 684 688	mosA
+T22	Protein 690 699	BAB1_0666
+T23	Protein 749 758	BAB1_1717
+T24	Protein 760 769	BAB1_0597
+T25	Protein 772 781	BAB2_1127
+T26	Organism 784 809	B. melitensis malK mutant
+T27	Protein 798 802	malK
+T28	Organism 814 833	B. suis aspB mutant
+T29	Protein 822 826	aspB
+T30	Organism 886 907	B. melitensis mutants
+T31	Protein 911 915	vjbR
+T32	Protein 917 921	motB
+T33	Protein 923 927	oppA
+T34	Protein 929 933	mosA
+T35	Protein 964 973	BAB1_0597
+T36	Protein 975 984	BAB1_1717
+T37	Protein 986 995	BAB2_1127
+T38	Organism 1033 1038	mouse
+T39	Regulon-operon 1167 1177	nor operon
+T40	Protein 1167 1170	nor
+T41	Organism 1195 1203	Brucella
+T42	Protein 1215 1219	norD
+T43	Organism 1223 1230	B. suis
+T44	Protein 1235 1239	norB
+T45	Organism 1243 1256	B. melitensis
+T46	Two-component-system 1316 1325	BvrR/BvrS
+T47	Protein 1316 1320	BvrR
+T48	Protein 1321 1325	BvrS
+T49	Organism 1437 1445	Brucella
+T50	Two-component-system 1478 1487	BvrR/BvrS
+T51	Protein 1478 1482	BvrR
+T52	Protein 1483 1487	BvrS
+T53	Organism 1569 1579	B. abortus
+T54	Organism 1910 1925	B. abortus 2308
+T55	Protein 1969 1974	VirB8
+T56	Protein 1976 1985	BAB2_0061
+T57	Two-component-system 2148 2157	BvrR/BvrS
+T58	Protein 2148 2152	BvrR
+T59	Protein 2153 2157	BvrS
+T60	Protein 2183 2187	vjbR
+T61	Protein 2189 2193	malF
+T62	Protein 2195 2199	norC
+T63	Protein 2201 2205	pckA
+T64	Protein 2207 2211	fumB
+T65	Protein 2213 2222	BAB1_0017
+T66	Protein 2252 2261	BAB1_1620
+T67	Chemical 2263 2266	LPS
+T68	Protein 2376 2382	omp25d
+T69	Protein 2437 2441	norC
+T70	Protein 2443 2447	nirK
+T71	Protein 2464 2473	BAB2_0863
+T72	Two-component-system 2593 2602	BvrR/BvrS
+T73	Protein 2593 2597	BvrR
+T74	Protein 2598 2602	BvrS
+T75	Organism 2751 2759	Brucella
+T76	Organism 2818 2829	bvrR mutant
+T77	Protein 2818 2822	bvrR
+T78	Two-component-system 3006 3015	BvrR/BvrS
+T79	Protein 3006 3010	BvrR
+T80	Protein 3011 3015	BvrS

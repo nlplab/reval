@@ -1,0 +1,6 @@
+*	Equiv T3 T4
+T15	Glycosylation 539 553	N-glycosylated
+T16	Glycosylation 558 576	non-N-glycosylated
+E1	Glycosylation:T15 Theme:T9
+E2	Glycosylation:T16 Theme:T9
+M1	Negation E2

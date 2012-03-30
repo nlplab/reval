@@ -1,0 +1,9 @@
+*	Equiv T2 T3
+*	Equiv T8 T9
+T12	Hydroxylation 200 213	hydroxylation
+T13	Entity 217 233	proline residues
+T14	Hydroxylation 455 467	hydroxylates
+T15	Catalysis 455 467	hydroxylates
+E1	Hydroxylation:T12 Theme:T1 Site:T13
+E2	Hydroxylation:T14 Theme:T5
+E3	Catalysis:T15 Theme:E2 Cause:T4

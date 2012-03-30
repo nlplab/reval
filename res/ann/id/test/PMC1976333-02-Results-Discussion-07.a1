@@ -1,0 +1,104 @@
+T1	Chemical 0 3	LPS
+T2	Chemical 8 11	OPG
+T3	Chemical 141 144	LPS
+T4	Chemical 149 152	OPG
+T5	Organism 190 193	chi
+T6	Chemical 314 317	LPS
+T7	Chemical 322 325	OPG
+T8	Regulon-operon 449 454	flhDC
+T9	Protein 449 453	flhD
+T10	Protein 453 454	C
+T11	Protein 523 527	RcsD
+T12	Chemical 543 552	phosphate
+T13	Protein 584 588	RcsC
+T14	Protein 615 619	RcsB
+T15	Protein 663 667	RcsA
+T16	Protein 685 689	RcsB
+T17	Regulon-operon 723 728	flhDC
+T18	Protein 723 727	flhD
+T19	Protein 727 728	C
+T20	Protein 843 847	RcsF
+T21	Chemical 950 953	LPS
+T22	Chemical 954 957	OPG
+T23	Chemical 1060 1063	LPS
+T24	Organism 1060 1063	LPS
+T25	Organism 1068 1079	OPG mutants
+T26	Chemical 1068 1071	OPG
+T27	Protein 1107 1111	rcsB
+T28	Protein 1113 1117	rcsD
+T29	Protein 1122 1126	rcsF
+T30	Chemical 1169 1172	LPS
+T31	Organism 1169 1172	LPS
+T32	Organism 1177 1188	OPG mutants
+T33	Chemical 1177 1180	OPG
+T34	Protein 1334 1338	rcsC
+T35	Protein 1440 1444	RcsC
+T36	Chemical 1484 1494	phosphates
+T37	Protein 1517 1521	RcsB
+T38	Protein 1526 1530	RcsD
+T39	Protein 1541 1545	RcsB
+T40	Organism 1572 1589	rcsC null mutants
+T41	Protein 1572 1576	rcsC
+T42	Protein 1616 1620	rcsC
+T43	Protein 1643 1647	RcsF
+T44	Protein 1650 1654	RcsC
+T45	Protein 1657 1661	RcsD
+T46	Protein 1664 1668	RcsB
+T47	Protein 1714 1718	RcsB
+T48	Protein 1762 1766	RcsC
+T49	Regulon-operon 1816 1821	flhDC
+T50	Protein 1816 1820	flhD
+T51	Protein 1820 1821	C
+T52	Protein 1822 1826	lacZ
+T53	Protein 1864 1868	rcsC
+T54	Organism 1864 1868	rcsC
+T55	Organism 1873 1885	rcsD mutants
+T56	Protein 1873 1877	rcsD
+T57	Organism 1985 2000	rcsC137 mutants
+T58	Protein 1985 1989	rcsC
+T59	Protein 2027 2031	rcsC
+T60	Chemical 2133 2136	LPS
+T61	Chemical 2141 2144	OPG
+T62	Organism 2232 2235	chi
+T63	Chemical 2295 2298	LPS
+T64	Chemical 2303 2306	OPG
+T65	Organism 2314 2317	chi
+T66	Chemical 2465 2468	LPS
+T67	Chemical 2473 2476	OPG
+T68	Chemical 2665 2668	LPS
+T69	Chemical 2672 2675	OPG
+T70	Organism 2924 2935	flhD mutant
+T71	Protein 2924 2928	flhD
+T72	Organism 2950 2953	chi
+T73	Organism 3027 3030	chi
+T74	Chemical 3114 3117	OPG
+T75	Organism 3114 3117	OPG
+T76	Organism 3122 3133	LPS mutants
+T77	Chemical 3122 3125	LPS
+T78	Organism 3166 3169	chi
+T79	Protein 3244 3248	rcsF
+T80	Chemical 3276 3279	OPG
+T81	Chemical 3284 3287	LPS
+T82	Organism 3318 3321	chi
+T83	Organism 3391 3394	chi
+T84	Organism 3415 3427	rfaI mutants
+T85	Protein 3415 3419	rfaI
+T86	Organism 3433 3445	rfaC mutants
+T87	Protein 3433 3437	rfaC
+T88	Organism 3463 3466	chi
+T89	Regulon-operon 3522 3527	flhDC
+T90	Protein 3522 3526	flhD
+T91	Protein 3526 3527	C
+T92	Chemical 3768 3771	LPS
+T93	Organism 3768 3771	LPS
+T94	Organism 3776 3787	OPG mutants
+T95	Chemical 3776 3779	OPG
+T96	Chemical 3841 3844	OPG
+T97	Chemical 3864 3867	LPS
+T98	Protein 3933 3937	rcsF
+T99	Chemical 4052 4055	LPS
+T100	Chemical 4060 4063	OPG
+T101	Regulon-operon 4197 4202	flhDC
+T102	Protein 4197 4201	flhD
+T103	Protein 4201 4202	C
+T104	Organism 4291 4294	chi

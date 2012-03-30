@@ -1,0 +1,18 @@
+*	Equiv T31 T32
+*	Equiv T79 T81
+*	Equiv T80 T82
+T89	Gene_expression 540 548	produces
+T90	Gene_expression 1119 1127	produces
+T91	Process 2643 2652	virulence
+T92	Process 3340 3349	virulence
+T93	Gene_expression 3806 3815	expressed
+E1	Gene_expression:T89 Theme:T13
+E2	Gene_expression:T90 Theme:T28
+E3	Gene_expression:T90 Theme:T29
+E4	Gene_expression:T90 Theme:T31
+E5	Gene_expression:T90 Theme:T34
+E6	Gene_expression:T90 Theme:T35
+E7	Process:T91 
+E8	Process:T92 
+E9	Gene_expression:T93 Theme:T79
+E10	Gene_expression:T93 Theme:T80

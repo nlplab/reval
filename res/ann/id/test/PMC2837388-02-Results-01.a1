@@ -1,0 +1,33 @@
+T1	Protein 41 45	ssrB
+T2	Protein 126 130	SsrB
+T3	Protein 187 191	ssrB
+T4	Organism 218 232	S. Typhimurium
+T5	Two-component-system 302 311	SsrA-SsrB
+T6	Protein 302 306	SsrA
+T7	Protein 307 311	SsrB
+T8	Organism 420 431	ssrB mutant
+T9	Protein 420 424	ssrB
+T10	Organism 725 750	S. Typhimurium strain LT2
+T11	Two-component-system 1053 1062	SsrA-SsrB
+T12	Protein 1053 1057	SsrA
+T13	Protein 1058 1062	SsrB
+T14	Organism 1120 1131	S. enterica
+T15	Organism 1181 1191	S. bongori
+T16	Organism 1202 1212	S. bongori
+T17	Two-component-system 1243 1252	SsrA-SsrB
+T18	Protein 1243 1247	SsrA
+T19	Protein 1248 1252	SsrB
+T20	Protein 1377 1381	SsrB
+T21	Organism 1385 1396	S. enterica
+T22	Organism 1675 1685	S. bongori
+T23	Organism 1751 1762	ssrB mutant
+T24	Protein 1751 1755	ssrB
+T25	Organism 1777 1786	DeltassrB
+T26	Protein 1782 1786	ssrB
+T27	Organism 1877 1888	S. enterica
+T28	Organism 2190 2201	S. enterica
+T29	Organism 2206 2216	S. bongori
+T30	Organism 2304 2318	S. Typhimurium
+T31	Organism 2323 2333	S. bongori
+T32	Organism 2569 2578	DeltassrB
+T33	Protein 2574 2578	ssrB

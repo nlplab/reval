@@ -1,0 +1,26 @@
+T5	DNA_methylation 0 15	DNA methylation
+T6	DNA_methylation 273 284	methylation
+T7	Entity 342 351	5' region
+T8	DNA_methylation 463 478	DNA methylation
+T9	Entity 489 501	25 CpG sites
+T10	DNA_methylation 647 657	methylated
+T11	Entity 658 667	CpG sites
+T12	Entity 778 787	5' region
+T13	DNA_methylation 825 835	methylated
+T14	DNA_methylation 1029 1044	DNA methylation
+T15	DNA_methylation 1222 1237	DNA methylation
+T16	DNA_methylation 1456 1467	methylation
+T17	Entity 1482 1491	CpG sites
+T18	DNA_methylation 1589 1604	DNA methylation
+E1	DNA_methylation:T5 Theme:T1
+E2	DNA_methylation:T6 Theme:T2 Site:T7
+M1	Speculation E2
+E3	DNA_methylation:T8 Theme:T2 Site:T9
+M2	Speculation E3
+E4	DNA_methylation:T10 Theme:T3 Site:T11
+E5	DNA_methylation:T13 Theme:T4 Site:T12
+E6	DNA_methylation:T14 Theme:T4
+M3	Speculation E6
+E7	DNA_methylation:T15 Theme:T4
+E8	DNA_methylation:T16 Theme:T4 Site:T17
+E9	DNA_methylation:T18 Theme:T4

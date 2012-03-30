@@ -1,0 +1,9 @@
+*	Equiv T6 T7
+T22	Catalysis 5 13	mediated
+T23	Ubiquitination 14 28	ubiquitination
+T24	Catalysis 961 975	ubiquitinating
+T25	Ubiquitination 961 975	ubiquitinating
+E1	Catalysis:T22 Theme:E2 Cause:T1
+E2	Ubiquitination:T23 Theme:T2
+E3	Ubiquitination:T25 Theme:T14
+E4	Catalysis:T24 Theme:E3 Cause:T12

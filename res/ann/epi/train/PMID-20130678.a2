@@ -1,0 +1,5 @@
+*	Equiv T3 T4
+T11	Phosphorylation 600 615	Phosphorylation
+T12	Acetylation 641 652	acetylation
+E1	Phosphorylation:T11 Theme:T8
+E2	Acetylation:T12 Theme:T8

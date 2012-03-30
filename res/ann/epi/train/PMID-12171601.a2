@@ -1,0 +1,15 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+T27	Glycosylation 0 13	Glycosylation
+T28	Glycosylation 142 164	N-linked glycosylation
+T29	Deglycosylation 798 813	deglycosylation
+T30	Catalysis 798 813	deglycosylation
+T31	Entity 1049 1063	N-linked sites
+T32	Glycosylation 1068 1080	glycosylated
+T33	Glycosylation 2018 2040	N-linked glycosylation
+E1	Glycosylation:T27 Theme:T1
+E2	Glycosylation:T28 Theme:T3
+E3	Deglycosylation:T29 Theme:T14
+E4	Catalysis:T30 Theme:E3 Cause:T15
+E5	Glycosylation:T32 Theme:T16 Site:T31
+E6	Glycosylation:T33 Theme:T26

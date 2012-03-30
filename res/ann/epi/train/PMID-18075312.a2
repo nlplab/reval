@@ -1,0 +1,4 @@
+T11	Catalysis 1058 1072	ubiquitination
+T12	Ubiquitination 1058 1072	ubiquitination
+E1	Catalysis:T11 Theme:E2 Cause:T9
+E2	Ubiquitination:T12 Theme:T10

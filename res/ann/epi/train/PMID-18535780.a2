@@ -1,0 +1,4 @@
+T12	Catalysis 812 835	plays an important role
+T13	Ubiquitination 839 853	ubiquitination
+E1	Catalysis:T12 Theme:E2 Cause:T10
+E2	Ubiquitination:T13 Theme:T11

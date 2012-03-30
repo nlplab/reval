@@ -1,0 +1,20 @@
+T13	Ubiquitination 71 85	ubiquitylation
+T14	Entity 89 96	lysines
+T15	Ubiquitination 596 610	ubiquitylation
+T16	Entity 614 620	lysine
+T17	Ubiquitination 700 714	ubiquitylation
+T18	Ubiquitination 775 788	ubiquitylated
+T19	Ubiquitination 868 881	ubiquitylated
+T20	Ubiquitination 1181 1195	ubiquitylation
+T21	Entity 1240 1250	lysine 517
+T22	Ubiquitination 1314 1328	ubiquitylation
+T23	Ubiquitination 1581 1595	ubiquitylation
+T24	Entity 1616 1622	lysine
+E1	Ubiquitination:T13 Theme:T1 Site:T14
+E2	Ubiquitination:T15 Theme:T4 Site:T16
+E3	Ubiquitination:T17 Theme:T5
+E4	Ubiquitination:T18 Theme:T6
+E5	Ubiquitination:T19 Theme:T7
+E6	Ubiquitination:T20 Theme:T10
+E7	Ubiquitination:T22 Theme:T11 Site:T21
+E8	Ubiquitination:T23 Theme:T12 Site:T24

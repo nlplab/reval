@@ -1,0 +1,7 @@
+T22	Glycosylation 313 325	glycosylated
+T23	Glycosylation 368 380	glycosylated
+T24	Glycosylation 1240 1252	glycosylated
+E1	Glycosylation:T22 Theme:T4
+E2	Glycosylation:T23 Theme:T6
+E3	Glycosylation:T23 Theme:T7
+E4	Glycosylation:T24 Theme:T17

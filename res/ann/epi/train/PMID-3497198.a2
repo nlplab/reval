@@ -1,0 +1,20 @@
+T11	Glycosylation 14 27	glycosylation
+T12	Glycosylation 124 137	glycosylation
+T13	Entity 434 439	Asn86
+T14	Entity 444 450	Asn176
+T15	Glycosylation 540 548	N-linked
+T16	Entity 549 573	complex oligosaccharides
+T17	Entity 608 650	smaller (probably high mannose) structures
+T18	Glycosylation 973 986	glycosylation
+E1	Glycosylation:T11 Theme:T1
+E2	Glycosylation:T12 Theme:T2
+E3	Glycosylation:T12 Theme:T3
+E4	Glycosylation:T15 Theme:T3 Site:T13 Sidechain:T16
+E5	Glycosylation:T15 Theme:T3 Site:T13 Sidechain:T17
+E6	Glycosylation:T15 Theme:T3 Site:T14 Sidechain:T16
+E7	Glycosylation:T15 Theme:T3 Site:T14 Sidechain:T17
+E8	Glycosylation:T15 Theme:T2 Site:T13 Sidechain:T16
+E9	Glycosylation:T15 Theme:T2 Site:T13 Sidechain:T17
+E10	Glycosylation:T15 Theme:T2 Site:T14 Sidechain:T16
+E11	Glycosylation:T15 Theme:T2 Site:T14 Sidechain:T17
+E12	Glycosylation:T18 Theme:T8

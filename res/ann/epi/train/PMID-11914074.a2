@@ -1,0 +1,16 @@
+T8	Glycosylation 428 450	N-linked glycosylation
+T9	Glycosylation 678 690	glycosylated
+T10	Glycosylation 809 822	glycosylation
+T11	Entity 853 869	four asparagines
+T12	Glycosylation 1158 1180	N-linked glycosylation
+T13	Phosphorylation 1185 1200	phosphorylation
+T14	Glycosylation 1228 1250	O-linked glycosylation
+T15	Glycosylation 1547 1559	glycosylated
+E1	Glycosylation:T8 Theme:T3
+E2	Glycosylation:T9 Theme:T4
+E3	Glycosylation:T10 Theme:T5 Site:T11
+E4	Glycosylation:T12 Theme:T6
+E5	Phosphorylation:T13 Theme:T6
+E6	Glycosylation:T14 Theme:T6
+M1	Negation E6
+E7	Glycosylation:T15 Theme:T7

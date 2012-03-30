@@ -1,0 +1,21 @@
+T1	Protein 0 4	scpC
+T2	Protein 9 12	slo
+T3	Protein 147 151	scpC
+T4	Protein 159 162	slo
+T5	Organism 190 195	mouse
+T6	Organism 224 234	NIH230scpC
+T7	Protein 230 234	scpC
+T8	Organism 239 248	NIH230slo
+T9	Protein 245 248	slo
+T10	Organism 305 330	non-invasive isolate 1566
+T11	Organism 421 431	NIH230scpC
+T12	Protein 427 431	scpC
+T13	Organism 436 445	NIH230slo
+T14	Protein 442 445	slo
+T15	Organism 514 518	1566
+T16	Organism 523 536	NIH230::csrS+
+T17	Protein 531 536	csrS+
+T18	Protein 631 635	ScpC
+T19	Protein 640 643	SLO
+T20	Organism 647 659	invasive GAS
+T21	Organism 705 708	GAS

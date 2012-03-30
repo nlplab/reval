@@ -1,0 +1,4 @@
+T34	Positive_regulation 1513 1524	upregulated
+T35	Process 2391 2400	infection
+E1	Positive_regulation:T34 Theme:T7
+E2	Process:T35 Participant:T17

@@ -1,0 +1,26 @@
+*	Equiv T2 T3
+*	Equiv T9 T10
+T30	Process 99 108	Virulence
+T31	Process 393 403	infections
+T32	Process 606 616	infections
+T33	Process 658 668	infections
+T34	Process 978 988	infections
+T35	Gene_expression 1137 1147	production
+T36	Positive_regulation 1292 1301	increased
+T37	Gene_expression 1302 1312	production
+T38	Process 1589 1598	infection
+T39	Process 1682 1691	infection
+T40	Process 1839 1847	infected
+T41	Process 1981 1990	infection
+E1	Process:T30 
+E2	Process:T31 Participant:T4
+E3	Process:T32 Participant:T5
+E4	Process:T33 
+E5	Process:T34 Participant:T7
+E6	Gene_expression:T35 Theme:T9
+E7	Positive_regulation:T36 Theme:E8
+E8	Gene_expression:T37 Theme:T12
+E9	Process:T38 Participant:T16
+E10	Process:T39 Participant:T20
+E11	Process:T40 Participant:T22
+E12	Process:T41 Participant:T29

@@ -1,0 +1,43 @@
+T42	Positive_regulation 46 56	activation
+T43	Positive_regulation 77 86	activated
+T44	Phosphorylation 112 126	phosphorylated
+T45	Transcription 330 343	transcription
+T46	Gene_expression 372 382	Expression
+T47	Negative_regulation 404 413	abolished
+T48	Positive_regulation 496 504	activate
+T49	Transcription 600 613	transcription
+T50	Positive_regulation 618 625	reduced
+T51	Gene_expression 704 713	expressed
+T52	Transcription 866 879	transcription
+T53	Transcription 989 1006	transcript levels
+T54	Positive_regulation 1165 1174	activated
+T55	Gene_expression 1234 1244	expression
+T56	Regulation 1257 1266	regulated
+T57	Regulation 1290 1301	independent
+T58	Gene_expression 1511 1519	produced
+T59	Positive_regulation 1659 1667	promoted
+T60	Gene_expression 1668 1678	expression
+T61	Positive_regulation 1709 1718	dependent
+E1	Positive_regulation:T42 Theme:T2 Cause:T1
+E2	Positive_regulation:T43 Theme:T4 Cause:T3
+E3	Phosphorylation:T44 Theme:T5
+E4	Transcription:T45 Theme:T8
+E5	Gene_expression:T46 Theme:T11
+E6	Negative_regulation:T47 Theme:E5
+E7	Positive_regulation:T48 Theme:T15 Cause:T14
+E8	Positive_regulation:T48 Theme:T15 Cause:T13
+E9	Transcription:T49 Theme:T19
+E10	Positive_regulation:T50 Theme:E9
+E11	Gene_expression:T51 Theme:T22
+E12	Transcription:T52 Theme:T25
+M1	Speculation E12
+E13	Transcription:T53 Theme:T26
+E14	Positive_regulation:T54 Theme:T28 Cause:T27
+E15	Gene_expression:T55 Theme:T29
+E16	Regulation:T56 Theme:T30 Cause:E15
+E17	Regulation:T57 Theme:T32 Cause:T31
+M2	Negation E17
+E18	Gene_expression:T58 Theme:T34
+E19	Positive_regulation:T59 Theme:E20
+E20	Gene_expression:T60 Theme:T36
+E21	Positive_regulation:T61 Theme:E19 Cause:T37

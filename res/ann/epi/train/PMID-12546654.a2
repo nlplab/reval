@@ -1,0 +1,4 @@
+T6	Acetylation 612 621	acetylate
+T7	Acetylation 710 721	acetylation
+E1	Acetylation:T6 Theme:T2
+E2	Acetylation:T7 Theme:T3

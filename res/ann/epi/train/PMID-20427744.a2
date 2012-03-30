@@ -1,0 +1,14 @@
+T14	DNA_methylation 567 580	nonmethylated
+T15	DNA_methylation 829 840	methylation
+T16	DNA_methylation 1078 1089	methylation
+T17	DNA_methylation 1328 1339	methylation
+T18	DNA_methylation 1462 1473	methylation
+T19	DNA_methylation 1949 1960	methylation
+E1	DNA_methylation:T14 Theme:T4
+M1	Negation E1
+E2	DNA_methylation:T15 Theme:T7
+E3	DNA_methylation:T16 Theme:T8
+E4	DNA_methylation:T17 Theme:T9
+E5	DNA_methylation:T18 Theme:T10
+M2	Negation E5
+E6	DNA_methylation:T19 Theme:T12

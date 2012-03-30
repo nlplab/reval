@@ -1,0 +1,15 @@
+T12	DNA_methylation 15 26	methylation
+T13	DNA_methylation 412 423	methylation
+T14	DNA_methylation 547 557	methylated
+T15	DNA_methylation 1266 1281	DNA methylation
+T16	DNA_methylation 1330 1341	methylation
+T17	Entity 1353 1365	17 CpG sites
+T18	DNA_methylation 1593 1604	methylation
+E1	DNA_methylation:T12 Theme:T1
+M1	Speculation E1
+E2	DNA_methylation:T13 Theme:T3
+M2	Speculation E2
+E3	DNA_methylation:T14 Theme:T4
+E4	DNA_methylation:T15 Theme:T9
+E5	DNA_methylation:T16 Theme:T10 Site:T17
+E6	DNA_methylation:T18 Theme:T11

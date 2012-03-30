@@ -1,0 +1,4 @@
+*	Equiv T10 T11
+T20	Binding 535 539	bind
+E1	Binding:T20 Theme1:T3 Theme2:T5
+E2	Binding:T20 Theme1:T4 Theme2:T5

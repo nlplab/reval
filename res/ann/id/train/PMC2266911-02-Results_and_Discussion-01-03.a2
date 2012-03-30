@@ -1,0 +1,32 @@
+*	Equiv T45 T46
+T83	Process 536 545	infecting
+T84	Process 1491 1500	infection
+T85	Gene_expression 1540 1550	expression
+T86	Regulation 1586 1593	control
+T87	Regulation 2564 2571	control
+T88	Process 2587 2596	virulence
+T89	Gene_expression 2825 2833	produces
+T90	Binding 3053 3062	interacts
+T91	Process 3933 3942	infection
+T92	Process 4144 4153	infection
+E1	Process:T83 Participant:T4
+E2	Process:T83 Participant:T5
+E3	Process:T84 Participant:T23
+E4	Process:T84 Participant:T24
+E5	Gene_expression:T85 Theme:T26
+E6	Regulation:T86 Theme:E5 Cause:T27
+E7	Regulation:T87 Theme:E10 Cause:T45
+E8	Regulation:T87 Theme:E11 Cause:T45
+E9	Regulation:T87 Theme:E12 Cause:T45
+E10	Process:T88 Participant:T49
+E11	Process:T88 Participant:T50
+E12	Process:T88 Participant:T51
+E13	Gene_expression:T89 Theme:T58
+E14	Gene_expression:T89 Theme:T59
+E15	Gene_expression:T89 Theme:T58
+M1	Negation E15
+E16	Gene_expression:T89 Theme:T59
+M2	Negation E16
+E17	Binding:T90 Theme1:T60 Theme2:T62
+E18	Process:T91 
+E19	Process:T92 Participant:T82

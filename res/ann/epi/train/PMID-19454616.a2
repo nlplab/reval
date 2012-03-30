@@ -1,0 +1,8 @@
+*	Equiv T1 T2
+*	Equiv T5 T6
+T12	Glycosylation 243 254	fucosylated
+T13	Glycosylation 278 289	fucosylated
+T14	Glycosylation 695 706	fucosylated
+E1	Glycosylation:T12 Theme:T1
+E2	Glycosylation:T13 Theme:T3
+E3	Glycosylation:T14 Theme:T8

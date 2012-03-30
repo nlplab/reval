@@ -1,0 +1,66 @@
+*	Equiv T7 T8
+T26	Catalysis 46 59	ubiquitinated
+T27	Ubiquitination 46 59	ubiquitinated
+T28	Catalysis 414 426	ubiquitinate
+T29	Ubiquitination 414 426	ubiquitinate
+T30	Entity 563 578	lysine residues
+T31	Catalysis 604 617	ubiquitinated
+T32	Ubiquitination 604 617	ubiquitinated
+T33	Ubiquitination 818 832	ubiquitination
+T34	Entity 865 869	K325
+T35	Entity 871 875	K451
+T36	Entity 877 881	K524
+T37	Entity 883 887	K526
+T38	Entity 889 893	K559
+T39	Entity 899 903	K561
+T40	Ubiquitination 912 925	ubiquitinated
+T41	Entity 963 967	K107
+T42	Entity 969 973	K204
+T43	Entity 975 979	K219
+T44	Entity 981 985	K275
+T45	Entity 987 991	K284
+T46	Entity 993 997	K347
+T47	Entity 999 1003	K399
+T48	Entity 1005 1009	K477
+T49	Entity 1011 1015	K481
+T50	Entity 1017 1021	K538
+T51	Entity 1023 1027	K550
+T52	Entity 1029 1033	K607
+T53	Entity 1039 1043	K623
+T54	Catalysis 1363 1377	ubiquitination
+T55	Ubiquitination 1363 1377	ubiquitination
+E1	Ubiquitination:T27 Theme:T1
+E2	Catalysis:T26 Theme:E1 Cause:T3
+E3	Ubiquitination:T27 Theme:T2
+E4	Catalysis:T26 Theme:E3 Cause:T3
+E5	Ubiquitination:T29 Theme:T10
+E6	Catalysis:T28 Theme:E5 Cause:T7
+E7	Ubiquitination:T29 Theme:T9
+E8	Catalysis:T28 Theme:E7 Cause:T7
+E9	Catalysis:T31 Theme:E12 Cause:T14
+E10	Ubiquitination:T32 Theme:T13 Site:T30
+E11	Catalysis:T31 Theme:E10 Cause:T14
+E12	Ubiquitination:T32 Theme:T12 Site:T30
+E13	Ubiquitination:T33 Theme:T15 Site:T35
+E14	Ubiquitination:T33 Theme:T15 Site:T36
+E15	Ubiquitination:T33 Theme:T15 Site:T37
+E16	Ubiquitination:T33 Theme:T15 Site:T38
+E17	Ubiquitination:T33 Theme:T15 Site:T39
+E18	Ubiquitination:T33 Theme:T15 Site:T34
+E19	Ubiquitination:T40 Theme:T16 Site:T41
+E20	Ubiquitination:T40 Theme:T16 Site:T42
+E21	Ubiquitination:T40 Theme:T16 Site:T43
+E22	Ubiquitination:T40 Theme:T16 Site:T44
+E23	Ubiquitination:T40 Theme:T16 Site:T45
+E24	Ubiquitination:T40 Theme:T16 Site:T46
+E25	Ubiquitination:T40 Theme:T16 Site:T47
+E26	Ubiquitination:T40 Theme:T16 Site:T48
+E27	Ubiquitination:T40 Theme:T16 Site:T49
+E28	Ubiquitination:T40 Theme:T16 Site:T50
+E29	Ubiquitination:T40 Theme:T16 Site:T51
+E30	Ubiquitination:T40 Theme:T16 Site:T52
+E31	Ubiquitination:T40 Theme:T16 Site:T53
+E32	Catalysis:T54 Theme:E35 Cause:T25
+E33	Ubiquitination:T55 Theme:T24
+E34	Catalysis:T54 Theme:E33 Cause:T25
+E35	Ubiquitination:T55 Theme:T23

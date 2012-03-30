@@ -1,0 +1,41 @@
+*	Equiv T17 T18
+T74	Localization 34 43	Secretion
+T75	Binding 549 556	binding
+T76	Gene_expression 851 861	production
+T77	Positive_regulation 956 963	induced
+T78	Gene_expression 974 984	production
+T79	Gene_expression 1343 1351	produced
+T80	Positive_regulation 1383 1394	stimulation
+T81	Process 1480 1488	infected
+T82	Gene_expression 1602 1612	production
+T83	Localization 1777 1786	secretion
+T84	Process 1943 1951	infected
+T85	Process 2084 2093	infection
+T86	Gene_expression 2187 2197	production
+T87	Positive_regulation 2226 2235	triggered
+T88	Gene_expression 2257 2267	production
+T89	Gene_expression 2739 2749	expression
+T90	Localization 2754 2763	secretion
+E1	Localization:T74 Theme:T2
+E2	Binding:T75 Theme1:T8 Theme2:T9
+E3	Gene_expression:T76 Theme:T17
+E4	Positive_regulation:T77 Theme:E5
+E5	Gene_expression:T78 Theme:T19
+E6	Gene_expression:T79 Theme:T24
+E7	Positive_regulation:T80 Theme:E6 Cause:T25
+E8	Positive_regulation:T80 Theme:E6 Cause:T26
+E9	Process:T81 Participant:T28
+E10	Process:T81 Participant:T30
+E11	Process:T81 Participant:T27
+E12	Gene_expression:T82 Theme:T36
+E13	Localization:T83 Theme:T39
+E14	Process:T84 Participant:T43
+E15	Process:T84 Participant:T42
+E16	Process:T85 Participant:T46
+E17	Process:T85 Participant:T45
+E18	Gene_expression:T86 Theme:T48
+E19	Positive_regulation:T87 Theme:E21 Cause:T49
+E20	Positive_regulation:T87 Theme:E21 Cause:T51
+E21	Gene_expression:T88 Theme:T52
+E22	Gene_expression:T89 Theme:T59
+E23	Localization:T90 Theme:T59

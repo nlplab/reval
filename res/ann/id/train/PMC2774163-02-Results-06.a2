@@ -1,0 +1,12 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T5 T6
+T50	Negative_regulation 321 333	inactivation
+T51	Phosphorylation 1899 1914	phosphorylation
+T52	Phosphorylation 1916 1930	phosphorylated
+T53	Negative_regulation 4264 4276	Inactivation
+E1	Negative_regulation:T50 Theme:T5
+E2	Phosphorylation:T51 Theme:T23
+M1	Negation E2
+E3	Phosphorylation:T52 Theme:T23
+E4	Negative_regulation:T53 Theme:T47

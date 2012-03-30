@@ -1,0 +1,7 @@
+T15	Entity 33 36	K36
+T16	Methylation 37 48	methylation
+T17	Entity 449 452	K36
+T18	Methylation 453 464	methylation
+E1	Methylation:T16 Theme:T2 Site:T15
+E2	Methylation:T18 Theme:T7 Site:T17
+M1	Negation E2

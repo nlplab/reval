@@ -1,0 +1,15 @@
+T13	Hydroxylation 935 948	hydroxylation
+T14	Entity 971 978	proline
+T15	Entity 983 998	lysine residues
+T16	Glycosylation 1003 1016	glycosylation
+T17	Entity 1020 1034	hydroxylysines
+T18	Hydroxylation 1151 1165	hydroxylations
+T19	Entity 1169 1174	Pro71
+T20	Entity 1176 1181	Pro76
+T21	Entity 1187 1192	Pro95
+E1	Hydroxylation:T13 Theme:T7 Site:T14
+E2	Hydroxylation:T13 Theme:T7 Site:T15
+E3	Glycosylation:T16 Theme:T7 Site:T17
+E4	Hydroxylation:T18 Theme:T8 Site:T19
+E5	Hydroxylation:T18 Theme:T8 Site:T20
+E6	Hydroxylation:T18 Theme:T8 Site:T21

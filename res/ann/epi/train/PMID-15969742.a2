@@ -1,0 +1,14 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T5 T6
+T19	Acetylation 908 919	acetylation
+T20	Methylation 1176 1187	methylation
+T21	Entity 1205 1213	lysine 4
+T22	Entity 1401 1409	lysine 4
+T23	Methylation 1410 1421	methylation
+E1	Acetylation:T19 Theme:T10 Contextgene:T9
+E2	Acetylation:T19 Theme:T11 Contextgene:T9
+E3	Methylation:T20 Theme:T15 Site:T21 Contextgene:T13
+E4	Methylation:T20 Theme:T15 Site:T21 Contextgene:T14
+E5	Methylation:T23 Theme:T18 Site:T22 Contextgene:T16
+E6	Methylation:T23 Theme:T18 Site:T22 Contextgene:T17

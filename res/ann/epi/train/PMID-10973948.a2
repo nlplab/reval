@@ -1,0 +1,22 @@
+*	Equiv T2 T3 T4
+T13	Methylation 72 92	Methylesterification
+T14	Entity 100 110	C terminus
+T15	Methylation 712 722	methylated
+T16	Entity 743 758	lysine residues
+T17	Methylation 864 875	methylation
+T18	Methylation 1008 1025	methyl esterified
+T19	Methylation 1106 1116	methylated
+T20	Methylation 1532 1544	N-methylated
+T21	Entity 1545 1560	lysine residues
+T22	Methylation 1725 1736	methylation
+T23	Demethylation 1737 1750	demethylation
+T24	Entity 1767 1777	C-terminal
+E1	Methylation:T13 Theme:T1 Site:T14
+E2	Methylation:T15 Theme:T5 Site:T16
+E3	Methylation:T17 Theme:T5
+E4	Methylation:T18 Theme:T6
+E5	Methylation:T19 Theme:T6
+M1	Negation E5
+E6	Methylation:T20 Theme:T10 Site:T21
+E7	Methylation:T22 Theme:T12 Site:T24
+E8	Demethylation:T23 Theme:T12 Site:T24

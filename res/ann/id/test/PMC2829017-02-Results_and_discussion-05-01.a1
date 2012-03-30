@@ -1,0 +1,41 @@
+T1	Organism 85 104	A. pleuropneumoniae
+T2	Organism 204 207	App
+T3	Protein 440 448	APL_1141
+T4	Protein 453 461	APL_0484
+T5	Organism 1430 1448	A. pleuropneumonia
+T6	Organism 1939 1942	pig
+T7	Organism 1955 1958	pig
+T8	Organism 2181 2184	App
+T9	Organism 3122 3141	A. pleuropneumoniae
+T10	Protein 3275 3279	kpsF
+T11	Protein 3281 3286	cps5b
+T12	Protein 3291 3295	cpxC
+T13	Protein 3352 3360	APL_0512
+T14	Protein 3365 3373	APL_0524
+T15	Protein 3439 3443	hktE
+T16	Protein 3445 3448	fur
+T17	Protein 3450 3454	phoR
+T18	Protein 3459 3463	hisH
+T19	Organism 3504 3515	serotypes 8
+T20	Organism 3517 3518	2
+T21	Organism 3520 3522	15
+T22	Organism 3527 3528	7
+T23	Protein 3539 3547	APL_0999
+T24	Organism 3607 3617	serotype 2
+T25	Organism 3619 3620	7
+T26	Organism 3621 3623	11
+T27	Organism 3628 3630	14
+T28	Organism 3744 3747	App
+T29	Organism 3753 3772	A. pleuropneumoniae
+T30	Protein 3875 3879	sohB
+T31	Protein 3881 3885	hbpA
+T32	Protein 3887 3891	kpsF
+T33	Protein 3893 3899	apxIVA
+T34	Protein 3901 3905	phoR
+T35	Protein 3936 3940	nlpI
+T36	Protein 3942 3946	visC
+T37	Protein 3948 3952	proQ
+T38	Protein 3954 3962	APL_1456
+T39	Protein 3964 3972	APL_1135
+T40	Protein 3977 3981	nusG
+T41	Organism 4179 4182	App

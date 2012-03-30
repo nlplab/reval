@@ -1,0 +1,5 @@
+*	Equiv T2 T3
+*	Equiv T7 T8
+*	Equiv T9 T10
+T12	Glycosylation 0 15	N-glycosylation
+E1	Glycosylation:T12 Theme:T1

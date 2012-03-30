@@ -1,0 +1,10 @@
+*	Equiv T1 T2
+T13	Entity 135 142	Pro-564
+T14	Hydroxylation 143 156	hydroxylation
+T15	Hydroxylation 458 471	hydroxylation
+T16	Entity 489 505	proline residues
+T17	Entity 1634 1640	prolyl
+T18	Hydroxylation 1641 1654	hydroxylation
+E1	Hydroxylation:T14 Theme:T1 Site:T13
+E2	Hydroxylation:T15 Theme:T3 Site:T16
+E3	Hydroxylation:T18 Theme:T9 Site:T17

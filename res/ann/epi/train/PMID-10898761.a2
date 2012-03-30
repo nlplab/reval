@@ -1,0 +1,3 @@
+T7	DNA_methylation 920 934	hypomethylated
+E1	DNA_methylation:T7 Theme:T5
+M1	Negation E1

@@ -1,0 +1,13 @@
+T20	Gene_expression 205 215	Expression
+T21	Regulation 244 254	controlled
+T22	Positive_regulation 617 625	promoted
+T23	Regulation 638 658	regulatory mechanism
+T24	Regulation 681 691	regulation
+T25	Binding 742 749	binding
+T26	Entity 757 772	promoter region
+E1	Gene_expression:T20 Theme:T7
+E2	Regulation:T21 Theme:E1 Cause:T8
+E3	Positive_regulation:T22 Theme:T13
+E4	Regulation:T23 Theme:T15 Cause:T16
+E5	Regulation:T24 Theme:T17
+E6	Binding:T25 Theme1:T18 Theme2:T19 Site2:T26

@@ -1,0 +1,11 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+*	Equiv T20 T21
+T33	Ubiquitination 1214 1228	ubiquitination
+T34	Ubiquitination 1319 1333	ubiquitination
+T35	Ubiquitination 1405 1419	ubiquitination
+E1	Ubiquitination:T33 Theme:T29
+E2	Ubiquitination:T34 Theme:T30
+M1	Negation E2
+E3	Ubiquitination:T35 Theme:T32
+M2	Negation E3

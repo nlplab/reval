@@ -1,0 +1,10 @@
+*	Equiv T2 T3
+T8	DNA_methylation 9 20	methylation
+T9	DNA_methylation 248 259	methylation
+T10	DNA_methylation 474 490	Hypermethylation
+T11	DNA_methylation 835 851	hypermethylation
+E1	DNA_methylation:T8 Theme:T1
+E2	DNA_methylation:T9 Theme:T4
+M1	Speculation E2
+E3	DNA_methylation:T10 Theme:T5
+E4	DNA_methylation:T11 Theme:T6

@@ -1,0 +1,4 @@
+T19	Catalysis 783 797	ubiquitination
+T20	Ubiquitination 783 797	ubiquitination
+E1	Ubiquitination:T20 Theme:T14
+E2	Catalysis:T19 Theme:E1 Cause:T13

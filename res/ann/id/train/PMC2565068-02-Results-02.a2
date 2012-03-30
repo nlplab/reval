@@ -1,0 +1,8 @@
+T13	Process 80 89	infection
+T14	Process 133 143	infectious
+T15	Process 272 282	infections
+T16	Process 372 381	infection
+E1	Process:T13 
+E2	Process:T14 
+E3	Process:T15 Participant:T3
+E4	Process:T16 

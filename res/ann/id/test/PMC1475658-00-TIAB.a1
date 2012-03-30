@@ -1,0 +1,16 @@
+T1	Organism 64 74	Drosophila
+T2	Organism 75 86	Pseudomonas
+T3	Organism 236 246	Drosophila
+T4	Organism 346 356	Drosophila
+T5	Organism 396 419	Pseudomonas entomophila
+T6	Organism 448 462	P. entomophila
+T7	Organism 722 736	P. entomophila
+T8	Protein 902 906	AprA
+T9	Organism 957 971	P. entomophila
+T10	Protein 1023 1027	aprA
+T11	Organism 1114 1126	aprA mutants
+T12	Protein 1114 1118	aprA
+T13	Organism 1188 1200	Relish flies
+T14	Organism 1281 1291	Drosophila
+T15	Organism 1387 1401	P. entomophila
+T16	Protein 1553 1563	Diptericin

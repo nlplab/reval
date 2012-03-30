@@ -1,0 +1,17 @@
+T25	Binding 5 14	interacts
+T26	Process 231 240	virulence
+T27	Gene_expression 404 414	expression
+T28	Regulation 422 431	regulated
+T29	Binding 627 634	binding
+T30	Binding 902 909	binding
+T31	Binding 1567 1574	complex
+T32	Binding 1941 1948	complex
+E1	Binding:T25 Theme:T1
+E2	Process:T26 
+E3	Gene_expression:T27 Theme:T4
+E4	Regulation:T28 Theme:E3
+E5	Binding:T29 Theme1:T5 Theme2:T6
+M1	Speculation E5
+E6	Binding:T30 Theme1:T7 Theme2:T9
+E7	Binding:T31 Theme1:T19 Theme2:T20
+E8	Binding:T32 Theme1:T23 Theme2:T24

@@ -1,0 +1,16 @@
+*	Equiv T2 T3
+*	Equiv T5 T6
+T18	Ubiquitination 0 18	Polyubiquitination
+T19	Ubiquitination 587 601	Ubiquitination
+T20	Ubiquitination 822 836	ubiquitination
+T21	Ubiquitination 990 1008	monoubiquitination
+T22	Ubiquitination 1013 1031	polyubiquitination
+T23	Ubiquitination 1176 1194	polyubiquitination
+T24	Ubiquitination 1402 1416	ubiquitination
+E1	Ubiquitination:T18 Theme:T1
+E2	Ubiquitination:T19 Theme:T8
+E3	Ubiquitination:T20 Theme:T11
+E4	Ubiquitination:T21 Theme:T12
+E5	Ubiquitination:T22 Theme:T12
+E6	Ubiquitination:T23 Theme:T14
+E7	Ubiquitination:T24 Theme:T17

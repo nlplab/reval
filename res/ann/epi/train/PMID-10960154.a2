@@ -1,0 +1,3 @@
+T19	Entity 1381 1397	oligosaccharides
+T20	Glycosylation 1398 1406	attached
+E1	Glycosylation:T20 Theme:T18 Sidechain:T19

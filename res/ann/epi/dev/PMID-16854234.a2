@@ -1,0 +1,11 @@
+T15	Deacetylation 135 148	deacetylation
+T16	Deacetylation 191 204	deacetylation
+T17	Deacetylation 398 411	deacetylation
+T18	Deacetylation 541 554	deacetylation
+T19	DNA_methylation 1105 1120	DNA methylation
+E1	Deacetylation:T15 Theme:T1
+E2	Deacetylation:T16 Theme:T2
+E3	Deacetylation:T17 Theme:T3
+E4	Deacetylation:T18 Theme:T4
+E5	DNA_methylation:T19 Theme:T5
+E6	DNA_methylation:T19 Theme:T6

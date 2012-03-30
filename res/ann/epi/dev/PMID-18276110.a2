@@ -1,0 +1,5 @@
+*	Equiv T4 T5
+T18	Catalysis 26 34	mediates
+T19	Ubiquitination 35 49	ubiquitination
+E1	Catalysis:T18 Theme:E2 Cause:T2
+E2	Ubiquitination:T19 Theme:T3

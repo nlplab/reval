@@ -1,0 +1,8 @@
+T5	Acetylation 142 152	acetylated
+T6	Entity 156 165	lysine 16
+T7	Acetylation 343 353	acetylated
+T8	Entity 357 365	lysine 8
+T9	Acetylation 471 481	acetylated
+E1	Acetylation:T5 Theme:T2 Site:T6
+E2	Acetylation:T7 Theme:T3 Site:T8
+E3	Acetylation:T9 Theme:T4

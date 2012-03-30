@@ -1,0 +1,76 @@
+T1	Organism 200 217	P. gingivalis W83
+T2	Organism 349 362	P. gingivalis
+T3	Two-component-system 414 423	FimS/FimR
+T4	Protein 414 418	FimS
+T5	Protein 419 423	FimR
+T6	Protein 445 449	fimA
+T7	Protein 486 500	minor fimbriae
+T8	Protein 502 506	mfa1
+T9	Organism 513 524	fimR mutant
+T10	Protein 513 517	fimR
+T11	Protein 596 600	mfa1
+T12	Organism 604 617	P. gingivalis
+T13	Organism 646 657	fimR mutant
+T14	Protein 646 650	fimR
+T15	Two-component-system 677 686	FimS/FimR
+T16	Protein 677 681	FimS
+T17	Protein 682 686	FimR
+T18	Protein 726 730	mfa1
+T19	Two-component-system 834 843	FimS/FimR
+T20	Protein 834 838	FimS
+T21	Protein 839 843	FimR
+T22	Protein 970 974	fimA
+T23	Protein 989 993	FimR
+T24	Protein 1051 1055	FimR
+T25	Protein 1105 1109	fimA
+T26	Protein 1173 1177	FimR
+T27	Protein 1223 1227	mfa1
+T28	Protein 1262 1266	FimR
+T29	Protein 1284 1288	mfa1
+T30	Protein 1375 1379	fimA
+T31	Protein 1399 1403	fimA
+T32	Protein 1453 1457	fimA
+T33	Organism 1472 1485	P. gingivalis
+T34	Protein 1552 1556	fimA
+T35	Protein 1571 1575	FimR
+T36	Protein 1691 1695	mfa1
+T37	Protein 2093 2098	rFimR
+T38	Chemical 2116 2132	acetyl phosphate
+T39	Organism 2210 2223	P. gingivalis
+T40	Protein 2224 2228	FimR
+T41	Organism 2334 2354	Streptococcus mutans
+T42	Protein 2399 2403	CovR
+T43	Protein 2491 2495	FimR
+T44	Protein 2702 2706	mfa1
+T45	Protein 2989 2993	mfa1
+T46	Protein 3138 3142	FimR
+T47	Protein 3270 3274	mfa1
+T48	Two-component-system 3298 3307	FimS/FimR
+T49	Protein 3298 3302	FimS
+T50	Protein 3303 3307	FimR
+T51	Organism 3399 3406	E. coli
+T52	Chemical 3463 3470	acetate
+T53	Protein 3559 3564	acsP1
+T54	Protein 3582 3587	acsP2
+T55	Organism 3723 3736	P. gingivalis
+T56	Protein 3737 3741	fimA
+T57	Protein 3847 3851	FimR
+T58	Protein 3940 3944	FimR
+T59	Protein 3995 3999	mfa1
+T60	Organism 4066 4077	S. gordonii
+T61	Organism 4079 4091	S. sanguinis
+T62	Organism 4096 4104	S. mitis
+T63	Protein 4163 4167	mfa1
+T64	Protein 4217 4221	mfa1
+T65	Organism 4348 4361	P. gingivalis
+T66	Organism 4773 4786	P. gingivalis
+T67	Two-component-system 5121 5130	FimS/FimR
+T68	Protein 5121 5125	FimS
+T69	Protein 5126 5130	FimR
+T70	Protein 5146 5160	major fimbriae
+T71	Protein 5162 5166	FimA
+T72	Organism 5192 5203	fimR mutant
+T73	Protein 5192 5196	fimR
+T74	Protein 5209 5223	minor fimbriae
+T75	Protein 5308 5312	FimR
+T76	Organism 5359 5372	P. gingivalis

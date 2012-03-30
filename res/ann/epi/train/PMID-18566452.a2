@@ -1,0 +1,4 @@
+T16	Catalysis 1405 1419	ubiquitylation
+T17	Ubiquitination 1405 1419	ubiquitylation
+E1	Ubiquitination:T17 Theme:T10
+E2	Catalysis:T16 Theme:E1 Cause:T11

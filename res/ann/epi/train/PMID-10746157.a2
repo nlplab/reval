@@ -1,0 +1,13 @@
+*	Equiv T4 T5
+T19	Acetylation 23 34	acetylation
+T20	Acetylation 207 218	acetylation
+T21	Acetylation 391 402	acetylation
+T22	Acetylation 729 740	acetylation
+T23	Acetylation 1309 1320	acetylation
+T24	Acetylation 1518 1529	acetylation
+E1	Acetylation:T19 Theme:T1
+E2	Acetylation:T20 Theme:T3
+E3	Acetylation:T21 Theme:T6
+E4	Acetylation:T22 Theme:T9
+E5	Acetylation:T23 Theme:T15
+E6	Acetylation:T24 Theme:T17

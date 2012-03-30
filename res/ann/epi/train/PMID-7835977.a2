@@ -1,0 +1,4 @@
+T11	Glycosylation 8 21	glycosylation
+T12	Deglycosylation 433 448	deglycosylation
+E1	Glycosylation:T11 Theme:T1
+E2	Deglycosylation:T12 Theme:T3

@@ -1,0 +1,10 @@
+*	Equiv T9 T10
+T14	Acetylation 52 67	hypoacetylation
+T15	Acetylation 164 179	hypoacetylation
+T16	Acetylation 1003 1018	hypoacetylation
+E1	Acetylation:T14 Theme:T2
+M1	Negation E1
+E2	Acetylation:T15 Theme:T4
+M2	Negation E2
+E3	Acetylation:T16 Theme:T12
+M3	Negation E3

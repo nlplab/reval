@@ -1,0 +1,4 @@
+T7	Glycosylation 277 290	serine-linked
+T8	Entity 277 283	serine
+T9	Entity 291 307	oligosaccharides
+E1	Glycosylation:T7 Theme:T2 Site:T8 Sidechain:T9

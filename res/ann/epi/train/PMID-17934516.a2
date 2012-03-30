@@ -1,0 +1,5 @@
+*	Equiv T4 T5
+*	Equiv T18 T19
+*	Equiv T26 T27
+T30	Ubiquitination 1492 1506	ubiquitination
+E1	Ubiquitination:T30 Theme:T29

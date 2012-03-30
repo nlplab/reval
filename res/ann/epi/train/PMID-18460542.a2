@@ -1,0 +1,30 @@
+*	Equiv T5 T6
+*	Equiv T15 T16
+T39	Ubiquitination 53 67	ubiquitination
+T40	Ubiquitination 358 372	ubiquitination
+T41	Ubiquitination 468 482	ubiquitination
+T42	Entity 823 831	promoter
+T43	DNA_methylation 862 877	hypermethylated
+T44	Ubiquitination 948 962	ubiquitination
+T45	DNA_demethylation 967 984	DNA demethylation
+T46	Entity 1028 1036	promoter
+T47	Ubiquitination 1099 1113	ubiquitination
+T48	Catalysis 1142 1150	mediated
+T49	Entity 1153 1156	K27
+T50	Methylation 1157 1171	trimethylation
+T51	Entity 1304 1307	K27
+T52	Methylation 1308 1322	trimethylation
+T53	Ubiquitination 1328 1342	ubiquitination
+T54	Ubiquitination 1427 1441	ubiquitination
+E1	Ubiquitination:T39 Theme:T3
+E2	Ubiquitination:T40 Theme:T8
+E3	Ubiquitination:T41 Theme:T10
+E4	DNA_methylation:T43 Theme:T21 Site:T42
+E5	Ubiquitination:T44 Theme:T23
+E6	DNA_demethylation:T45 Theme:T25 Site:T46
+E7	Ubiquitination:T47 Theme:T28
+E8	Catalysis:T48 Theme:E9 Cause:T29
+E9	Methylation:T50 Theme:T30 Site:T49 Contextgene:T25
+E10	Methylation:T52 Theme:T34 Site:T51 Contextgene:T25
+E11	Ubiquitination:T53 Theme:T35
+E12	Ubiquitination:T54 Theme:T37

@@ -1,0 +1,21 @@
+*	Equiv T12 T13
+T21	Acetylation 291 302	acetylation
+T22	Acetylation 322 333	acetylation
+T23	Phosphorylation 373 388	phosphorylation
+T24	Catalysis 726 734	mediated
+T25	Acetylation 735 746	acetylation
+T26	Acetylation 827 838	acetylation
+T27	Catalysis 871 880	catalyzes
+T28	Dephosphorylation 881 898	dephosphorylation
+T29	Phosphorylation 1139 1154	phosphorylation
+T30	Acetylation 1159 1170	acetylation
+E1	Acetylation:T21 Theme:T5
+E2	Acetylation:T22 Theme:T6
+E3	Phosphorylation:T23 Theme:T7
+E4	Catalysis:T24 Theme:E5 Cause:T15
+E5	Acetylation:T25 Theme:T14
+E6	Acetylation:T26 Theme:T16
+E7	Catalysis:T27 Theme:E8 Cause:T17
+E8	Dephosphorylation:T28 Theme:T18
+E9	Phosphorylation:T29 Theme:T20
+E10	Acetylation:T30 Theme:T20

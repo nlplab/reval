@@ -1,0 +1,13 @@
+T20	Acetylation 6 17	acetylation
+T21	Acetylation 223 233	acetylated
+T22	Entity 237 247	lysine 250
+T23	Acetylation 344 355	acetylation
+T24	Acetylation 399 410	acetylation
+T25	Acetylation 638 649	acetylation
+T26	Acetylation 1091 1102	acetylation
+E1	Acetylation:T20 Theme:T1
+E2	Acetylation:T21 Theme:T3 Site:T22
+E3	Acetylation:T23 Theme:T6
+E4	Acetylation:T24 Theme:T7
+E5	Acetylation:T25 Theme:T11
+E6	Acetylation:T26 Theme:T18

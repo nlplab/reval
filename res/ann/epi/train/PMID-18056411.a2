@@ -1,0 +1,7 @@
+*	Equiv T2 T3
+T15	Ubiquitination 568 585	polyubiquitinated
+T16	Ubiquitination 715 729	ubiquitination
+T17	Ubiquitination 1120 1134	ubiquitination
+E1	Ubiquitination:T15 Theme:T4
+E2	Ubiquitination:T16 Theme:T9
+E3	Ubiquitination:T17 Theme:T13

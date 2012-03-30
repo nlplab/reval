@@ -1,0 +1,38 @@
+T82	Regulation 0 4	Role
+T83	Process 21 30	Virulence
+T84	Process 257 267	resistance
+T85	Process 300 310	resistance
+T86	Process 853 862	infection
+T87	Regulation 907 911	role
+T88	Process 928 937	virulence
+T89	Process 1203 1212	infection
+T90	Process 1258 1266	infected
+T91	Process 1283 1292	avirulent
+T92	Process 1460 1470	challenged
+T93	Positive_regulation 1799 1813	reintroduction
+T94	Process 1920 1930	infections
+T95	Process 2251 2260	virulence
+T96	Negative_regulation 2261 2272	attenuation
+T97	Process 2423 2431	infected
+T98	Process 2788 2799	coinfection
+T99	Process 3192 3201	infection
+E1	Regulation:T82 Theme:E2 Cause:T1
+M1	Speculation E1
+E2	Process:T83 
+E3	Process:T84 
+E4	Process:T85 Participant:T10
+E5	Process:T86 
+E6	Regulation:T87 Theme:E7 Cause:T23
+M2	Speculation E6
+E7	Process:T88 
+E8	Process:T89 
+E9	Process:T90 Participant:T28
+E10	Process:T91 Participant:T28
+E11	Process:T92 Participant:T30
+E12	Positive_regulation:T93 Theme:T42
+E13	Process:T94 Participant:T50
+E14	Process:T95 Participant:T58
+E15	Negative_regulation:T96 Theme:E14
+E16	Process:T97 
+E17	Process:T98 Participant:T69
+E18	Process:T99 Participant:T81

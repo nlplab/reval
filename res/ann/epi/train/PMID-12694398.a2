@@ -1,0 +1,6 @@
+*	Equiv T4 T5
+*	Equiv T7 T8
+*	Equiv T9 T10
+T23	Glycosylation 1083 1097	N-glycosylated
+E1	Glycosylation:T23 Theme:T17
+E2	Glycosylation:T23 Theme:T18

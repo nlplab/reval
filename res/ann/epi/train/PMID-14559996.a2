@@ -1,0 +1,19 @@
+*	Equiv T8 T9
+*	Equiv T22 T23 T24 T25
+*	Equiv T26 T27
+T35	Methylation 669 678	methylate
+T36	Catalysis 669 678	methylate
+T37	Deacetylation 679 693	hypoacetylated
+T38	Acetylation 735 750	hyperacetylated
+E1	Catalysis:T36 Theme:E8 Cause:T13
+E2	Methylation:T35 Theme:T17
+E3	Catalysis:T36 Theme:E2 Cause:T13
+E4	Methylation:T35 Theme:T14
+E5	Catalysis:T36 Theme:E4 Cause:T13
+E6	Methylation:T35 Theme:T15
+E7	Catalysis:T36 Theme:E6 Cause:T13
+E8	Methylation:T35 Theme:T16
+E9	Deacetylation:T37 Theme:T14
+E10	Deacetylation:T37 Theme:T15
+E11	Acetylation:T38 Theme:T16
+E12	Acetylation:T38 Theme:T17

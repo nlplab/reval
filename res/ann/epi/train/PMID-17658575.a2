@@ -1,0 +1,5 @@
+T4	Entity 0 12	High-mannose
+T5	Deglycosylation 22 37	deglycosylation
+T6	Deglycosylation 746 761	deglycosylation
+E1	Deglycosylation:T5 Theme:T1 Sidechain:T4
+E2	Deglycosylation:T6 Theme:T3

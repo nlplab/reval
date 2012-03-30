@@ -1,0 +1,7 @@
+*	Equiv T1 T2
+T17	Glycosylation 666 680	O glycosylated
+T18	Glycosylation 884 897	glycosylation
+T19	Glycosylation 1271 1283	glycosylated
+E1	Glycosylation:T17 Theme:T6
+E2	Glycosylation:T18 Theme:T10
+E3	Glycosylation:T19 Theme:T13

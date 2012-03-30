@@ -1,0 +1,24 @@
+*	Equiv T4 T5
+T22	Acetylation 179 188	acetylate
+T23	Catalysis 179 188	acetylate
+T24	Entity 193 202	N termini
+T25	Acetylation 494 505	acetylation
+T26	Catalysis 494 505	acetylation
+T27	Entity 568 578	N terminus
+T28	Entity 1183 1200	N-terminal serine
+T29	Acetylation 1201 1212	acetylation
+T30	Acetylation 1243 1254	acetylation
+T31	Entity 1272 1279	lysines
+T32	Entity 1287 1304	N-terminal serine
+T33	Acetylation 1305 1316	acetylation
+E1	Acetylation:T22 Theme:T6 Site:T24
+E2	Catalysis:T23 Theme:E1 Cause:T4
+E3	Acetylation:T22 Theme:T7 Site:T24
+E4	Catalysis:T23 Theme:E3 Cause:T4
+E5	Acetylation:T25 Theme:T11 Site:T27
+E6	Catalysis:T26 Theme:E5 Cause:T10
+E7	Acetylation:T29 Theme:T19 Site:T28
+M1	Negation E7
+E8	Acetylation:T30 Theme:T19 Site:T31
+M2	Negation E8
+E9	Acetylation:T33 Theme:T20 Site:T32

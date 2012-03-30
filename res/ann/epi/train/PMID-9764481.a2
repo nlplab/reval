@@ -1,0 +1,5 @@
+*	Equiv T2 T3
+T14	Glycosylation 713 725	glycosylated
+T15	Glycosylation 850 865	N-glycosylation
+E1	Glycosylation:T14 Theme:T7
+E2	Glycosylation:T15 Theme:T9

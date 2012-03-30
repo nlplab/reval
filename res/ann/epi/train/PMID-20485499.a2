@@ -1,0 +1,16 @@
+*	Equiv T2 T3
+*	Equiv T4 T5 T6
+*	Equiv T7 T8 T9
+T23	Entity 915 926	proline 986
+T24	Hydroxylation 927 942	3-hydroxylation
+T25	Dehydroxylation 994 998	loss
+T26	Entity 1010 1021	proline 986
+T27	Entity 1076 1086	3Hyp sites
+T28	Hydroxylation 1158 1173	3-hydroxylation
+T29	Hydroxylation 1374 1388	3-hydroxylates
+T30	Entity 1399 1406	proline
+E1	Hydroxylation:T24 Theme:T13 Site:T23
+E2	Hydroxylation:T24 Theme:T14 Site:T23
+E3	Dehydroxylation:T25 Theme:T15 Site:T26
+E4	Hydroxylation:T28 Theme:T16 Site:T27
+E5	Hydroxylation:T29 Theme:T22 Site:T30

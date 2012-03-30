@@ -1,0 +1,9 @@
+T17	Ubiquitination 563 577	ubiquitination
+T18	Ubiquitination 1141 1155	ubiquitination
+T19	Ubiquitination 1306 1320	ubiquitination
+T20	Ubiquitination 1485 1499	ubiquitination
+E1	Ubiquitination:T17 Theme:T8
+M1	Negation E1
+E2	Ubiquitination:T18 Theme:T13
+E3	Ubiquitination:T19 Theme:T14
+E4	Ubiquitination:T20 Theme:T16

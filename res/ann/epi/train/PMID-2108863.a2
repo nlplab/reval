@@ -1,0 +1,5 @@
+*	Equiv T23 T24
+T22	Glycosylation 732 744	glycosylated
+T23	Entity 792 811	N-acetylglucosamine
+T24	Entity 813 819	GlcNAc
+E1	Glycosylation:T22 Theme:T14 Sidechain:T23

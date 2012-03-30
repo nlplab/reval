@@ -1,0 +1,6 @@
+T7	Entity 237 265	glycosylphosphatidylinositol
+T8	Glycosylation 266 274	anchored
+T9	Entity 700 721	N-glycosylation sites
+T10	Glycosylation 743 755	glycosylated
+E1	Glycosylation:T8 Theme:T2 Sidechain:T7
+E2	Glycosylation:T10 Theme:T2 Site:T9

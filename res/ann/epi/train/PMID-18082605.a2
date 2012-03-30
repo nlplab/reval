@@ -1,0 +1,22 @@
+T22	Deubiquitination 0 16	Deubiquitination
+T23	Ubiquitination 66 84	Monoubiquitination
+T24	Deubiquitination 276 283	removes
+T25	Catalysis 276 283	removes
+T26	Ubiquitination 511 529	monoubiquitination
+T27	Ubiquitination 664 681	monoubiquitinated
+T28	Ubiquitination 719 737	monoubiquitination
+T29	Deubiquitination 1080 1096	deubiquitination
+T30	Ubiquitination 1113 1131	monoubiquitination
+E1	Deubiquitination:T22 Theme:T1
+E2	Ubiquitination:T23 Theme:T2
+E3	Ubiquitination:T23 Theme:T3
+E4	Deubiquitination:T24 Theme:T8
+E5	Deubiquitination:T24 Theme:T9
+E6	Catalysis:T25 Theme:E4 Cause:T6
+E7	Catalysis:T25 Theme:E5 Cause:T6
+E8	Ubiquitination:T26 Theme:T12
+E9	Ubiquitination:T26 Theme:T13
+E10	Ubiquitination:T27 Theme:T14
+E11	Ubiquitination:T28 Theme:T15
+E12	Deubiquitination:T29 Theme:T19
+E13	Ubiquitination:T30 Theme:T20

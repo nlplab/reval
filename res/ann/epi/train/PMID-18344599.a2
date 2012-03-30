@@ -1,0 +1,28 @@
+*	Equiv T6 T7
+*	Equiv T10 T11
+T31	Catalysis 25 38	ubiquitylates
+T32	Ubiquitination 25 38	ubiquitylates
+T33	Catalysis 142 155	ubiquitylates
+T34	Ubiquitination 142 155	ubiquitylates
+T35	Catalysis 602 620	poly-ubiquitylated
+T36	Ubiquitination 602 620	poly-ubiquitylated
+T37	Catalysis 926 933	mediate
+T38	Ubiquitination 938 947	formation
+T39	Catalysis 1048 1057	mediating
+T40	Ubiquitination 1058 1077	poly-ubiquitylation
+E1	Catalysis:T31 Theme:E2 Cause:T1
+E2	Ubiquitination:T32 Theme:T2
+E3	Ubiquitination:T34 Theme:T5
+E4	Ubiquitination:T34 Theme:T6
+E5	Ubiquitination:T34 Theme:T8
+E6	Ubiquitination:T34 Theme:T9
+E7	Catalysis:T33 Theme:E3 Cause:T3
+E8	Catalysis:T33 Theme:E4 Cause:T3
+E9	Catalysis:T33 Theme:E5 Cause:T3
+E10	Catalysis:T33 Theme:E6 Cause:T3
+E11	Ubiquitination:T36 Theme:T18
+E12	Catalysis:T35 Theme:E11 Cause:T17
+E13	Catalysis:T37 Theme:E14 Cause:T23
+E14	Ubiquitination:T38 Theme:T26
+E15	Catalysis:T39 Theme:E16 Cause:T27
+E16	Ubiquitination:T40 Theme:T29

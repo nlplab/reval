@@ -1,0 +1,6 @@
+T20	Ubiquitination 228 241	ubiquitinated
+T21	Phosphorylation 813 827	phosphorylated
+T22	Ubiquitination 1000 1013	ubiquitinated
+E1	Ubiquitination:T20 Theme:T3
+E2	Phosphorylation:T21 Theme:T13
+E3	Ubiquitination:T22 Theme:T17

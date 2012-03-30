@@ -1,0 +1,62 @@
+T1	Protein 12 16	VicK
+T2	Organism 33 44	B. subtilis
+T3	Organism 53 62	S. aureus
+T4	Organism 78 91	S. pneumoniae
+T5	Organism 97 106	S. mutans
+T6	Organism 116 127	S. pyogenes
+T7	Protein 161 165	vicK
+T8	Organism 174 181	S. equi
+T9	Protein 189 193	VicK
+T10	Organism 214 221	S. equi
+T11	Organism 236 252	DeltavicK mutant
+T12	Protein 241 245	vicK
+T13	Organism 288 293	mouse
+T14	Organism 332 339	S. equi
+T15	Two-component-system 368 373	VicRK
+T16	Protein 368 372	VicR
+T17	Protein 372 373	K
+T18	Two-component-system 464 469	VicRK
+T19	Protein 464 468	VicR
+T20	Protein 468 469	K
+T21	Organism 511 535	S. equi DeltavicK mutant
+T22	Protein 524 528	vicK
+T23	Protein 625 629	vicK
+T24	Organism 729 736	S. equi
+T25	Organism 754 759	mouse
+T26	Organism 863 879	DeltavicK mutant
+T27	Protein 868 872	vicK
+T28	Two-component-system 946 951	VicRK
+T29	Protein 946 950	VicR
+T30	Protein 950 951	K
+T31	Organism 987 994	S. equi
+T32	Two-component-system 1093 1098	vicRK
+T33	Protein 1093 1097	vicR
+T34	Protein 1097 1098	K
+T35	Organism 1229 1253	S. equi DeltavicK mutant
+T36	Protein 1242 1246	vicK
+T37	Organism 1282 1310	S. pyogenes DeltavicK mutant
+T38	Protein 1299 1303	vicK
+T39	Two-component-system 1391 1396	vicRK
+T40	Protein 1391 1395	vicR
+T41	Protein 1395 1396	K
+T42	Organism 1445 1461	DeltavicK mutant
+T43	Protein 1450 1454	vicK
+T44	Organism 1569 1574	mouse
+T45	Organism 1603 1612	DeltavicK
+T46	Protein 1608 1612	vicK
+T47	Organism 1634 1638	mice
+T48	Organism 1683 1690	S. equi
+T49	Organism 1713 1717	mice
+T50	Organism 1734 1743	DeltavicK
+T51	Protein 1739 1743	vicK
+T52	Protein 1770 1773	IgA
+T53	Protein 1787 1790	IgG
+T54	Protein 1822 1825	SeM
+T55	Organism 1844 1853	DeltavicK
+T56	Protein 1849 1853	vicK
+T57	Organism 1903 1919	DeltavicK mutant
+T58	Protein 1908 1912	vicK
+T59	Organism 1961 1968	S. equi
+T60	Organism 2011 2017	horses
+T61	Organism 2024 2031	S. equi
+T62	Organism 2058 2062	mice

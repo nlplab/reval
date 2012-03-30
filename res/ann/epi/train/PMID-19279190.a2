@@ -1,0 +1,10 @@
+T8	Ubiquitination 5 24	mono-ubiquitination
+T9	Ubiquitination 145 164	mono-ubiquitination
+T10	Ubiquitination 430 449	mono-ubiquitination
+T11	Ubiquitination 559 577	mono-ubiquitinated
+T12	Ubiquitination 1187 1206	mono-ubiquitination
+E1	Ubiquitination:T8 Theme:T1
+E2	Ubiquitination:T9 Theme:T2
+E3	Ubiquitination:T10 Theme:T3
+E4	Ubiquitination:T11 Theme:T4
+E5	Ubiquitination:T12 Theme:T7

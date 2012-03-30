@@ -1,0 +1,12 @@
+*	Equiv T3 T4
+*	Equiv T16 T18
+T14	Entity 39 48	lysine 27
+T15	DNA_methylation 49 63	trimethylation
+T16	Entity 229 238	lysine 27
+T17	Methylation 239 253	trimethylation
+T18	Entity 257 260	K27
+T19	Entity 272 274	K9
+T20	Methylation 275 288	dimethylation
+E1	DNA_methylation:T15 Theme:T1 Site:T14
+E2	Methylation:T17 Theme:T3 Site:T16
+E3	Methylation:T20 Theme:T5 Site:T19

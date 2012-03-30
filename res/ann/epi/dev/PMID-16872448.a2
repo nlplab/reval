@@ -1,0 +1,4 @@
+T7	DNA_methylation 716 727	methylation
+T8	DNA_methylation 1328 1343	DNA methylation
+E1	DNA_methylation:T7 Theme:T3
+E2	DNA_methylation:T8 Theme:T6

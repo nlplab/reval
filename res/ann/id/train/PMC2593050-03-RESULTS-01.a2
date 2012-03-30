@@ -1,0 +1,8 @@
+T35	Process 820 829	resistant
+T36	Process 1042 1052	resistance
+T37	Process 1134 1144	resistance
+T38	Process 1224 1233	resistant
+E1	Process:T35 
+E2	Process:T36 
+E3	Process:T37 
+E4	Process:T38 

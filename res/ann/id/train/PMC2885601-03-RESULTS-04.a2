@@ -1,0 +1,4 @@
+T37	Positive_regulation 1018 1025	cleaves
+T38	Protein_catabolism 1018 1025	cleaves
+E1	Protein_catabolism:T38 Theme:T29
+E2	Positive_regulation:T37 Theme:E1 Cause:T27

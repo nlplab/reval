@@ -1,0 +1,25 @@
+T1	Organism 384 389	OG1RF
+T2	Organism 440 445	OG1RF
+T3	Protein 459 465	EF0672
+T4	Protein 470 476	EF0673
+T5	Organism 503 508	OG1RF
+T6	Protein 522 528	EF2062
+T7	Protein 533 539	EF2063
+T8	Organism 616 621	OG1RF
+T9	Protein 1180 1188	Cas_csn1
+T10	Protein 1214 1218	Cas1
+T11	Protein 1237 1241	Cas2
+T12	Protein 1280 1288	Cas_csn2
+T13	Protein 1346 1354	cas_csn1
+T14	Organism 1493 1498	OG1RF
+T15	Organism 1671 1682	E. faecalis
+T16	Organism 1811 1822	E. faecalis
+T17	Protein 1926 1930	csn1
+T18	Protein 1935 1939	cas1
+T19	Protein 2003 2009	EF0672
+T20	Protein 2014 2020	EF0673
+T21	Protein 2264 2270	EF0672
+T22	Protein 2275 2281	EF0673
+T23	Organism 2305 2309	V583
+T24	Chemical 2342 2352	vancomycin
+T25	Organism 2472 2477	OG1RF

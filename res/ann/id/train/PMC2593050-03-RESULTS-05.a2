@@ -1,0 +1,22 @@
+T16	Process 10 19	Infection
+T17	Negative_regulation 28 38	Protection
+T18	Process 55 66	Reinfection
+T19	Process 117 126	infection
+T20	Process 160 169	infection
+T21	Process 228 237	infection
+T22	Process 242 252	reinfected
+T23	Process 329 338	infection
+T24	Process 397 408	reinfection
+T25	Process 450 459	infection
+T26	Process 493 502	infection
+E1	Process:T16 Participant:T1
+E2	Negative_regulation:T17 Theme:E3 Cause:E1
+E3	Process:T18 Participant:T4
+E4	Process:T19 Participant:T5
+E5	Process:T20 Participant:T7
+E6	Process:T21 Participant:T9
+E7	Process:T22 Participant:T11
+E8	Process:T23 
+E9	Process:T24 
+E10	Process:T25 Participant:T13
+E11	Process:T26 Participant:T15

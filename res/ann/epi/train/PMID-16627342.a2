@@ -1,0 +1,9 @@
+*	Equiv T2 T3
+T11	Glycosylation 25 37	glycosylated
+T12	Glycosylation 929 942	glycosylation
+T13	Glycosylation 1052 1065	glycosylation
+T14	Glycosylation 1219 1231	glycosylated
+E1	Glycosylation:T11 Theme:T1
+E2	Glycosylation:T12 Theme:T5
+E3	Glycosylation:T13 Theme:T7
+E4	Glycosylation:T14 Theme:T8

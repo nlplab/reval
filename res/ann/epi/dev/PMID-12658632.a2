@@ -1,0 +1,32 @@
+*	Equiv T7 T8
+T5	DNA_methylation 11 22	methylation
+T6	DNA_methylation 407 418	methylation
+T7	Entity 422 456	differentially methylated region 2
+T8	Entity 458 462	DMR2
+T9	DNA_methylation 559 570	methylation
+T10	Entity 587 591	DMR2
+T11	DNA_demethylation 595 607	demethylated
+T12	DNA_demethylation 713 726	demethylation
+T13	DNA_demethylation 892 911	methylation erasure
+T14	Entity 921 925	DMR2
+T15	DNA_methylation 1105 1116	methylation
+T16	Entity 1127 1131	DMR2
+T17	Entity 1160 1169	CpG sites
+T18	DNA_demethylation 1188 1201	demethylation
+T19	DNA_demethylation 1302 1315	demethylation
+T20	DNA_methylation 1456 1467	methylation
+T21	Entity 1471 1475	DMR2
+T22	DNA_demethylation 1638 1651	demethylation
+E1	DNA_methylation:T5 Theme:T1
+E2	DNA_methylation:T6 Theme:T2 Site:T7
+E3	DNA_methylation:T9 Theme:T2
+E4	DNA_demethylation:T11 Theme:T2 Site:T10
+E5	DNA_demethylation:T12 Theme:T2 Site:T10
+E6	DNA_demethylation:T13 Theme:T3 Site:T14
+E7	DNA_methylation:T15 Theme:T3 Site:T16
+M1	Speculation E7
+E8	DNA_demethylation:T18 Theme:T3 Site:T17
+E9	DNA_demethylation:T19 Theme:T3 Site:T17
+E10	DNA_methylation:T20 Theme:T3 Site:T21
+M2	Speculation E10
+E11	DNA_demethylation:T22 Theme:T3 Site:T21

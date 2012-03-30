@@ -1,0 +1,47 @@
+T1	Protein 0 11	Histone H2B
+T2	Protein 51 68	FLOWERING LOCUS C
+T3	Protein 147 154	histone
+T4	Protein 298 301	H2B
+T5	Protein 322 325	H2B
+T6	Protein 364 391	HISTONE MONOUBIQUITINATION1
+T7	Protein 393 397	HUB1
+T8	Protein 403 407	HUB2
+T9	Protein 459 463	UBC1
+T10	Protein 468 472	UBC3
+T11	Protein 475 479	hub1
+T12	Protein 484 488	hub2
+T13	Protein 514 517	H2B
+T14	Protein 562 566	ubc1
+T15	Protein 568 572	ubc2
+T16	Protein 577 581	ubc3
+T17	Protein 621 625	ubc1
+T18	Protein 626 630	ubc2
+T19	Protein 675 679	ubc3
+T20	Protein 706 709	H2B
+T21	Protein 741 745	ubc1
+T22	Protein 750 754	ubc2
+T23	Protein 774 778	ubc3
+T24	Protein 866 870	HUB1
+T25	Protein 875 879	HUB2
+T26	Protein 914 918	UBC1
+T27	Protein 923 927	UBC2
+T28	Protein 976 993	FLOWERING LOCUS C
+T29	Protein 995 998	FLC
+T30	Protein 1034 1038	hub1
+T31	Protein 1040 1044	hub2
+T32	Protein 1050 1054	ubc1
+T33	Protein 1055 1059	ubc2
+T34	Protein 1090 1093	H2B
+T35	Protein 1119 1122	FLC
+T36	Protein 1147 1151	UBC1
+T37	Protein 1152 1153	2
+T38	Protein 1158 1162	HUB1
+T39	Protein 1163 1164	2
+T40	Protein 1200 1211	histones H3
+T41	Protein 1221 1223	H3
+T42	Protein 1257 1260	H2B
+T43	Protein 1265 1269	UBC1
+T44	Protein 1270 1271	2
+T45	Protein 1276 1280	HUB1
+T46	Protein 1281 1282	2
+T47	Protein 1310 1317	histone

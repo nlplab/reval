@@ -1,0 +1,6 @@
+T9	Deacetylation 36 51	hypoacetylation
+T10	Deacetylation 1061 1076	hypoacetylation
+T11	Acetylation 1354 1365	acetylation
+E1	Deacetylation:T9 Theme:T1
+E2	Deacetylation:T10 Theme:T6
+E3	Acetylation:T11 Theme:T8

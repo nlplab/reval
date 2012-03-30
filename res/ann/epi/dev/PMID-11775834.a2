@@ -1,0 +1,8 @@
+T18	DNA_methylation 651 662	methylation
+T19	DNA_methylation 1149 1165	Hypermethylation
+T20	DNA_methylation 1283 1295	unmethylated
+E1	DNA_methylation:T18 Theme:T6
+M1	Speculation E1
+E2	DNA_methylation:T19 Theme:T9
+E3	DNA_methylation:T20 Theme:T10
+M2	Negation E3

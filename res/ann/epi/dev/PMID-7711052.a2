@@ -1,0 +1,21 @@
+T16	Glycosylation 24 37	glycosylation
+T17	Glycosylation 709 716	absence
+T18	Entity 723 738	oligosaccharide
+T19	Entity 746 764	glycosylation site
+T20	Glycosylation 976 984	N-linked
+T21	Entity 985 990	sugar
+T22	Entity 1010 1017	Asn-288
+T23	Glycosylation 1434 1442	N-linked
+T24	Entity 1443 1448	sugar
+T25	Glycosylation 1571 1579	N-linked
+T26	Entity 1580 1586	glycan
+T27	Entity 1591 1598	Asn-184
+E1	Glycosylation:T16 Theme:T1
+E2	Glycosylation:T16 Theme:T2
+E3	Glycosylation:T17 Theme:T3 Site:T19 Sidechain:T18
+M1	Negation E3
+E4	Glycosylation:T17 Theme:T4 Site:T19 Sidechain:T18
+M2	Negation E4
+E5	Glycosylation:T20 Theme:T5 Site:T22 Sidechain:T21
+E6	Glycosylation:T23 Theme:T13 Sidechain:T24
+E7	Glycosylation:T25 Theme:T15 Site:T27 Sidechain:T26

@@ -1,0 +1,7 @@
+T10	Glycosylation 50 64	O-glycosylated
+T11	Glycosylation 613 627	O-glycosylated
+T12	Entity 633 658	N-acetylhexosamine-hexose
+T13	Entity 681 686	Ser32
+E1	Glycosylation:T10 Theme:T1
+E2	Glycosylation:T11 Theme:T5 Site:T13 Sidechain:T12
+E3	Glycosylation:T11 Theme:T6 Site:T13 Sidechain:T12

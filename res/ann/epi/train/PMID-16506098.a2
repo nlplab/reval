@@ -1,0 +1,6 @@
+T3	Entity 760 768	lysine 9
+T4	Methylation 769 780	methylation
+T5	Entity 910 912	K9
+T6	Methylation 913 924	methylation
+E1	Methylation:T4 Theme:T1 Site:T3
+E2	Methylation:T6 Theme:T2 Site:T5

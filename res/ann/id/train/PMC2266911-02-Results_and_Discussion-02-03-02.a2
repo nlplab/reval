@@ -1,0 +1,5 @@
+T24	Gene_expression 42 50	produces
+E1	Gene_expression:T24 Theme:T4
+E2	Gene_expression:T24 Theme:T6
+E3	Gene_expression:T24 Theme:T8
+E4	Gene_expression:T24 Theme:T9

@@ -1,0 +1,6 @@
+T11	Glycosylation 232 245	glycosylation
+T12	Glycosylation 329 341	glycosylated
+T13	Glycosylation 539 551	glycosylated
+E1	Glycosylation:T11 Theme:T2
+E2	Glycosylation:T12 Theme:T2
+E3	Glycosylation:T13 Theme:T2

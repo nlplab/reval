@@ -1,0 +1,121 @@
+T1	Protein 74 78	SpeB
+T2	Organism 111 114	GAS
+T3	Organism 171 174	GAS
+T4	Organism 280 284	M1T1
+T5	Organism 328 331	GAS
+T6	Protein 390 394	SpeB
+T7	Protein 511 515	SpeB
+T8	Two-component-system 572 578	covR/S
+T9	Protein 572 576	covR
+T10	Protein 577 578	S
+T11	Organism 622 628	murine
+T12	Protein 721 725	SpeB
+T13	Protein 770 774	RopB
+T14	Organism 798 806	M1T1 GAS
+T15	Two-component-system 817 823	covR/S
+T16	Protein 817 821	covR
+T17	Protein 822 823	S
+T18	Protein 850 854	Sda1
+T19	Protein 879 883	ropB
+T20	Protein 961 965	SpeB
+T21	Organism 980 1030	SpeB-negative, serotype M1T1 clinical isolate 5628
+T22	Protein 980 984	SpeB
+T23	Protein 1067 1071	RopB
+T24	Protein 1086 1090	RopB
+T25	Protein 1137 1141	SpeB
+T26	Organism 1195 1198	GAS
+T27	Organism 1232 1248	M1T1 strain 5628
+T28	Protein 1282 1286	ropB
+T29	Protein 1407 1411	RopB
+T30	Organism 1415 1421	5628R+
+T31	Protein 1442 1446	SpeB
+T32	Protein 1559 1563	RopB
+T33	Two-component-system 1666 1672	covR/S
+T34	Protein 1666 1670	covR
+T35	Protein 1671 1672	S
+T36	Protein 1786 1789	sic
+T37	Protein 1791 1794	ska
+T38	Protein 1796 1799	slo
+T39	Protein 1801 1805	speA
+T40	Protein 1807 1811	speJ
+T41	Protein 1813 1817	scpC
+T42	Regulon-operon 1826 1858	hyaluronic acid synthesis operon
+T43	Protein 1897 1901	ropB
+T44	Protein 1972 1976	SpeB
+T45	Protein 2022 2026	SpeB
+T46	Organism 2078 2082	mice
+T47	Two-component-system 2189 2195	covR/S
+T48	Protein 2189 2193	covR
+T49	Protein 2194 2195	S
+T50	Two-component-system 2202 2208	CovR/S
+T51	Protein 2202 2206	CovR
+T52	Protein 2207 2208	S
+T53	Protein 2362 2376	streptodornase
+T54	Protein 2378 2391	streptokinase
+T55	Protein 2393 2407	streptolysin O
+T56	Regulon-operon 2455 2495	hyaluronic acid capsule synthesis operon
+T57	Two-component-system 2533 2539	CovR/S
+T58	Protein 2533 2537	CovR
+T59	Protein 2538 2539	S
+T60	Protein 2556 2560	SpeB
+T61	Protein 2683 2687	SpeB
+T62	Organism 2777 2780	GAS
+T63	Protein 2797 2801	SpeB
+T64	Protein 2914 2918	SpeB
+T65	Protein 2953 2957	RopB
+T66	Protein 2972 2976	SpeB
+T67	Protein 3052 3056	SpeB
+T68	Two-component-system 3127 3133	covR/S
+T69	Protein 3127 3131	covR
+T70	Protein 3132 3133	S
+T71	Two-component-system 3161 3167	covR/S
+T72	Protein 3161 3165	covR
+T73	Protein 3166 3167	S
+T74	Organism 3232 3235	GAS
+T75	Protein 3245 3249	ropB
+T76	Protein 3330 3334	ropB
+T77	Organism 3347 3351	5628
+T78	Two-component-system 3394 3400	covR/S
+T79	Protein 3394 3398	covR
+T80	Protein 3399 3400	S
+T81	Regulon-operon 3938 3949	SpeB operon
+T82	Protein 3938 3942	SpeB
+T83	Protein 4021 4025	RopB
+T84	Protein 4095 4099	SpeB
+T85	Protein 4122 4126	RopB
+T86	Protein 4237 4241	RopB
+T87	Organism 4291 4295	5628
+T88	Protein 4319 4323	RopB
+T89	Organism 4364 4370	5448R-
+T90	Protein 4401 4405	RopB
+T91	Organism 4411 4415	5628
+T92	Protein 4487 4491	RopB
+T93	Protein 4543 4547	RopB
+T94	Organism 4600 4614	5628RDeltaSpeB
+T95	Protein 4610 4614	SpeB
+T96	Protein 4636 4640	RopB
+T97	Protein 4653 4657	SpeB
+T98	Protein 4724 4728	RopB
+T99	Regulon-operon 4763 4784	streptolysin S operon
+T100	Protein 4763 4777	streptolysin S
+T101	Protein 4864 4868	SpeB
+T102	Protein 4996 5000	SpeB
+T103	Protein 5089 5093	SpeB
+T104	Two-component-system 5139 5145	covR/S
+T105	Protein 5139 5143	covR
+T106	Protein 5144 5145	S
+T107	Protein 5227 5240	streptokinase
+T108	Protein 5245 5247	M1
+T109	Organism 5282 5300	covR/S mutant M1T1
+T110	Two-component-system 5282 5288	covR/S
+T111	Protein 5282 5286	covR
+T112	Protein 5287 5288	S
+T113	Organism 5330 5341	ropB mutant
+T114	Protein 5330 5334	ropB
+T115	Protein 5377 5390	Streptokinase
+T116	Protein 5395 5397	M1
+T117	Organism 5477 5480	GAS
+T118	Protein 5610 5614	RopB
+T119	Organism 5639 5647	M1T1 GAS
+T120	Protein 5659 5663	RopB
+T121	Protein 5678 5682	SpeB

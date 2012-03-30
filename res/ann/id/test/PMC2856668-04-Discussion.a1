@@ -1,0 +1,142 @@
+T1	Organism 202 207	human
+T2	Organism 217 230	S. agalactiae
+T3	Organism 386 391	human
+T4	Two-component-system 461 474	Sak188/Sak189
+T5	Protein 461 467	Sak188
+T6	Protein 468 474	Sak189
+T7	Protein 531 543	beta-antigen
+T8	Organism 578 591	S. agalactiae
+T9	Protein 640 643	bac
+T10	Protein 675 687	beta-antigen
+T11	Protein 711 717	Sak189
+T12	Protein 746 752	Sak188
+T13	Protein 877 883	sak189
+T14	Protein 898 904	sak188
+T15	Organism 956 969	S. agalactiae
+T16	Protein 1047 1050	bac
+T17	Organism 1062 1075	S. agalactiae
+T18	Protein 1119 1122	bac
+T19	Protein 1147 1159	beta-antigen
+T20	Protein 1234 1237	bac
+T21	Protein 1303 1315	beta-antigen
+T22	Protein 1365 1368	bac
+T23	Protein 1429 1435	sak188
+T24	Protein 1440 1446	sak189
+T25	Organism 1456 1469	S. agalactiae
+T26	Protein 1671 1677	Sak188
+T27	Protein 1682 1688	Sak189
+T28	Protein 1783 1789	Sak188
+T29	Protein 1794 1800	Sak189
+T30	Organism 1846 1852	168/00
+T31	Protein 1970 1976	Sak188
+T32	Protein 2064 2070	Sak189
+T33	Protein 2289 2295	Sak189
+T34	Chemical 2347 2350	ATP
+T35	Chemical 2363 2367	Mg2+
+T36	Protein 2411 2417	Sak188
+T37	Protein 2473 2479	Sak188
+T38	Organism 2535 2555	sak188 mutant strain
+T39	Protein 2535 2541	sak188
+T40	Organism 2560 2594	sak189/sak188 double mutant strain
+T41	Protein 2560 2566	sak189
+T42	Protein 2567 2573	sak188
+T43	Two-component-system 2600 2613	Sak188/Sak189
+T44	Protein 2600 2606	Sak188
+T45	Protein 2607 2613	Sak189
+T46	Organism 2638 2651	S. pneumoniae
+T47	Protein 2692 2696	RR06
+T48	Protein 2718 2724	Sak189
+T49	Protein 2758 2762	cbpA
+T50	Protein 2795 2799	cbpA
+T51	Protein 2912 2918	Sak189
+T52	Protein 2936 2948	beta-antigen
+T53	Protein 2989 2995	Sak189
+T54	Protein 3001 3004	bac
+T55	Two-component-system 3123 3136	Sak188/Sak189
+T56	Protein 3123 3129	Sak188
+T57	Protein 3130 3136	Sak189
+T58	Two-component-system 3141 3150	HK06/RR06
+T59	Protein 3141 3145	HK06
+T60	Protein 3146 3150	RR06
+T61	Protein 3156 3168	beta-antigen
+T62	Protein 3173 3177	CbpA
+T63	Protein 3303 3309	sak188
+T64	Protein 3314 3317	bac
+T65	Protein 3347 3353	sak189
+T66	Protein 3422 3428	sak189
+T67	Protein 3438 3441	bac
+T68	Protein 3500 3506	sak188
+T69	Protein 3550 3556	sak188
+T70	Protein 3561 3564	bac
+T71	Protein 3611 3614	bac
+T72	Organism 3637 3671	sak189/sak188 double mutant strain
+T73	Protein 3637 3643	sak189
+T74	Protein 3644 3650	sak188
+T75	Protein 3743 3749	sak188
+T76	Protein 3771 3783	beta-antigen
+T77	Protein 3812 3824	beta-antigen
+T78	Protein 3870 3876	Sak188
+T79	Protein 4061 4067	Sak189
+T80	Organism 4111 4124	S. agalactiae
+T81	Protein 4130 4136	Sak189
+T82	Organism 4317 4329	streptococci
+T83	Organism 4347 4360	S. pneumoniae
+T84	Protein 4394 4398	HK06
+T85	Protein 4420 4426	Sak188
+T86	Protein 4444 4448	RR06
+T87	Protein 4470 4476	Sak189
+T88	Protein 4525 4529	cbpA
+T89	Protein 4572 4576	RR06
+T90	Organism 4653 4657	mice
+T91	Protein 4676 4682	Sak189
+T92	Organism 4763 4776	S. agalactiae
+T93	Organism 4833 4846	S. agalactiae
+T94	Two-component-system 4853 4862	CovS/CovR
+T95	Protein 4853 4857	CovS
+T96	Protein 4858 4862	CovR
+T97	Two-component-system 4864 4873	DltR/DltS
+T98	Protein 4864 4868	DltR
+T99	Protein 4869 4873	DltS
+T100	Two-component-system 4875 4884	RgfA/RgfC
+T101	Protein 4875 4879	RgfA
+T102	Protein 4880 4884	RgfC
+T103	Protein 5098 5104	sak189
+T104	Protein 5120 5132	beta-antigen
+T105	Protein 5212 5224	beta-antigen
+T106	Organism 5351 5355	mice
+T107	Organism 5391 5402	S. pyogenes
+T108	Protein 5515 5527	beta-antigen
+T109	Protein 5620 5632	beta-antigen
+T110	Two-component-system 5656 5669	Sak188/Sak189
+T111	Protein 5656 5662	Sak188
+T112	Protein 5663 5669	Sak189
+T113	Two-component-system 5848 5861	Sak188/Sak189
+T114	Protein 5848 5854	Sak188
+T115	Protein 5855 5861	Sak189
+T116	Two-component-system 6042 6055	Sak188/Sak189
+T117	Protein 6042 6048	Sak188
+T118	Protein 6049 6055	Sak189
+T119	Two-component-system 6281 6294	Sak188/Sak189
+T120	Protein 6281 6287	Sak188
+T121	Protein 6288 6294	Sak189
+T122	Two-component-system 6355 6361	BgrR/S
+T123	Protein 6355 6359	BgrR
+T124	Protein 6360 6361	S
+T125	Protein 6363 6366	bac
+T126	Protein 6427 6433	Sak189
+T127	Protein 6462 6468	Sak188
+T128	Protein 6472 6476	BgrR
+T129	Protein 6481 6485	BgrS
+T130	Organism 6585 6598	S. agalactiae
+T131	Two-component-system 6599 6612	Sak188/Sak189
+T132	Protein 6599 6605	Sak188
+T133	Protein 6606 6612	Sak189
+T134	Protein 6692 6704	beta-antigen
+T135	Protein 6723 6729	Sak189
+T136	Protein 6835 6841	Sak188
+T137	Protein 6902 6914	beta-antigen
+T138	Protein 6953 6959	Sak189
+T139	Organism 6990 7003	S. agalactiae
+T140	Protein 7014 7020	Sak189
+T141	Protein 7030 7036	Sak188
+T142	Organism 7070 7083	S. agalactiae

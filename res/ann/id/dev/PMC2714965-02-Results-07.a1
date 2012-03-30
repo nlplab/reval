@@ -1,0 +1,21 @@
+T1	Organism 4 16	cheB2 Mutant
+T2	Protein 4 9	cheB2
+T3	Organism 44 48	Mice
+T4	Organism 89 109	cheB2 mutant TB0173s
+T5	Protein 89 94	cheB2
+T6	Organism 115 120	mouse
+T7	Organism 226 238	C3H/HeN mice
+T8	Organism 479 491	cheB2 mutant
+T9	Protein 479 484	cheB2
+T10	Organism 493 500	TB0173s
+T11	Organism 584 588	mice
+T12	Organism 624 626	TB
+T13	Organism 655 666	TB0173sp2B2
+T14	Organism 776 796	TB0173s cheB2 mutant
+T15	Protein 784 789	cheB2
+T16	Organism 877 888	TB0173sp2B2
+T17	Organism 1022 1026	mice
+T18	Organism 1093 1097	mice
+T19	Organism 1116 1128	cheB2 mutant
+T20	Protein 1116 1121	cheB2
+T21	Organism 1261 1265	mice

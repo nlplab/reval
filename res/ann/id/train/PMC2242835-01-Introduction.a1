@@ -1,0 +1,34 @@
+T1	Organism 57 62	human
+T2	Organism 72 98	Mycobacterium tuberculosis
+T3	Organism 340 345	human
+T4	Organism 387 402	M. tuberculosis
+T5	Organism 560 575	M. tuberculosis
+T6	Organism 756 785	Bacille de Calmette et Guerin
+T7	Organism 788 791	BCG
+T8	Organism 847 866	Mycobacterium bovis
+T9	Organism 952 955	BCG
+T10	Organism 1200 1221	M. tuberculosis H37Ra
+T11	Organism 1243 1248	H37Ra
+T12	Organism 1305 1312	patient
+T13	Organism 1321 1340	M. tuberculosis H37
+T14	Organism 1543 1548	H37Ra
+T15	Organism 1591 1612	M. tuberculosis H37Rv
+T16	Organism 1633 1638	H37Rv
+T17	Organism 1764 1783	M. tuberculosis H37
+T18	Organism 2186 2191	H37Ra
+T19	Organism 2269 2274	H37Rv
+T20	Organism 2280 2285	H37Ra
+T21	Organism 2357 2362	mouse
+T22	Organism 2468 2472	mice
+T23	Organism 2503 2508	H37Ra
+T24	Organism 2722 2727	H37Ra
+T25	Organism 3177 3182	H37Ra
+T26	Chemical 3326 3332	PA-824
+T27	Organism 3365 3370	H37Rv
+T28	Organism 3509 3514	H37Ra
+T29	Two-component-system 3710 3719	phoP/phoR
+T30	Protein 3710 3714	phoP
+T31	Protein 3715 3719	phoR
+T32	Organism 3755 3760	H37Ra
+T33	Protein 3886 3892	ESAT-6
+T34	Protein 3897 3903	CFP-10

@@ -1,0 +1,73 @@
+*	Equiv T62 T63
+*	Equiv T65 T67
+T72	Process 68 77	virulence
+T73	Process 120 129	virulence
+T74	Process 194 203	virulence
+T75	Process 391 400	virulence
+T76	Process 588 596	virulent
+T77	Regulation 1098 1106	affected
+T78	Process 1189 1199	attenuated
+T79	Process 1381 1390	virulence
+T80	Process 1515 1524	virulence
+T81	Process 1825 1834	virulence
+T82	Process 2292 2301	virulence
+T83	Negative_regulation 2302 2313	attenuation
+T84	Process 2652 2661	infection
+T85	Process 2691 2701	attenuated
+T86	Process 2759 2767	infected
+T87	Process 2918 2927	virulence
+T88	Negative_regulation 2935 2945	attenuated
+T89	Negative_regulation 3248 3259	attenuation
+T90	Process 3263 3272	virulence
+T91	Regulation 3837 3848	controlling
+T92	Gene_expression 3860 3870	expression
+T93	Regulation 3941 3948	control
+T94	Negative_regulation 3975 3984	reduction
+T95	Gene_expression 3988 3998	expression
+T96	Process 4123 4132	virulence
+T97	Process 4916 4925	infection
+T98	Process 5234 5243	infection
+T99	Negative_regulation 5352 5358	defect
+T100	Process 5362 5371	virulence
+T101	Process 5432 5441	virulence
+T102	Process 5565 5573	virulent
+T103	Process 5712 5722	attenuated
+T104	Process 5864 5873	virulence
+T105	Process 6115 6124	infection
+T106	Process 6765 6774	infection
+E1	Process:T72 
+E2	Process:T73 
+E3	Process:T74 
+E4	Process:T75 
+E5	Process:T76 
+E6	Regulation:T77 Theme:T6
+E7	Process:T78 
+E8	Process:T79 Participant:T8
+E9	Process:T80 
+E10	Process:T81 
+E11	Process:T82 Participant:T19
+E12	Negative_regulation:T83 Theme:E11
+E13	Process:T84 
+E14	Process:T85 Participant:T24
+E15	Process:T86 Participant:T24
+E16	Process:T87 Participant:T29
+E17	Negative_regulation:T88 Theme:E16
+E18	Negative_regulation:T89 Theme:E19
+E19	Process:T90 Participant:T37
+E20	Regulation:T91 Theme:E21 Cause:T40
+E21	Gene_expression:T92 Theme:T41
+E22	Regulation:T93 Theme:T43 Cause:T42
+E23	Negative_regulation:T94 Theme:E24
+E24	Gene_expression:T95 Theme:T44
+E25	Process:T96 
+E26	Process:T97 Participant:T52
+E27	Process:T98 Participant:T56
+E28	Negative_regulation:T99 Theme:T59
+E29	Process:T100 
+E30	Process:T101 
+E31	Process:T102 Participant:T60
+E32	Process:T103 Participant:T62
+E33	Process:T104 Participant:T65
+M1	Negation E33
+E34	Process:T105 Participant:T68
+E35	Process:T106 

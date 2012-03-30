@@ -1,0 +1,34 @@
+*	Equiv T4 T3
+*	Equiv T6 T5
+T35	Regulation 248 257	regulated
+T36	Negative_regulation 282 291	repressed
+T37	Negative_regulation 373 387	down regulated
+T38	Regulation 946 951	input
+T39	Gene_expression 960 970	expression
+T40	Binding 989 996	binding
+T41	Binding 1140 1147	binding
+T42	Entity 1192 1215	intergenic region (IGR)
+T43	Regulation 1300 1315	regulatory role
+T44	Gene_expression 1333 1343	expression
+T45	Gene_expression 1438 1447	expressed
+T46	Negative_regulation 1588 1595	reduced
+T47	Localization 1708 1716	secreted
+T48	Regulation 1856 1865	regulated
+T49	Localization 1922 1930	secreted
+E1	Regulation:T35 Theme:T5
+E2	Negative_regulation:T36 Theme:T5
+E3	Negative_regulation:T37 Theme:T5
+E4	Regulation:T38 Theme:E5 Cause:T16
+M1	Speculation E4
+E5	Gene_expression:T39 Theme:T17
+E6	Binding:T40 Theme1:T18 Theme2:T19
+E7	Binding:T41 Theme1:T20 Theme2:T21 Site2:T42
+E8	Regulation:T43 Theme:E9 Cause:T22
+E9	Gene_expression:T44 Theme:T23
+E10	Gene_expression:T45 Theme:T26
+E11	Negative_regulation:T46 Theme:T29
+E12	Localization:T47 Theme:T29
+E13	Regulation:T48 Theme:T31 Cause:T32
+E14	Localization:T49 Theme:T31
+E15	Localization:T49 Theme:T31
+M2	Negation E15

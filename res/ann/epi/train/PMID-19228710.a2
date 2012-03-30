@@ -1,0 +1,12 @@
+T25	Ubiquitination 163 181	monoubiquitination
+T26	Phosphorylation 467 481	phosphorylated
+T27	Catalysis 631 648	monoubiquitinates
+T28	Ubiquitination 631 648	monoubiquitinates
+T29	Entity 672 683	lysine 1268
+T30	Ubiquitination 696 724	monoubiquitination-resistant
+E1	Ubiquitination:T25 Theme:T4
+E2	Phosphorylation:T26 Theme:T8
+E3	Ubiquitination:T28 Theme:T15 Site:T29
+E4	Catalysis:T27 Theme:E3 Cause:T14
+E5	Ubiquitination:T30 Theme:T16
+M1	Negation E5

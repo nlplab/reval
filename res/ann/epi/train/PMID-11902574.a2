@@ -1,0 +1,5 @@
+T5	Acetylation 140 151	acetylation
+T6	Acetylation 177 188	acetylation
+E1	Acetylation:T5 Theme:T4
+M1	Speculation E1
+E2	Acetylation:T6 Theme:T4

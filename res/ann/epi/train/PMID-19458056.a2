@@ -1,0 +1,14 @@
+*	Equiv T3 T4
+T32	DNA_methylation 624 639	DNA methylation
+T33	Acetylation 649 660	acetylation
+T34	Entity 719 727	promoter
+T35	Entity 1073 1083	CpG island
+T36	DNA_methylation 1084 1095	methylation
+T37	Entity 1107 1115	lysine 9
+T38	Deacetylation 1116 1129	deacetylation
+E1	DNA_methylation:T32 Theme:T14 Site:T34
+M1	Speculation E1
+E2	Acetylation:T33 Theme:T13 Contextgene:T14
+M2	Speculation E2
+E3	DNA_methylation:T36 Theme:T16 Site:T35
+E4	Deacetylation:T38 Theme:T18 Site:T37 Contextgene:T16

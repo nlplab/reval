@@ -1,0 +1,39 @@
+T60	Regulation 9 13	Role
+T61	Gene_expression 30 40	expression
+T62	Regulation 92 102	controlled
+T63	Regulation 260 267	effects
+T64	Gene_expression 279 289	expression
+T65	Gene_expression 375 385	Expression
+T66	Gene_expression 628 638	expression
+T67	Negative_regulation 660 669	abolished
+T68	Gene_expression 832 842	expression
+T69	Negative_regulation 869 878	repressed
+T70	Gene_expression 960 970	expression
+T71	Regulation 1007 1013	effect
+T72	Gene_expression 1017 1027	expression
+T73	Positive_regulation 1167 1175	required
+T74	Gene_expression 1180 1190	expression
+T75	Gene_expression 1638 1648	expression
+T76	Gene_expression 1955 1965	production
+E1	Regulation:T60 Theme:E2 Cause:T1
+M1	Speculation E1
+E2	Gene_expression:T61 Theme:T2
+E3	Regulation:T62 Theme:T3 Cause:T4
+E4	Regulation:T63 Theme:E5 Cause:T7
+M2	Speculation E4
+E5	Gene_expression:T64 Theme:T8
+E6	Gene_expression:T65 Theme:T11
+E7	Gene_expression:T65 Theme:T12
+E8	Gene_expression:T66 Theme:T18
+E9	Negative_regulation:T67 Theme:E8
+E10	Gene_expression:T68 Theme:T21
+E11	Negative_regulation:T69 Theme:E10
+E12	Gene_expression:T70 Theme:T24
+E13	Regulation:T71 Theme:E14
+M3	Negation E13
+E14	Gene_expression:T72 Theme:T26
+E15	Positive_regulation:T73 Theme:E16 Cause:T29
+E16	Gene_expression:T74 Theme:T32
+E17	Gene_expression:T75 Theme:T47
+E18	Gene_expression:T75 Theme:T48
+E19	Gene_expression:T76 Theme:T56

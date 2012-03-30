@@ -1,0 +1,13 @@
+*	Equiv T2 T3
+*	Equiv T10 T11
+T16	Entity 930 947	upstream promoter
+T17	DNA_methylation 952 967	hypermethylated
+T18	DNA_methylation 1037 1051	hypomethylated
+T19	DNA_methylation 1106 1117	methylation
+T20	DNA_methylation 1213 1224	methylation
+T21	Entity 1228 1237	CpG sites
+E1	DNA_methylation:T17 Theme:T9 Site:T16
+E2	DNA_methylation:T18 Theme:T9 Site:T16
+M1	Negation E2
+E3	DNA_methylation:T19 Theme:T9 Site:T16
+E4	DNA_methylation:T20 Theme:T9 Site:T21

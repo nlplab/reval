@@ -1,0 +1,39 @@
+*	Equiv T13 T14
+T70	Process 513 523	infections
+T71	Process 542 552	infections
+T72	Process 872 882	infections
+T73	Process 1144 1154	resistance
+T74	Regulation 3091 3099	modulate
+T75	Positive_regulation 3422 3431	dependent
+T76	Regulation 3432 3442	regulation
+T77	Gene_expression 3732 3742	Expression
+T78	Regulation 3771 3782	coordinated
+T79	Process 3918 3927	virulence
+T80	Process 3992 4001	infection
+T81	Negative_regulation 4546 4558	Inactivation
+T82	Negative_regulation 4653 4665	inactivation
+T83	Positive_regulation 4688 4695	results
+T84	Positive_regulation 4699 4708	increased
+T85	Process 4709 4718	virulence
+E1	Process:T70 
+E2	Process:T71 
+E3	Process:T72 Participant:T5
+E4	Process:T73 
+E5	Regulation:T74 Theme:T17
+E6	Positive_regulation:T75 Theme:E8 Cause:T21
+E7	Positive_regulation:T75 Theme:E9 Cause:T21
+E8	Regulation:T76 Theme:T22
+E9	Regulation:T76 Theme:T23
+E10	Gene_expression:T77 Theme:T28
+E11	Gene_expression:T77 Theme:T27
+E12	Regulation:T78 Theme:E11 Cause:T29
+E13	Regulation:T78 Theme:E10 Cause:T29
+E14	Process:T79 
+E15	Process:T80 
+E16	Negative_regulation:T81 Theme:T36
+E17	Negative_regulation:T82 Theme:T37
+E18	Negative_regulation:T82 Theme:T38
+E19	Positive_regulation:T83 Theme:E21 Cause:E17
+E20	Positive_regulation:T83 Theme:E21 Cause:E18
+E21	Positive_regulation:T84 Theme:E22
+E22	Process:T85 

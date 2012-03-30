@@ -1,0 +1,15 @@
+T37	Gene_expression 272 281	expressed
+T38	Binding 1151 1158	binding
+T39	Binding 1171 1178	binding
+T40	Binding 1248 1255	binding
+T41	Gene_expression 1594 1603	expressed
+T42	Binding 2166 2171	binds
+T43	Binding 2636 2646	associated
+E1	Gene_expression:T37 Theme:T5
+E2	Binding:T38 Theme:T14
+E3	Binding:T39 Theme:T15
+M1	Negation E3
+E4	Binding:T40 Theme:T16
+E5	Gene_expression:T41 Theme:T24
+E6	Binding:T42 Theme:T31
+E7	Binding:T43 Theme1:T34 Theme2:T35

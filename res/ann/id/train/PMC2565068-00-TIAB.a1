@@ -1,0 +1,29 @@
+T1	Organism 31 61	Invasive Group A streptococcus
+T2	Organism 148 169	Group A streptococcus
+T3	Organism 171 174	GAS
+T4	Organism 380 392	invasive GAS
+T5	Organism 593 605	invasive GAS
+T6	Organism 774 786	invasive GAS
+T7	Organism 896 899	GAS
+T8	Organism 1018 1023	human
+T9	Protein 1172 1186	streptolysin O
+T10	Protein 1188 1191	SLO
+T11	Protein 1246 1259	interleukin-8
+T12	Protein 1334 1338	ScpC
+T13	Protein 1430 1434	csrS
+T14	Protein 1451 1456	emm49
+T15	Organism 1464 1476	invasive GAS
+T16	Organism 1491 1503	csrS mutants
+T17	Protein 1491 1495	csrS
+T18	Organism 1525 1537	invasive GAS
+T19	Organism 1663 1668	human
+T20	Organism 1669 1681	invasive GAS
+T21	Organism 1698 1703	mouse
+T22	Organism 1720 1723	GAS
+T23	Protein 1742 1745	SLO
+T24	Protein 1749 1753	ScpC
+T25	Organism 1791 1823	csrS-mutated parent invasive GAS
+T26	Protein 1791 1795	csrS
+T27	Organism 1848 1852	mice
+T28	Organism 1898 1901	GAS
+T29	Organism 1968 1980	invasive GAS

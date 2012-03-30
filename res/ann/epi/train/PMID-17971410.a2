@@ -1,0 +1,6 @@
+T11	Ubiquitination 8 21	ubiquitylated
+T12	Ubiquitination 656 674	mono-ubiquitylated
+T13	Ubiquitination 804 818	ubiquitylation
+E1	Ubiquitination:T11 Theme:T1
+E2	Ubiquitination:T12 Theme:T8
+E3	Ubiquitination:T13 Theme:T10

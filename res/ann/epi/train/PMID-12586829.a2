@@ -1,0 +1,7 @@
+*	Equiv T10 T11
+T18	Entity 92 99	Pro-564
+T19	Hydroxylation 100 113	hydroxylation
+T20	Hydroxylation 1786 1799	hydroxylation
+T21	Entity 1803 1810	Pro-564
+E1	Hydroxylation:T19 Theme:T1 Site:T18
+E2	Hydroxylation:T20 Theme:T17 Site:T21

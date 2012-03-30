@@ -1,0 +1,102 @@
+T1	Protein 18 21	Hfq
+T2	Protein 26 30	SmpB
+T3	Organism 43 65	Salmonella Typhimurium
+T4	Protein 157 160	Hfq
+T5	Protein 165 169	SmpB
+T6	Organism 203 213	Salmonella
+T7	Organism 458 467	DeltasmpB
+T8	Protein 463 467	smpB
+T9	Organism 471 479	Deltahfq
+T10	Protein 476 479	hfq
+T11	Chemical 691 700	magnesium
+T12	Chemical 702 706	Mg2+
+T13	Organism 879 901	Salmonella Typhimurium
+T14	Protein 1297 1300	Hfq
+T15	Organism 1342 1364	Salmonella Typhimurium
+T16	Protein 1379 1383	SmpB
+T17	Protein 1444 1447	Hfq
+T18	Protein 1452 1456	SmpB
+T19	Organism 1710 1720	Salmonella
+T20	Organism 1836 1846	Salmonella
+T21	Protein 1912 1915	Hfq
+T22	Organism 1935 1945	Salmonella
+T23	Protein 2017 2020	hfq
+T24	Organism 2039 2061	Salmonella Typhimurium
+T25	Protein 2183 2186	hfq
+T26	Organism 2243 2260	hfq mutant strain
+T27	Protein 2243 2246	hfq
+T28	Protein 2298 2301	Hfq
+T29	Protein 2346 2349	Hfq
+T30	Protein 2398 2401	Hfq
+T31	Organism 2600 2608	Deltahfq
+T32	Protein 2605 2608	hfq
+T33	Protein 2657 2660	Hfq
+T34	Protein 2699 2702	Hfq
+T35	Organism 2760 2770	Salmonella
+T36	Protein 2877 2880	Hfq
+T37	Organism 2974 2984	Salmonella
+T38	Organism 3197 3207	Salmonella
+T39	Protein 3307 3310	Hfq
+T40	Organism 3378 3388	Salmonella
+T41	Protein 3437 3440	Hfq
+T42	Protein 3690 3694	SmpB
+T43	Organism 3928 3938	Salmonella
+T44	Protein 3970 3973	Hfq
+T45	Protein 3977 3981	SmpB
+T46	Protein 4061 4064	Hfq
+T47	Organism 4177 4187	Salmonella
+T48	Protein 4297 4300	Hfq
+T49	Organism 4765 4773	Deltahfq
+T50	Protein 4770 4773	hfq
+T51	Organism 4855 4863	Deltahfq
+T52	Protein 4860 4863	hfq
+T53	Organism 5029 5037	Deltahfq
+T54	Protein 5034 5037	hfq
+T55	Protein 5329 5332	Hfq
+T56	Protein 5558 5562	OmpF
+T57	Protein 5564 5568	DppA
+T58	Protein 5570 5574	FliC
+T59	Protein 5576 5580	SurA
+T60	Protein 5586 5590	LuxS
+T61	Protein 6095 6099	SipA
+T62	Protein 6214 6217	Hfq
+T63	Protein 6470 6474	HtrA
+T64	Organism 6524 6532	Deltahfq
+T65	Protein 6529 6532	hfq
+T66	Protein 6578 6582	OsmY
+T67	Protein 6587 6594	STM1513
+T68	Organism 6631 6639	Deltahfq
+T69	Protein 6636 6639	hfq
+T70	Protein 6715 6719	SmpB
+T71	Protein 6787 6791	FliC
+T72	Protein 6857 6861	YciF
+T73	Protein 6936 6940	HtrA
+T74	Protein 6942 6946	OsmY
+T75	Protein 6948 6955	STM1513
+T76	Protein 6957 6961	FliC
+T77	Protein 6967 6971	YciF
+T78	Organism 7393 7403	Salmonella
+T79	Organism 7492 7514	Salmonella Typhimurium
+T80	Protein 7558 7561	Hfq
+T81	Protein 7566 7570	SmpB
+T82	Protein 7612 7615	hfq
+T83	Organism 7691 7701	Salmonella
+T84	Organism 7711 7733	Pseudomonas aeruginosa
+T85	Protein 7829 7832	Hfq
+T86	Protein 7873 7876	Hfq
+T87	Organism 7906 7913	E. coli
+T88	Organism 7923 7938	Vibrio cholerae
+T89	Protein 8185 8188	Hfq
+T90	Organism 8302 8312	Salmonella
+T91	Protein 8408 8411	Hfq
+T92	Protein 8415 8419	SmpB
+T93	Protein 8571 8574	Hfq
+T94	Protein 8578 8582	SmpB
+T95	Protein 8648 8651	Hfq
+T96	Protein 8689 8693	SmpB
+T97	Protein 9014 9017	Hfq
+T98	Organism 9055 9065	Salmonella
+T99	Protein 9091 9095	SmpB
+T100	Protein 9185 9188	Hfq
+T101	Protein 9261 9266	tmRNA
+T102	Protein 9282 9286	SmpB

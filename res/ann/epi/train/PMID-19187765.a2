@@ -1,0 +1,22 @@
+*	Equiv T5 T6
+*	Equiv T8 T9
+*	Equiv T29 T30
+T23	Entity 43 45	K4
+T24	Methylation 46 60	trimethylation
+T25	Acetylation 68 79	acetylation
+T26	Entity 270 276	lysine
+T27	Methylation 277 288	methylation
+T28	Methylation 512 525	trimethylated
+T29	Entity 529 537	lysine 4
+T30	Entity 541 543	K4
+T31	Acetylation 739 750	acetylation
+T32	Entity 1035 1037	K4
+T33	Methylation 1038 1049	methylation
+T34	Acetylation 1057 1068	acetylation
+E1	Methylation:T24 Theme:T2 Site:T23
+E2	Acetylation:T25 Theme:T3
+E3	Methylation:T27 Theme:T4 Site:T26
+E4	Methylation:T28 Theme:T8 Site:T29
+E5	Acetylation:T31 Theme:T16
+E6	Methylation:T33 Theme:T21 Site:T32
+E7	Acetylation:T34 Theme:T22

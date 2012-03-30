@@ -1,0 +1,23 @@
+T18	Process 0 9	Virulence
+T19	Process 174 183	infection
+T20	Positive_regulation 290 299	increased
+T21	Process 304 313	virulence
+T22	Regulation 474 481	effects
+T23	Process 489 498	virulence
+T24	Positive_regulation 664 671	restore
+T25	Process 682 691	virulence
+T26	Process 902 911	infection
+T27	Process 946 955	infection
+E1	Process:T18 Participant:T1
+E2	Process:T19 Participant:T3
+E3	Positive_regulation:T20 Theme:E5
+E4	Process:T21 Participant:T9
+E5	Process:T21 Participant:T7
+E6	Regulation:T22 Theme:E7
+M1	Negation E6
+E7	Process:T23 Participant:T10
+E8	Positive_regulation:T24 Theme:E10
+E9	Process:T25 Participant:T14
+E10	Process:T25 Participant:T10
+E11	Process:T26 
+E12	Process:T27 Participant:T17

@@ -1,0 +1,17 @@
+*	Equiv T2 T3
+*	Equiv T7 T8
+T28	Entity 0 10	Asparagine
+T29	Glycosylation 18 31	glycosylation
+T30	Deglycosylation 836 850	deglycosylated
+T31	Glycosylation 1723 1733	Asn-linked
+T32	Entity 1723 1726	Asn
+T33	Entity 1735 1759	complex oligosaccharides
+T34	Glycosylation 1903 1913	Asn-linked
+T35	Entity 1903 1906	Asn
+T36	Entity 1914 1929	oligosaccharide
+E1	Glycosylation:T29 Theme:T1 Site:T28
+E2	Deglycosylation:T30 Theme:T14
+E3	Glycosylation:T31 Theme:T25 Site:T32 Sidechain:T33
+M1	Speculation E3
+E4	Glycosylation:T34 Theme:T26 Site:T35 Sidechain:T36
+E5	Glycosylation:T34 Theme:T27 Site:T35 Sidechain:T36

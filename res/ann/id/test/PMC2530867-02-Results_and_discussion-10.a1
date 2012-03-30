@@ -1,0 +1,25 @@
+T1	Chemical 0 12	Fusidic acid
+T2	Chemical 17 27	rifampicin
+T3	Organism 40 45	OG1RF
+T4	Organism 77 80	OG1
+T5	Chemical 99 111	fusidic acid
+T6	Chemical 116 126	rifampicin
+T7	Chemical 156 166	rifampicin
+T8	Protein 200 204	rpoB
+T9	Organism 397 409	traA mutants
+T10	Protein 397 401	traA
+T11	Protein 512 516	rpoB
+T12	Organism 525 530	OG1RF
+T13	Organism 535 539	V583
+T14	Chemical 556 568	Fusidic acid
+T15	Protein 618 622	fusA
+T16	Protein 643 662	elongation factor G
+T17	Protein 676 680	fusA
+T18	Organism 686 691	OG1RF
+T19	Organism 705 709	V583
+T20	Organism 872 876	V583
+T21	Organism 897 902	OG1RF
+T22	Chemical 955 967	fusidic acid
+T23	Organism 982 1003	Staphylococcus aureus
+T24	Chemical 1069 1081	fusidic acid
+T25	Organism 1106 1111	OG1RF

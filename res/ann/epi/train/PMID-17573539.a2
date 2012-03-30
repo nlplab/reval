@@ -1,0 +1,10 @@
+*	Equiv T2 T3
+*	Equiv T15 T16
+T19	Methylation 805 815	methylated
+T20	Catalysis 805 815	methylated
+E1	Methylation:T19 Theme:T9
+E2	Catalysis:T20 Theme:E1 Cause:T8
+E3	Methylation:T19 Theme:T10
+E4	Catalysis:T20 Theme:E3 Cause:T8
+E5	Methylation:T19 Theme:T11
+E6	Catalysis:T20 Theme:E5 Cause:T8

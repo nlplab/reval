@@ -1,0 +1,56 @@
+T1	Organism 14 38	Porphyromonas gingivalis
+T2	Organism 322 335	P. gingivalis
+T3	Protein 611 615	FimA
+T4	Protein 647 651	fimA
+T5	Protein 718 722	Mfa1
+T6	Protein 830 834	FimA
+T7	Protein 861 865	fimA
+T8	Protein 912 916	FimA
+T9	Organism 941 954	P. gingivalis
+T10	Organism 1108 1121	P. gingivalis
+T11	Organism 1122 1133	fimA mutant
+T12	Protein 1122 1126	fimA
+T13	Protein 1251 1255	FimA
+T14	Protein 1396 1400	FimA
+T15	Chemical 1475 1480	hemin
+T16	Organism 1519 1542	Streptococcus cristatus
+T17	Protein 1607 1611	FimR
+T18	Two-component-system 1641 1650	fimS/fimR
+T19	Protein 1641 1645	fimS
+T20	Protein 1646 1650	fimR
+T21	Protein 1692 1696	FimA
+T22	Organism 1748 1760	fimR mutants
+T23	Protein 1748 1752	fimR
+T24	Protein 1833 1837	fimA
+T25	Protein 1841 1845	FimR
+T26	Protein 1861 1865	FimR
+T27	Protein 1896 1900	fimA
+T28	Protein 1970 1976	pg2130
+T29	Protein 1985 1989	fimA
+T30	Protein 2015 2021	PG2130
+T31	Protein 2029 2033	FimR
+T32	Protein 2104 2108	fimA
+T33	Protein 2132 2136	fimA
+T34	Protein 2188 2192	Mfa1
+T35	Organism 2213 2226	P. gingivalis
+T36	Organism 2284 2297	P. gingivalis
+T37	Organism 2302 2324	Streptococcus gordonii
+T38	Protein 2352 2356	Mfa1
+T39	Protein 2384 2388	SspB
+T40	Organism 2486 2499	P. gingivalis
+T41	Protein 2726 2730	Mfa1
+T42	Protein 2862 2866	FimA
+T43	Protein 2871 2875	Mfa1
+T44	Organism 2893 2906	P. gingivalis
+T45	Protein 3016 3020	mfa1
+T46	Organism 3094 3105	S. gordonii
+T47	Organism 3107 3130	Streptococcus sanguinis
+T48	Organism 3135 3154	Streptococcus mitis
+T49	Protein 3237 3241	mfa1
+T50	Protein 3293 3297	FimR
+T51	Protein 3325 3329	Mfa1
+T52	Protein 3375 3379	FimR
+T53	Protein 3390 3394	fimA
+T54	Protein 3407 3411	FimR
+T55	Protein 3422 3426	mfa1
+T56	Protein 3484 3488	mfa1

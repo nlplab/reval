@@ -1,0 +1,5 @@
+T6	DNA_methylation 804 815	methylation
+T7	Entity 837 845	promoter
+T8	DNA_methylation 888 899	methylation
+E1	DNA_methylation:T6 Theme:T4 Site:T7
+E2	DNA_methylation:T8 Theme:T4 Site:T7

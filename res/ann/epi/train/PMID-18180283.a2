@@ -1,0 +1,7 @@
+*	Equiv T3 T4
+T25	Ubiquitination 46 64	polyubiquitination
+T26	Ubiquitination 229 247	polyubiquitination
+T27	Ubiquitination 377 385	attached
+E1	Ubiquitination:T25 Theme:T1
+E2	Ubiquitination:T26 Theme:T3
+E3	Ubiquitination:T27 Theme:T6

@@ -1,0 +1,25 @@
+T43	Phosphorylation 0 15	Phosphorylation
+T44	Acetylation 20 31	acetylation
+T45	Phosphorylation 595 610	phosphorylation
+T46	Acetylation 615 626	acetylation
+T47	Phosphorylation 902 917	phosphorylation
+T48	Phosphorylation 1039 1053	phosphorylated
+T49	Acetylation 1058 1068	acetylated
+T50	Acetylation 1444 1454	Acetylated
+T51	Phosphorylation 1462 1476	phosphorylated
+T52	Phosphorylation 1825 1840	phosphorylation
+T53	Acetylation 1842 1853	acetylation
+E1	Phosphorylation:T43 Theme:T1
+E2	Acetylation:T44 Theme:T1
+E3	Phosphorylation:T45 Theme:T11
+E4	Acetylation:T46 Theme:T11 Contextgene:T10
+E5	Phosphorylation:T47 Theme:T15
+E6	Phosphorylation:T47 Theme:T16
+E7	Phosphorylation:T47 Theme:T17
+E8	Phosphorylation:T47 Theme:T18
+E9	Phosphorylation:T48 Theme:T19
+E10	Acetylation:T49 Theme:T19 Contextgene:T12
+E11	Acetylation:T50 Theme:T30 Contextgene:T32
+E12	Phosphorylation:T51 Theme:T31
+E13	Phosphorylation:T52 Theme:T41
+E14	Acetylation:T53 Theme:T41 Contextgene:T40

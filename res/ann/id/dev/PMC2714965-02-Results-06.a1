@@ -1,0 +1,41 @@
+T1	Organism 2 14	cheB1 Mutant
+T2	Protein 2 7	cheB1
+T3	Organism 37 47	C. elegans
+T4	Organism 121 134	P. aeruginosa
+T5	Organism 315 327	cheB2 mutant
+T6	Protein 315 320	cheB2
+T7	Organism 331 341	C. elegans
+T8	Organism 559 571	cheB1 mutant
+T9	Protein 559 564	cheB1
+T10	Protein 596 601	cheB1
+T11	Organism 633 635	TB
+T12	Organism 691 698	TB1459i
+T13	Organism 704 716	cheB1 mutant
+T14	Protein 704 709	cheB1
+T15	Organism 734 744	C. elegans
+T16	Organism 845 857	cheB2 mutant
+T17	Protein 845 850	cheB2
+T18	Organism 874 876	TB
+T19	Organism 916 928	cheB1 mutant
+T20	Protein 916 921	cheB1
+T21	Organism 964 974	C. elegans
+T22	Organism 1013 1015	TB
+T23	Organism 1147 1159	cheB2 mutant
+T24	Protein 1147 1152	cheB2
+T25	Organism 1161 1168	TB0173s
+T26	Organism 1190 1210	cheB2 mutant TB0173i
+T27	Protein 1190 1195	cheB2
+T28	Organism 1232 1244	cheB1 mutant
+T29	Protein 1232 1237	cheB1
+T30	Organism 1427 1439	cheB1 mutant
+T31	Protein 1427 1432	cheB1
+T32	Organism 1459 1471	cheB2 mutant
+T33	Protein 1459 1464	cheB2
+T34	Organism 1587 1589	TB
+T35	Organism 1716 1723	TB0173s
+T36	Organism 1732 1744	cheB2 mutant
+T37	Protein 1732 1737	cheB2
+T38	Organism 1818 1820	TB
+T39	Organism 1847 1854	TB1459i
+T40	Organism 1863 1875	cheB1 mutant
+T41	Protein 1863 1868	cheB1

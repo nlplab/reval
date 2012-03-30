@@ -1,0 +1,9 @@
+T14	Glycosylation 72 87	N-glycosylation
+T15	Glycosylation 1221 1236	N-glycosylation
+T16	Entity 1240 1245	Asn73
+T17	Glycosylation 1342 1349	absence
+T18	Entity 1357 1376	carbohydrate moiety
+E1	Glycosylation:T14 Theme:T1
+E2	Glycosylation:T15 Theme:T8 Site:T16
+E3	Glycosylation:T17 Theme:T11 Sidechain:T18
+M1	Negation E3

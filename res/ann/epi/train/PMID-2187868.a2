@@ -1,0 +1,9 @@
+T10	Hydroxylation 1247 1259	hydroxylated
+T11	Entity 1314 1347	erythro beta-hydroxyaspartic acid
+T12	Hydroxylation 1497 1509	hydroxylated
+T13	Hydroxylation 1534 1547	hydroxylation
+E1	Hydroxylation:T10 Theme:T5 Site:T11
+E2	Hydroxylation:T12 Theme:T6
+E3	Hydroxylation:T12 Theme:T7
+E4	Hydroxylation:T13 Theme:T8
+E5	Hydroxylation:T13 Theme:T9

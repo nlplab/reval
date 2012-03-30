@@ -1,0 +1,7 @@
+*	Equiv T17 T18
+T27	Catalysis 83 93	catalyzing
+T28	Ubiquitination 99 113	ubiquitination
+T29	Ubiquitination 926 940	ubiquitination
+E1	Catalysis:T27 Theme:E2 Cause:T2
+E2	Ubiquitination:T28 Theme:T3
+E3	Ubiquitination:T29 Theme:T21

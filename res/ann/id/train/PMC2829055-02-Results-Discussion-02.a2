@@ -1,0 +1,33 @@
+*	Equiv T13 T12
+*	Equiv T19 T18
+*	Equiv T21 T20
+*	Equiv T46 T45
+T95	Positive_regulation 731 738	induced
+T96	Positive_regulation 985 996	upregulated
+T97	Process 2131 2140	infection
+T98	Positive_regulation 2815 2827	Upregulation
+T99	Localization 2884 2890	uptake
+T100	Localization 3058 3067	secretion
+T101	Localization 3079 3085	uptake
+T102	Localization 3185 3191	uptake
+T103	Localization 3316 3327	Acquisition
+T104	Localization 3797 3803	uptake
+E1	Positive_regulation:T95 Theme:T9
+E2	Positive_regulation:T95 Theme:T10
+E3	Positive_regulation:T96 Theme:T20
+E4	Positive_regulation:T96 Theme:T22
+E5	Positive_regulation:T96 Theme:T23
+E6	Positive_regulation:T96 Theme:T24
+E7	Positive_regulation:T96 Theme:T25
+E8	Positive_regulation:T96 Theme:T26
+E9	Positive_regulation:T96 Theme:T27
+E10	Positive_regulation:T96 Theme:T28
+E11	Process:T97 
+E12	Positive_regulation:T98 Theme:T60
+E13	Localization:T99 Theme:T63
+E14	Localization:T100 Theme:T67
+E15	Localization:T101 Theme:T68
+E16	Localization:T102 Theme:T69
+E17	Localization:T103 Theme:T76
+E18	Localization:T104 Theme:T83
+E19	Localization:T104 Theme:T84

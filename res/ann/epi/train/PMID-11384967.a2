@@ -1,0 +1,33 @@
+T27	Acetylation 57 67	acetylates
+T28	Catalysis 57 67	acetylates
+T29	Acetylation 332 342	acetylates
+T30	Catalysis 332 342	acetylates
+T31	Entity 634 644	lysines 50
+T32	Entity 649 651	51
+T33	Acetylation 663 674	acetylation
+T34	Acetylation 710 720	acetylated
+T35	Catalysis 710 720	acetylated
+T36	Acetylation 735 746	acetylation
+T37	Entity 760 767	lysines
+T38	Acetylation 1019 1030	acetylation
+T39	Entity 1034 1044	lysines 50
+T40	Entity 1049 1051	51
+T41	Acetylation 1191 1200	acetylate
+T42	Catalysis 1191 1200	acetylate
+E1	Acetylation:T27 Theme:T3
+E2	Catalysis:T28 Theme:T3 Cause:T2
+E3	Acetylation:T29 Theme:T7
+E4	Catalysis:T30 Theme:E3 Cause:T5
+E5	Acetylation:T33 Theme:T12 Site:T31
+E6	Acetylation:T33 Theme:T12 Site:T32
+E7	Acetylation:T34 Theme:T12 Site:T31
+E8	Catalysis:T35 Theme:E7 Cause:T15
+E9	Acetylation:T34 Theme:T12 Site:T32
+E10	Catalysis:T35 Theme:E9 Cause:T15
+E11	Acetylation:T36 Theme:T12 Site:T37
+E12	Acetylation:T38 Theme:T21 Site:T39
+E13	Acetylation:T38 Theme:T21 Site:T40
+E14	Acetylation:T41 Theme:T26 Site:T39
+E15	Catalysis:T42 Theme:E14 Cause:T23
+E16	Acetylation:T41 Theme:T26 Site:T40
+E17	Catalysis:T42 Theme:E16 Cause:T23

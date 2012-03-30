@@ -1,0 +1,10 @@
+T15	Process 396 405	infection
+T16	Process 435 444	infection
+T17	Process 560 569	infection
+T18	Process 879 888	infection
+T19	Process 932 941	infection
+E1	Process:T15 
+E2	Process:T16 
+E3	Process:T17 
+E4	Process:T18 
+E5	Process:T19 

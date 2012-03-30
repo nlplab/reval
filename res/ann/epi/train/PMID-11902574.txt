@@ -1,0 +1,2 @@
+Histone deacetylases and cancer: causes and therapies. 
+Together, histone acetyltransferases and histone deacetylases (HDACs) determine the acetylation status of histones. This acetylation affects the regulation of gene expression, and inhibitors of HDACs have been found to cause growth arrest, differentiation and/or apoptosis of many tumours cells by altering the transcription of a small number of genes. HDAC inhibitors are proving to be an exciting therapeutic approach to cancer, but how do they exert this effect?

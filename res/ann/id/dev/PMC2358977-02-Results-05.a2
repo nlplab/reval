@@ -1,0 +1,6 @@
+T25	Process 10 20	Resistance
+T26	Process 543 552	virulence
+T27	Negative_regulation 553 557	loss
+E1	Process:T25 Participant:T1
+E2	Process:T26 Participant:T21
+E3	Negative_regulation:T27 Theme:E2

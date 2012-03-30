@@ -1,0 +1,24 @@
+T1	Protein 14 18	bfiS
+T2	Protein 20 24	bfmR
+T3	Protein 30 34	mifR
+T4	Protein 193 197	BfiS
+T5	Protein 199 205	PA4197
+T6	Protein 208 212	BfmR
+T7	Protein 214 220	PA4101
+T8	Protein 226 230	MifR
+T9	Protein 232 238	PA5511
+T10	Organism 291 304	P. aeruginosa
+T11	Chemical 825 834	arabinose
+T12	Chemical 853 862	arabinose
+T13	Organism 1069 1082	P. aeruginosa
+T14	Protein 1155 1159	bfiS
+T15	Protein 1161 1165	bfmR
+T16	Protein 1171 1175	mifR
+T17	Chemical 1194 1203	arabinose
+T18	Organism 1295 1304	DeltabfiS
+T19	Protein 1300 1304	bfiS
+T20	Organism 1309 1325	DeltabfmR mutant
+T21	Protein 1314 1318	bfmR
+T22	Chemical 1397 1406	arabinose
+T23	Chemical 1634 1643	arabinose
+T24	Organism 2004 2017	P. aeruginosa

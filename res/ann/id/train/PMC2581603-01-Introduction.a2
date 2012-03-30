@@ -1,0 +1,75 @@
+*	Equiv T36 T37
+*	Equiv T54 T57
+T85	Process 108 118	infections
+T86	Process 164 174	infections
+T87	Process 447 456	infection
+T88	Process 624 634	resistance
+T89	Process 749 757	tolerant
+T90	Positive_regulation 946 955	increased
+T91	Process 956 966	resistance
+T92	Process 1481 1489	infected
+T93	Process 1845 1855	resistance
+T94	Process 1901 1911	resistance
+T95	Process 2066 2076	resistance
+T96	Process 2203 2213	resistance
+T97	Process 3016 3026	resistance
+T98	Process 3201 3211	resistance
+T99	Process 3433 3443	infections
+T100	Process 3522 3532	resistance
+T101	Process 3622 3632	resistance
+T102	Process 3727 3737	infections
+T103	Process 4419 4428	virulence
+T104	Regulation 4635 4648	work upstream
+T105	Process 5181 5190	resistant
+T106	Process 5311 5320	infection
+T107	Process 6045 6055	resistance
+T108	Positive_regulation 6067 6076	inducible
+T109	Positive_regulation 6124 6133	activated
+T110	Binding 6242 6246	bind
+T111	Process 6274 6284	resistance
+T112	Positive_regulation 6327 6333	induce
+T113	Gene_expression 6338 6348	expression
+T114	Process 6627 6637	resistance
+T115	Gene_expression 6751 6760	expressed
+T116	Process 6972 6982	resistance
+T117	Process 8290 8300	resistance
+T118	Process 8440 8450	resistance
+E1	Process:T85 Participant:T1
+E2	Process:T86 
+E3	Process:T87 
+E4	Process:T88 
+E5	Process:T89 
+E6	Positive_regulation:T90 Theme:E7
+E7	Process:T91 
+E8	Process:T92 
+E9	Process:T93 
+E10	Process:T94 
+E11	Process:T95 
+E12	Process:T96 
+E13	Process:T97 
+E14	Process:T98 
+E15	Process:T99 
+E16	Process:T100 
+E17	Process:T101 
+E18	Process:T102 
+E19	Process:T103 
+E20	Regulation:T104 Theme:T28 Cause:T26
+E21	Regulation:T104 Theme:T28 Cause:T27
+E22	Process:T105 Participant:T35
+E23	Process:T106 
+E24	Process:T107 Participant:T41
+E25	Positive_regulation:T108 Theme:E24 Cause:T43
+E26	Positive_regulation:T108 Theme:E24 Cause:T46
+E27	Positive_regulation:T109 Theme:T43
+E28	Positive_regulation:T109 Theme:T46
+E29	Binding:T110 Theme1:T51 Theme2:T54
+E30	Binding:T110 Theme1:T52 Theme2:T54
+E31	Process:T111 
+E32	Positive_regulation:T112 Theme:E34 Cause:T51
+E33	Positive_regulation:T112 Theme:E34 Cause:T52
+E34	Gene_expression:T113 Theme:T54
+E35	Process:T114 
+E36	Gene_expression:T115 Theme:T77
+E37	Process:T116 
+E38	Process:T117 
+E39	Process:T118 

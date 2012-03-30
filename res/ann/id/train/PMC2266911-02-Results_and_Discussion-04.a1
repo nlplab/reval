@@ -1,0 +1,22 @@
+T1	Organism 123 131	Yersinia
+T2	Organism 263 269	humans
+T3	Organism 478 491	Yersinia spp.
+T4	Organism 593 607	P. luminescens
+T5	Protein 886 889	inv
+T6	Protein 891 894	yst
+T7	Protein 898 902	yplA
+T8	Organism 938 955	Y. enterocolitica
+T9	Organism 959 963	mice
+T10	Organism 1103 1120	Y. enterocolitica
+T11	Organism 1340 1352	Burkholderia
+T12	Organism 1354 1365	Pseudomonas
+T13	Organism 1367 1375	Serratia
+T14	Organism 1380 1387	Erwinia
+T15	Organism 1608 1625	Y. enterocolitica
+T16	Organism 1780 1792	flhDC mutant
+T17	Protein 1780 1784	flhD
+T18	Protein 1784 1785	C
+T19	Organism 1796 1813	Y. enterocolitica
+T20	Organism 1975 1989	X. nematophila
+T21	Organism 2076 2090	X. nematophila
+T22	Organism 2197 2214	Y. enterocolitica

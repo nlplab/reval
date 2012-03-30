@@ -1,0 +1,57 @@
+T1	Chemical 26 30	CAPs
+T2	Chemical 35 50	aminoglycosides
+T3	Regulon-operon 94 107	PA3552-PA3559
+T4	Protein 94 100	PA3552
+T5	Protein 101 107	PA3559
+T6	Organism 197 210	P. aeruginosa
+T7	Chemical 850 859	magnesium
+T8	Chemical 896 900	CAPs
+T9	Chemical 902 913	polymyxin B
+T10	Chemical 915 923	colistin
+T11	Chemical 928 943	aminoglycosides
+T12	Chemical 945 955	gentamycin
+T13	Chemical 957 967	tobramycin
+T14	Chemical 1137 1140	CAP
+T15	Chemical 1145 1159	aminoglycoside
+T16	Chemical 1361 1365	CAPs
+T17	Chemical 1370 1385	aminoglycosides
+T18	Chemical 1623 1634	polymyxin B
+T19	Chemical 1639 1649	gentamicin
+T20	Chemical 2013 2024	polymyxin B
+T21	Chemical 2059 2073	aminoglycoside
+T22	Chemical 2171 2182	ceftazidime
+T23	Chemical 2184 2195	beta-lactam
+T24	Chemical 2200 2213	ciprofloxacin
+T25	Chemical 2215 2230	fluoroquinolone
+T26	Organism 2307 2311	PAO1
+T27	Regulon-operon 2682 2695	PA3552-PA3559
+T28	Protein 2682 2688	PA3552
+T29	Protein 2689 2695	PA3559
+T30	Chemical 2806 2815	magnesium
+T31	Organism 2938 2956	PA3553::lux mutant
+T32	Protein 2938 2944	PA3553
+T33	Protein 2946 2949	lux
+T34	Organism 2973 2984	PA3553::lux
+T35	Protein 2973 2979	PA3553
+T36	Protein 2981 2984	lux
+T37	Chemical 3016 3019	CAP
+T38	Chemical 3112 3115	CAP
+T39	Organism 3179 3192	PA3553 mutant
+T40	Protein 3179 3185	PA3553
+T41	Chemical 3244 3259	aminoglycosides
+T42	Organism 3272 3276	PAO1
+T43	Chemical 3311 3314	CAP
+T44	Chemical 3319 3333	aminoglycoside
+T45	Organism 3348 3359	PA3553::lux
+T46	Protein 3348 3354	PA3553
+T47	Protein 3356 3359	lux
+T48	Chemical 3400 3415	aminoglycosides
+T49	Protein 3434 3440	PA3553
+T50	Organism 3479 3497	PA3553::lux mutant
+T51	Protein 3479 3485	PA3553
+T52	Protein 3487 3490	lux
+T53	Organism 3525 3529	PAO1
+T54	Chemical 3659 3662	CAP
+T55	Chemical 3714 3723	magnesium
+T56	Chemical 3804 3813	magnesium
+T57	Chemical 4004 4013	magnesium

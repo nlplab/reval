@@ -1,0 +1,39 @@
+T1	Organism 56 60	host
+T2	Organism 151 155	host
+T3	Organism 191 195	host
+T4	Organism 532 536	host
+T5	Chemical 1088 1096	carboxyl
+T6	Chemical 1339 1344	amino
+T7	Protein 2149 2153	CesA
+T8	Organism 2184 2191	E. coli
+T9	Protein 2207 2211	EspA
+T10	Organism 2269 2288	Salmonella enterica
+T11	Organism 2463 2467	host
+T12	Protein 2955 2959	SseF
+T13	Protein 2960 2964	SscB
+T14	Protein 2984 2988	SseA
+T15	Protein 3022 3026	SseD
+T16	Protein 3031 3035	SseB
+T17	Protein 3178 3182	InvB
+T18	Protein 3189 3193	SicP
+T19	Protein 3203 3207	SigE
+T20	Protein 4287 4291	SsrA
+T21	Protein 4310 4314	SsrB
+T22	Regulon-operon 4454 4466	SsrB regulon
+T23	Protein 4454 4458	SsrB
+T24	Protein 4547 4551	SseL
+T25	Protein 4601 4605	srfN
+T26	Organism 4628 4638	Salmonella
+T27	Protein 4702 4706	SsrB
+T28	Protein 4723 4730	STM2138
+T29	Protein 4746 4750	srcA
+T30	Protein 4752 4778	SsrB-regulated chaperone A
+T31	Protein 4943 4947	SrcA
+T32	Protein 5034 5038	SrcA
+T33	Protein 5172 5176	SrcA
+T34	Protein 5252 5256	SsaN
+T35	Protein 5324 5328	SseL
+T36	Protein 5330 5337	STM2287
+T37	Protein 5343 5348	PipB2
+T38	Protein 5350 5357	STM2780
+T39	Organism 5547 5557	Salmonella

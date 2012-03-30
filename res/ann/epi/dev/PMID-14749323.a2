@@ -1,0 +1,20 @@
+T16	Glycosylation 8 21	glycosylation
+T17	Glycosylation 630 643	glycosylation
+T18	Entity 937 943	Asp-39
+T19	Glycosylation 961 973	glycosylated
+T20	Entity 1002 1008	Asp-39
+T21	Glycosylation 1023 1035	glycosylated
+T22	Deglycosylation 1233 1248	deglycosylation
+T23	Entity 1252 1258	Asp-39
+T24	Glycosylation 1817 1830	glycosylation
+T25	Glycosylation 1893 1906	glycosylation
+T26	Glycosylation 2055 2068	glycosylation
+E1	Glycosylation:T16 Theme:T1
+E2	Glycosylation:T17 Theme:T3
+E3	Glycosylation:T19 Theme:T6 Site:T18
+M1	Negation E3
+E4	Glycosylation:T21 Theme:T7 Site:T20
+E5	Deglycosylation:T22 Theme:T9 Site:T23
+E6	Glycosylation:T24 Theme:T13
+E7	Glycosylation:T25 Theme:T14
+E8	Glycosylation:T26 Theme:T15

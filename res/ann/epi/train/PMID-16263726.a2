@@ -1,0 +1,12 @@
+T16	Methylation 70 80	methylated
+T17	Entity 84 92	lysine 4
+T18	Methylation 477 487	methylated
+T19	Entity 491 499	lysine 4
+T20	Methylation 741 751	methylated
+T21	Entity 754 756	K4
+T22	Methylation 896 906	methylated
+T23	Entity 909 911	K4
+E1	Methylation:T16 Theme:T2 Site:T17
+E2	Methylation:T18 Theme:T5 Site:T19
+E3	Methylation:T20 Theme:T9 Site:T21
+E4	Methylation:T22 Theme:T12 Site:T23

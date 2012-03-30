@@ -1,0 +1,24 @@
+T1	Two-component-system 26 35	PmrA/PmrB
+T2	Protein 26 30	PmrA
+T3	Protein 31 35	PmrB
+T4	Organism 71 90	Salmonella enterica
+T5	Organism 283 322	Salmonella enterica serovar Typhimurium
+T6	Protein 502 506	PmrA
+T7	Protein 650 654	PmrA
+T8	Protein 679 683	PmrB
+T9	Chemical 731 735	Fe3+
+T10	Chemical 740 744	Al3+
+T11	Protein 750 754	PmrA
+T12	Protein 786 790	PmrD
+T13	Protein 917 921	PmrB
+T14	Protein 994 998	PmrA
+T15	Two-component-system 1020 1029	PmrA/PmrB
+T16	Protein 1020 1024	PmrA
+T17	Protein 1025 1029	PmrB
+T18	Chemical 1046 1064	lipopolysaccharide
+T19	Chemical 1118 1129	polymyxin B
+T20	Organism 1141 1151	Salmonella
+T21	Chemical 1206 1217	polymyxin B
+T22	Protein 1294 1298	PmrB
+T23	Protein 1371 1375	PmrA
+T24	Chemical 1443 1454	polymyxin B

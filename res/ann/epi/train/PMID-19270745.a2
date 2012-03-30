@@ -1,0 +1,6 @@
+*	Equiv T4 T5
+T21	Methylation 208 219	methylation
+T22	Methylation 1622 1636	trimethylation
+T23	Entity 1651 1660	lysine 27
+E1	Methylation:T21 Theme:T3
+E2	Methylation:T22 Theme:T17 Site:T23

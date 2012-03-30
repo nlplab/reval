@@ -1,0 +1,71 @@
+*	Equiv T25 T26
+T81	Positive_regulation 0 8	Enhanced
+T82	Gene_expression 9 19	expression
+T83	Gene_expression 338 347	expressed
+T84	Gene_expression 433 443	expression
+T85	Process 457 466	virulence
+T86	Positive_regulation 497 506	degrading
+T87	Protein_catabolism 497 506	degrading
+T88	Positive_regulation 679 689	upregulted
+T89	Negative_regulation 901 914	downregulated
+T90	Transcription 1077 1100	transcriptional profile
+T91	Process 1112 1121	virulence
+T92	Regulation 1251 1262	alterations
+T93	Process 1266 1275	virulence
+T94	Process 1295 1304	infection
+T95	Process 1557 1566	infection
+T96	Process 1671 1680	infection
+T97	Process 2290 2299	virulence
+T98	Process 2321 2331	resistance
+T99	Negative_regulation 2488 2495	reduced
+T100	Gene_expression 2500 2510	expression
+T101	Gene_expression 2620 2630	expression
+T102	Positive_regulation 2643 2654	upregulated
+T103	Gene_expression 2735 2745	expression
+T104	Positive_regulation 2798 2810	introduction
+T105	Protein_catabolism 3027 3038	degradation
+E1	Positive_regulation:T81 Theme:E3
+E2	Positive_regulation:T81 Theme:E4
+E3	Gene_expression:T82 Theme:T1
+E4	Gene_expression:T82 Theme:T2
+E5	Gene_expression:T83 Theme:T9
+E6	Gene_expression:T83 Theme:T10
+E7	Gene_expression:T84 Theme:T13
+E8	Gene_expression:T84 Theme:T14
+E9	Gene_expression:T84 Theme:T16
+E10	Gene_expression:T84 Theme:T18
+E11	Gene_expression:T84 Theme:T21
+E12	Gene_expression:T84 Theme:T20
+E13	Process:T85 
+E14	Positive_regulation:T86 Theme:E15 Cause:T16
+E15	Protein_catabolism:T87 Theme:T13
+E16	Positive_regulation:T86 Theme:E15 Cause:T14
+E17	Positive_regulation:T88 Theme:E7
+E18	Positive_regulation:T88 Theme:E8
+E19	Positive_regulation:T88 Theme:E9
+E20	Positive_regulation:T88 Theme:E10
+E21	Positive_regulation:T88 Theme:E11
+E22	Positive_regulation:T88 Theme:E12
+E23	Negative_regulation:T89 Theme:T24
+E24	Negative_regulation:T89 Theme:T25
+E25	Negative_regulation:T89 Theme:T27
+E26	Transcription:T90 Theme:T30
+E27	Transcription:T90 Theme:T31
+E28	Process:T91 
+E29	Regulation:T92 Theme:E30
+E30	Process:T93 
+E31	Process:T94 
+E32	Process:T95 Participant:T36
+E33	Process:T96 Participant:T44
+E34	Process:T97 
+E35	Process:T98 
+E36	Negative_regulation:T99 Theme:E38
+E37	Negative_regulation:T99 Theme:E39
+E38	Gene_expression:T100 Theme:T63
+E39	Gene_expression:T100 Theme:T64
+E40	Gene_expression:T101 Theme:T66
+E41	Positive_regulation:T102 Theme:E40
+E42	Gene_expression:T103 Theme:T68
+E43	Gene_expression:T103 Theme:T69
+E44	Positive_regulation:T104 Theme:T71
+E45	Protein_catabolism:T105 Theme:T75

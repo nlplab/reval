@@ -1,0 +1,38 @@
+T63	Negative_regulation 256 266	attenuated
+T64	Process 270 279	virulence
+T65	Process 340 350	infections
+T66	Regulation 377 386	important
+T67	Process 390 399	virulence
+T68	Regulation 450 460	importance
+T69	Process 473 482	virulence
+T70	Negative_regulation 714 725	attenuation
+T71	Process 737 746	virulence
+T72	Process 760 769	infection
+T73	Process 892 901	resistant
+T74	Negative_regulation 1538 1548	attenuated
+T75	Process 1552 1561	virulence
+T76	Process 1575 1584	infection
+T77	Process 1658 1667	infection
+T78	Process 1744 1753	infection
+T79	Gene_expression 1754 1761	produce
+T80	Process 2051 2057	infect
+E1	Negative_regulation:T63 Theme:E2
+E2	Process:T64 Participant:T11
+E3	Process:T65 Participant:T14
+E4	Regulation:T66 Theme:E5 Cause:T15
+E5	Process:T67 
+E6	Regulation:T68 Theme:E7 Cause:T18
+E7	Process:T69 
+E8	Negative_regulation:T70 Theme:E9
+E9	Process:T71 Participant:T24
+E10	Process:T72 
+E11	Process:T73 Participant:T26
+E12	Negative_regulation:T74 Theme:E13
+E13	Process:T75 Participant:T42
+E14	Process:T76 
+E15	Process:T77 Participant:T48
+E16	Process:T78 Participant:T50
+E17	Gene_expression:T79 Theme:T52
+E18	Gene_expression:T79 Theme:T53
+E19	Process:T80 Participant:T61
+M1	Negation E19

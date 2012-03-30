@@ -1,0 +1,41 @@
+T1	Protein 4 8	PmrD
+T2	Protein 41 45	PmrA
+T3	Protein 72 76	PhoP
+T4	Protein 87 91	PmrD
+T5	Protein 140 144	PmrA
+T6	Protein 224 228	PmrD
+T7	Protein 250 254	PmrA
+T8	Protein 325 329	pbgP
+T9	Organism 359 370	pmrB mutant
+T10	Protein 359 363	pmrB
+T11	Protein 390 394	pbgP
+T12	Organism 419 442	pmrB pmrD double mutant
+T13	Protein 419 423	pmrB
+T14	Protein 424 428	pmrD
+T15	Protein 505 509	PmrA
+T16	Organism 571 593	pta ackA double mutant
+T17	Protein 571 574	pta
+T18	Protein 575 579	ackA
+T19	Protein 595 599	pbgP
+T20	Organism 633 644	pmrD mutant
+T21	Protein 633 637	pmrD
+T22	Protein 684 688	pmrD
+T23	Chemical 752 757	MgCl2
+T24	Protein 809 813	PhoP
+T25	Protein 887 891	pmrD
+T26	Protein 984 988	pmrD
+T27	Protein 1160 1164	PhoP
+T28	Protein 1221 1225	pmrD
+T29	Protein 1252 1256	PhoP
+T30	Protein 1267 1271	slyA
+T31	Protein 1285 1289	PhoP
+T32	Protein 1302 1306	corA
+T33	Protein 1462 1466	PmrD
+T34	Protein 1494 1498	PmrD
+T35	Chemical 1572 1577	MgCl2
+T36	Protein 1686 1690	PmrD
+T37	Two-component-system 1703 1708	phoPQ
+T38	Protein 1703 1707	phoP
+T39	Protein 1707 1708	Q
+T40	Protein 1761 1765	PhoP
+T41	Protein 1820 1824	pmrD

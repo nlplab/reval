@@ -1,0 +1,80 @@
+T1	Protein 27 30	slo
+T2	Protein 39 43	scpC
+T3	Organism 60 72	invasive GAS
+T4	Protein 130 134	CsrS
+T5	Protein 162 165	slo
+T6	Protein 179 183	scpC
+T7	Organism 230 242	non-invasive
+T8	Organism 254 266	invasive GAS
+T9	Protein 310 313	slo
+T10	Protein 322 326	scpC
+T11	Organism 362 374	invasive GAS
+T12	Organism 411 427	non-invasive GAS
+T13	Protein 493 496	IgG
+T14	Protein 519 522	GAS
+T15	Protein 524 529	Mac-1
+T16	Protein 544 547	mac
+T17	Chemical 550 579	nicotine adenine dinucleotide
+T18	Protein 596 599	nga
+T19	Chemical 602 624	polysaccharide capsule
+T20	Protein 637 641	hasA
+T21	Protein 663 667	scpA
+T22	Organism 704 716	invasive GAS
+T23	Organism 752 768	non-invasive GAS
+T24	Protein 843 847	speB
+T25	Protein 850 853	SLS
+T26	Protein 855 859	sagA
+T27	Protein 884 888	speF
+T28	Organism 929 941	invasive GAS
+T29	Organism 973 989	non-invasive GAS
+T30	Protein 1154 1157	slo
+T31	Protein 1166 1170	scpC
+T32	Organism 1190 1202	invasive GAS
+T33	Protein 1216 1220	csrR
+T34	Protein 1224 1228	csrS
+T35	Organism 1279 1284	mouse
+T36	Organism 1392 1395	GAS
+T37	Organism 1410 1414	mice
+T38	Protein 1461 1465	csrS
+T39	Two-component-system 1491 1497	CsrR/S
+T40	Protein 1491 1495	CsrR
+T41	Protein 1496 1497	S
+T42	Protein 1615 1619	csrS
+T43	Protein 1627 1631	csrR
+T44	Organism 1658 1670	invasive GAS
+T45	Organism 1714 1727	emm49 strains
+T46	Protein 1714 1719	emm49
+T47	Protein 1779 1783	csrR
+T48	Protein 1840 1844	csrS
+T49	Organism 1878 1894	non-invasive GAS
+T50	Protein 1958 1962	csrS
+T51	Organism 2003 2015	invasive GAS
+T52	Organism 2132 2138	NIH147
+T53	Organism 2140 2146	NIH226
+T54	Organism 2148 2154	NIH230
+T55	Organism 2160 2166	NIH269
+T56	Organism 2216 2222	NIH200
+T57	Protein 2257 2261	CsrS
+T58	Protein 2373 2377	csrS
+T59	Organism 2390 2394	1566
+T60	Organism 2418 2430	invasive GAS
+T61	Organism 2452 2487	csrS-introduced severe invasive GAS
+T62	Protein 2452 2456	csrS
+T63	Protein 2525 2528	slo
+T64	Protein 2537 2541	scpC
+T65	Organism 2585 2601	non-invasive GAS
+T66	Protein 2634 2638	speB
+T67	Organism 2684 2700	non-invasive GAS
+T68	Protein 2757 2760	slo
+T69	Protein 2765 2769	scpC
+T70	Organism 2784 2796	invasive GAS
+T71	Protein 2825 2829	csrS
+T72	Organism 2851 2863	invasive GAS
+T73	Organism 2944 2967	invasive isolates +CsrS
+T74	Protein 2963 2967	CsrS
+T75	Protein 3042 3046	IL-8
+T76	Organism 3070 3093	invasive isolates +CsrS
+T77	Protein 3089 3093	CsrS
+T78	Organism 3201 3224	invasive isolates +CsrS
+T79	Protein 3220 3224	CsrS
+T80	Protein 3304 3308	csrS

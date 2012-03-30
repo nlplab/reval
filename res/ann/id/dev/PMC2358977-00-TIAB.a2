@@ -1,0 +1,13 @@
+*	Equiv T5 T6 T7
+T40	Positive_regulation 58 67	Essential
+T41	Process 77 86	Virulence
+T42	Process 221 231	infectious
+T43	Process 921 930	infection
+T44	Positive_regulation 1531 1540	requisite
+T45	Process 1554 1563	virulence
+E1	Positive_regulation:T40 Theme:E2 Cause:T1
+E2	Process:T41 Participant:T4
+E3	Process:T42 Participant:T5
+E4	Process:T43 Participant:T18
+E5	Positive_regulation:T44 Theme:E6 Cause:T36
+E6	Process:T45 Participant:T39

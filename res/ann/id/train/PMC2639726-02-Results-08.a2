@@ -1,0 +1,20 @@
+T74	Regulation 239 242	act
+T75	Transcription 307 320	transcription
+T76	Negative_regulation 325 332	reduced
+T77	Transcription 382 397	transcriptional
+T78	Positive_regulation 398 408	activation
+T79	Positive_regulation 545 555	activation
+T80	Gene_expression 693 703	expressing
+T81	Gene_expression 1584 1594	expression
+T82	Gene_expression 1813 1828	over-expression
+E1	Regulation:T74 Theme:T2
+E2	Transcription:T75 Theme:T3
+E3	Negative_regulation:T76 Theme:E2
+E4	Transcription:T77 Theme:T4
+E5	Positive_regulation:T78 Theme:E4 Cause:T5
+E6	Positive_regulation:T79 Theme:T7 Cause:T6
+E7	Gene_expression:T80 Theme:T10
+E8	Gene_expression:T81 Theme:T69
+E9	Gene_expression:T81 Theme:T63
+E10	Gene_expression:T81 Theme:T66
+E11	Gene_expression:T82 Theme:T73

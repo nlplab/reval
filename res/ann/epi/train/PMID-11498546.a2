@@ -1,0 +1,21 @@
+T9	Entity 28 34	lysine
+T10	Methylation 35 46	methylation
+T11	Methylation 108 119	Methylation
+T12	Methylation 241 253	dimethylated
+T13	Entity 254 262	lysine 9
+T14	Entity 421 429	lysine 9
+T15	Methylation 430 441	methylation
+T16	Acetylation 446 457	acetylation
+T17	Entity 459 467	Lysine 9
+T18	Methylation 471 481	methylated
+T19	Entity 581 589	lysine 4
+T20	Methylation 590 601	methylation
+T21	Acetylation 635 646	acetylation
+E1	Methylation:T10 Theme:T1 Site:T9 Contextgene:T2
+E2	Methylation:T11 Theme:T3
+E3	Methylation:T12 Theme:T4 Site:T13 Contextgene:T5
+E4	Methylation:T15 Theme:T4 Site:T14
+E5	Acetylation:T16 Theme:T4
+E6	Methylation:T18 Theme:T4 Site:T17 Contextgene:T5
+E7	Methylation:T20 Theme:T6 Site:T19 Contextgene:T5
+E8	Acetylation:T21 Theme:T7 Contextgene:T5

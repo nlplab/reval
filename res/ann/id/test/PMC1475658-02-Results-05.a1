@@ -1,0 +1,51 @@
+T1	Organism 88 102	P. entomophila
+T2	Organism 104 118	P. entomophila
+T3	Organism 132 147	gacA derivative
+T4	Protein 132 136	gacA
+T5	Protein 195 198	Imd
+T6	Organism 229 239	Drosophila
+T7	Protein 339 349	Diptericin
+T8	Protein 350 353	GFP
+T9	Protein 357 361	lacZ
+T10	Protein 392 402	Diptericin
+T11	Organism 714 728	P. entomophila
+T12	Organism 771 785	P. entomophila
+T13	Organism 854 859	Ecc15
+T14	Organism 914 919	Ecc15
+T15	Organism 1061 1066	Ecc15
+T16	Organism 1211 1216	Ecc15
+T17	Organism 1254 1268	P. entomophila
+T18	Organism 1289 1294	Ecc15
+T19	Organism 1413 1427	P. entomophila
+T20	Protein 1483 1486	Imd
+T21	Organism 1539 1553	P. entomophila
+T22	Organism 1558 1563	Ecc15
+T23	Organism 1597 1611	P. entomophila
+T24	Protein 1629 1632	Rel
+T25	Organism 1658 1668	Ecc15 evf-
+T26	Protein 1664 1667	evf
+T27	Organism 1682 1706	evf-deficient derivative
+T28	Protein 1682 1685	evf
+T29	Protein 1840 1843	Rel
+T30	Organism 1875 1885	Ecc15 evf-
+T31	Protein 1881 1884	evf
+T32	Organism 1918 1932	P. entomophila
+T33	Protein 2002 2005	Imd
+T34	Protein 2109 2112	Imd
+T35	Protein 2158 2162	Gal4
+T36	Protein 2191 2194	Imd
+T37	Organism 2224 2238	P. entomophila
+T38	Protein 2358 2361	Imd
+T39	Organism 2409 2423	P. entomophila
+T40	Organism 2467 2481	P. entomophila
+T41	Protein 2518 2521	Rel
+T42	Protein 2572 2575	Rel
+T43	Protein 2612 2616	Gal4
+T44	Protein 2648 2651	Imd
+T45	Protein 2688 2692	Gal4
+T46	Protein 2727 2730	Imd
+T47	Protein 2903 2906	Rel
+T48	Protein 2924 2927	Rel
+T49	Organism 2959 2969	Rel mutant
+T50	Protein 2959 2962	Rel
+T51	Organism 3009 3023	P. entomophila

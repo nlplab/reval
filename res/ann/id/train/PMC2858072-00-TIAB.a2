@@ -1,0 +1,24 @@
+T42	Positive_regulation 139 148	essential
+T43	Process 170 179	virulence
+T44	Gene_expression 862 871	expressed
+T45	Positive_regulation 1151 1163	up-regulated
+T46	Regulation 1242 1251	regulated
+T47	Regulation 1300 1308	affected
+T48	Gene_expression 1355 1364	expressed
+T49	Process 1474 1483	virulence
+E1	Positive_regulation:T42 Theme:E2 Cause:T5
+E2	Process:T43 Participant:T8
+E3	Gene_expression:T44 Theme:T18
+E4	Gene_expression:T44 Theme:T19
+E5	Positive_regulation:T45 Theme:T23
+E6	Positive_regulation:T45 Theme:T24
+E7	Regulation:T46 Theme:T27
+E8	Regulation:T46 Theme:T28
+E9	Regulation:T46 Theme:T29
+E10	Regulation:T47 Theme:T30
+E11	Regulation:T47 Theme:T31
+E12	Regulation:T47 Theme:T32
+E13	Gene_expression:T48 Theme:T30
+E14	Gene_expression:T48 Theme:T31
+E15	Gene_expression:T48 Theme:T32
+E16	Process:T49 Participant:T35

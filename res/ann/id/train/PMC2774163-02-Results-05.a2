@@ -1,0 +1,8 @@
+T22	Phosphorylation 88 102	phosphorylated
+T23	Positive_regulation 113 122	dependent
+T24	Negative_regulation 255 267	Inactivation
+T25	Phosphorylation 1716 1731	phosphorylation
+E1	Phosphorylation:T22 Theme:T3
+E2	Positive_regulation:T23 Theme:E1 Cause:T4
+E3	Negative_regulation:T24 Theme:T9
+E4	Phosphorylation:T25 Theme:T21
