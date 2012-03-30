@@ -17,7 +17,7 @@ class Text(object):
 
 
 class Event(object):
-    def __init__(self, _id, _type, trigger, args):
+    def __init__(self, _id, _type, args):
         self.id = _id
         self.type = _type
         self.args = args
