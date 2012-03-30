@@ -1,5 +1,5 @@
 '''
-Common classes and functions.
+Common classes and functions for the shared-task annotation format.
 
 Author:     Pontus Stenetorp    <pontus stenetorp se>
 Version:    2012-03-07

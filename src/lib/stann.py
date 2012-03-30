@@ -10,13 +10,13 @@ Author:     Pontus Stenetorp    <pontus stenetorp se>
 Version:    2012-03-07
 '''
 
-from common import Textbound, Event, Modifier, Equiv
+from stcommon import Textbound, Event, Modifier, Equiv
 
 ### Constants
 ID_PREFIXES = set(('T', 'E', 'M', ))
 ###
 
-def parse_ann(ann_lines):
+def parse_st_ann(ann_lines):
     for ann_line in ann_lines:
         if ann_line[0] in ID_PREFIXES:
             ann_id = ann_line.split('\t')[0]
@@ -67,6 +67,6 @@ if __name__ == '__main__':
         'M1\tNegation E1',
             )
 
-    for ann_line, ann in izip(test_ann_str, parse_ann(test_ann_str)):
+    for ann_line, ann in izip(test_ann_str, parse_st_ann(test_ann_str)):
         print ann
         assert ann_line == str(ann)
