@@ -1,0 +1,12 @@
+T1	Protein	CHD1
+T2	Protein	histone H3
+T3	Protein	histone
+T9	Protein	H3
+T11	Protein	Chd1
+T14	Protein	histones
+T17	Entity	lysine 4
+T21	Entity	K4
+E1	Methylation Site:T17 Theme:T2
+E2	Methylation Site:T17 Theme:T2
+E3	Methylation Site:T21 Theme:T9
+E4	Methylation Site:T21 Theme:T9

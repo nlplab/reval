@@ -1,0 +1,12 @@
+T1	Protein	histone H3
+T2	Protein	histone
+T4	Protein	H3
+T8	Protein	EZH2
+*	Equiv T4
+*	Equiv T18
+T14	Entity	lysine 27
+T18	Entity	K27
+T19	Entity	K9
+E1	DNA_methylation Site:T14 Theme:T1
+E2	Methylation Site:T14 Theme:T1
+E3	Methylation Site:T19 Theme:T4

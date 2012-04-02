@@ -1,0 +1,12 @@
+T1	Protein	Yng1p
+T2	Protein	histone
+T3	Protein	histone H3
+T4	Protein	histones
+T6	Protein	Yng2p
+T7	Protein	Pho23p
+T12	Protein	YNG1
+T19	Entity	lysine 4
+E1	Methylation Site:T19 Theme:T3
+E2	Methylation Site:T19 Theme:T3
+E3	Methylation Site:T19 Theme:T3
+E4	Methylation Site:T19 Theme:T3

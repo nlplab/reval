@@ -1,0 +1,8 @@
+T1	Protein	interleukin 3
+T2	Protein	Interleukin 3
+T3	Protein	IL-3
+T4	Protein	hematopoietic growth factor
+T8	Protein	granulocyte-macrophage colony-stimulating factor
+T9	Protein	GM-CSF
+*	Equiv T2 T3 T4
+*	Equiv T8 T9

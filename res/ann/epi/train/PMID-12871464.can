@@ -1,0 +1,30 @@
+T1	Protein	trocarin
+T2	Protein	factor Xa
+T3	Protein	Trocarin
+T4	Protein	prothrombin
+T6	Protein	coagulation factor (F)Xa
+T7	Protein	Xa
+T11	Entity	Xyl-GlcNAc
+T12	Entity	Xyl-Glc
+T15	Entity	carbohydrate moiety
+T16	Entity	light chain
+T18	Entity	carbohydrate oligosaccharide
+T19	Entity	heavy chain
+T21	Entity	Xyl-GlcNAc-
+T22	Entity	GlcNAc-
+T23	Entity	Xyl-Glc-
+T24	Entity	Glc-
+T25	Entity	Ser 52
+T27	Entity	Asn 45
+T28	Entity	sialylated, diantennary oligosaccharide
+E1	Glycosylation Sidechain:T11 Theme:T1
+E2	Glycosylation Sidechain:T12 Theme:T1
+E3	Glycosylation Theme:T7
+M1	Negation E3
+E4	Glycosylation Sidechain:T15 Site:T16 Theme:T1
+E5	Glycosylation Sidechain:T18 Site:T19 Theme:T1
+E6	Glycosylation Sidechain:T24 Site:T25 Theme:T1
+E7	Glycosylation Sidechain:T21 Site:T25 Theme:T1
+E8	Glycosylation Sidechain:T22 Site:T25 Theme:T1
+E9	Glycosylation Sidechain:T23 Site:T25 Theme:T1
+E10	Glycosylation Sidechain:T28 Site:T27 Theme:T1

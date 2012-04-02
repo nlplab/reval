@@ -1,0 +1,12 @@
+T1	Protein	SFRS9
+T2	Protein	SRP30C
+T4	Protein	SRp30c
+T6	Protein	PRMT1
+T7	Protein	GFP
+*	Equiv T1 T2 T4
+T12	Entity	Arginine
+T15	Entity	arginine
+E1	Methylation Site:T12 Theme:T4
+E2	Catalysis Cause:T6 Theme:E3
+E3	Methylation Site:T15 Theme:T4
+E4	Methylation Site:T15 Theme:T4

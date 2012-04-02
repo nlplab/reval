@@ -1,0 +1,11 @@
+T1	Protein	HAUSP
+T2	Protein	p53
+T3	Protein	Mdm2
+T5	Protein	ubiquitin
+E1	Ubiquitination Theme:T2
+E2	Catalysis Cause:T3 Theme:E1
+E3	Ubiquitination Theme:T2
+E4	Catalysis Cause:T3 Theme:E5
+E5	Ubiquitination Theme:T2
+E6	Ubiquitination Theme:T2
+E7	Catalysis Cause:T3 Theme:E6

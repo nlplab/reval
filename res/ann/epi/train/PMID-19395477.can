@@ -1,0 +1,12 @@
+T1	Protein	Peroxisome proliferator-activated receptor-gamma
+T2	Protein	p300
+T3	Protein	peroxisome proliferator-activated receptor-gamma
+T4	Protein	PPAR-gamma
+T12	Protein	Smad2
+T13	Protein	3
+T16	Protein	histone
+T19	Protein	histone H4
+T20	Protein	COL1A2
+*	Equiv T3 T4
+E1	Acetylation Contextgene:T20 Theme:T19
+E2	Acetylation Theme:T19

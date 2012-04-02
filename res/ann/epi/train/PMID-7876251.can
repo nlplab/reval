@@ -1,0 +1,17 @@
+T1	Protein	neu differentiation factors
+T2	Protein	neu differentiation factor
+T3	Protein	NDF
+T5	Protein	NDFs
+T7	Protein	epidermal growth factor
+T8	Protein	NDF-alpha
+T9	Protein	-beta
+T14	Protein	NDF-beta
+T17	Protein	HER-3
+T18	Protein	HER-4
+*	Equiv T2 T3
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T1
+M1	Negation E2
+E3	Glycosylation Theme:T2
+E4	Glycosylation Theme:T2
+M2	Negation E4

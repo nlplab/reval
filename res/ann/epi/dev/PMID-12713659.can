@@ -1,0 +1,11 @@
+T1	Protein	PrP
+T2	Protein	prion protein
+T3	Protein	PrPC
+T6	Protein	Grp94
+*	Equiv T2 T3
+*	Equiv T17 T18
+T17	Entity	glycosylphosphatidylinositol
+T18	Entity	GPI
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T2
+E3	Glycosylation Theme:T1

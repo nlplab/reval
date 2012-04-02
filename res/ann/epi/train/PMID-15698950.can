@@ -1,0 +1,13 @@
+T1	Protein	restin
+T2	Protein	endostatin
+T3	Protein	Restin
+T5	Protein	collagen XV
+T6	Protein	collagen XVIII
+T10	Protein	beta1 integrin
+T12	Protein	restins
+T15	Entity	S311
+T16	Entity	GalNAc-Gal2-NANA
+T18	Entity	GalNAc-Gal2
+E1	Glycosylation Theme:T2
+E2	Glycosylation Sidechain:T16 Site:T15 Theme:T2
+E3	Glycosylation Sidechain:T18 Site:T15 Theme:T2

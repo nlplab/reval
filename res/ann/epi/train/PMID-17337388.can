@@ -1,0 +1,10 @@
+T1	Protein	p16
+T2	Protein	ECAD
+T3	Protein	DAPK
+T4	Protein	MGMT
+T5	Protein	TIMP3
+E1	DNA_methylation Theme:T1
+E2	DNA_methylation Theme:T2
+E3	DNA_methylation Theme:T3
+E4	DNA_methylation Theme:T4
+E5	DNA_methylation Theme:T5

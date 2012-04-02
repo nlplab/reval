@@ -1,0 +1,18 @@
+T1	Protein	RAD6
+T2	Protein	Rad6
+T3	Protein	ubiquitin
+T5	Protein	Ubr1
+T6	Protein	Rad18
+T7	Protein	Bre1
+T12	Protein	histone H2B
+T13	Protein	histone H3
+T15	Protein	histones
+T16	Protein	Rad9
+T17	Protein	Crb2
+T18	Protein	53BP1
+T19	Protein	histone
+T21	Entity	lysine 123
+E1	Ubiquitination Site:T21 Theme:T12
+E2	Methylation Theme:T13
+M1	Speculation E2
+E3	Methylation Theme:T15

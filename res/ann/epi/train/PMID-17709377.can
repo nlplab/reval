@@ -1,0 +1,7 @@
+T1	Protein	T-cell ubiquitin ligand
+T3	Protein	TULA
+T4	Protein	suppressor of T-cell receptor signaling (Sts)-2
+T5	Protein	c-Cbl
+T9	Protein	AIF
+*	Equiv T3 T4
+E1	Ubiquitination Theme:T1

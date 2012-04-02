@@ -1,0 +1,11 @@
+T1	Protein	COP1
+T2	Protein	CONSTANS
+T4	Protein	FLOWERING LOCUS T
+T5	Protein	FT
+T7	Protein	CO
+T17	Protein	ubiquitin
+*	Equiv T7
+E1	Catalysis Cause:T1 Theme:E2
+E2	Ubiquitination Theme:T2
+E3	Ubiquitination Theme:T7
+E4	Catalysis Cause:T1 Theme:E3

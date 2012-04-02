@@ -1,0 +1,7 @@
+T1	Protein	DFR-B
+T2	Protein	CHI
+T3	Protein	CHS-D
+T4	Protein	InNHX1
+T6	Protein	F3'H
+T11	Entity	promoter
+E1	DNA_methylation Site:T11 Theme:T1

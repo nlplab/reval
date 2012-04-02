@@ -1,0 +1,9 @@
+T1	Protein	ancrod
+T3	Protein	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase F
+T6	Entity	glycosylation site
+T8	Entity	oligosaccharide
+T9	Entity	potential sites
+T11	Entity	carbohydrates
+E1	Glycosylation Theme:T1
+E2	Glycosylation Sidechain:T8 Site:T6 Theme:T1
+E3	Glycosylation Sidechain:T11 Site:T9 Theme:T1

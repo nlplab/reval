@@ -1,0 +1,9 @@
+T1	Protein	promyelocytic leukemia
+T2	Protein	IFN regulatory factor 3
+T3	Protein	p53
+T5	Protein	IRF3
+T11	Protein	PML
+T20	Protein	luciferase
+*	Equiv T5
+*	Equiv T11
+E1	Acetylation Theme:T3

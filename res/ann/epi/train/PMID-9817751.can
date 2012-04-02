@@ -1,0 +1,12 @@
+T1	Protein	DnaJ
+T2	Protein	Scj1p
+T6	Protein	Sec63p
+T7	Protein	Jem1p
+T10	Protein	Kar2p
+T13	Protein	scj1
+T15	Protein	carboxypeptidase Y
+T18	Protein	CPY
+*	Equiv T18
+E1	Glycosylation Theme:T15
+E2	Glycosylation Theme:T15
+M1	Negation E2

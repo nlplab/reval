@@ -1,0 +1,22 @@
+T1	Protein	alpha1-antichymotrypsin
+T2	Protein	ACT
+T3	Protein	protein C inhibitor
+T4	Protein	PCI
+T5	Protein	kallistatin
+T6	Protein	KAL
+T7	Protein	act
+T8	Protein	Dnase I
+T10	Protein	histone H3
+T11	Protein	H4
+T12	Protein	histone
+T14	Protein	pci
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T5 T6
+T21	Entity	lysine 4
+E1	Acetylation Contextgene:T7 Theme:T10
+E2	Acetylation Contextgene:T7 Theme:T11
+E3	Methylation Contextgene:T7 Site:T21 Theme:T10
+E4	Methylation Contextgene:T14 Site:T21 Theme:T10
+E5	Methylation Contextgene:T1 Site:T21 Theme:T10
+E6	Methylation Contextgene:T3 Site:T21 Theme:T10

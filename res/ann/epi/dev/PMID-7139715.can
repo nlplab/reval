@@ -1,0 +1,11 @@
+T1	Protein	albumin
+T12	Entity	5' end
+T15	Entity	entire length
+E1	DNA_methylation Site:T12 Theme:T1
+E2	DNA_methylation Theme:T1
+M1	Speculation E2
+E3	DNA_methylation Site:T15 Theme:T1
+E4	DNA_methylation Site:T12 Theme:T1
+E5	DNA_methylation Site:T12 Theme:T1
+E6	DNA_methylation Site:T12 Theme:T1
+E7	DNA_methylation Site:T12 Theme:T1

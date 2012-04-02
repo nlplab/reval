@@ -1,0 +1,12 @@
+T1	Protein	hypoxia-inducible factor-1alpha
+T2	Protein	hypoxia-inducible factor (HIF)-1alpha
+T3	Protein	von Hippel-Lindau
+T4	Protein	vHL
+T5	Protein	HIF-1alpha
+T6	Protein	ubiquitin
+T10	Protein	green fluorescent protein
+T11	Protein	GFP
+*	Equiv T10 T11
+T18	Entity	Pro-564
+E1	Hydroxylation Site:T18 Theme:T1
+E2	Hydroxylation Site:T18 Theme:T5

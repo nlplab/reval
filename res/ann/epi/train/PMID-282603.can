@@ -1,0 +1,12 @@
+T1	Protein	H-1 histone
+T2	Protein	histones
+T3	Protein	histone H-1
+T4	Protein	histone
+T6	Protein	histone H-3
+T7	Protein	H-1
+E1	Methylation Theme:T1
+E2	Methylation Theme:T2
+E3	Methylation Theme:T7
+E4	Methylation Theme:T7
+E5	Methylation Theme:T7
+M1	Negation E5

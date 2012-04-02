@@ -1,0 +1,6 @@
+T1	Protein	histone
+T2	Protein	Atrophin-1
+T6	Protein	histone H3
+E1	Deacetylation Theme:T1
+E2	Deacetylation Theme:T6
+E3	Acetylation Theme:T1

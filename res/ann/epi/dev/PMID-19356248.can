@@ -1,0 +1,10 @@
+T1	Protein	Histone
+T2	Protein	TRF4
+T3	Protein	SNAP50
+T4	Protein	H3 histones
+T6	Protein	H3 histone
+T7	Protein	H3
+E1	Acetylation Theme:T1
+E2	Acetylation Theme:T6
+E3	Acetylation Theme:T7
+E4	Acetylation Theme:T4

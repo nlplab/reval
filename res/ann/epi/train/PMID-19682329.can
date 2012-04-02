@@ -1,0 +1,20 @@
+T1	Protein	Transferrin
+T2	Protein	transferrin receptor 2
+T3	Protein	Transferrin receptor 2
+T4	Protein	TfR2
+T5	Protein	transferrin receptor 1
+T6	Protein	TfR1
+T9	Protein	Tf
+T20	Protein	phosphofurin acidic cluster sorting protein 1
+T21	Protein	PACS-1
+T25	Protein	TSG101
+T26	Protein	Vps4
+T31	Protein	ubiquitin
+*	Equiv T3 T4
+*	Equiv T5 T6
+*	Equiv T20 T21
+E1	Ubiquitination Theme:T3
+E2	Ubiquitination Theme:T3
+M1	Negation E2
+E3	Ubiquitination Theme:T3
+M2	Negation E3

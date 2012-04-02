@@ -1,0 +1,15 @@
+T1	Protein	pneumolysin
+T2	Protein	Toll-like receptors 2
+T3	Protein	4
+T4	Protein	transforming growth factor-beta-activated kinase 1
+T5	Protein	TAK1
+T6	Protein	protein kinase kinase (MKK) 3
+T7	Protein	6
+T8	Protein	p38alpha
+T9	Protein	beta
+T10	Protein	cylindromatosis
+T11	Protein	CYLD
+T14	Protein	MKK3
+*	Equiv T4 T5
+E1	Deubiquitination Theme:T4
+E2	Catalysis Cause:T11 Theme:E1

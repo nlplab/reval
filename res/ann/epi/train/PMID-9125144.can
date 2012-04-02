@@ -1,0 +1,7 @@
+T1	Protein	HSP70
+T3	Protein	GP62
+T4	Protein	GP50
+T5	Protein	P-SG64
+T6	Protein	calreticulin
+*	Equiv T5 T6
+E1	Glycosylation Theme:T6

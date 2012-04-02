@@ -1,0 +1,10 @@
+T1	Protein	apolipoprotein B-100
+T2	Protein	apolipoprotein (apo) B-100
+T3	Protein	apo B-100
+T9	Entity	sugar chains
+E1	Glycosylation Theme:T1
+E2	Glycosylation Sidechain:T9 Theme:T2
+E3	Glycosylation Sidechain:T9 Theme:T3
+E4	Glycosylation Theme:T3
+E5	Glycosylation Sidechain:T9 Theme:T3
+E6	Glycosylation Theme:T3

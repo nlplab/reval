@@ -1,0 +1,12 @@
+T1	Protein	histone H3
+T2	Protein	H3
+T6	Protein	Suz12
+T7	Protein	Ezh2
+T8	Protein	Bmi1
+T9	Protein	Pc2
+*	Equiv T1 T2
+*	Equiv T15 T16
+T15	Entity	lysine 27
+T16	Entity	K27
+E1	Methylation Site:T15 Theme:T1
+E2	Methylation Site:T15 Theme:T1

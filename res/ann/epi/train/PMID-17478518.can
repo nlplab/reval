@@ -1,0 +1,8 @@
+T1	Protein	histone
+T5	Protein	HLA-DRA
+T6	Protein	CIITA
+T8	Protein	histone H4
+T9	Protein	histone H3
+E1	Acetylation Contextgene:T5 Theme:T8
+E2	Acetylation Contextgene:T5 Theme:T9
+E3	Methylation Contextgene:T5 Theme:T9

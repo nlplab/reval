@@ -1,0 +1,11 @@
+T1	Protein	CLECSF6
+T2	Protein	DCIR
+T7	Protein	granulocyte-macrophage-colony stimulating factor
+T8	Protein	GM-CSF
+T9	Protein	tumor necrosis factor
+T10	Protein	TNF-alpha
+T11	Protein	interleukin (IL)-4
+*	Equiv T1 T2
+*	Equiv T7 T8
+*	Equiv T9 T10
+E1	Deglycosylation Theme:T2

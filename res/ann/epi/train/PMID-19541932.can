@@ -1,0 +1,12 @@
+T1	Protein	tumor necrosis factor-alpha receptor-associated death domain
+T2	Protein	ubiquitin
+T3	Protein	tumor necrosis factor-alpha
+T4	Protein	TNFalpha
+T6	Protein	TNFR1
+T7	Protein	TNFR2
+T10	Protein	TNFR-associated death domain
+T11	Protein	TRADD
+T26	Protein	fibronectin
+*	Equiv T3 T4
+*	Equiv T10 T11
+E1	Ubiquitination Theme:T11

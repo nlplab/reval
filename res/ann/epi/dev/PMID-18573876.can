@@ -1,0 +1,15 @@
+T1	Protein	prolactin receptor
+T2	Protein	prolactin
+T3	Protein	PRL
+T5	Protein	PRL receptor
+T6	Protein	PRLr
+T13	Protein	ubiquitin
+*	Equiv T2 T3
+*	Equiv T5 T6
+E1	Ubiquitination Theme:T1
+E2	Ubiquitination Theme:T6
+E3	Ubiquitination Theme:T6
+E4	Ubiquitination Theme:T6
+E5	Ubiquitination Theme:T6
+E6	Ubiquitination Theme:T6
+E7	Ubiquitination Theme:T6

@@ -1,0 +1,17 @@
+T1	Protein	histone
+T5	Protein	H19
+T6	Protein	NNAT
+T7	Protein	CYP3A4
+T8	Protein	CYP3A5
+T9	Protein	CYP3A7
+T10	Protein	CYP17A1
+T11	Protein	CYP19A1
+T12	Protein	C/EBPalpha
+T13	Protein	C/EBPbeta
+T14	Protein	C/EBPgamma
+E1	Deacetylation Theme:T1
+E2	Deacetylation Theme:T1
+E3	Deacetylation Theme:T1
+E4	Deacetylation Theme:T1
+E5	DNA_methylation Theme:T5
+E6	DNA_methylation Theme:T6

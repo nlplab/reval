@@ -1,0 +1,13 @@
+T1	Protein	Nedd4-2
+T2	Protein	Ubiquitin
+T3	Protein	ubiquitin
+T4	Protein	Nedd4 (neural-precursor-cell-expressed, developmentally down-regulated 4)-2
+E1	Ubiquitination Theme:T1
+E2	Catalysis Cause:T1 Theme:E1
+E3	Ubiquitination Theme:T1
+E4	Ubiquitination Theme:T1
+E5	Catalysis Cause:T1 Theme:E4
+E6	Ubiquitination Theme:T1
+E7	Catalysis Cause:T1 Theme:E6
+E8	Ubiquitination Theme:T1
+E9	Catalysis Cause:T1 Theme:E8

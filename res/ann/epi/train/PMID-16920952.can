@@ -1,0 +1,10 @@
+T1	Protein	UL16
+T2	Protein	NKG2D
+T6	Protein	MICB
+T7	Protein	MICA
+T9	Protein	ULBP1
+T10	Protein	ULBP2
+T12	Protein	ULPB3
+T13	Protein	ULBP4
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T6

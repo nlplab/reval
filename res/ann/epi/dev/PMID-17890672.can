@@ -1,0 +1,17 @@
+T1	Protein	ameloblastin
+T3	Protein	Ambn
+T6	Protein	agglutinin
+T7	Protein	PNA
+*	Equiv T3
+*	Equiv T6 T7
+T16	Entity	Pro(11)
+T17	Entity	Ser(17)
+T20	Entity	Ser(86)
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T1
+M1	Speculation E2
+E3	Glycosylation Theme:T3
+E4	Hydroxylation Site:T16 Theme:T3
+E5	Phosphorylation Site:T17 Theme:T3
+E6	Glycosylation Site:T20 Theme:T3
+E7	Glycosylation Theme:T3

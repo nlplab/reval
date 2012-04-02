@@ -1,0 +1,18 @@
+T1	Protein	Grb10
+T2	Protein	Nedd4
+T3	Protein	insulin-like growth factor receptor
+T5	Protein	IGF-I receptor
+T6	Protein	IGF-IR
+T7	Protein	insulin receptor
+T8	Protein	IR
+T12	Protein	ubiquitin
+T14	Protein	IGF-I
+*	Equiv T5 T6
+*	Equiv T7 T8
+E1	Ubiquitination Theme:T3
+E2	Catalysis Cause:T14 Theme:E3
+E3	Ubiquitination Theme:T6
+E4	Ubiquitination Theme:T6
+E5	Ubiquitination Theme:T6
+E6	Ubiquitination Theme:T6
+E7	Ubiquitination Theme:T6

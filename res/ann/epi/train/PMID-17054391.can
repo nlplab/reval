@@ -1,0 +1,8 @@
+T1	Protein	CBP
+T2	Protein	CREB-binding protein
+T8	Protein	SC35
+T9	Protein	histones
+T11	Protein	histone H4
+T12	Protein	H4
+*	Equiv T2
+E1	Acetylation Theme:T9

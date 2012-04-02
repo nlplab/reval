@@ -1,0 +1,5 @@
+T1	Protein	type XII collagen
+T2	Protein	XII
+T3	Protein	XIV
+T6	Entity	prolyl
+E1	Hydroxylation Site:T6 Theme:T1

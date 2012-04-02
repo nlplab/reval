@@ -1,0 +1,31 @@
+T1	Protein	Sin3A
+T2	Protein	histone deacetylase 2
+T3	Protein	PRMT5
+T4	Protein	Brg1
+T5	Protein	Myc
+T6	Protein	cad
+T9	Protein	HDAC2
+T12	Protein	Brm
+T14	Protein	histones H3
+T15	Protein	H4
+T20	Protein	c-Myc
+T22	Protein	carbamoyl-phosphate synthase
+T23	Protein	aspartate carbamoyltransferase
+T24	Protein	dihydroorotase
+T26	Protein	nucleolin
+T27	Protein	nuc
+*	Equiv T9
+*	Equiv T22 T23 T24
+*	Equiv T26 T27
+E1	Catalysis Cause:T3 Theme:E8
+E2	Methylation Theme:T15
+E3	Catalysis Cause:T3 Theme:E2
+E4	Methylation Theme:T14
+E5	Catalysis Cause:T3 Theme:E4
+E6	Methylation Theme:T15
+E7	Catalysis Cause:T3 Theme:E6
+E8	Methylation Theme:T14
+E9	Deacetylation Theme:T14
+E10	Deacetylation Theme:T15
+E11	Acetylation Theme:T14
+E12	Acetylation Theme:T15

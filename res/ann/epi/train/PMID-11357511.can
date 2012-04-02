@@ -1,0 +1,12 @@
+T1	Protein	INV1
+T2	Protein	invertase
+*	Equiv T1 T2
+T14	Entity	oligosaccharide chains
+E1	Glycosylation Theme:T2
+M1	Negation E1
+E2	Glycosylation Theme:T2
+E3	Glycosylation Sidechain:T14 Theme:T2
+E4	Glycosylation Theme:T2
+M2	Negation E4
+E5	Glycosylation Theme:T2
+M3	Negation E5

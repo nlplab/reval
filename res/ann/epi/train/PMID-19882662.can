@@ -1,0 +1,6 @@
+T1	Protein	Skp1
+T2	Protein	ubiquitin
+T3	Protein	Saf1
+T4	Protein	Met4
+T5	Protein	Met30
+E1	Ubiquitination Theme:T4

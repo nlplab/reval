@@ -1,0 +1,11 @@
+T1	Protein	aspartyl beta-hydroxylase
+T2	Protein	factor IX
+T4	Protein	factor X
+T7	Protein	X
+T8	Protein	factors IX
+T11	Entity	erythro beta-hydroxyaspartic acid
+E1	Hydroxylation Site:T11 Theme:T4
+E2	Hydroxylation Theme:T2
+E3	Hydroxylation Theme:T7
+E4	Hydroxylation Theme:T8
+E5	Hydroxylation Theme:T7

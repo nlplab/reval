@@ -1,0 +1,9 @@
+T1	Protein	VIPL
+T2	Protein	VIP36-like protein
+T4	Protein	VIP36
+T10	Protein	biotin ligase
+T11	Protein	streptavidin
+T12	Protein	SA
+T19	Protein	endo beta-N-acetylglucosaminidase H
+*	Equiv T2
+*	Equiv T11 T12

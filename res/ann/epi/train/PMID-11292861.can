@@ -1,0 +1,7 @@
+T1	Protein	von Hippel-Lindau
+T2	Protein	von Hippel-Lindau tumor suppressor
+T3	Protein	pVHL
+T5	Protein	HIF-1alpha
+*	Equiv T2 T3
+T8	Entity	P564
+E1	Hydroxylation Site:T8 Theme:T5

@@ -1,0 +1,5 @@
+T1	Protein	insulin
+T2	Protein	glucagon
+T6	Protein	phenylalanine hydroxylase
+E1	Phosphorylation Theme:T6
+E2	Phosphorylation Theme:T6

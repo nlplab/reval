@@ -1,0 +1,23 @@
+T1	Protein	FLOWERING LOCUS C
+T2	Protein	histone H3
+T5	Protein	FLC
+T6	Protein	H3
+T8	Protein	SET DOMAIN GROUP 8
+T9	Protein	SDG 8
+T10	Protein	SET2
+T13	Protein	sdg8
+T15	Protein	SDG8
+*	Equiv T5
+*	Equiv T8 T9
+T20	Entity	K36
+T22	Entity	K9
+T23	Entity	K27
+T25	Entity	K4
+E1	Methylation Contextgene:T1 Site:T20 Theme:T2
+E2	Methylation Contextgene:T1 Site:T22 Theme:T2
+E3	Methylation Contextgene:T1 Site:T23 Theme:T2
+E4	Methylation Contextgene:T5 Site:T25 Theme:T6
+E5	Methylation Contextgene:T5 Site:T20 Theme:T2
+E6	Catalysis Cause:T15 Theme:E7
+E7	Methylation Contextgene:T5 Site:T20 Theme:T6
+E8	Methylation Site:T20 Theme:T6

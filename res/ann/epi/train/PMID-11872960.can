@@ -1,0 +1,30 @@
+T1	Protein	MLH1
+T2	Protein	MGMT
+T3	Protein	Mut L homologue 1
+T5	Protein	O(6)-methylguanine-DNA methyltransferase
+*	Equiv T3
+*	Equiv T5
+T20	Entity	Promoter
+T24	Entity	CpG islands
+T26	Entity	CpG island
+T28	Entity	promoter
+E1	DNA_methylation Site:T20 Theme:T1
+M1	Speculation E1
+E2	DNA_methylation Site:T20 Theme:T2
+M2	Speculation E2
+E3	DNA_methylation Theme:T3
+E4	DNA_methylation Theme:T5
+E5	DNA_methylation Site:T24 Theme:T1
+E6	DNA_methylation Site:T24 Theme:T2
+E7	DNA_methylation Theme:T1
+M3	Speculation E7
+E8	DNA_methylation Theme:T2
+M4	Speculation E8
+E9	DNA_methylation Site:T26 Theme:T1
+E10	DNA_methylation Site:T26 Theme:T2
+E11	DNA_methylation Site:T28 Theme:T1
+E12	DNA_methylation Site:T28 Theme:T2
+E13	DNA_methylation Site:T28 Theme:T1
+E14	DNA_methylation Site:T28 Theme:T2
+M5	Negation E14
+E15	DNA_methylation Site:T28 Theme:T1

@@ -1,0 +1,17 @@
+T1	Protein	FANCD2
+T3	Protein	PCNA
+T6	Protein	USP1
+T7	Protein	ubiquitin
+E1	Deubiquitination Theme:T1
+E2	Ubiquitination Theme:T1
+E3	Ubiquitination Theme:T3
+E4	Deubiquitination Theme:T1
+E5	Deubiquitination Theme:T3
+E6	Catalysis Cause:T6 Theme:E4
+E7	Catalysis Cause:T6 Theme:E5
+E8	Ubiquitination Theme:T1
+E9	Ubiquitination Theme:T3
+E10	Ubiquitination Theme:T1
+E11	Ubiquitination Theme:T3
+E12	Deubiquitination Theme:T1
+E13	Ubiquitination Theme:T1

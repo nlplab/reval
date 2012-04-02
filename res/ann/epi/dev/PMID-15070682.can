@@ -1,0 +1,4 @@
+T1	Protein	tissue plasminogen activator
+T2	Protein	tPA
+T3	Protein	plasmin
+*	Equiv T1 T2

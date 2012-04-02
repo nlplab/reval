@@ -1,0 +1,7 @@
+T1	Protein	NCAM
+T4	Protein	NCAM140
+T5	Protein	NCAM180
+T9	Protein	ubiquitin
+E1	Ubiquitination Theme:T1
+E2	Ubiquitination Theme:T1
+E3	Ubiquitination Theme:T1

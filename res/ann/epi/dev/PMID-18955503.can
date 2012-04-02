@@ -1,0 +1,13 @@
+T1	Protein	CHIP
+T2	Protein	inducible nitric oxide synthase
+T3	Protein	iNOS
+T5	Protein	carboxy terminus of Hsp70-interacting protein
+T16	Protein	cystic fibrosis transconductance regulator
+T17	Protein	CFTR
+T18	Protein	ubiquitin
+T21	Protein	histone deacetylase 6
+*	Equiv T2 T3
+*	Equiv T5
+*	Equiv T16 T17
+E1	Catalysis Cause:T1 Theme:E2
+E2	Ubiquitination Theme:T2

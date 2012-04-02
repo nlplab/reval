@@ -1,0 +1,21 @@
+T1	Protein	H-2K
+T2	Protein	H-2K alleles, k
+T3	Protein	b
+T4	Protein	H-2Kk
+T5	Protein	H-2Kb
+T13	Entity	Asn86
+T14	Entity	Asn176
+T16	Entity	complex oligosaccharides
+T17	Entity	smaller (probably high mannose) structures
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T2
+E3	Glycosylation Theme:T3
+E4	Glycosylation Sidechain:T16 Site:T13 Theme:T3
+E5	Glycosylation Sidechain:T17 Site:T13 Theme:T3
+E6	Glycosylation Sidechain:T16 Site:T14 Theme:T3
+E7	Glycosylation Sidechain:T17 Site:T14 Theme:T3
+E8	Glycosylation Sidechain:T16 Site:T13 Theme:T2
+E9	Glycosylation Sidechain:T17 Site:T13 Theme:T2
+E10	Glycosylation Sidechain:T16 Site:T14 Theme:T2
+E11	Glycosylation Sidechain:T17 Site:T14 Theme:T2
+E12	Glycosylation Theme:T4

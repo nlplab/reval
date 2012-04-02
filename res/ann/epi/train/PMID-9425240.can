@@ -1,0 +1,8 @@
+T1	Protein	neu-1
+T2	Protein	Lysosomal neuraminidase
+T3	Protein	beta-galactosidase
+T4	Protein	protective protein/cathepsin A
+T5	Protein	PPCA
+T7	Protein	lysosomal neuraminidase
+T9	Protein	Neu-1
+*	Equiv T4 T5

@@ -1,0 +1,5 @@
+T1	Protein	KvLQT1
+T2	Protein	minK
+T17	Protein	KvLQT
+T19	Entity	oligosaccharides
+E1	Glycosylation Sidechain:T19 Theme:T2

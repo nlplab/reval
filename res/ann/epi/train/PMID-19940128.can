@@ -1,0 +1,6 @@
+T1	Protein	Usa1p
+T2	Protein	Hrd1p
+T3	Protein	ubiquitin
+T25	Protein	Der1p
+E1	Ubiquitination Theme:T2
+E2	Catalysis Cause:T2 Theme:E1

@@ -1,0 +1,26 @@
+T1	Protein	PIAS1
+T2	Protein	PIAS4
+T3	Protein	ATM
+T4	Protein	ATR
+T5	Protein	PRKDC
+T6	Protein	histone H2AX
+T7	Protein	H2AFX
+T8	Protein	MDC1
+T9	Protein	53BP1
+T10	Protein	TP53BP1
+T11	Protein	BRCA1
+T12	Protein	CtIP
+T13	Protein	RBBP8
+T14	Protein	RNF8
+T15	Protein	RNF168
+T16	Protein	RIDDLIN
+T17	Protein	SUMO1
+T18	Protein	SUMO2
+T19	Protein	SUMO3
+T22	Protein	3
+T34	Protein	ubiquitin
+*	Equiv T6 T7
+*	Equiv T9 T10
+*	Equiv T12 T13
+*	Equiv T15 T16
+E1	Phosphorylation Theme:T6

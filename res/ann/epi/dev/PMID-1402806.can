@@ -1,0 +1,12 @@
+T1	Protein	M
+T8	Protein	peplomer
+T9	Protein	S
+T10	Protein	haemagglutinin-esterase
+T11	Protein	HE
+*	Equiv T8 T9
+*	Equiv T10 T11
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T1
+M1	Speculation E2
+E3	Glycosylation Theme:T8
+E4	Glycosylation Theme:T10

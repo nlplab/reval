@@ -1,0 +1,10 @@
+T1	Protein	androgen receptor
+T2	Protein	prostate-specific antigen
+T4	Protein	AR
+T8	Protein	PSA
+T11	Protein	p300
+T12	Protein	CBP
+T15	Protein	histone
+*	Equiv T4
+*	Equiv T8
+E1	Acetylation Contextgene:T8 Theme:T15

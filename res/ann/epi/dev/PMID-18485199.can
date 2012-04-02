@@ -1,0 +1,10 @@
+T1	Protein	ubiquitin
+T2	Protein	CHIP
+T4	Protein	Ubiquitin
+T8	Protein	UbcH5
+T9	Protein	Ubc13
+T10	Protein	Uev1a
+T18	Protein	UbcH5a
+T32	Protein	Ube2e2
+E1	Ubiquitination Theme:T2
+E2	Catalysis Cause:T2 Theme:E1

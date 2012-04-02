@@ -1,0 +1,14 @@
+T1	Protein	Set2
+T2	Protein	histone H3
+T3	Protein	GAL4
+T4	Protein	histone
+T6	Protein	SET2
+T12	Protein	set2
+T21	Entity	lysine 36
+E1	Catalysis Cause:T1 Theme:E2
+E2	Methylation Contextgene:T3 Theme:T2
+E3	Methylation Theme:T4
+E4	Catalysis Cause:T1 Theme:E5
+E5	Methylation Site:T21 Theme:T2
+E6	Methylation Contextgene:T3 Site:T21 Theme:T2
+E7	Catalysis Cause:T6 Theme:E6

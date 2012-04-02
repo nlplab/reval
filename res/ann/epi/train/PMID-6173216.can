@@ -1,0 +1,8 @@
+T1	Protein	L3
+T4	Protein	beta-galactosidase
+T8	Entity	glutamine residue number 150
+E1	Methylation Site:T8 Theme:T1
+M1	Negation E1
+E2	Methylation Theme:T1
+M2	Negation E2
+E3	Methylation Theme:T1

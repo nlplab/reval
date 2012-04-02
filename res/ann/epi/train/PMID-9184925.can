@@ -1,0 +1,7 @@
+T1	Protein	MUC1
+T5	Protein	CD8
+T6	Protein	CD4
+T8	Protein	alpha
+T9	Protein	beta TCR
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T1

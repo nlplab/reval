@@ -1,0 +1,8 @@
+T1	Protein	p67SRF
+T2	Protein	p62TCF
+T3	Protein	c-fos
+T7	Protein	p62
+*	Equiv T23 T24
+T23	Entity	N-acetylglucosamine
+T24	Entity	GlcNAc
+E1	Glycosylation Sidechain:T23 Theme:T1

@@ -1,0 +1,10 @@
+T1	Protein	histone
+T2	Protein	AL2
+T3	Protein	L2
+T4	Protein	adenosine kinase
+T5	Protein	ADK
+T6	Protein	histone H3
+T7	Protein	H3
+T11	Protein	AGO4
+*	Equiv T4 T5
+E1	Methylation Theme:T6

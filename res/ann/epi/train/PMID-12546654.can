@@ -1,0 +1,5 @@
+T1	Protein	histone
+T2	Protein	histones
+T4	Protein	glucocorticoid receptor
+E1	Acetylation Theme:T2
+E2	Acetylation Theme:T1

@@ -1,0 +1,12 @@
+T1	Protein	FMR1
+T3	Protein	PRMT1
+T4	Protein	PRMT3
+T5	Entity	arginine
+T9	Entity	S 500
+E1	Methylation Site:T5 Theme:T1
+E2	Methylation Site:T5 Theme:T1
+E3	Phosphorylation Site:T9 Theme:T1
+E4	Methylation Theme:T1
+E5	Catalysis Cause:T3 Theme:E4
+E6	Methylation Theme:T1
+E7	Catalysis Cause:T4 Theme:E6

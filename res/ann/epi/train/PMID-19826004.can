@@ -1,0 +1,8 @@
+T1	Protein	p97
+T2	Protein	valosin-containing protein
+T3	Protein	VCP
+T11	Protein	ubiquitin
+T15	Protein	CSN5
+T17	Protein	USP15
+T20	Protein	NEDD8
+*	Equiv T1 T2 T3

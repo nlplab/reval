@@ -1,0 +1,5 @@
+T1	Protein	RCS1
+T2	Protein	securin
+T6	Protein	Cdh1
+E1	Ubiquitination Theme:T1
+E2	Ubiquitination Theme:T1

@@ -1,0 +1,7 @@
+T1	Protein	FAT10
+T2	Protein	NUB1L
+T3	Protein	ubiquitin
+T5	Protein	NEDD8 ultimate buster 1-long
+T8	Protein	dihydrofolate reductase
+T9	Protein	DHFR
+*	Equiv T8 T9

@@ -1,0 +1,8 @@
+T1	Protein	dSet2
+T2	Protein	H3
+T4	Protein	histone H3
+T10	Protein	EcR
+T15	Entity	K36
+E1	Methylation Site:T15 Theme:T2
+E2	Methylation Site:T15 Theme:T2
+M1	Negation E2

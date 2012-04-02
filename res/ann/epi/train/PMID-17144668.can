@@ -1,0 +1,17 @@
+T1	Protein	vitamin K-dependent carboxylase
+T5	Entity	N459
+T6	Entity	N550
+T7	Entity	N605
+T8	Entity	N627
+T10	Entity	N570
+T13	Entity	oligosaccharides
+E1	Glycosylation Theme:T1
+E2	Glycosylation Site:T5 Theme:T1
+E3	Glycosylation Site:T6 Theme:T1
+E4	Glycosylation Site:T7 Theme:T1
+E5	Glycosylation Site:T8 Theme:T1
+E6	Glycosylation Theme:T1
+E7	Glycosylation Site:T10 Theme:T1
+E8	Deglycosylation Sidechain:T13 Theme:T1
+E9	Glycosylation Theme:T1
+E10	Glycosylation Theme:T1

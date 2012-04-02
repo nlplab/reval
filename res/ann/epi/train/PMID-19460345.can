@@ -1,0 +1,14 @@
+T1	Protein	Lst2
+T2	Protein	EGF receptor
+T3	Protein	epidermal growth factor receptor
+T4	Protein	EGFR
+T5	Protein	ubiquitin
+T6	Protein	Cbl
+T7	Protein	SLI-1
+T14	Protein	Trim3
+T15	Protein	BERP
+T16	Protein	Hrs
+*	Equiv T3 T4
+*	Equiv T14 T15
+E1	Ubiquitination Theme:T1
+E2	Ubiquitination Theme:T1

@@ -1,0 +1,7 @@
+T1	Protein	TRPM8
+T3	Protein	c-myc
+T4	Protein	hemagglutinin
+T10	Entity	position 934
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T1
+E3	Glycosylation Site:T10 Theme:T1

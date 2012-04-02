@@ -1,0 +1,16 @@
+T1	Protein	Prolyl 3-hydroxylase 1
+T2	Protein	CRTAP
+T3	Protein	cartilage-associated protein
+T5	Protein	prolyl 3-hydroxylase 1
+T6	Protein	P3H1
+T7	Protein	LEPRE1
+T10	Protein	cyclophilin B
+T11	Protein	CyPB
+T12	Protein	alpha1(I)
+T13	Protein	alpha1(II) collagen
+*	Equiv T3
+*	Equiv T5 T6 T7
+*	Equiv T10 T11
+T38	Entity	Pro986
+E1	Hydroxylation Site:T38 Theme:T12
+E2	Hydroxylation Site:T38 Theme:T13

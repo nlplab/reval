@@ -1,0 +1,14 @@
+T1	Protein	histone
+T2	Protein	histone deacetylase-1
+T3	Protein	cytokeratin 18
+T4	Protein	histone H4
+T5	Protein	p21
+T6	Protein	WAF1
+T7	Protein	retinoblastoma
+T8	Protein	cyclin D1
+T11	Protein	HDAC1
+*	Equiv T5 T6
+E1	Acetylation Theme:T1
+E2	Acetylation Theme:T4
+E3	Phosphorylation Theme:T5
+M1	Negation E3

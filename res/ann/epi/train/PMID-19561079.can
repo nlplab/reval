@@ -1,0 +1,11 @@
+T1	Protein	p53
+T2	Protein	ubiquitin
+T3	Protein	XBP1
+T4	Protein	eIF2alpha
+T5	Protein	ATF4
+T6	Protein	CHOP
+T7	Protein	BIP
+T8	Protein	GADD34
+E1	Phosphorylation Theme:T4
+E2	Phosphorylation Theme:T4
+E3	Phosphorylation Theme:T4

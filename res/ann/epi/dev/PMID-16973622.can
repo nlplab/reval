@@ -1,0 +1,18 @@
+T1	Protein	hypoxia-inducible factor-1alpha
+T2	Protein	erythropoietin
+T3	Protein	hypoxia-inducible factor 1alpha
+T4	Protein	HIF-1alpha
+T7	Protein	FIH-1
+*	Equiv T3 T4
+T14	Entity	asparagine
+T19	Entity	asparagine residue (803)
+T20	Entity	prolyl
+T21	Entity	asparaginyl
+E1	Ubiquitination Theme:T1
+E2	Hydroxylation Site:T14 Theme:T1
+E3	Ubiquitination Theme:T3
+E4	Hydroxylation Site:T19 Theme:T3
+E5	Catalysis Cause:T7 Theme:E4
+E6	Hydroxylation Site:T20 Theme:T3
+E7	Hydroxylation Site:T21 Theme:T3
+M1	Negation E7

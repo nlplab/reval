@@ -1,0 +1,4 @@
+T1	Protein	hemagglutinins
+T2	Protein	hemagglutinin
+T3	Protein	HA
+*	Equiv T2 T3

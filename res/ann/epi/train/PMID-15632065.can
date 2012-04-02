@@ -1,0 +1,25 @@
+T1	Protein	Histone H2B
+T2	Protein	Rad6
+T3	Protein	histone H2B
+T4	Protein	histone H3
+T6	Protein	H2B
+T7	Protein	histone
+T8	Protein	Paf1
+T10	Protein	Bre1
+T18	Protein	GAL1
+T21	Protein	rtf1
+T28	Protein	Kin28
+T33	Protein	H3
+T36	Entity	lysine 123
+T37	Entity	lysine
+E1	Ubiquitination Theme:T1
+E2	Ubiquitination Site:T36 Theme:T3
+E3	Methylation Site:T37 Theme:T4
+E4	Ubiquitination Theme:T6
+E5	Methylation Theme:T7
+E6	Ubiquitination Theme:T6
+E7	Ubiquitination Theme:T6
+E8	Ubiquitination Theme:T6
+M1	Negation E8
+E9	Ubiquitination Theme:T6
+E10	Methylation Theme:T33

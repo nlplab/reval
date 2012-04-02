@@ -1,0 +1,6 @@
+T1	Protein	USP9X
+T2	Protein	MCL1
+T4	Protein	ubiquitin
+E1	Deubiquitination Theme:T2
+E2	Catalysis Cause:T1 Theme:E1
+E3	Ubiquitination Theme:T2

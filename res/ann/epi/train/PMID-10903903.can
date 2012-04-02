@@ -1,0 +1,26 @@
+T1	Protein	Hsl7p
+T2	Protein	JBP1
+T4	Protein	Janus kinase binding protein 1
+T7	Protein	histones H2A
+T8	Protein	H4
+T9	Protein	myelin basic protein
+T11	Protein	histones H1
+T12	Protein	H2B
+T13	Protein	H3
+T14	Protein	cytochrome c
+T16	Protein	HSL7
+*	Equiv T4
+E1	Methylation Theme:T7
+E2	Methylation Theme:T14
+M1	Negation E2
+E3	Catalysis Cause:T1 Theme:E1
+E4	Methylation Theme:T8
+E5	Catalysis Cause:T1 Theme:E4
+E6	Methylation Theme:T9
+E7	Catalysis Cause:T1 Theme:E6
+E8	Methylation Theme:T11
+M2	Negation E8
+E9	Methylation Theme:T12
+M3	Negation E9
+E10	Methylation Theme:T13
+M4	Negation E10

@@ -1,0 +1,19 @@
+T1	Protein	alpha-dystroglycan
+T2	Protein	ADG
+T3	Protein	POMT1
+T4	Protein	POMT2
+T5	Protein	POMGnT1
+T6	Protein	Fukutin
+T7	Protein	FKRP
+T8	Protein	LARGE
+T10	Protein	agrin
+T11	Protein	perlecan
+T14	Protein	LARGE2
+T16	Protein	dystroglycan
+*	Equiv T1 T2
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T1
+E3	Glycosylation Theme:T1
+E4	Glycosylation Theme:T16
+E5	Glycosylation Theme:T16
+M1	Negation E5

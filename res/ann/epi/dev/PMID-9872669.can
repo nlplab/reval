@@ -1,0 +1,14 @@
+T1	Protein	vasopressin
+T2	Protein	VP
+T3	Protein	transferrin
+T4	Protein	TFN
+*	Equiv T1 T2
+*	Equiv T3 T4
+T10	Entity	promoter region
+E1	DNA_methylation Site:T10 Theme:T1
+M1	Negation E1
+E2	DNA_methylation Site:T10 Theme:T1
+E3	DNA_methylation Theme:T1
+M2	Negation E3
+E4	DNA_methylation Site:T10 Theme:T3
+M3	Negation E4

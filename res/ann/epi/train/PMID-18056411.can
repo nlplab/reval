@@ -1,0 +1,10 @@
+T1	Protein	ubiquitin
+T2	Protein	interferon (IFN)-alpha/beta receptor 1
+T3	Protein	IFNAR1
+T5	Protein	betaTrcp
+T6	Protein	Skp1
+T7	Protein	Cullin1
+*	Equiv T2 T3
+E1	Ubiquitination Theme:T2
+E2	Ubiquitination Theme:T2
+E3	Ubiquitination Theme:T2

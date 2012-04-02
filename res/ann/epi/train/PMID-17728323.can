@@ -1,0 +1,17 @@
+T1	Protein	TRAF6
+T2	Protein	NEMO
+T7	Protein	TNF
+T13	Protein	Nod2
+T14	Protein	RICK
+T23	Entity	lysine residues
+T24	Entity	lysines
+E1	Catalysis Cause:T1 Theme:E2
+E2	Ubiquitination Theme:T2
+E3	Ubiquitination Theme:T2
+E4	Catalysis Cause:T1 Theme:E5
+E5	Ubiquitination Theme:T2
+E6	Ubiquitination Site:T23 Theme:T2
+E7	Ubiquitination Site:T24 Theme:T2
+E8	Ubiquitination Site:T24 Theme:T2
+E9	Ubiquitination Theme:T2
+E10	Ubiquitination Theme:T2

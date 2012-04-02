@@ -1,0 +1,8 @@
+T1	Protein	B
+T2	Protein	glycoprotein 110
+T3	Protein	gB
+T5	Protein	hemagglutinin
+T6	Protein	HA
+T10	Protein	endoglycosidase H
+T14	Protein	gp110
+*	Equiv T5 T6

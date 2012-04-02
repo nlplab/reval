@@ -1,0 +1,14 @@
+T1	Protein	NgRH1
+T2	Protein	NgRH2
+T3	Protein	Nogo-66 receptor
+T5	Protein	NgR
+T6	Protein	Nogo-A
+T7	Protein	oligodendrocyte protein
+T8	Protein	OMgp
+T9	Protein	myelin-associated glycoprotein
+T10	Protein	MAG
+*	Equiv T5
+*	Equiv T7 T8
+*	Equiv T9 T10
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T2

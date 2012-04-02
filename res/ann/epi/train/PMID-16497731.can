@@ -1,0 +1,15 @@
+T1	Protein	Adiponectin
+T3	Protein	insulin
+T4	Protein	adiponectin
+T14	Entity	proline
+T15	Entity	lysine residues
+T17	Entity	hydroxylysines
+T19	Entity	Pro71
+T20	Entity	Pro76
+T21	Entity	Pro95
+E1	Hydroxylation Site:T14 Theme:T4
+E2	Hydroxylation Site:T15 Theme:T4
+E3	Glycosylation Site:T17 Theme:T4
+E4	Hydroxylation Site:T19 Theme:T4
+E5	Hydroxylation Site:T20 Theme:T4
+E6	Hydroxylation Site:T21 Theme:T4

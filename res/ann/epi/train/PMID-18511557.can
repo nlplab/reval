@@ -1,0 +1,7 @@
+T1	Protein	Smad1
+T3	Protein	beta-catenin
+T5	Protein	Mad
+E1	Ubiquitination Theme:T1
+E2	Phosphorylation Theme:T1
+E3	Phosphorylation Theme:T1
+E4	Phosphorylation Theme:T5

@@ -1,0 +1,17 @@
+T1	Protein	E-cadherin
+T14	Entity	Asn residues 554
+T15	Entity	566
+T17	Entity	N-glycosylation sites
+T20	Entity	N-glycan
+T21	Entity	Asn633
+T23	Entity	N-glycans
+T24	Entity	Asn554
+T25	Entity	Asn566
+E1	Glycosylation Site:T14 Theme:T1
+E2	Glycosylation Site:T15 Theme:T1
+E3	Glycosylation Theme:T1
+E4	Glycosylation Site:T17 Theme:T1
+E5	Deglycosylation Sidechain:T20 Site:T21 Theme:T1
+E6	Deglycosylation Sidechain:T23 Site:T24 Theme:T1
+E7	Deglycosylation Sidechain:T23 Site:T25 Theme:T1
+E8	Glycosylation Theme:T1

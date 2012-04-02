@@ -1,0 +1,25 @@
+T1	Protein	histone
+T2	Protein	Histone
+T3	Protein	histones H3
+T4	Protein	H4
+T5	Protein	histone H3
+T6	Protein	histone H4
+T16	Entity	arginine
+T17	Entity	lysine
+T19	Entity	K9
+T20	Entity	K20
+E1	Methylation Site:T16 Theme:T3
+E2	Methylation Site:T17 Theme:T3
+E3	Methylation Site:T16 Theme:T4
+E4	Methylation Site:T17 Theme:T4
+E5	Methylation Site:T19 Theme:T5
+E6	Methylation Site:T20 Theme:T6
+E7	Methylation Site:T20 Theme:T6
+M1	Speculation E7
+E8	Methylation Site:T20 Theme:T6
+M2	Speculation E8
+E9	Methylation Site:T19 Theme:T5
+M3	Speculation E9
+E10	Methylation Site:T19 Theme:T5
+E11	Methylation Site:T20 Theme:T6
+E12	Methylation Site:T17 Theme:T1

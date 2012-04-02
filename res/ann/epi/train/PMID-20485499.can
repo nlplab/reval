@@ -1,0 +1,25 @@
+T1	Protein	Crtap
+T2	Protein	CRTAP
+T3	Protein	cartilage-associated protein
+T4	Protein	LEPRE1
+T5	Protein	prolyl 3-hydroxylase 1
+T6	Protein	P3H1
+T7	Protein	PPIB
+T8	Protein	Cyclophilin B
+T9	Protein	CYPB
+T13	Protein	alpha1(I)
+T14	Protein	alpha1(II) chains
+T15	Protein	alpha2(V) chains
+T16	Protein	alpha1(IV) chains
+T22	Protein	II
+*	Equiv T2 T3
+*	Equiv T4 T5 T6
+*	Equiv T7 T8 T9
+T23	Entity	proline 986
+T27	Entity	3Hyp sites
+T30	Entity	proline
+E1	Hydroxylation Site:T23 Theme:T13
+E2	Hydroxylation Site:T23 Theme:T14
+E3	Dehydroxylation Site:T23 Theme:T15
+E4	Hydroxylation Site:T27 Theme:T16
+E5	Hydroxylation Site:T30 Theme:T22

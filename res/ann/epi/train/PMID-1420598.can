@@ -1,0 +1,11 @@
+T1	Protein	interleukin-1 receptor type I
+T2	Protein	IL-1 receptor type I
+T3	Protein	IL-1RtI
+T4	Protein	concanavalin A
+*	Equiv T2 T3
+T10	Entity	carbohydrates
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T3
+E3	Glycosylation Sidechain:T10 Theme:T3
+E4	Glycosylation Theme:T3
+E5	Glycosylation Theme:T3

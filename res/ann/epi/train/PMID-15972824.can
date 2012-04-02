@@ -1,0 +1,11 @@
+T1	Protein	Dual oxidase-2
+T2	Protein	Duox2
+T3	Protein	Duox1
+T4	Protein	Tpo
+T5	Protein	thyroperoxidase
+T6	Protein	DUOX2
+T7	Protein	DUOX1
+T10	Protein	TPO
+T11	Protein	p22(phox)
+*	Equiv T4 T5
+E1	Glycosylation Theme:T2

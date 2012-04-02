@@ -1,0 +1,28 @@
+T1	Protein	TACI
+T2	Protein	cIAP1
+T3	Protein	NIK
+T4	Protein	TRAF2
+T5	Protein	TANK
+T6	Protein	B-cell-activating factor
+T7	Protein	BAFF
+T8	Protein	NF-kappaB inducing kinase
+T10	Protein	NF-kappaB2
+T11	Protein	p100
+T12	Protein	p52
+T14	Protein	BAFF receptor
+T15	Protein	BAFF-R
+T16	Protein	transmembrane activator and CAML interactor
+T25	Protein	cellular inhibitors of apoptosis 1
+T27	Protein	TNF receptor associated factor (TRAF)-associated NF-kappaB activator
+*	Equiv T6 T7
+*	Equiv T8
+*	Equiv T10 T11 T12
+*	Equiv T14 T15
+*	Equiv T16
+*	Equiv T25
+*	Equiv T27
+E1	Catalysis Cause:T2 Theme:E2
+E2	Ubiquitination Theme:T3
+E3	Ubiquitination Theme:T3
+E4	Catalysis Cause:T2 Theme:E3
+E5	Ubiquitination Theme:T3

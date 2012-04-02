@@ -1,0 +1,9 @@
+T1	Protein	H3
+T2	Protein	H4 histones
+T5	Protein	histones
+T10	Entity	lysines
+T12	Entity	arginines
+E1	Methylation Site:T10 Theme:T1
+E2	Methylation Site:T10 Theme:T2
+E3	Methylation Site:T12 Theme:T1
+E4	Methylation Site:T12 Theme:T2

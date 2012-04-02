@@ -1,0 +1,9 @@
+T1	Protein	hemagglutinin
+T2	Protein	HA1
+T3	Protein	HA
+T9	Entity	158N
+E1	Glycosylation Site:T9 Theme:T1
+E2	Deglycosylation Site:T9 Theme:T2
+E3	Glycosylation Site:T9 Theme:T2
+E4	Glycosylation Site:T9 Theme:T3
+E5	Glycosylation Site:T9 Theme:T3

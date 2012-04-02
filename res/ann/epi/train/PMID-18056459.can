@@ -1,0 +1,11 @@
+T1	Protein	Histone
+T3	Protein	alpha-lactalbumin
+T4	Protein	histones
+T5	Protein	histone
+T10	Protein	p21
+T11	Protein	WAFI
+*	Equiv T10 T11
+T15	Entity	tail
+E1	Acetylation Theme:T5
+E2	Acetylation Theme:T5
+E3	Acetylation Site:T15 Theme:T5

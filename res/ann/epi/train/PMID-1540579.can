@@ -1,0 +1,9 @@
+T1	Protein	D-xylose isomerase
+T2	Protein	XI
+T3	Protein	copper, zinc-superoxide dismutase
+T4	Protein	CuZnSOD
+T5	Protein	D-glyceraldehyde-3-phosphate dehydrogenase
+T6	Protein	GAPDH
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T5 T6

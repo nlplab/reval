@@ -1,0 +1,12 @@
+T1	Protein	pVHL
+T2	Protein	VEGF
+T3	Protein	vascular endothelial growth factor
+T5	Protein	HIF-1alpha
+T6	Protein	von Hippel-Lindau
+T9	Protein	miR-92-1
+T10	Protein	VHL
+T12	Protein	p300
+T13	Protein	STAT3
+*	Equiv T3
+*	Equiv T6
+E1	Phosphorylation Theme:T13

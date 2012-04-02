@@ -1,0 +1,13 @@
+T1	Protein	hypoxia-inducible factor 1alpha
+T2	Protein	Hypoxia-inducible transcription factor 1alpha
+T3	Protein	HIF-1alpha
+T5	Protein	protein kinase B
+T6	Protein	Akt
+T11	Protein	GSK-3beta
+T14	Protein	von Hippel-Lindau
+T15	Protein	VHL
+*	Equiv T2 T3
+*	Equiv T5 T6
+*	Equiv T14 T15
+E1	Phosphorylation Theme:T1
+E2	Phosphorylation Theme:T2

@@ -1,0 +1,11 @@
+T1	Protein	III
+T2	Protein	II
+T3	Protein	III collagen
+T4	Protein	alpha 1(I)
+T5	Protein	alpha 1(III)
+T10	Entity	lysine
+T11	Entity	hydroxylysine residues
+E1	Hydroxylation Site:T10 Theme:T1
+E2	Glycosylation Site:T11 Theme:T4
+E3	Hydroxylation Site:T10 Theme:T4
+E4	Hydroxylation Site:T10 Theme:T5

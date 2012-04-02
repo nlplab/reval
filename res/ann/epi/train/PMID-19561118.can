@@ -1,0 +1,12 @@
+T1	Protein	H2B
+T2	Protein	SUS1
+T4	Protein	histone H2B
+T5	Protein	ubiquitin
+T11	Protein	Sus1
+E1	Ubiquitination Theme:T1
+E2	Ubiquitination Theme:T4
+E3	Ubiquitination Theme:T4
+M1	Negation E3
+E4	Ubiquitination Theme:T4
+E5	Ubiquitination Theme:T4
+E6	Ubiquitination Theme:T4

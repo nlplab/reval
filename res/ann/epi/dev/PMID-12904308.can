@@ -1,0 +1,18 @@
+T1	Protein	ZPC
+T2	Protein	ZPA
+T3	Protein	ZPB
+T5	Protein	ZPD
+T6	Protein	ZPX
+T18	Entity	high-mannose (5-9)
+T19	Entity	neutral, complex oligosaccharides
+T21	Entity	acidic-complex
+T22	Entity	high-mannose oligosaccharides
+T24	Entity	oligosaccharides
+T25	Entity	N113
+E1	Glycosylation Sidechain:T18 Theme:T1
+E2	Glycosylation Sidechain:T19 Theme:T1
+E3	Glycosylation Sidechain:T21 Theme:T2
+E4	Glycosylation Sidechain:T22 Theme:T2
+E5	Glycosylation Sidechain:T24 Theme:T3
+M1	Negation E5
+E6	Glycosylation Sidechain:T22 Site:T25 Theme:T1

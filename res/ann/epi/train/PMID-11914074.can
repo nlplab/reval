@@ -1,0 +1,11 @@
+T1	Protein	alpha(1B)-adrenergic receptor
+T3	Protein	alpha(1B)-AR
+T11	Entity	four asparagines
+E1	Glycosylation Theme:T3
+E2	Glycosylation Theme:T3
+E3	Glycosylation Site:T11 Theme:T3
+E4	Glycosylation Theme:T3
+E5	Phosphorylation Theme:T3
+E6	Glycosylation Theme:T3
+M1	Negation E6
+E7	Glycosylation Theme:T3

@@ -1,0 +1,6 @@
+T1	Protein	Histone deacetylase 3
+T3	Protein	HDAC3
+T7	Protein	TBL1-related protein 1
+T8	Protein	TBLR1
+*	Equiv T3
+*	Equiv T7 T8

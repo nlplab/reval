@@ -1,0 +1,13 @@
+T1	Protein	SIRT1
+T2	Protein	LKB1
+T7	Protein	AMPK
+T28	Entity	Thr172
+E1	Phosphorylation Site:T28 Theme:T7
+E2	Catalysis Cause:T2 Theme:E1
+E3	Phosphorylation Site:T28 Theme:T7
+E4	Deacetylation Theme:T2
+E5	Ubiquitination Theme:T2
+E6	Acetylation Theme:T2
+M1	Speculation E6
+E7	Deacetylation Theme:T2
+M2	Speculation E7

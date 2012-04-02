@@ -1,0 +1,11 @@
+T1	Protein	CD4
+T2	Protein	Thy-1
+T8	Protein	CD2
+T13	Entity	oligomannose
+T14	Entity	hybrid type glycans
+T15	Entity	glycosylation site
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T2
+E3	Glycosylation Theme:T1
+E4	Glycosylation Sidechain:T13 Site:T15 Theme:T1
+E5	Glycosylation Sidechain:T14 Site:T15 Theme:T1

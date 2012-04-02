@@ -1,0 +1,7 @@
+T1	Protein	histone H4
+T3	Protein	H4
+T11	Protein	H3-specific Suv(3)9 histone methyltransferase
+T12	Protein	histones H3
+T15	Entity	lysine 20
+E1	Methylation Site:T15 Theme:T1
+E2	Methylation Site:T15 Theme:T1

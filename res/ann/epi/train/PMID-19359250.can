@@ -1,0 +1,13 @@
+T1	Protein	Rmt3
+T3	Protein	PRMT3
+T5	Protein	Rps2
+T6	Protein	ribosomal protein S2
+T8	Protein	RMT3
+*	Equiv T5 T6
+T26	Entity	arginine
+E1	Methylation Theme:T6
+M1	Negation E1
+E2	Methylation Site:T26 Theme:T6
+E3	Catalysis Cause:T1 Theme:E2
+E4	Methylation Theme:T6
+E5	Catalysis Cause:T1 Theme:E4

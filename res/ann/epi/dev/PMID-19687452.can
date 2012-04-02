@@ -1,0 +1,13 @@
+T1	Protein	hypocretin
+T4	Protein	ubiquitin
+T5	Protein	allograft inflammatory factor 1
+T6	Protein	AIF1
+T7	Protein	glial fibrillary acidic protein
+T8	Protein	GFAP
+T10	Protein	tau
+T11	Protein	alpha-synuclein
+T12	Protein	amyloid beta
+T13	Protein	TDP-43
+T14	Protein	Hypocretin
+*	Equiv T5 T6
+*	Equiv T7 T8

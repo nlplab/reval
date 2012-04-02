@@ -1,0 +1,4 @@
+T1	Protein	C-reactive protein
+T2	Protein	concanavalin A
+T3	Protein	Con-A
+*	Equiv T2 T3

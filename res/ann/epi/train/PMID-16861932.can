@@ -1,0 +1,8 @@
+T1	Protein	Apaf1
+T2	Protein	caspase 9
+T3	Protein	histone H3
+T6	Protein	cytochrome C
+T7	Protein	Cyto C
+T8	Protein	Bax
+*	Equiv T6 T7
+E1	Acetylation Contextgene:T1 Theme:T3

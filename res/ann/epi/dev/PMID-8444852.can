@@ -1,0 +1,10 @@
+T1	Protein	DNA damage-responsive protein 48
+T2	Protein	DDRP 48
+T3	Protein	DNA Damage-responsive gene 48
+T4	Protein	DDR48
+T11	Protein	DDRP
+T12	Protein	wild type RAD 52 gene
+T14	Protein	DDR 48
+*	Equiv T1 T2
+*	Equiv T3 T4
+E1	Glycosylation Theme:T1

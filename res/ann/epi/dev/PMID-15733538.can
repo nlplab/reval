@@ -1,0 +1,12 @@
+T1	Protein	histone
+T7	Protein	catalase
+E1	Acetylation Theme:T1
+E2	Acetylation Theme:T1
+M1	Negation E2
+E3	Acetylation Theme:T1
+E4	Acetylation Theme:T1
+E5	Acetylation Theme:T1
+E6	Acetylation Theme:T1
+E7	Acetylation Theme:T1
+E8	Acetylation Theme:T1
+E9	Acetylation Theme:T1

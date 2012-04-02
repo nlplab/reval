@@ -1,0 +1,33 @@
+T1	Protein	HIF-1alpha
+T2	Protein	HIF-1beta
+T4	Protein	prolyl hydroxylase domain protein 2
+T5	Protein	PHD2
+T6	Protein	von Hippel-Lindau
+T7	Protein	VHL
+T8	Protein	factor inhibiting HIF-1
+T9	Protein	FIH-1
+T10	Protein	p300
+T11	Protein	CREB binding protein
+T12	Protein	CBP
+T13	Protein	Receptor for activated C kinase 1
+T14	Protein	RACK1
+T15	Protein	heat shock protein 90
+T16	Protein	HSP90
+*	Equiv T4 T5
+*	Equiv T6 T7
+*	Equiv T8 T9
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T15 T16
+T26	Entity	proline residue 402
+T27	Entity	564
+T31	Entity	asparagine residue 803
+E1	Hydroxylation Site:T26 Theme:T1
+E2	Catalysis Cause:T4 Theme:E1
+E3	Hydroxylation Site:T27 Theme:T1
+E4	Catalysis Cause:T4 Theme:E3
+E5	Ubiquitination Theme:T1
+E6	Hydroxylation Site:T31 Theme:T1
+E7	Catalysis Cause:T8 Theme:E6
+E8	Hydroxylation Theme:T1
+E9	Ubiquitination Theme:T1

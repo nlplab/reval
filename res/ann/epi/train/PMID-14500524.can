@@ -1,0 +1,11 @@
+T1	Protein	Cpgp40/15
+T3	Protein	gp40
+T4	Protein	gp15
+T9	Protein	SAG1
+T12	Protein	gp40/15
+*	Equiv T16 T17
+T16	Entity	alpha-N-acetylgalactosamine
+T17	Entity	alpha-GalNAc
+E1	Glycosylation Sidechain:T16 Theme:T3
+E2	Glycosylation Sidechain:T16 Theme:T4
+E3	Glycosylation Sidechain:T16 Theme:T3

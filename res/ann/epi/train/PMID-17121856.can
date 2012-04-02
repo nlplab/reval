@@ -1,0 +1,9 @@
+T1	Protein	p53
+T2	Protein	Histone
+T3	Protein	histones
+T7	Protein	p21
+E1	Acetylation Theme:T1
+E2	Acetylation Theme:T3
+E3	Acetylation Theme:T1
+E4	Acetylation Theme:T1
+E5	Acetylation Theme:T1

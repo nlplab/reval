@@ -1,0 +1,10 @@
+T1	Protein	histone
+T3	Protein	H4
+T10	Entity	lysine 16
+T11	Entity	16
+E1	Acetylation Theme:T1
+E2	Acetylation Theme:T1
+E3	Acetylation Theme:T1
+E4	Acetylation Site:T10 Theme:T3
+E5	Acetylation Site:T11 Theme:T3
+E6	Acetylation Theme:T3

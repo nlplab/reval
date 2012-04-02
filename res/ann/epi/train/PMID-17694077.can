@@ -1,0 +1,10 @@
+T1	Protein	GCN5
+T2	Protein	PCAF
+T3	Protein	histone
+T9	Protein	SPT3
+T10	Protein	TAF9
+T12	Protein	TATA binding protein
+T13	Protein	TBP
+*	Equiv T12 T13
+E1	Acetylation Theme:T3
+E2	Acetylation Theme:T3

@@ -1,0 +1,8 @@
+T1	Protein	ribosomal protein L11
+T2	Protein	prmA
+T3	Protein	panF
+T5	Protein	pantothenate permease
+T7	Protein	ribosomal protein L11 methyltransferase
+*	Equiv T5
+*	Equiv T7
+E1	Methylation Theme:T1

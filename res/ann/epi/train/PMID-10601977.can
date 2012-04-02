@@ -1,0 +1,5 @@
+T1	Protein	thyrotropin receptor
+T3	Protein	TSHR
+*	Equiv T3
+E1	Glycosylation Theme:T3
+E2	Glycosylation Theme:T3

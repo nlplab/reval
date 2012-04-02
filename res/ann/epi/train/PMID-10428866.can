@@ -1,0 +1,8 @@
+T1	Protein	insulin receptor
+T4	Protein	GRP78
+T5	Protein	N-Glycosidase F
+T6	Protein	endoglycosidase H
+T11	Entity	oligosaccharides
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T1
+E3	Glycosylation Sidechain:T11 Theme:T1

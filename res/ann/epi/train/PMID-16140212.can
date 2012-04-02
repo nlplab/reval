@@ -1,0 +1,7 @@
+T1	Protein	HIF-1alpha
+T3	Protein	von Hippel-Lindau
+T4	Protein	pVHL
+T5	Protein	ubiquitin
+*	Equiv T3 T4
+E1	Hydroxylation Theme:T1
+E2	Hydroxylation Theme:T1

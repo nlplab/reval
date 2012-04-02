@@ -1,0 +1,7 @@
+T1	Protein	PECAM-1
+T2	Protein	ERK1
+T3	Protein	2
+T4	Protein	GSK-3beta
+E1	Phosphorylation Theme:T2
+E2	Phosphorylation Theme:T3
+E3	Phosphorylation Theme:T4

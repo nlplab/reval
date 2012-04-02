@@ -1,0 +1,11 @@
+T1	Protein	cKi-ras
+T2	Protein	Ki-ras
+T3	Protein	Kirsten-ras
+T4	Protein	Hpa II
+T5	Protein	Msp I
+*	Equiv T2 T3
+E1	Methylation Theme:T1
+M1	Speculation E1
+E2	DNA_methylation Theme:T3
+E3	DNA_demethylation Theme:T3
+M2	Negation E3

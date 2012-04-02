@@ -1,0 +1,15 @@
+T1	Protein	secreted frizzled-related protein-1
+T11	Entity	promoter
+E1	DNA_methylation Theme:T1
+E2	DNA_methylation Site:T11 Theme:T1
+M1	Speculation E2
+E3	DNA_methylation Site:T11 Theme:T1
+E4	DNA_methylation Site:T11 Theme:T1
+M2	Negation E4
+E5	DNA_methylation Site:T11 Theme:T1
+E6	DNA_methylation Site:T11 Theme:T1
+E7	DNA_methylation Site:T11 Theme:T1
+M3	Negation E7
+E8	DNA_methylation Site:T11 Theme:T1
+E9	DNA_methylation Theme:T1
+E10	DNA_methylation Site:T11 Theme:T1

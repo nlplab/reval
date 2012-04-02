@@ -1,0 +1,6 @@
+T1	Protein	complement component C9
+T3	Protein	C9
+T5	Protein	alpha-thrombin
+T7	Protein	melittin
+E1	Glycosylation Theme:T1
+E2	Deglycosylation Theme:T3

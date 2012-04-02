@@ -1,0 +1,38 @@
+T1	Protein	histone
+T2	Protein	HNRPA2B1
+T3	Protein	CBX3
+T11	Protein	Histone H4
+T12	Protein	histone H3
+T13	Protein	H3
+*	Equiv T18 T19
+*	Equiv T27 T28
+T18	Entity	ubiquitously-acting chromatin open element
+T19	Entity	UCOE
+T21	Entity	CpG island
+T23	Entity	CpG
+T25	Entity	3' half
+T27	Entity	lysine
+T28	Entity	K
+T32	Entity	K4
+E1	DNA_methylation Site:T18 Theme:T2
+E2	DNA_methylation Site:T18 Theme:T3
+E3	DNA_methylation Site:T21 Theme:T2
+M1	Negation E3
+E4	DNA_methylation Site:T21 Theme:T3
+M2	Negation E4
+E5	DNA_methylation Theme:T3
+E6	DNA_methylation Theme:T2
+E7	DNA_methylation Site:T23 Theme:T2
+M3	Negation E7
+E8	DNA_methylation Site:T23 Theme:T3
+M4	Negation E8
+E9	DNA_methylation Site:T25 Theme:T2
+E10	DNA_methylation Site:T25 Theme:T3
+E11	Acetylation Contextgene:T2 Site:T27 Theme:T11
+E12	Acetylation Contextgene:T3 Site:T27 Theme:T11
+E13	Acetylation Contextgene:T3 Site:T27 Theme:T12
+E14	Acetylation Contextgene:T2 Site:T27 Theme:T12
+E15	Methylation Contextgene:T3 Site:T32 Theme:T13
+E16	Methylation Contextgene:T2 Site:T32 Theme:T13
+E17	Methylation Contextgene:T3 Site:T32 Theme:T13
+E18	Methylation Contextgene:T2 Site:T32 Theme:T13

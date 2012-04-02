@@ -1,0 +1,13 @@
+T1	Protein	ubiquitin
+T2	Protein	Nedd4-2
+T3	Protein	Tweety
+T4	Protein	TTYH1
+T5	Protein	3
+T6	Protein	TTYH2
+T16	Protein	TTYH3
+E1	Ubiquitination Theme:T6
+E2	Catalysis Cause:T2 Theme:E1
+E3	Ubiquitination Theme:T16
+E4	Catalysis Cause:T2 Theme:E3
+E5	Catalysis Cause:T2 Theme:E6
+E6	Ubiquitination Theme:T6

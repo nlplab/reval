@@ -1,0 +1,10 @@
+T1	Protein	ubiquitin
+T2	Protein	Ran
+T3	Protein	Bard1
+T4	Protein	Hmmr
+T5	Protein	HURP
+T6	Protein	NuSAP
+E1	Ubiquitination Theme:T3
+E2	Ubiquitination Theme:T4
+E3	Ubiquitination Theme:T5
+E4	Ubiquitination Theme:T6

@@ -1,0 +1,9 @@
+T1	Protein	ExgI
+T4	Entity	oligosaccharides
+T6	Entity	N-glycosylation sites
+T10	Entity	truncated oligosaccharides
+T11	Entity	first glycosylation site
+E1	Glycosylation Sidechain:T4 Site:T6 Theme:T1
+E2	Glycosylation Sidechain:T4 Site:T6 Theme:T1
+E3	Glycosylation Sidechain:T4 Theme:T1
+E4	Glycosylation Sidechain:T10 Site:T11 Theme:T1

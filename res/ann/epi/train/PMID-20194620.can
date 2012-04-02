@@ -1,0 +1,5 @@
+T1	Protein	SENP2
+T5	Protein	PPARgamma
+T6	Protein	C/EBPalpha
+T8	Protein	C/EBPbeta
+E1	Ubiquitination Theme:T8

@@ -1,0 +1,6 @@
+T1	Protein	lysozyme
+T3	Protein	ovomucoid
+T7	Protein	serum albumin
+T10	Entity	lysines
+E1	Methylation Site:T10 Theme:T1
+E2	Methylation Site:T10 Theme:T3

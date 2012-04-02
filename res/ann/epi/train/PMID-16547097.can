@@ -1,0 +1,15 @@
+T1	Protein	FRI
+T2	Protein	FRIGIDA
+T4	Protein	FLOWERING LOCUS C
+T5	Protein	FLC
+T12	Protein	FLC1
+T13	Protein	FLC2
+T15	Protein	histone H3
+T16	Protein	H3
+*	Equiv T2
+*	Equiv T4 T5
+T19	Entity	Lys4
+T21	Entity	Lys9
+E1	Methylation Site:T19 Theme:T15
+E2	Acetylation Site:T21 Theme:T16
+E3	Methylation Site:T21 Theme:T16

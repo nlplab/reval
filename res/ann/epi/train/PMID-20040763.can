@@ -1,0 +1,8 @@
+T1	Protein	FANCD2
+T2	Protein	FOXO3a
+T3	Protein	Fanconi anemia complementation group D2
+T5	Protein	forkhead box O 3a
+T11	Protein	FANCA
+*	Equiv T3
+*	Equiv T5
+E1	Ubiquitination Theme:T1

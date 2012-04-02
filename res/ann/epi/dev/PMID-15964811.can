@@ -1,0 +1,12 @@
+T1	Protein	Histone
+T2	Protein	p300
+T5	Protein	CBP
+T6	Protein	P/CAF
+T8	Protein	Promyelocytic leukemia zinc finger
+T9	Protein	PLZF
+T10	Protein	retinoic acid receptor alpha
+T11	Protein	histone
+*	Equiv T8 T9
+T20	Entity	lysines
+E1	Acetylation Site:T20 Theme:T8
+E2	Acetylation Theme:T8

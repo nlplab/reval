@@ -1,0 +1,7 @@
+T1	Protein	trimethylamine corrinoid protein
+T2	Protein	TMA corrinoid protein
+T3	Protein	TCP
+T4	Protein	methylcorrinoid:CoM methyltransferase
+T5	Protein	MT2
+*	Equiv T2 T3
+*	Equiv T4 T5

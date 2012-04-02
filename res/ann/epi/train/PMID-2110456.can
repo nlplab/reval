@@ -1,0 +1,12 @@
+T1	Protein	acid beta-glucosidase
+T6	Entity	oligosaccharide
+T8	Entity	N-glycosylation sites
+T14	Entity	glycosylation site
+E1	Glycosylation Theme:T1
+E2	Glycosylation Sidechain:T6 Theme:T1
+E3	Glycosylation Site:T8 Theme:T1
+E4	Glycosylation Theme:T1
+M1	Negation E4
+E5	Deglycosylation Theme:T1
+E6	Deglycosylation Theme:T1
+E7	Glycosylation Site:T14 Theme:T1

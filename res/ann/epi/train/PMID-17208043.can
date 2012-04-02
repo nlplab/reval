@@ -1,0 +1,7 @@
+T1	Protein	autotaxin
+T2	Protein	Autotaxin
+T3	Protein	ATX
+T13	Protein	furin
+*	Equiv T2 T3
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T2

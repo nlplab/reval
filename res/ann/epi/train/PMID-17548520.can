@@ -1,0 +1,9 @@
+T1	Protein	CYLD
+T2	Protein	ubiquitin
+T3	Protein	Tak1
+T6	Protein	Cyld
+T9	Protein	transforming growth factor-beta-activated kinase 1
+T13	Protein	c-Jun N-terminal kinase
+T14	Protein	IkappaB kinase beta
+*	Equiv T9
+E1	Ubiquitination Theme:T9

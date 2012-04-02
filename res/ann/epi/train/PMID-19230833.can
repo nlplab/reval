@@ -1,0 +1,14 @@
+T1	Protein	PKR
+T2	Protein	STAT1
+T3	Protein	double-stranded RNA-dependent protein kinase
+T9	Protein	integrin binding sialoprotein
+T10	Protein	osteopontin
+T11	Protein	osterix
+T13	Protein	interleukin-6
+T14	Protein	matrix metalloproteinases 8
+T15	Protein	13
+T19	Protein	SLIM
+T21	Protein	Runx2
+T23	Protein	alkaline phosphatase
+*	Equiv T3
+E1	Ubiquitination Theme:T2

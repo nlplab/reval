@@ -1,0 +1,4 @@
+T1	Protein	gp120
+T4	Entity	High-mannose
+E1	Deglycosylation Sidechain:T4 Theme:T1
+E2	Deglycosylation Theme:T1

@@ -1,0 +1,11 @@
+T1	Protein	BubR1
+T4	Protein	PCAF
+T8	Protein	ubiquitin
+T16	Protein	Cdc20
+T22	Entity	lysine 250
+E1	Acetylation Theme:T1
+E2	Acetylation Site:T22 Theme:T1
+E3	Acetylation Theme:T1
+E4	Acetylation Theme:T1
+E5	Acetylation Theme:T1
+E6	Acetylation Theme:T1

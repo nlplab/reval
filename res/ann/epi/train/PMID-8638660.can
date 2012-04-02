@@ -1,0 +1,9 @@
+T1	Protein	TGF-alpha
+T2	Protein	EGF
+T3	Protein	Transforming growth factor-alpha
+T5	Protein	epidermal growth factor
+T7	Protein	L-glutamine: D-fructose-6-phosphate amidotransferase
+T8	Protein	GFAT
+*	Equiv T3
+*	Equiv T5
+*	Equiv T7 T8

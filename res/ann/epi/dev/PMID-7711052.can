@@ -1,0 +1,18 @@
+T1	Protein	plasminogen
+T2	Protein	tissue plasminogen activator
+T9	Protein	urokinase
+T18	Entity	oligosaccharide
+T19	Entity	glycosylation site
+T21	Entity	sugar
+T22	Entity	Asn-288
+T26	Entity	glycan
+T27	Entity	Asn-184
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T2
+E3	Glycosylation Sidechain:T18 Site:T19 Theme:T1
+M1	Negation E3
+E4	Glycosylation Sidechain:T18 Site:T19 Theme:T2
+M2	Negation E4
+E5	Glycosylation Sidechain:T21 Site:T22 Theme:T1
+E6	Glycosylation Sidechain:T21 Theme:T1
+E7	Glycosylation Sidechain:T26 Site:T27 Theme:T2

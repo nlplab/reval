@@ -1,0 +1,6 @@
+T1	Protein	Sts-1
+T2	Protein	Sts-2
+E1	Phosphorylation Theme:T1
+E2	Phosphorylation Theme:T2
+E3	Ubiquitination Theme:T1
+E4	Ubiquitination Theme:T2

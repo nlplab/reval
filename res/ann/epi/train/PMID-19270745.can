@@ -1,0 +1,14 @@
+T1	Protein	asxl2
+T2	Protein	asx
+T3	Protein	histone
+T4	Protein	Additional sex combs
+T5	Protein	Asx
+T8	Protein	Asx-like 1
+T9	Protein	2
+T10	Protein	3
+T12	Protein	Asxl2
+T17	Protein	histone H3
+*	Equiv T4 T5
+T23	Entity	lysine 27
+E1	Methylation Theme:T3
+E2	Methylation Site:T23 Theme:T17

@@ -1,0 +1,9 @@
+T1	Protein	Protein C inhibitor
+T2	Protein	protein C inhibitor
+T3	Protein	PCI
+T4	Protein	thrombin
+T6	Protein	protein C
+T7	Protein	thrombomodulin
+*	Equiv T2 T3
+T16	Entity	N-glycosylation site(s)
+E1	Glycosylation Site:T16 Theme:T2

@@ -1,0 +1,7 @@
+T1	Protein	Pex5p
+T8	Protein	Pex4p
+T9	Protein	Pex22p
+T13	Entity	Cys(11)
+E1	Ubiquitination Theme:T1
+E2	Ubiquitination Theme:T1
+E3	Ubiquitination Site:T13 Theme:T1

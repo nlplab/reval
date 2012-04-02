@@ -1,0 +1,24 @@
+T1	Protein	TBK1
+T2	Protein	IKKepsilon
+T3	Protein	TANK
+T4	Protein	I-TRAF
+T7	Protein	IRF3
+T8	Protein	7
+T10	Protein	ITRAF
+T15	Protein	TRAF3
+*	Equiv T3 T4 T10
+E1	Ubiquitination Theme:T3
+E2	Phosphorylation Theme:T3
+E3	Phosphorylation Theme:T7
+E4	Phosphorylation Theme:T8
+E5	Phosphorylation Theme:T7
+E6	Phosphorylation Theme:T8
+E7	Phosphorylation Theme:T7
+E8	Phosphorylation Theme:T3
+E9	Ubiquitination Theme:T3
+E10	Phosphorylation Theme:T7
+E11	Phosphorylation Theme:T8
+E12	Phosphorylation Theme:T7
+E13	Phosphorylation Theme:T8
+E14	Phosphorylation Theme:T3
+E15	Ubiquitination Theme:T3

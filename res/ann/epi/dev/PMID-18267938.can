@@ -1,0 +1,6 @@
+T1	Protein	tropoelastin
+T2	Protein	DANCE
+T3	Protein	fibulin-5
+T4	Protein	Fibulin-5
+*	Equiv T2 T3
+E1	Glycosylation Theme:T3

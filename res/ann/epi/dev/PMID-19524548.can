@@ -1,0 +1,6 @@
+T1	Protein	CHIP
+T2	Protein	ubiquitin
+T3	Protein	Runx1
+T7	Protein	Stub1
+E1	Ubiquitination Theme:T3
+E2	Ubiquitination Theme:T3

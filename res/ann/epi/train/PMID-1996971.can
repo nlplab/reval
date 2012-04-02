@@ -1,0 +1,30 @@
+T1	Protein	histones
+T2	Protein	histone
+T3	Protein	histones H3
+T4	Protein	H4
+T5	Protein	histone H4
+E1	Acetylation Theme:T1
+E2	Methylation Theme:T1
+E3	Acetylation Theme:T2
+E4	Methylation Theme:T2
+E5	Methylation Theme:T3
+E6	Methylation Theme:T4
+E7	Methylation Theme:T5
+E8	Acetylation Theme:T5
+E9	Acetylation Theme:T5
+E10	Methylation Theme:T5
+E11	Methylation Theme:T2
+E12	Acetylation Theme:T5
+E13	Methylation Theme:T5
+E14	Acetylation Theme:T5
+E15	Methylation Theme:T5
+E16	Acetylation Theme:T5
+M1	Negation E16
+E17	Acetylation Theme:T2
+E18	Acetylation Theme:T2
+E19	Methylation Theme:T3
+E20	Methylation Theme:T4
+E21	Acetylation Theme:T1
+E22	Methylation Theme:T1
+E23	Methylation Theme:T5
+E24	Acetylation Theme:T5

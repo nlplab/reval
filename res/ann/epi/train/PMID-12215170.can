@@ -1,0 +1,12 @@
+T1	Protein	Hypoxia-inducible factor asparaginyl hydroxylase
+T2	Protein	FIH-1
+T3	Protein	hypoxia-inducible factor (HIF)-1 alpha-subunit
+T4	Protein	factor inhibiting HIF-1
+T6	Protein	HIF-1alpha
+T7	Protein	p300
+*	Equiv T1 T2 T4
+T8	Entity	Asparagine-803
+T12	Entity	Asn-803
+E1	Hydroxylation Site:T8 Theme:T3
+E2	Catalysis Cause:T4 Theme:E1
+E3	Hydroxylation Site:T12 Theme:T3

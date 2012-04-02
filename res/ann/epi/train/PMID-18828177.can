@@ -1,0 +1,7 @@
+T1	Protein	alpha1 proteinase inhibitor
+T2	Protein	alpha one proteinase inhibitor
+T3	Protein	alpha1-PI
+T6	Protein	PNGAse F
+*	Equiv T2 T3
+E1	Glycosylation Theme:T3
+E2	Glycosylation Theme:T3

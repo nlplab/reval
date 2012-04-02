@@ -1,0 +1,16 @@
+T1	Protein	factor inhibiting hypoxia-inducible factor
+T2	Protein	factor-inhibiting hypoxia-inducible factor
+T3	Protein	FIH
+T4	Protein	hypoxia-inducible factor 1alpha
+T5	Protein	HIF-1alpha
+T9	Protein	HIF1alpha
+*	Equiv T2 T3
+*	Equiv T21 T22
+*	Equiv T4 T5
+T21	Entity	asparagine 803
+T22	Entity	Asn803
+E1	Hydroxylation Site:T21 Theme:T4
+E2	Catalysis Cause:T2 Theme:E1
+E3	Hydroxylation Site:T21 Theme:T4
+E4	Hydroxylation Site:T21 Theme:T4
+E5	Hydroxylation Site:T21 Theme:T4

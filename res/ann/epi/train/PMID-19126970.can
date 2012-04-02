@@ -1,0 +1,8 @@
+T1	Protein	transferrin
+T2	Protein	haptoglobin
+T3	Protein	alpha2-macroglobulin
+T4	Protein	C-reactive protein
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T2
+E3	Glycosylation Theme:T3
+E4	Glycosylation Theme:T4

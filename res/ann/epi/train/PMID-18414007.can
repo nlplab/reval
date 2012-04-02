@@ -1,0 +1,8 @@
+T1	Protein	estrogen receptor alpha
+T2	Protein	Cullin3
+T3	Protein	SPOP
+T5	Protein	ER alpha
+T7	Protein	ubiquitin
+T14	Protein	ERalpha
+E1	Ubiquitination Theme:T5
+E2	Ubiquitination Theme:T14

@@ -1,0 +1,8 @@
+T1	Protein	MUC1
+T3	Protein	polymorphic epithelial mucin
+T4	Protein	PEM
+*	Equiv T3 T4
+T6	Entity	carbohydrate
+T8	Entity	carbohydrate side chains
+E1	Glycosylation Sidechain:T6 Theme:T1
+E2	Glycosylation Sidechain:T8 Theme:T1

@@ -1,0 +1,15 @@
+T1	Protein	histone
+T2	Protein	histones
+T3	Protein	GAL4
+T16	Entity	tails
+T19	Entity	NH2 tails
+E1	Acetylation Site:T16 Theme:T1
+E2	Acetylation Site:T19 Theme:T2
+E3	Acetylation Theme:T2
+M1	Negation E3
+E4	Acetylation Theme:T2
+E5	Acetylation Theme:T1
+E6	Acetylation Site:T16 Theme:T1
+E7	Acetylation Site:T16 Theme:T1
+E8	Acetylation Site:T16 Theme:T1
+M2	Negation E8

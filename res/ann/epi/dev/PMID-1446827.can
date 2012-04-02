@@ -1,0 +1,7 @@
+T1	Protein	acetylcholinesterase
+T3	Protein	AChE
+T11	Protein	N-glycanase
+*	Equiv T3
+E1	Glycosylation Theme:T3
+E2	Deglycosylation Theme:T3
+E3	Catalysis Cause:T11 Theme:E2

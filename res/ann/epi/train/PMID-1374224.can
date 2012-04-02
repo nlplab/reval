@@ -1,0 +1,6 @@
+T1	Protein	stem cell factor
+T2	Protein	Stem cell factor
+T3	Protein	SCF
+T6	Protein	SCFs
+*	Equiv T2 T3
+E1	Glycosylation Theme:T6

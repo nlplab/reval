@@ -1,0 +1,16 @@
+T1	Protein	EGFR
+T2	Protein	epidermal growth factor receptor
+T5	Protein	Cbl
+T9	Protein	c-Cbl
+T11	Protein	HER2
+*	Equiv T2
+E1	Ubiquitination Theme:T1
+M1	Negation E1
+E2	Catalysis Cause:T5 Theme:E3
+E3	Ubiquitination Theme:T1
+E4	Ubiquitination Theme:T1
+M2	Negation E4
+E5	Catalysis Cause:T9 Theme:E4
+E6	Ubiquitination Theme:T1
+M3	Negation E6
+E7	Catalysis Cause:T9 Theme:E6

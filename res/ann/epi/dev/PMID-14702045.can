@@ -1,0 +1,24 @@
+T1	Protein	Suv39h1
+T2	Protein	Suv39h2
+T3	Protein	histone
+T9	Protein	histone H3
+T10	Protein	H3
+T15	Protein	Cbx1
+T16	Protein	Cbx3
+T17	Protein	Cbx5
+T18	Protein	heterochromatin protein 1
+T19	Protein	HP1
+*	Equiv T9 T10
+*	Equiv T24
+*	Equiv T18 T19
+T24	Entity	Lys9
+E1	Catalysis Cause:T1 Theme:E3
+E2	Catalysis Cause:T2 Theme:E3
+E3	Methylation Site:T24 Theme:T9
+E4	Methylation Site:T24 Theme:T9
+E5	Methylation Site:T24 Theme:T9
+E6	Methylation Site:T24 Theme:T9
+M1	Negation E6
+E7	Methylation Site:T24 Theme:T9
+E8	Methylation Site:T24 Theme:T9
+E9	Methylation Site:T24 Theme:T9

@@ -1,0 +1,5 @@
+T1	Protein	gp120
+T3	Protein	gp41
+T5	Protein	CD4
+T13	Entity	core
+E1	Glycosylation Site:T13 Theme:T1

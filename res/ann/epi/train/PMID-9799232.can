@@ -1,0 +1,20 @@
+T1	Protein	CD40
+T2	Protein	CD40 ligand
+T3	Protein	Jun N-terminal kinase kinase 1
+T4	Protein	JNKK1
+T5	Protein	SEK
+T6	Protein	MKK4
+T7	Protein	JNK1
+T8	Protein	2
+T9	Protein	activating protein-1
+T10	Protein	AP-1
+T11	Protein	c-Jun
+T12	Protein	ATF2
+T13	Protein	tumor necrosis factor alpha
+T14	Protein	TNFalpha
+*	Equiv T3 T4 T5 T6
+*	Equiv T9 T10
+*	Equiv T13 T14
+E1	Phosphorylation Theme:T5
+E2	Phosphorylation Theme:T11
+E3	Phosphorylation Theme:T12

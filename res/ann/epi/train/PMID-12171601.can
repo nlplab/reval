@@ -1,0 +1,12 @@
+T1	Protein	proteinase-activated receptor-2
+T2	Protein	PAR2
+T4	Protein	PAR(2)
+T15	Protein	N -glycosidase F
+*	Equiv T1 T2 T4
+T31	Entity	N-linked sites
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T1
+E3	Deglycosylation Theme:T1
+E4	Catalysis Cause:T15 Theme:E3
+E5	Glycosylation Site:T31 Theme:T1
+E6	Glycosylation Theme:T1

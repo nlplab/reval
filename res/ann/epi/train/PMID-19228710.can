@@ -1,0 +1,15 @@
+T1	Protein	RAD18
+T2	Protein	53BP1
+T4	Protein	PCNA
+T7	Protein	NBS1
+T8	Protein	ATM
+T9	Protein	BRCA1
+T10	Protein	H2AX
+T17	Protein	Rad18
+T29	Entity	lysine 1268
+E1	Ubiquitination Theme:T4
+E2	Phosphorylation Theme:T8
+E3	Ubiquitination Site:T29 Theme:T2
+E4	Catalysis Cause:T1 Theme:E3
+E5	Ubiquitination Theme:T2
+M1	Negation E5

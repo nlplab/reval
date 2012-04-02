@@ -1,0 +1,10 @@
+T1	Protein	JFK
+T2	Protein	p53
+T5	Protein	ubiquitin
+T6	Protein	MDM2
+T7	Protein	Pirh2
+T8	Protein	COP1
+T9	Protein	ARF-BP1
+T21	Protein	Skp1
+T22	Protein	Cul1
+E1	Ubiquitination Theme:T2

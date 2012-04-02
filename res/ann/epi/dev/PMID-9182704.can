@@ -1,0 +1,5 @@
+T1	Protein	neurotrophin-6
+T2	Protein	Neurotrophin-6
+T3	Protein	NT-6
+*	Equiv T2 T3
+E1	Glycosylation Theme:T2

@@ -1,0 +1,5 @@
+T1	Protein	MAT1A
+T2	Protein	MAT2A
+T5	Protein	c-myc
+E1	DNA_methylation Theme:T5
+M1	Negation E1

@@ -1,0 +1,9 @@
+T1	Protein	Nedd4
+T2	Protein	ubiquitin
+T5	Protein	Nedd4-1
+T6	Protein	Nedd4-2
+T9	Protein	epidermal growth factor receptor
+T10	Protein	epidermal growth factor
+T14	Protein	ENaC-beta
+E1	Ubiquitination Theme:T14
+E2	Catalysis Cause:T1 Theme:E1

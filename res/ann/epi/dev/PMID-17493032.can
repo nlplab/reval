@@ -1,0 +1,41 @@
+T1	Protein	p14ARF
+T2	Protein	O6-methylguanine-DNA methyltransferase
+T3	Protein	p14
+T4	Protein	ARF
+T5	Protein	O(6)-methylguanine-DNA methyltransferase
+T6	Protein	MGMT
+T7	Protein	TP53
+T9	Protein	p21
+T10	Protein	Waf1
+T11	Protein	Cip1
+T12	Protein	p27
+T13	Protein	Kip1
+T14	Protein	p73
+T15	Protein	p16
+T16	Protein	INK4a
+T17	Protein	p15
+T18	Protein	INK4b
+*	Equiv T3 T4
+*	Equiv T5 T6
+*	Equiv T9 T10 T11
+*	Equiv T12 T13
+*	Equiv T15 T16
+*	Equiv T17 T18
+E1	DNA_methylation Theme:T1
+E2	DNA_methylation Theme:T2
+E3	DNA_methylation Theme:T3
+E4	DNA_methylation Theme:T5
+E5	DNA_methylation Theme:T5
+E6	DNA_methylation Theme:T9
+M1	Negation E6
+E7	DNA_methylation Theme:T12
+M2	Negation E7
+E8	DNA_methylation Theme:T14
+M3	Negation E8
+E9	DNA_methylation Theme:T3
+E10	DNA_methylation Theme:T5
+E11	DNA_methylation Theme:T3
+E12	DNA_methylation Theme:T5
+E13	DNA_methylation Theme:T3
+E14	DNA_methylation Theme:T3
+E15	DNA_methylation Theme:T5

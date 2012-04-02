@@ -1,0 +1,10 @@
+T1	Protein	MDM2
+T2	Protein	ubiquitin
+T3	Protein	UT-A1
+T16	Protein	p53
+E1	Catalysis Cause:T1 Theme:E2
+E2	Ubiquitination Theme:T3
+E3	Ubiquitination Theme:T3
+E4	Catalysis Cause:T1 Theme:E5
+E5	Ubiquitination Theme:T3
+E6	Ubiquitination Theme:T3

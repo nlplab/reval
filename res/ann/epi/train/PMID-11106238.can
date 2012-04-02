@@ -1,0 +1,15 @@
+T1	Protein	E-cadherin
+T2	Protein	E-Cadherin
+T6	Protein	CD34
+T15	Entity	5' CpG island
+T22	Entity	CpG island
+E1	DNA_methylation Site:T15 Theme:T1
+E2	DNA_methylation Site:T15 Theme:T1
+M1	Speculation E2
+E3	DNA_methylation Theme:T1
+M2	Negation E3
+E4	DNA_methylation Theme:T1
+E5	DNA_methylation Site:T22 Theme:T1
+E6	DNA_methylation Theme:T1
+E7	DNA_methylation Theme:T1
+E8	DNA_methylation Theme:T1

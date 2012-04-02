@@ -1,0 +1,9 @@
+T1	Protein	hypoxia-inducible factor-1alpha
+T2	Protein	HIF-1alpha
+T3	Protein	protein G
+T4	Protein	G
+*	Equiv T1 T2
+*	Equiv T3 T4
+T7	Entity	Asn-803
+E1	Hydroxylation Site:T7 Theme:T1
+E2	Hydroxylation Theme:T1

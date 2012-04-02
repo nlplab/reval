@@ -1,0 +1,17 @@
+T1	Protein	cell death-inducing DFF45-like effector B
+T2	Protein	CIDE-B
+T3	Protein	cell death-inducing DFF45 (DNA fragmentation factor 45)-like effector B
+T5	Protein	CIDE-
+T7	Protein	Sp1
+T8	Protein	Sp3
+T10	Protein	HNF4alpha
+T11	Protein	hepatocyte nuclear factor-4alpha
+*	Equiv T2 T3
+*	Equiv T10 T11
+T16	Entity	upstream promoter
+T21	Entity	CpG sites
+E1	DNA_methylation Site:T16 Theme:T3
+E2	DNA_methylation Site:T16 Theme:T3
+M1	Negation E2
+E3	DNA_methylation Site:T16 Theme:T3
+E4	DNA_methylation Site:T21 Theme:T3

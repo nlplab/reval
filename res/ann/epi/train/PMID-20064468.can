@@ -1,0 +1,6 @@
+T1	Protein	parkin
+T3	Protein	Parkin
+T4	Protein	ubiquitin
+T6	Protein	endophilin-A
+E1	Catalysis Cause:T1 Theme:E2
+E2	Ubiquitination Theme:T6

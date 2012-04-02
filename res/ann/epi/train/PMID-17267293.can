@@ -1,0 +1,14 @@
+T1	Protein	histone H3
+T2	Protein	Dot1p
+T5	Protein	dot1
+T8	Protein	RAD9
+T9	Protein	H3
+T13	Entity	lysine-79
+E1	Methylation Site:T13 Theme:T1
+E2	Catalysis Cause:T2 Theme:E1
+E3	Methylation Site:T13 Theme:T1
+E4	Catalysis Cause:T2 Theme:E3
+E5	Methylation Site:T13 Theme:T1
+E6	Methylation Site:T13 Theme:T1
+E7	Methylation Site:T13 Theme:T9
+E8	Methylation Site:T13 Theme:T1

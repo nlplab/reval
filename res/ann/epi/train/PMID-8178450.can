@@ -1,0 +1,30 @@
+T1	Protein	LMP 1
+T3	Protein	BNLF 1
+T9	Protein	methylase Sssl
+T10	Protein	Hpall methyltransferase
+T11	Protein	Hhall methyltransferase
+T12	Protein	Hpal methyltransferase
+T15	Entity	5'-flanking regulatory regions
+T16	Entity	BCR2 promoter
+T18	Entity	regulatory sequences
+T23	Entity	5'-CG-3'
+T26	Entity	5-CCGG-3'
+T29	Entity	5'GCGC-3'
+T32	Entity	5'-GCGC-3'
+E1	DNA_methylation Site:T15 Theme:T3
+M1	Speculation E1
+E2	DNA_methylation Site:T16 Theme:T3
+M2	Speculation E2
+E3	DNA_methylation Site:T18 Theme:T1
+M3	Speculation E3
+E4	DNA_demethylation Site:T18 Theme:T1
+M4	Negation E4
+E5	DNA_methylation Site:T18 Theme:T1
+E6	DNA_methylation Site:T23 Theme:T3
+E7	Catalysis Cause:T9 Theme:E6
+E8	DNA_methylation Site:T26 Theme:T3
+E9	Catalysis Cause:T10 Theme:E8
+E10	DNA_methylation Site:T29 Theme:T3
+E11	Catalysis Cause:T11 Theme:E10
+E12	DNA_methylation Site:T32 Theme:T3
+E13	Catalysis Cause:T12 Theme:E12

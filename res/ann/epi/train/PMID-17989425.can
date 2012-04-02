@@ -1,0 +1,21 @@
+T1	Protein	p53
+T2	Protein	mdm2
+T6	Protein	Mdm2
+T7	Protein	mouse-d-minute 2
+T9	Protein	hdm2
+T24	Protein	UbcH5b
+T25	Protein	ubiquitin
+*	Equiv T6 T7
+*	Equiv T9
+E1	Ubiquitination Theme:T1
+E2	Catalysis Cause:T2 Theme:E1
+E3	Catalysis Cause:T7 Theme:E5
+E4	Catalysis Cause:T2 Theme:E5
+E5	Ubiquitination Theme:T1
+E6	Ubiquitination Theme:T2
+E7	Catalysis Cause:T2 Theme:E6
+E8	Ubiquitination Theme:T2
+E9	Catalysis Cause:T2 Theme:E8
+E10	Ubiquitination Theme:T1
+E11	Ubiquitination Theme:T1
+E12	Catalysis Cause:T2 Theme:E11

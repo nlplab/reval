@@ -1,0 +1,5 @@
+T1	Protein	VHL
+T2	Protein	ubiquitin
+T3	Protein	von Hippel-Lindau tumor suppressor
+T4	Protein	pVHL
+*	Equiv T3 T4

@@ -1,0 +1,10 @@
+T1	Protein	alpha 2-macroglobulin
+T2	Protein	concanavalin A
+T3	Protein	Con A
+T4	Protein	carcinoembryonic antigen
+T5	Protein	CEA
+T7	Protein	haptoglobin
+T8	Protein	protease V8
+*	Equiv T2 T3
+*	Equiv T4 T5
+E1	Glycosylation Theme:T1

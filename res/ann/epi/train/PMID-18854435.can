@@ -1,0 +1,8 @@
+T1	Protein	huntingtin
+T3	Protein	Cdc48
+T4	Protein	VCP
+T5	Protein	p97
+T6	Protein	Ufd1
+T7	Protein	Nlp4
+T8	Protein	Bmh1
+*	Equiv T3 T4 T5

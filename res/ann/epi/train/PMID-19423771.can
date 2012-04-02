@@ -1,0 +1,14 @@
+T1	Protein	Nedd4-2
+T2	Protein	surfactant protein-C
+T3	Protein	surfactant protein (SP)-C
+T4	Protein	SP-C
+T6	Protein	Sftpc
+T9	Protein	ubiquitin
+T10	Protein	glutathione S-transferase
+T13	Protein	Nedd4
+E1	Ubiquitination Theme:T4
+M1	Speculation E1
+E2	Catalysis Cause:T1 Theme:E1
+E3	Ubiquitination Theme:T4
+E4	Catalysis Cause:T1 Theme:E5
+E5	Ubiquitination Theme:T4

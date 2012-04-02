@@ -1,0 +1,25 @@
+T1	Protein	PU.1
+T2	Protein	Ig kappa
+T3	Protein	Igkappa
+T4	Protein	histone H3
+T5	Protein	histone
+T9	Protein	p300
+T25	Entity	lysine residues 170
+T26	Entity	171
+T27	Entity	206
+T28	Entity	208
+T29	Entity	Lysine 170
+E1	Acetylation Contextgene:T3 Theme:T4
+M1	Negation E1
+E2	Acetylation Contextgene:T3 Theme:T4
+E3	Catalysis Cause:T9 Theme:E10
+E4	Acetylation Site:T25 Theme:T1
+E5	Catalysis Cause:T9 Theme:E4
+E6	Acetylation Site:T26 Theme:T1
+E7	Catalysis Cause:T9 Theme:E6
+E8	Acetylation Site:T27 Theme:T1
+E9	Catalysis Cause:T9 Theme:E8
+E10	Acetylation Site:T28 Theme:T1
+E11	Acetylation Site:T29 Theme:T1
+E12	Acetylation Theme:T1
+E13	Acetylation Contextgene:T3 Theme:T4

@@ -1,0 +1,27 @@
+T1	Protein	OTUB1
+T2	Protein	OTUB2
+T3	Protein	TRAF3
+T4	Protein	TRAF6
+T9	Protein	IRF3
+T10	Protein	IFNB1
+T14	Protein	-2
+T17	Protein	ubiquitin
+T22	Protein	-6
+E1	Catalysis Cause:T1 Theme:E5
+E2	Catalysis Cause:T2 Theme:E5
+E3	Catalysis Cause:T1 Theme:E6
+E4	Catalysis Cause:T2 Theme:E6
+E5	Deubiquitination Theme:T3
+E6	Deubiquitination Theme:T4
+E7	Catalysis Cause:T1 Theme:E11
+E8	Catalysis Cause:T2 Theme:E11
+E9	Catalysis Cause:T1 Theme:E12
+E10	Catalysis Cause:T2 Theme:E12
+E11	Deubiquitination Theme:T22
+E12	Deubiquitination Theme:T3
+E13	Deubiquitination Theme:T3
+E14	Deubiquitination Theme:T22
+E15	Catalysis Cause:T1 Theme:E13
+E16	Catalysis Cause:T2 Theme:E13
+E17	Catalysis Cause:T1 Theme:E14
+E18	Catalysis Cause:T2 Theme:E14

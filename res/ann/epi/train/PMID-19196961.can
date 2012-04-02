@@ -1,0 +1,11 @@
+T1	Protein	CHIP
+T2	Protein	leucine-rich repeat kinase-2
+T4	Protein	LRRK2
+T7	Protein	carboxyl terminus of HSP70-interacting protein
+T9	Protein	ubiquitin
+*	Equiv T4
+*	Equiv T7
+E1	Catalysis Cause:T1 Theme:E2
+E2	Ubiquitination Theme:T2
+E3	Ubiquitination Theme:T4
+E4	Catalysis Cause:T7 Theme:E3

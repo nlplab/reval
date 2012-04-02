@@ -1,0 +1,10 @@
+T1	Protein	14-3-3 sigma
+T17	Entity	17 CpG sites
+E1	DNA_methylation Theme:T1
+M1	Speculation E1
+E2	DNA_methylation Theme:T1
+M2	Speculation E2
+E3	DNA_methylation Theme:T1
+E4	DNA_methylation Theme:T1
+E5	DNA_methylation Site:T17 Theme:T1
+E6	DNA_methylation Theme:T1

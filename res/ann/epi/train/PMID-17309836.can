@@ -1,0 +1,14 @@
+T1	Protein	Ada2
+T2	Protein	Ada3
+T3	Protein	Gcn5
+T4	Protein	histone
+T10	Protein	histones H3
+T11	Protein	H2B
+T12	Protein	histones H4
+T13	Protein	H2A
+T18	Entity	tails
+E1	Acetylation Site:T18 Theme:T4
+E2	Acetylation Theme:T10
+E3	Acetylation Theme:T11
+E4	Acetylation Theme:T12
+E5	Acetylation Theme:T13

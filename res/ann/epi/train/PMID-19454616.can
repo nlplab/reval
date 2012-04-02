@@ -1,0 +1,11 @@
+T1	Protein	kininogen
+T2	Protein	Kin
+T3	Protein	alpha-1-antitrypsin
+T4	Protein	alpha-fetoprotein
+T5	Protein	Golgi protein 73
+T6	Protein	GP73
+*	Equiv T1 T2
+*	Equiv T5 T6
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T3
+E3	Glycosylation Theme:T3

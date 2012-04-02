@@ -1,0 +1,17 @@
+T1	Protein	GCN5
+T2	Protein	CDC6
+T3	Protein	cell-division cycle (CDC)-6
+T5	Protein	Cyclin A
+T6	Protein	cyclin-dependent kinase (CDK)-2
+T7	Protein	general control nonderepressible 5
+*	Equiv T7
+T20	Entity	lysine residues
+E1	Acetylation Theme:T2
+E2	Catalysis Cause:T1 Theme:E1
+E3	Phosphorylation Theme:T2
+E4	Acetylation Site:T20 Theme:T2
+E5	Catalysis Cause:T1 Theme:E4
+E6	Phosphorylation Theme:T2
+E7	Catalysis Cause:T1 Theme:E8
+E8	Acetylation Theme:T2
+E9	Phosphorylation Theme:T2

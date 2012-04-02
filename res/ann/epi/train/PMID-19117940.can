@@ -1,0 +1,11 @@
+T1	Protein	HLA-DRalpha chain
+T2	Protein	MARCH I
+T3	Protein	MARCH VIII
+T4	Protein	I-Abeta
+T5	Protein	DRalpha
+T10	Entity	lysine residue 225
+T11	Entity	lysine residue 219
+E1	Ubiquitination Theme:T1
+E2	Ubiquitination Site:T10 Theme:T4
+E3	Ubiquitination Site:T11 Theme:T5
+E4	Ubiquitination Theme:T5

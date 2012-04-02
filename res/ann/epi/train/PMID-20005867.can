@@ -1,0 +1,10 @@
+T1	Protein	MRP1
+T2	Protein	MRP4
+T7	Protein	GNPTG
+T8	Protein	MGAT5
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T2
+E3	Glycosylation Theme:T1
+E4	Glycosylation Theme:T2
+E5	Glycosylation Theme:T1
+E6	Glycosylation Theme:T2

@@ -1,0 +1,8 @@
+T1	Protein	AIMP1
+T2	Protein	p43
+T3	Protein	smurf2
+T7	Protein	Smurf2
+T12	Protein	Smad7
+*	Equiv T1 T2
+E1	Ubiquitination Theme:T12
+E2	Catalysis Cause:T7 Theme:E1

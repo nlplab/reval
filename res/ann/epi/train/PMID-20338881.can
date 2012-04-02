@@ -1,0 +1,16 @@
+T1	Protein	histone H4
+T2	Protein	histone
+T3	Protein	histones H3
+T4	Protein	H4
+T5	Protein	histone H3
+T6	Protein	histone H1
+T13	Entity	K9
+T14	Entity	K27
+E1	Acetylation Theme:T1
+E2	Acetylation Theme:T3
+E3	Acetylation Theme:T4
+E4	Methylation Site:T13 Theme:T5
+E5	Methylation Site:T14 Theme:T5
+E6	Methylation Theme:T6
+E7	Acetylation Theme:T1
+E8	Acetylation Theme:T2

@@ -1,0 +1,8 @@
+T1	Protein	E2
+T2	Protein	BRD4
+T4	Protein	Brd4
+T10	Protein	histone H3
+T13	Protein	H3
+T22	Entity	K4
+E1	Acetylation Theme:T10
+E2	Methylation Site:T22 Theme:T10

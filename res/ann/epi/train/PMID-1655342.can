@@ -1,0 +1,8 @@
+T1	Protein	renin
+T4	Protein	concanavalin A
+T6	Protein	renins
+T8	Protein	lectin
+T9	Protein	erythroagglutinating phytohaemagglutinin
+T10	Protein	agglutinin
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T1

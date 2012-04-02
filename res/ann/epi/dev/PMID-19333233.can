@@ -1,0 +1,14 @@
+T1	Protein	Ah receptor
+T2	Protein	aryl hydrocarbon receptor
+T3	Protein	AHR
+T4	Protein	serum amyloid A
+T5	Protein	Saa
+T11	Protein	Saa3
+T13	Protein	RELA
+T14	Protein	C/EBP/beta
+T15	Protein	histone
+T17	Protein	C-reactive protein
+T18	Protein	haptoglobin
+*	Equiv T2 T3
+*	Equiv T4 T5
+E1	Acetylation Contextgene:T11 Theme:T15

@@ -1,0 +1,11 @@
+T1	Protein	BAH
+T2	Protein	junctin
+T3	Protein	humbug
+T14	Protein	Factor X
+T17	Protein	Serrate-2
+T18	Protein	Jagged-1
+T26	Entity	epidermal growth factor (EGF) domain
+T28	Entity	Asp residues
+E1	Hydroxylation Site:T26 Theme:T14
+M1	Negation E1
+E2	Hydroxylation Site:T28 Theme:T18

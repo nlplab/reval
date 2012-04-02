@@ -1,0 +1,11 @@
+T1	Protein	histone
+T2	Protein	poly(ADP-ribose) polymerase-1
+T4	Protein	PARP-1
+T9	Protein	p300
+T10	Protein	cAMP response element-binding protein-binding protein
+T11	Protein	CBP
+T12	Protein	p300/CBP-associated factor
+T13	Protein	PCAF
+*	Equiv T4
+*	Equiv T10 T11
+*	Equiv T12 T13

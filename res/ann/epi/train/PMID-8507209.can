@@ -1,0 +1,6 @@
+T1	Protein	insulin proreceptor
+T2	Protein	insulin receptor
+T3	Protein	INSR
+T4	Protein	insulin
+*	Equiv T2 T3
+E1	Glycosylation Theme:T1

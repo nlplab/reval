@@ -1,0 +1,10 @@
+T1	Protein	O6-Methylguanine-DNA-methyltransferase
+T2	Protein	O(6)-Methylguanine-DNA-Methyltransferase
+T3	Protein	MGMT
+*	Equiv T2 T3
+T12	Entity	promoter
+E1	DNA_methylation Site:T12 Theme:T2
+E2	DNA_methylation Site:T12 Theme:T2
+M1	Speculation E2
+E3	DNA_methylation Site:T12 Theme:T2
+M2	Negation E3

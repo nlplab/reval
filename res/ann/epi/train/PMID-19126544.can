@@ -1,0 +1,23 @@
+T1	Protein	SREBP1
+T2	Protein	SREBP1a
+T3	Protein	ubiquitin
+T4	Protein	Fbw7
+T9	Protein	SREBP1c
+T12	Protein	insulin
+T23	Entity	Thr-426
+T24	Entity	Ser-430
+T26	Entity	Ser-434
+T28	Entity	Ser-410
+T39	Entity	C-terminal domain
+E1	Phosphorylation Site:T23 Theme:T2
+E2	Phosphorylation Site:T24 Theme:T2
+E3	Phosphorylation Site:T26 Theme:T2
+E4	Phosphorylation Theme:T2
+E5	Phosphorylation Site:T28 Theme:T9
+E6	Phosphorylation Site:T26 Theme:T1
+E7	Phosphorylation Site:T26 Theme:T1
+E8	Phosphorylation Site:T26 Theme:T1
+E9	Phosphorylation Site:T24 Theme:T1
+E10	Phosphorylation Site:T23 Theme:T1
+E11	Phosphorylation Site:T39 Theme:T1
+E12	Phosphorylation Site:T26 Theme:T1

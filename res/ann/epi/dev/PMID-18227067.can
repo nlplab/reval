@@ -1,0 +1,8 @@
+T1	Protein	KCa2.3
+T2	Protein	KCa3.1
+T9	Protein	Derlin-1
+T10	Protein	p97
+E1	Ubiquitination Theme:T2
+E2	Ubiquitination Theme:T1
+E3	Ubiquitination Theme:T2
+E4	Ubiquitination Theme:T1

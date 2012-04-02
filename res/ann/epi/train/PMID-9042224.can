@@ -1,0 +1,9 @@
+T1	Protein	CD44
+T2	Protein	agglutinin
+T3	Protein	PNA
+T6	Protein	Concanavalin A
+T7	Protein	Con A
+T12	Protein	fibronectin
+*	Equiv T2 T3
+*	Equiv T6 T7
+E1	Glycosylation Theme:T1

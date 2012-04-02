@@ -1,0 +1,9 @@
+T1	Protein	Procollagen-lysine,2-oxyglutarate,5-dioxygenase 1
+T2	Protein	2
+T3	Protein	3
+T4	Protein	PLOD1
+T5	Protein	PLOD2
+T6	Protein	PLOD3
+*	Equiv T1 T4
+*	Equiv T2 T5
+*	Equiv T3 T6

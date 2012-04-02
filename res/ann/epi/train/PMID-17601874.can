@@ -1,0 +1,7 @@
+T1	Protein	TbPRMT5
+T3	Protein	PRMT5
+T4	Protein	Skb1
+T6	Protein	RBP16
+T11	Protein	Ded1
+E1	Methylation Theme:T6
+E2	Catalysis Cause:T1 Theme:E1

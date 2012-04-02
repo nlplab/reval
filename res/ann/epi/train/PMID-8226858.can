@@ -1,0 +1,15 @@
+T1	Protein	coagulation factors IX
+T2	Protein	X
+T5	Protein	factor X
+T6	Protein	factor IX
+T10	Entity	aspartate
+T13	Entity	EGF-like modules
+E1	Hydroxylation Site:T10 Theme:T1
+E2	Hydroxylation Site:T10 Theme:T2
+E3	Hydroxylation Site:T13 Theme:T1
+E4	Hydroxylation Site:T13 Theme:T2
+E5	Hydroxylation Theme:T5
+E6	Hydroxylation Theme:T5
+M1	Negation E6
+E7	Hydroxylation Theme:T5
+E8	Hydroxylation Theme:T6

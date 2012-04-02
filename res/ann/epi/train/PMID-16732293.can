@@ -1,0 +1,23 @@
+T1	Protein	GASC1
+T2	Protein	histone H3
+T3	Protein	histone
+T5	Protein	H3
+T6	Protein	HP1
+T10	Protein	gene amplified in squamous cell carcinoma 1
+T11	Protein	JMJD2C
+*	Equiv T33
+*	Equiv T5
+*	Equiv T10 T11
+T26	Entity	lysine 9
+T28	Entity	lysine
+T29	Entity	arginine residues
+T33	Entity	K9
+E1	Demethylation Site:T26 Theme:T2
+E2	Catalysis Cause:T1 Theme:E1
+E3	Methylation Site:T26 Theme:T2
+E4	Methylation Site:T26 Theme:T2
+E5	Methylation Site:T28 Theme:T3
+E6	Methylation Site:T29 Theme:T3
+E7	Methylation Site:T26 Theme:T2
+E8	Methylation Site:T26 Theme:T2
+E9	Demethylation Site:T33 Theme:T5

@@ -1,0 +1,10 @@
+T1	Protein	kininogens
+T2	Protein	kinins
+T3	Protein	bradykinin
+T4	Protein	high molecular weight (H) kininogen
+T5	Protein	plasma kallikrein
+T6	Protein	H kininogen
+T9	Protein	kinin
+E1	Hydroxylation Theme:T1
+E2	Hydroxylation Theme:T2
+E3	Hydroxylation Theme:T9

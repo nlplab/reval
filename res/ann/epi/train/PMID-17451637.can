@@ -1,0 +1,10 @@
+T1	Protein	N-acetylglucosaminyltransferase-V
+T2	Protein	GLUT1
+T3	Protein	N-Acetylglucosaminyltransferase-V
+T4	Protein	GnT-V
+T7	Protein	glucose transporter 1
+*	Equiv T3 T4
+*	Equiv T7
+E1	Glycosylation Theme:T2
+E2	Glycosylation Theme:T2
+E3	Glycosylation Theme:T2

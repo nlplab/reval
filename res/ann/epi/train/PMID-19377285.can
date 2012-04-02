@@ -1,0 +1,13 @@
+T1	Protein	histone
+T2	Protein	histones
+T3	Protein	histone H3
+T4	Protein	H3
+*	Equiv T14 T15
+*	Equiv T3 T4
+T14	Entity	lysine 27
+T15	Entity	K27
+E1	Methylation Theme:T1
+E2	Methylation Site:T14 Theme:T3
+E3	Methylation Site:T14 Theme:T3
+E4	Methylation Site:T14 Theme:T3
+E5	Demethylation Theme:T1

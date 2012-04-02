@@ -1,0 +1,5 @@
+T1	Protein	PLA2G6
+T3	Protein	calcium-independent phospholipase A2
+T4	Protein	iPLA(2)beta
+T8	Protein	ubiquitin
+*	Equiv T3 T4

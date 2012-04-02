@@ -1,0 +1,25 @@
+T1	Protein	histone
+T2	Protein	GCN5
+T3	Protein	Tat
+T13	Protein	p300
+T14	Protein	CBP
+T31	Entity	lysines 50
+T32	Entity	51
+T37	Entity	lysines
+E1	Acetylation Theme:T3
+E2	Catalysis Cause:T2 Theme:T3
+E3	Acetylation Theme:T3
+E4	Catalysis Cause:T2 Theme:E3
+E5	Acetylation Site:T31 Theme:T3
+E6	Acetylation Site:T32 Theme:T3
+E7	Acetylation Site:T31 Theme:T3
+E8	Catalysis Cause:T2 Theme:E7
+E9	Acetylation Site:T32 Theme:T3
+E10	Catalysis Cause:T2 Theme:E9
+E11	Acetylation Site:T37 Theme:T3
+E12	Acetylation Site:T31 Theme:T3
+E13	Acetylation Site:T32 Theme:T3
+E14	Acetylation Site:T31 Theme:T3
+E15	Catalysis Cause:T2 Theme:E14
+E16	Acetylation Site:T32 Theme:T3
+E17	Catalysis Cause:T2 Theme:E16

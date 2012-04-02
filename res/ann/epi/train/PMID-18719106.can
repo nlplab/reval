@@ -1,0 +1,21 @@
+T1	Protein	proliferating cell nuclear antigen
+T2	Protein	HLTF
+T3	Protein	SHPRH
+T5	Protein	PCNA
+T6	Protein	Rad5
+T7	Protein	Ubc13
+T8	Protein	Mms2
+T11	Protein	RAD5
+T20	Protein	UBC13
+T25	Protein	Hltf
+*	Equiv T5
+E1	Catalysis Cause:T2 Theme:E3
+E2	Catalysis Cause:T3 Theme:E3
+E3	Ubiquitination Theme:T1
+E4	Ubiquitination Theme:T1
+E5	Catalysis Cause:T2 Theme:E7
+E6	Catalysis Cause:T3 Theme:E7
+E7	Ubiquitination Theme:T5
+E8	Catalysis Cause:T2 Theme:E10
+E9	Catalysis Cause:T3 Theme:E10
+E10	Ubiquitination Theme:T5

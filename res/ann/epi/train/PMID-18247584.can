@@ -1,0 +1,12 @@
+T1	Protein	p53
+T2	Protein	SMC3
+T3	Protein	iNOS
+T4	Protein	MeCP2
+E1	Methylation Theme:T1
+M1	Speculation E1
+E2	Methylation Theme:T2
+M2	Speculation E2
+E3	Methylation Theme:T3
+M3	Speculation E3
+E4	Methylation Theme:T4
+M4	Speculation E4

@@ -1,0 +1,7 @@
+T1	Protein	estrogen receptor
+T2	Protein	ER
+T4	Protein	cathepsin K
+T5	Protein	insulin-like growth factor-I
+T6	Protein	IGF-I
+*	Equiv T1 T2
+*	Equiv T5 T6

@@ -1,0 +1,8 @@
+T1	Protein	ubiquitin
+T2	Protein	p105
+T5	Protein	p50
+T11	Protein	ubiquitins
+E1	Ubiquitination Theme:T2
+E2	Ubiquitination Theme:T2
+E3	Ubiquitination Theme:T2
+E4	Ubiquitination Theme:T2

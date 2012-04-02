@@ -1,0 +1,10 @@
+T1	Protein	IL-1 receptor-associated kinase 1
+T2	Protein	NEMO
+T4	Protein	IRAK1
+T5	Protein	ubiquitin
+T20	Protein	TAK1
+T21	Protein	TRAF6
+*	Equiv T4
+E1	Ubiquitination Theme:T1
+E2	Ubiquitination Theme:T1
+E3	Ubiquitination Theme:T4

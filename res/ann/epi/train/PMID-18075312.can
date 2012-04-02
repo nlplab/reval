@@ -1,0 +1,7 @@
+T1	Protein	Cul3
+T2	Protein	ubiquitin
+T7	Protein	KLHL9
+T8	Protein	KLHL13
+T10	Protein	Aurora B
+E1	Catalysis Cause:T1 Theme:E2
+E2	Ubiquitination Theme:T10

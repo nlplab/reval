@@ -1,0 +1,16 @@
+T1	Protein	histone H3
+T3	Protein	H3
+T5	Protein	TAF3
+T14	Protein	histone
+*	Equiv T3
+*	Equiv T19
+T16	Entity	lysine 4
+T19	Entity	K4
+T21	Entity	R2
+T23	Entity	K9
+T24	Entity	K14
+E1	Methylation Site:T16 Theme:T1
+E2	Methylation Site:T16 Theme:T1
+E3	Methylation Site:T21 Theme:T3
+E4	Acetylation Site:T23 Theme:T3
+E5	Acetylation Site:T24 Theme:T3

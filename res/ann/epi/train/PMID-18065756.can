@@ -1,0 +1,24 @@
+T1	Protein	SMYD2
+T2	Protein	SET- and MYND-containing protein 2
+T6	Protein	p53
+T7	Protein	histone H3
+T11	Protein	HSP90alpha
+T12	Protein	EBP41L3
+T18	Protein	H3
+T21	Protein	LSD1
+T22	Protein	androgen receptor
+T28	Protein	TACC2
+*	Equiv T2
+T41	Entity	K4
+T45	Entity	K36
+E1	Methylation Theme:T6
+E2	Catalysis Cause:T1 Theme:E1
+E3	Methylation Theme:T7
+E4	Catalysis Cause:T1 Theme:E3
+E5	Methylation Site:T41 Theme:T18
+E6	Methylation Site:T41 Theme:T18
+E7	Catalysis Cause:T1 Theme:E6
+E8	Methylation Site:T45 Theme:T18
+M1	Negation E8
+E9	Catalysis Cause:T1 Theme:E10
+E10	Methylation Contextgene:T28 Site:T41 Theme:T18

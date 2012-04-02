@@ -1,0 +1,4 @@
+T1	Protein	catalase
+T2	Protein	NO synthase
+T3	Protein	NOS
+*	Equiv T2 T3

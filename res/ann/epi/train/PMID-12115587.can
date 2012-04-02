@@ -1,0 +1,19 @@
+T1	Protein	insulin-induced protein 1
+T2	Protein	p41
+T3	Protein	Arp2/3 complex genes
+T4	Protein	Insulin-induced protein 1
+T5	Protein	INSIG1
+T6	Protein	CL-6
+*	Equiv T4 T5 T6
+T16	Entity	edge
+T18	Entity	center
+T25	Entity	CGI overlapping exon 8
+T28	Entity	CGI
+E1	DNA_methylation Site:T16 Theme:T4
+E2	DNA_methylation Site:T18 Theme:T4
+M1	Negation E2
+E3	DNA_methylation Theme:T4
+E4	DNA_methylation Site:T16 Theme:T4
+E5	DNA_methylation Site:T16 Theme:T4
+E6	DNA_methylation Site:T25 Theme:T2
+E7	DNA_methylation Site:T28 Theme:T2

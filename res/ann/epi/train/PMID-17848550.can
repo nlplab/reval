@@ -1,0 +1,9 @@
+T1	Protein	Hex3
+T2	Protein	Slx8
+T3	Protein	ubiquitin
+T8	Protein	HEX3
+T9	Protein	small ubiquitin-related modifier
+T10	Protein	SUMO
+T11	Protein	ulp1
+T13	Protein	ULP1
+*	Equiv T9 T10

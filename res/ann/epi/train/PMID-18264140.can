@@ -1,0 +1,15 @@
+T1	Protein	X
+T2	Protein	MTA1
+T3	Protein	HDAC1
+T4	Protein	metastasis-associated protein 1
+T8	Protein	histone
+T9	Protein	HBx
+T14	Protein	2
+T15	Protein	hypoxia-inducible factor-1 alpha
+T16	Protein	HIF-1 alpha
+T21	Protein	von Hippel-Lindau tumor suppressor
+*	Equiv T4
+*	Equiv T15 T16
+T33	Entity	oxygen-dependent degradation domain
+E1	Deacetylation Site:T33 Theme:T15
+E2	Deacetylation Theme:T15

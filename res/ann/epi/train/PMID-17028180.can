@@ -1,0 +1,18 @@
+T1	Protein	Foxp3
+T2	Protein	histone
+T5	Protein	interleukin 2
+T6	Protein	IL-2
+T7	Protein	interferon gamma
+T8	Protein	IFNgamma
+T9	Protein	CD25
+T10	Protein	GITR
+T11	Protein	CTLA-4
+T21	Protein	histone H3
+*	Equiv T5 T6
+*	Equiv T7 T8
+E1	Acetylation Theme:T2
+E2	Deacetylation Contextgene:T5 Theme:T21
+E3	Deacetylation Contextgene:T7 Theme:T21
+E4	Acetylation Contextgene:T10 Theme:T2
+E5	Acetylation Contextgene:T9 Theme:T2
+E6	Acetylation Contextgene:T11 Theme:T2

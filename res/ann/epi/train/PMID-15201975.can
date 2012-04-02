@@ -1,0 +1,10 @@
+T1	Protein	DLC-1
+T10	Entity	promoter
+T13	Entity	promoter region
+E1	DNA_methylation Site:T10 Theme:T1
+E2	DNA_methylation Site:T13 Theme:T1
+M1	Speculation E2
+E3	DNA_methylation Site:T13 Theme:T1
+E4	DNA_methylation Theme:T1
+E5	DNA_methylation Theme:T1
+E6	DNA_methylation Theme:T1

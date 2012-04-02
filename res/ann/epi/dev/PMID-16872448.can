@@ -1,0 +1,4 @@
+T1	Protein	U2af1-rs1
+T5	Protein	DNase-I
+E1	DNA_methylation Theme:T1
+E2	DNA_methylation Theme:T1

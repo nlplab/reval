@@ -1,0 +1,13 @@
+T1	Protein	histone H3
+T2	Protein	histones
+T4	Protein	H3
+T5	Protein	MET16
+T6	Protein	Isw1
+T7	Protein	Spp1
+T8	Protein	Set1
+T9	Protein	Set2
+T11	Entity	lysine
+T13	Entity	lysine residues
+E1	Methylation Site:T11 Theme:T1
+E2	Methylation Site:T13 Theme:T1
+E3	Methylation Contextgene:T5 Theme:T4

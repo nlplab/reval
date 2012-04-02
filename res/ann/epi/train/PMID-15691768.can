@@ -1,0 +1,16 @@
+T1	Protein	Bre1
+T2	Protein	histone
+T3	Protein	dBre1
+T5	Protein	Su(H)
+T8	Protein	histone 3
+T9	Protein	H3
+T11	Protein	Bre1p
+T12	Protein	histone H2B
+*	Equiv T16 T17
+*	Equiv T8 T9
+T16	Entity	lysine 4
+T17	Entity	K4
+E1	Methylation Site:T16 Theme:T8
+E2	Catalysis Cause:T11 Theme:E3
+E3	Ubiquitination Theme:T12
+E4	Methylation Site:T16 Theme:T8

@@ -1,0 +1,16 @@
+T1	Protein	histone H3
+T3	Protein	H3
+T4	Protein	albino-1
+T5	Protein	al-1
+T6	Protein	histone
+T8	Protein	histones
+T12	Protein	dim-5
+T14	Protein	DIM-5
+*	Equiv T3
+*	Equiv T4 T5
+T15	Entity	Lys9
+E1	Methylation Site:T15 Theme:T1
+E2	Methylation Site:T15 Theme:T1
+E3	Methylation Contextgene:T4 Site:T15 Theme:T3
+E4	Methylation Contextgene:T4 Site:T15 Theme:T3
+E5	Methylation Contextgene:T4 Site:T15 Theme:T3

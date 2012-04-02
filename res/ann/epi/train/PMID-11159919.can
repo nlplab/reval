@@ -1,0 +1,8 @@
+T1	Protein	alpha1-antitrypsin
+T3	Protein	GLUT-1
+E1	Glycosylation Theme:T1
+M1	Negation E1
+E2	Glycosylation Theme:T1
+M2	Negation E2
+E3	Glycosylation Theme:T3
+M3	Negation E3

@@ -1,0 +1,9 @@
+T1	Protein	TRAF2
+T4	Protein	ubiquitin
+T5	Protein	TRAF6
+T6	Protein	RIP1
+T7	Protein	TNFalpha
+T11	Protein	Ubc13
+T20	Entity	K63
+E1	Catalysis Cause:T1 Theme:E2
+E2	Ubiquitination Site:T20 Theme:T6

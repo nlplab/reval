@@ -1,0 +1,14 @@
+T1	Protein	p16INK4A
+T2	Protein	p14ARF
+T3	Protein	p16(INK4A)
+T4	Protein	p14(ARF)
+T17	Entity	promoters
+T20	Entity	promoter
+E1	DNA_methylation Theme:T1
+E2	DNA_methylation Theme:T2
+E3	DNA_methylation Site:T17 Theme:T3
+E4	DNA_methylation Site:T17 Theme:T4
+E5	DNA_methylation Site:T17 Theme:T3
+E6	DNA_methylation Site:T17 Theme:T4
+E7	DNA_methylation Site:T20 Theme:T3
+E8	DNA_methylation Site:T20 Theme:T4

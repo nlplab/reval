@@ -1,0 +1,8 @@
+T1	Protein	p53
+T5	Protein	ubiquitin
+T6	Protein	MDM2
+T11	Protein	CHIP
+T12	Protein	carboxy terminus of Hsp70-interacting protein
+*	Equiv T11 T12
+E1	Ubiquitination Theme:T1
+E2	Catalysis Cause:T12 Theme:E1

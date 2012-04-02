@@ -1,0 +1,41 @@
+T1	Protein	p16
+T5	Protein	PAX-6
+T6	Protein	c-ABL
+T7	Protein	MYF-3
+T13	Entity	promoter
+T14	Entity	second-exon CpG islands
+T15	Entity	CpG island
+T18	Entity	exon 2 CpG island
+T21	Entity	exon 2
+T22	Entity	exon 5
+T23	Entity	exon 11
+T24	Entity	exon 3
+E1	DNA_demethylation Site:T13 Theme:T1
+M1	Speculation E1
+E2	DNA_demethylation Site:T14 Theme:T1
+M2	Speculation E2
+E3	DNA_methylation Site:T13 Theme:T1
+M3	Speculation E3
+E4	DNA_methylation Site:T14 Theme:T1
+M4	Speculation E4
+E5	DNA_methylation Site:T15 Theme:T1
+E6	DNA_methylation Site:T18 Theme:T1
+E7	DNA_methylation Site:T13 Theme:T1
+E8	DNA_methylation Site:T23 Theme:T6
+M5	Speculation E8
+E9	DNA_methylation Site:T24 Theme:T7
+M6	Speculation E9
+E10	DNA_methylation Site:T21 Theme:T1
+M7	Speculation E10
+E11	DNA_methylation Site:T22 Theme:T5
+M8	Speculation E11
+E12	DNA_methylation Site:T21 Theme:T1
+E13	DNA_methylation Site:T22 Theme:T5
+E14	DNA_methylation Site:T23 Theme:T6
+E15	DNA_methylation Site:T24 Theme:T7
+E16	DNA_methylation Theme:T1
+E17	DNA_methylation Theme:T5
+E18	DNA_methylation Theme:T6
+E19	DNA_methylation Theme:T1
+E20	DNA_methylation Theme:T5
+E21	DNA_methylation Theme:T6

@@ -1,0 +1,14 @@
+T1	Protein	MAML1
+T2	Protein	p300
+T5	Protein	CDK8
+T14	Protein	histone H3
+T15	Protein	H4
+T23	Protein	histones
+T27	Entity	lysines
+E1	Acetylation Theme:T2
+E2	Catalysis Cause:T2 Theme:E1
+E3	Acetylation Site:T27 Theme:T14
+E4	Acetylation Site:T27 Theme:T15
+E5	Acetylation Theme:T2
+E6	Catalysis Cause:T2 Theme:E5
+E7	Acetylation Theme:T23

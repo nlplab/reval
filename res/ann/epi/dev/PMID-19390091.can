@@ -1,0 +1,13 @@
+T1	Protein	Small Heterodimer Partner
+T2	Protein	SHP
+T3	Protein	ubiquitin
+T11	Protein	fibroblast growth factor 19
+T12	Protein	FGF19
+*	Equiv T1 T2
+*	Equiv T11 T12
+T22	Entity	Lys122
+T23	Entity	Lys123
+T25	Entity	Ser26
+E1	Ubiquitination Site:T22 Theme:T1
+E2	Ubiquitination Site:T23 Theme:T1
+E3	Phosphorylation Site:T25 Theme:T1

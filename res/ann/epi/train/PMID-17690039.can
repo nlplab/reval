@@ -1,0 +1,17 @@
+T1	Protein	death-associated protein kinase
+T2	Protein	Death-associated protein kinase
+T3	Protein	DAPK
+T4	Protein	calmodulin
+*	Equiv T2 T3
+T13	Entity	Promoter
+T16	Entity	CpG islands
+T20	Entity	promoter
+E1	DNA_methylation Site:T13 Theme:T1
+E2	DNA_methylation Site:T16 Theme:T2
+E3	DNA_methylation Theme:T2
+M1	Speculation E3
+E4	DNA_methylation Theme:T2
+E5	DNA_methylation Site:T20 Theme:T2
+E6	DNA_methylation Theme:T2
+E7	DNA_methylation Theme:T2
+E8	DNA_methylation Theme:T2

@@ -1,0 +1,17 @@
+T1	Protein	histone H4
+T3	Protein	Histone H4
+T4	Protein	pksA
+T5	Protein	omtA
+T6	Protein	ordA
+T8	Protein	ver-1
+T11	Protein	AflR
+E1	Acetylation Theme:T1
+E2	Acetylation Theme:T1
+E3	Acetylation Contextgene:T4 Theme:T3
+E4	Acetylation Contextgene:T5 Theme:T3
+E5	Acetylation Contextgene:T6 Theme:T3
+E6	Acetylation Contextgene:T5 Theme:T1
+E7	Acetylation Contextgene:T4 Theme:T1
+E8	Acetylation Contextgene:T8 Theme:T1
+E9	Acetylation Contextgene:T6 Theme:T1
+E10	Acetylation Theme:T1

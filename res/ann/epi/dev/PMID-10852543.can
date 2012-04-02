@@ -1,0 +1,5 @@
+T1	Protein	transferrin
+T2	Protein	beta-trace protein
+T3	Protein	dolichol pyrophosphate-Man9GlcNAc2 alpha-1,3 glucosyltransferase
+E1	Glycosylation Theme:T2
+M1	Negation E1

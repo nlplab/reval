@@ -1,0 +1,11 @@
+T1	Protein	OAT1
+T18	Entity	Asp-39
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T1
+E3	Glycosylation Site:T18 Theme:T1
+M1	Negation E3
+E4	Glycosylation Site:T18 Theme:T1
+E5	Deglycosylation Site:T18 Theme:T1
+E6	Glycosylation Theme:T1
+E7	Glycosylation Theme:T1
+E8	Glycosylation Theme:T1

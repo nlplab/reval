@@ -1,0 +1,13 @@
+T1	Protein	MYPT1
+T2	Protein	factor inhibiting hypoxia-inducible factor
+T3	Protein	FIH
+T5	Protein	factor inhibiting HIF
+T8	Protein	Notch1
+*	Equiv T2 T3 T5
+T16	Entity	asparagine
+T21	Entity	three sites
+E1	Hydroxylation Site:T16 Theme:T1
+E2	Catalysis Cause:T2 Theme:E1
+E3	Hydroxylation Theme:T1
+E4	Hydroxylation Site:T21 Theme:T1
+E5	Hydroxylation Theme:T1

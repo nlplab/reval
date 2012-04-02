@@ -1,0 +1,9 @@
+T1	Protein	BAG2
+T2	Protein	tau
+T3	Protein	Tau
+T6	Protein	CHIP
+T11	Protein	ubiquitin
+T15	Protein	miR-128a
+E1	Ubiquitination Theme:T3
+E2	Phosphorylation Theme:T3
+E3	Ubiquitination Theme:T3

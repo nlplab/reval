@@ -1,0 +1,24 @@
+T1	Protein	histone H3
+T3	Protein	Dot1
+T4	Protein	H3
+T6	Protein	Sir3
+*	Equiv T19 T20
+T15	Entity	Lysine-79
+T19	Entity	lysine-79
+T20	Entity	K79
+E1	Methylation Site:T15 Theme:T1
+M1	Negation E1
+E2	Methylation Site:T19 Theme:T1
+E3	Catalysis Cause:T3 Theme:E2
+E4	Methylation Site:T19 Theme:T4
+E5	Methylation Site:T19 Theme:T4
+M2	Negation E5
+E6	Methylation Site:T19 Theme:T4
+E7	Methylation Site:T19 Theme:T4
+E8	Methylation Site:T19 Theme:T4
+E9	Catalysis Cause:T3 Theme:E10
+E10	Methylation Theme:T1
+E11	Methylation Site:T19 Theme:T4
+M3	Negation E11
+E12	Methylation Site:T19 Theme:T4
+E13	Methylation Site:T19 Theme:T4

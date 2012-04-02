@@ -1,0 +1,13 @@
+T1	Protein	R5
+T2	Protein	PTG
+T5	Protein	laforin
+T6	Protein	malin
+T22	Protein	ubiquitin
+*	Equiv T1 T2
+T30	Entity	Ser-8
+T31	Entity	Ser-268
+E1	Phosphorylation Theme:T1
+E2	Phosphorylation Site:T30 Theme:T1
+E3	Phosphorylation Site:T31 Theme:T1
+E4	Phosphorylation Site:T30 Theme:T1
+E5	Ubiquitination Theme:T1

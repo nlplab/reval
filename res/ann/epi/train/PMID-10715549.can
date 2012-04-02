@@ -1,0 +1,13 @@
+T1	Protein	LHbeta
+T3	Protein	CGbeta
+T21	Entity	Asn(13)
+T22	Entity	oligosaccharides
+T26	Entity	carbohydrate
+T31	Entity	Asn(30)
+E1	Glycosylation Site:T21 Theme:T1
+E2	Glycosylation Sidechain:T22 Site:T21 Theme:T1
+E3	Deglycosylation Sidechain:T26 Site:T21 Theme:T3
+E4	Glycosylation Site:T21 Theme:T3
+M1	Negation E4
+E5	Glycosylation Site:T31 Theme:T1
+E6	Glycosylation Site:T21 Theme:T1

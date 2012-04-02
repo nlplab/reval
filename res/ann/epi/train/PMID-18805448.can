@@ -1,0 +1,6 @@
+T1	Protein	GLT-1
+T3	Protein	ubiquitin
+T9	Entity	lysine
+E1	Ubiquitination Theme:T1
+E2	Ubiquitination Theme:T1
+E3	Ubiquitination Site:T9 Theme:T1

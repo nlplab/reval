@@ -1,0 +1,24 @@
+T1	Protein	delta-opioid receptor
+T3	Protein	DOR
+T5	Protein	HaeIII
+T6	Protein	MspI
+T7	Protein	histone H3
+T8	Protein	H4
+T10	Protein	methyl-CpG-binding domain protein 2
+T11	Protein	MBD2
+T15	Protein	histone
+*	Equiv T3
+*	Equiv T10 T11
+T22	Entity	CpG
+T25	Entity	promoter
+E1	DNA_methylation Site:T22 Theme:T1
+E2	DNA_methylation Site:T25 Theme:T3
+E3	Deacetylation Contextgene:T3 Theme:T7
+E4	Deacetylation Contextgene:T3 Theme:T8
+E5	DNA_methylation Site:T25 Theme:T3
+M1	Negation E5
+E6	DNA_methylation Site:T25 Theme:T3
+E7	DNA_methylation Site:T25 Theme:T3
+E8	DNA_methylation Site:T25 Theme:T3
+E9	Acetylation Theme:T15
+E10	Deacetylation Theme:T15

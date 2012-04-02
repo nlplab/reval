@@ -1,0 +1,7 @@
+T1	Protein	histone
+T4	Protein	HDAC1
+T9	Protein	H4
+T10	Protein	histones
+E1	Acetylation Theme:T1
+E2	Acetylation Theme:T1
+E3	Acetylation Theme:T9

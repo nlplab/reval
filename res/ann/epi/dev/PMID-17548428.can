@@ -1,0 +1,26 @@
+T1	Protein	telomerase reverse transcriptase
+T2	Protein	Sp3
+T3	Protein	histone deacetylase 1
+T5	Protein	TERT
+T6	Protein	ceramide synthase 1
+T7	Protein	CerS1
+T8	Protein	CerS5
+T9	Protein	CerS6
+T13	Protein	HDAC1
+T30	Protein	histone H3
+*	Equiv T6 T7
+*	Equiv T13
+T39	Entity	lysine (K) 551
+E1	Deacetylation Theme:T2
+E2	Catalysis Cause:T3 Theme:E1
+E3	Deacetylation Theme:T2
+E4	Deacetylation Theme:T2
+E5	Catalysis Cause:T3 Theme:E4
+E6	Deacetylation Theme:T2
+E7	Deacetylation Site:T39 Theme:T2
+E8	Acetylation Site:T39 Theme:T2
+E9	Deacetylation Theme:T2
+E10	Acetylation Theme:T2
+E11	Acetylation Theme:T2
+E12	Deacetylation Theme:T2
+E13	Deacetylation Theme:T2

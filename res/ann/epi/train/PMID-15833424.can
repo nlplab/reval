@@ -1,0 +1,10 @@
+T1	Protein	Large
+T2	Protein	LARGE
+T3	Protein	POMT1
+T4	Protein	POMGnT1
+T5	Protein	fukutin
+T6	Protein	FKRP
+T7	Protein	alpha-dystroglycan
+E1	Glycosylation Theme:T7
+M1	Negation E1
+E2	Glycosylation Theme:T7

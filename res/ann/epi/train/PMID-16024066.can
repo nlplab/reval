@@ -1,0 +1,10 @@
+T1	Protein	progesterone receptor B
+T2	Protein	progesterone receptor-B
+T3	Protein	PR-B
+T6	Protein	histone
+*	Equiv T2 T3
+T20	Entity	promoter
+E1	DNA_methylation Site:T20 Theme:T2
+M1	Speculation E1
+E2	DNA_demethylation Theme:T2
+E3	Acetylation Contextgene:T2 Theme:T6

@@ -1,0 +1,8 @@
+T1	Protein	thyrotropin receptor
+T2	Protein	TSH receptor
+T3	Protein	glycosylphosphatidylinositol-phospholipase C
+T4	Protein	TSH
+T7	Entity	glycosylphosphatidylinositol
+T9	Entity	N-glycosylation sites
+E1	Glycosylation Sidechain:T7 Theme:T2
+E2	Glycosylation Site:T9 Theme:T2

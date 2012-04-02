@@ -1,0 +1,9 @@
+T1	Protein	CHM1L
+T2	Protein	chondromodulin-I
+T3	Protein	Chondromodulin-I
+T4	Protein	ChM-I
+T6	Protein	ChM1L
+*	Equiv T3 T4
+E1	Glycosylation Theme:T6
+E2	Glycosylation Theme:T6
+M1	Negation E2

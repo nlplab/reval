@@ -1,0 +1,16 @@
+T1	Protein	Atg6
+T2	Protein	Atg7
+T3	Protein	Atg12
+T4	Protein	FoxO3
+T6	Protein	FoxO3a
+T7	Protein	p38alpha
+T8	Protein	beta
+T10	Protein	MAFbx
+T11	Protein	Atrogin-1
+T12	Protein	muscle ring finger protein 1
+T13	Protein	MuRF-1
+T14	Protein	Nedd4
+T19	Protein	ubiquitin
+*	Equiv T10 T11
+*	Equiv T12 T13
+E1	Phosphorylation Theme:T4

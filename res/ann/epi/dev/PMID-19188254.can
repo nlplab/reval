@@ -1,0 +1,16 @@
+T1	Protein	Sem1p
+T2	Protein	Ubp6p
+T3	Protein	histone H2B
+T4	Protein	H3
+T5	Protein	Histone
+T8	Protein	SEM1
+T9	Protein	UBP6
+T11	Protein	histone H3
+T18	Protein	histone
+T23	Entity	lysine 14
+T24	Entity	23
+E1	Ubiquitination Theme:T3
+E2	Acetylation Theme:T4
+E3	Ubiquitination Theme:T3
+E4	Acetylation Site:T23 Theme:T11
+E5	Acetylation Site:T24 Theme:T11

@@ -1,0 +1,8 @@
+T1	Protein	RNF-5
+T2	Protein	PAT-3
+T3	Protein	beta-integrin
+T4	Protein	UNC-95
+T9	Protein	unc-95
+*	Equiv T2 T3
+E1	Ubiquitination Theme:T4
+E2	Catalysis Cause:T1 Theme:E1

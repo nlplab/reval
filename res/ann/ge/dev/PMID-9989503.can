@@ -1,0 +1,12 @@
+T1	Protein	Nmi
+T2	Protein	Stat1
+T3	Protein	IL-2
+T4	Protein	IFNgamma
+T5	Protein	Stat5b
+T7	Protein	N-Myc interactor
+T9	Protein	Stat2
+E1	Binding Theme:T5 Theme2:T1
+E2	Binding Theme:T1 Theme2:T9
+E3	Positive_regulation Cause:T1 Theme:E4
+E4	Binding Theme:T2
+M1	Negation E2

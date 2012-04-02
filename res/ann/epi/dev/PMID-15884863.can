@@ -1,0 +1,6 @@
+T1	Protein	beta-lactoglobulin
+T2	Protein	beta-lg
+T3	Protein	alpha-lactalbumin
+T4	Protein	alpha-la
+*	Equiv T1 T2
+*	Equiv T3 T4

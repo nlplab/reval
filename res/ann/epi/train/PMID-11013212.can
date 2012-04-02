@@ -1,0 +1,6 @@
+T1	Protein	EMeg32
+T2	Protein	glucosamine-6-phosphate (GlcN6P) acetyltransferase
+T9	Protein	PKB
+T10	Protein	AKT
+*	Equiv T2
+*	Equiv T9 T10

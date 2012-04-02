@@ -1,0 +1,7 @@
+T1	Protein	EA4
+T2	Protein	esterase A4
+*	Equiv T2
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T1
+M1	Negation E2
+E3	Glycosylation Theme:T1

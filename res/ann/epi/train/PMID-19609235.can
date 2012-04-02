@@ -1,0 +1,9 @@
+T1	Protein	DAPK2
+T2	Protein	Death-associated protein kinase 2
+T4	Protein	calmodulin
+T8	Protein	CD30 ligand
+T12	Protein	CD30L
+T13	Protein	CD30
+*	Equiv T2
+T15	Entity	promoter-region
+E1	DNA_methylation Site:T15 Theme:T1

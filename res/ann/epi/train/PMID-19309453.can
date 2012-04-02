@@ -1,0 +1,15 @@
+T1	Protein	TIR1
+T3	Protein	ubiquitin
+T7	Protein	SHY2
+T8	Protein	IAA3
+T9	Protein	BDL
+T10	Protein	IAA12
+T12	Protein	DR5
+T15	Protein	tir1-1
+T16	Protein	COI1
+*	Equiv T7 T8
+*	Equiv T9 T10
+E1	Ubiquitination Theme:T7
+E2	Ubiquitination Theme:T10
+E3	Ubiquitination Theme:T7
+E4	Ubiquitination Theme:T10

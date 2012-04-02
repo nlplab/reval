@@ -1,0 +1,13 @@
+T1	Protein	decorin
+T2	Protein	biglycan
+T3	Protein	beta4GalT-7
+T4	Protein	tenascin X
+T5	Protein	B4GALT7
+T15	Protein	Biglycan
+T28	Entity	dermatan sulfate
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T2
+E3	Glycosylation Sidechain:T28 Theme:T1
+E4	Glycosylation Theme:T15
+E5	Glycosylation Theme:T1
+E6	Glycosylation Theme:T2

@@ -1,0 +1,17 @@
+T1	Protein	beta-globin
+T2	Protein	MENT
+T8	Protein	histones
+T9	Protein	histone H3
+T10	Protein	H3
+T15	Protein	histone
+*	Equiv T9 T10
+*	Equiv T26 T27
+T26	Entity	lysine 9
+T27	Entity	K9
+T31	Entity	N-terminal domain
+E1	Acetylation Theme:T8
+E2	Methylation Site:T26 Theme:T9
+E3	Acetylation Theme:T15
+E4	Methylation Site:T31 Theme:T9
+E5	Acetylation Site:T31 Theme:T9
+E6	Acetylation Theme:T15

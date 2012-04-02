@@ -1,0 +1,9 @@
+T1	Protein	gp160
+T4	Protein	gp120
+T5	Protein	gp41
+T6	Protein	CD4
+T18	Entity	oligosaccharides
+E1	Glycosylation Theme:T1
+E2	Glycosylation Sidechain:T18 Theme:T1
+E3	Glycosylation Sidechain:T18 Theme:T4
+E4	Glycosylation Sidechain:T18 Theme:T4

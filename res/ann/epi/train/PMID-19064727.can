@@ -1,0 +1,13 @@
+T1	Protein	Human T-cell leukemia virus type 1 bZIP factor
+T2	Protein	Tax
+T3	Protein	HTLV-1 bZIP factor
+T4	Protein	HBZ
+T9	Protein	p65
+T15	Protein	PDLIM2
+T16	Protein	ubiquitin
+T19	Protein	IL-8
+T20	Protein	IL2RA
+T21	Protein	IRF4
+T22	Protein	VCAM-1
+T23	Protein	VEGF
+*	Equiv T3 T4

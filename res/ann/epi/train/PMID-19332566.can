@@ -1,0 +1,5 @@
+T1	Protein	CCTalpha
+T4	Protein	ubiquitin
+T11	Entity	K(57)
+E1	Ubiquitination Site:T11 Theme:T1
+E2	Ubiquitination Theme:T1

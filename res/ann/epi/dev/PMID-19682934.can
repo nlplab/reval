@@ -1,0 +1,24 @@
+T1	Protein	histone
+T2	Protein	H2B
+T3	Protein	H3
+T5	Protein	Dot1
+T17	Protein	NRM1
+T18	Protein	WHI3
+T21	Entity	K79
+T39	Entity	K123
+E1	Ubiquitination Theme:T2
+E2	Methylation Site:T21 Theme:T3
+E3	Methylation Site:T21 Theme:T3
+E4	Catalysis Cause:T5 Theme:E3
+E5	Methylation Site:T21 Theme:T3
+E6	Methylation Site:T21 Theme:T3
+M1	Negation E6
+E7	Methylation Site:T21 Theme:T3
+E8	Methylation Site:T21 Theme:T3
+E9	Methylation Site:T21 Theme:T3
+E10	Methylation Site:T21 Theme:T3
+E11	Methylation Site:T21 Theme:T3
+E12	Ubiquitination Theme:T2
+E13	Ubiquitination Site:T39 Theme:T2
+E14	Ubiquitination Site:T39 Theme:T2
+E15	Methylation Site:T21 Theme:T3

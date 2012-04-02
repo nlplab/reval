@@ -1,0 +1,8 @@
+T1	Protein	submaxillary mucin
+T3	Protein	von Willebrand factor
+T6	Entity	oligosaccharides
+E1	Glycosylation Theme:T1
+E2	Glycosylation Sidechain:T6 Theme:T1
+M1	Negation E2
+E3	Glycosylation Theme:T1
+E4	Glycosylation Theme:T1

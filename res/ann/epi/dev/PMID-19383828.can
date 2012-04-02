@@ -1,0 +1,10 @@
+T1	Protein	LYRIC
+T2	Protein	AEG-1
+T11	Protein	Green fluorescent protein
+T14	Protein	green fluorescent protein
+T21	Protein	ubiquitin
+*	Equiv T1 T2
+T28	Entity	NLS-2 region
+E1	Ubiquitination Theme:T1
+E2	Ubiquitination Site:T28 Theme:T1
+E3	Ubiquitination Theme:T1

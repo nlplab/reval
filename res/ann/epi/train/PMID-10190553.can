@@ -1,0 +1,26 @@
+T1	Protein	connexin32
+T2	Protein	connexin43
+T4	Protein	Cx32
+T6	Protein	Cx43
+T11	Protein	MspI
+T12	Protein	HpaII
+T19	Protein	luciferase
+*	Equiv T4
+*	Equiv T6
+T24	Entity	positions -147
+T25	Entity	-847
+T27	Entity	position -38
+T29	Entity	promoter
+E1	DNA_methylation Site:T24 Theme:T4
+E2	DNA_methylation Site:T25 Theme:T4
+E3	DNA_methylation Site:T24 Theme:T4
+M1	Negation E3
+E4	DNA_methylation Site:T25 Theme:T4
+M2	Negation E4
+E5	DNA_methylation Site:T27 Theme:T6
+E6	DNA_methylation Site:T27 Theme:T6
+M3	Negation E6
+E7	DNA_methylation Site:T29 Theme:T4
+M4	Speculation E7
+E8	DNA_methylation Site:T29 Theme:T6
+M5	Speculation E8

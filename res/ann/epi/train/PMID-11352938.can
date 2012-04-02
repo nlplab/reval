@@ -1,0 +1,14 @@
+T1	Protein	Xist
+T2	Protein	histone
+T4	Protein	histone H4
+T8	Protein	GFP
+T9	Protein	hypoxanthine phosphoribosyl transferase
+T10	Protein	Hprt
+T11	Protein	Dnmt1
+*	Equiv T9 T10
+E1	Acetylation Theme:T2
+M1	Negation E1
+E2	Acetylation Theme:T4
+M2	Negation E2
+E3	Acetylation Theme:T2
+M3	Negation E3

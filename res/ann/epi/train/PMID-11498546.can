@@ -1,0 +1,17 @@
+T1	Protein	histone
+T2	Protein	beta-globin
+T3	Protein	histones
+T4	Protein	histone H3
+T7	Protein	H3
+T9	Entity	lysine
+T13	Entity	lysine 9
+T17	Entity	Lysine 9
+T19	Entity	lysine 4
+E1	Methylation Contextgene:T2 Site:T9 Theme:T1
+E2	Methylation Theme:T3
+E3	Methylation Contextgene:T2 Site:T13 Theme:T4
+E4	Methylation Site:T13 Theme:T4
+E5	Acetylation Theme:T4
+E6	Methylation Contextgene:T2 Site:T17 Theme:T4
+E7	Methylation Contextgene:T2 Site:T19 Theme:T4
+E8	Acetylation Contextgene:T2 Theme:T7

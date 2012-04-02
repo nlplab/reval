@@ -1,0 +1,8 @@
+T1	Protein	Galphaq
+T2	Protein	Galphas
+T4	Protein	angiotensin II
+T9	Protein	beta(1)-adrenergic receptor
+T14	Protein	MDM2
+T15	Protein	ubiquitin
+E1	Ubiquitination Theme:T2
+E2	Ubiquitination Theme:T2

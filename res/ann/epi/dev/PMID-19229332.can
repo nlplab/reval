@@ -1,0 +1,20 @@
+T1	Protein	histone
+T3	Protein	CTCF
+T4	Protein	histone H3
+T5	Protein	H3
+T15	Protein	luciferase
+*	Equiv T17 T18
+*	Equiv T4 T5
+*	Equiv T27 T28
+T17	Entity	lysine 4
+T18	Entity	K4
+T27	Entity	lysine 27
+T28	Entity	K27
+E1	Methylation Site:T17 Theme:T4
+E2	Methylation Site:T17 Theme:T4
+E3	Acetylation Theme:T4
+E4	Methylation Site:T17 Theme:T4
+M1	Negation E4
+E5	Methylation Site:T27 Theme:T4
+M2	Negation E5
+E6	Methylation Site:T27 Theme:T4

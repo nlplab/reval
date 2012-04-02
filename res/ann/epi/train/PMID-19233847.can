@@ -1,0 +1,7 @@
+T1	Protein	ubiquitin
+T2	Protein	E6-AP
+T6	Protein	Hsc70
+T11	Protein	cystic fibrosis transmembrane conductance regulator
+T13	Protein	luciferase
+E1	Ubiquitination Theme:T13
+E2	Catalysis Cause:T2 Theme:E1

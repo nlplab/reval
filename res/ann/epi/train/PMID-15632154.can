@@ -1,0 +1,9 @@
+T1	Protein	prion
+T2	Protein	PrPSc
+T3	Protein	prion protein
+T4	Protein	PrP(C)
+T5	Protein	PrP(Sc)
+T8	Protein	ChGn1
+T9	Protein	Chst8
+T15	Protein	N-acetylgalactosamine-4-O-sulfotransferase 8
+*	Equiv T3 T4

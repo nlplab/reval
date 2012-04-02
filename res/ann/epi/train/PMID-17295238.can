@@ -1,0 +1,8 @@
+T1	Protein	CYP1A2
+T2	Protein	N-acetyltransferase 2
+T3	Protein	cytochrome P4501A2
+T5	Protein	NAT2
+T15	Protein	hypoxanthine phosphoribosyl transferase
+T16	Protein	hprt
+*	Equiv T5
+*	Equiv T15 T16

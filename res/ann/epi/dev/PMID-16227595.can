@@ -1,0 +1,9 @@
+T1	Protein	histone H3
+T2	Protein	Set2p
+T4	Protein	H3
+T16	Entity	lysine 36
+T21	Entity	K36
+E1	Methylation Site:T16 Theme:T1
+E2	Catalysis Cause:T2 Theme:E3
+E3	Methylation Site:T16 Theme:T1
+E4	Methylation Site:T21 Theme:T4

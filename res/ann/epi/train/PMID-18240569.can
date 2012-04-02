@@ -1,0 +1,16 @@
+T1	Protein	Prothyomosin alpha
+T2	Protein	KEAP1
+T3	Protein	prothymosin alpha
+T4	Protein	Prothymosin alpha
+T5	Protein	ProTalpha
+T7	Protein	Keap1
+T9	Protein	Nrf2
+T13	Protein	ubiquitin
+*	Equiv T4 T5
+E1	Ubiquitination Theme:T3
+M1	Negation E1
+E2	Ubiquitination Theme:T9
+E3	Ubiquitination Theme:T4
+M2	Negation E3
+E4	Ubiquitination Theme:T4
+M3	Negation E4

@@ -1,0 +1,6 @@
+T1	Protein	Factor inhibiting HIF
+T2	Protein	FIH-1
+T3	Protein	HIF asparaginyl hydroxylase
+T4	Protein	p300
+T5	Protein	CBP
+*	Equiv T1 T2 T3

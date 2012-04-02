@@ -1,0 +1,11 @@
+T1	Protein	histone
+T4	Protein	histones H3
+T5	Protein	H4
+E1	Acetylation Theme:T1
+E2	Deacetylation Theme:T1
+E3	Deacetylation Theme:T1
+E4	Deacetylation Theme:T4
+E5	Deacetylation Theme:T5
+E6	Deacetylation Theme:T4
+E7	Deacetylation Theme:T5
+E8	Deacetylation Theme:T1

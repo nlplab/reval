@@ -1,0 +1,8 @@
+T1	Protein	chorionic gonadotropin (CG) beta-subunit
+T2	Protein	CG beta-subunit
+T3	Protein	FSH beta
+T4	Protein	CG beta
+T6	Protein	LH-hCG receptor
+T8	Entity	serine
+T9	Entity	oligosaccharides
+E1	Glycosylation Sidechain:T9 Site:T8 Theme:T2

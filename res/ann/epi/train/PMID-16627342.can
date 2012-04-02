@@ -1,0 +1,7 @@
+T1	Protein	mucin-1
+T3	Protein	MUC1
+*	Equiv T3
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T3
+E3	Glycosylation Theme:T3
+E4	Glycosylation Theme:T3

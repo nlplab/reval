@@ -1,0 +1,15 @@
+T1	Protein	CheY
+T2	Protein	McpB
+T5	Protein	CheB
+T8	Protein	CheR
+T12	Protein	cheR
+T13	Protein	B
+T14	Protein	C
+T15	Protein	D
+E1	Methylation Theme:T2
+E2	Demethylation Theme:T2
+E3	Demethylation Theme:T2
+E4	Methylation Theme:T2
+E5	Methylation Theme:T2
+E6	Catalysis Cause:T8 Theme:E5
+E7	Methylation Theme:T2

@@ -1,0 +1,11 @@
+T1	Protein	hypoxia-inducible factor 1alpha
+T2	Protein	HIF-1alpha
+T4	Protein	von Hippel-Lindau
+T5	Protein	Elongin B
+T6	Protein	Elongin C
+T9	Protein	PHD2
+*	Equiv T1 T2
+T14	Entity	prolines
+E1	Ubiquitination Theme:T1
+E2	Hydroxylation Site:T14 Theme:T1
+E3	Hydroxylation Theme:T1

@@ -1,0 +1,7 @@
+T1	Protein	Lck
+T2	Protein	c-Cbl
+T3	Protein	SLAP
+T4	Protein	CD3zeta
+T5	Protein	ubiquitin
+T6	Protein	Ub
+*	Equiv T5 T6

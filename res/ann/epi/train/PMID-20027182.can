@@ -1,0 +1,16 @@
+T1	Protein	AID
+T2	Protein	activation-induced cytidine deaminase
+T4	Protein	AICDA
+T5	Protein	OCT4
+T6	Protein	POU5F1
+T7	Protein	NANOG
+*	Equiv T2 T4
+*	Equiv T5 T6
+T12	Entity	promoter
+T15	Entity	promoters
+E1	DNA_demethylation Site:T12 Theme:T6
+E2	DNA_demethylation Site:T12 Theme:T7
+E3	DNA_methylation Site:T15 Theme:T6
+E4	DNA_methylation Site:T15 Theme:T7
+E5	DNA_demethylation Site:T15 Theme:T6
+E6	DNA_demethylation Site:T15 Theme:T7

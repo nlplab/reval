@@ -1,0 +1,12 @@
+T1	Protein	hepatocyte growth factor
+T2	Protein	c-Met
+T3	Protein	angiotensin II
+T4	Protein	epithelial growth factor receptor
+T5	Protein	Hepatocyte growth factor
+T6	Protein	HGF
+T11	Protein	Ang II
+T14	Protein	SHIP2
+T15	Protein	Src homology domain 2-containing inositol 5'-phosphatase 2
+*	Equiv T5 T6
+*	Equiv T11
+*	Equiv T14 T15

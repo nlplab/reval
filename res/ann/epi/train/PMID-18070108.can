@@ -1,0 +1,11 @@
+T1	Protein	bone morphogenetic protein 6
+T2	Protein	BMP-6
+T3	Protein	BMP-7
+T5	Protein	BMP-2
+T9	Protein	activin receptor type I
+T16	Entity	Asn73
+T18	Entity	carbohydrate moiety
+E1	Glycosylation Theme:T1
+E2	Glycosylation Site:T16 Theme:T2
+E3	Glycosylation Sidechain:T18 Theme:T2
+M1	Negation E3

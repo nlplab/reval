@@ -1,0 +1,8 @@
+T1	Protein	angiotensin II type 1a receptor
+T2	Protein	Angiotensin II type 1a receptor
+T3	Protein	AT1aR
+T5	Protein	angiontensin II
+T6	Protein	Angiotensin II
+T8	Protein	Galphaq
+*	Equiv T2 T3
+E1	Glycosylation Theme:T2

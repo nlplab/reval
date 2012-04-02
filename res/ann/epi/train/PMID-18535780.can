@@ -1,0 +1,9 @@
+T1	Protein	Nm23B
+T2	Protein	RCC1
+T3	Protein	HERC3
+T4	Protein	ubiquitin
+T5	Protein	PLIC-1
+T6	Protein	PLIC-2
+T7	Protein	HERC5
+E1	Catalysis Cause:T7 Theme:E2
+E2	Ubiquitination Theme:T1

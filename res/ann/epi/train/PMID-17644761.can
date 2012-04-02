@@ -1,0 +1,16 @@
+T1	Protein	histones
+T3	Protein	histone
+T5	Protein	histone H3
+T6	Protein	H4
+T7	Protein	H2A
+T9	Protein	H3
+T15	Entity	Lys27
+T16	Entity	Lys36
+T17	Entity	Lys20
+E1	Phosphorylation Theme:T5
+E2	Phosphorylation Theme:T6
+E3	Phosphorylation Theme:T7
+E4	Deacetylation Theme:T1
+E5	DNA_methylation Site:T15 Theme:T9
+E6	DNA_methylation Site:T16 Theme:T9
+E7	DNA_methylation Site:T17 Theme:T6

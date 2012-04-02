@@ -1,0 +1,14 @@
+T1	Protein	Hdm2
+T2	Protein	ubiquitin
+T3	Protein	Ku70
+T4	Protein	Akt
+T8	Protein	Bax
+T10	Protein	Ub
+T20	Protein	Vascular endothelial growth factor
+T21	Protein	VEGF
+T26	Protein	p53
+*	Equiv T10
+*	Equiv T20 T21
+E1	Catalysis Cause:T1 Theme:E2
+E2	Ubiquitination Theme:T3
+E3	Phosphorylation Theme:T1

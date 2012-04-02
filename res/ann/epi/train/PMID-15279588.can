@@ -1,0 +1,7 @@
+T1	Protein	ENV
+T2	Protein	Env
+T4	Protein	gp160
+T5	Protein	gp120
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T2
+E3	Glycosylation Theme:T2

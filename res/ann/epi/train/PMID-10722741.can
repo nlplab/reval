@@ -1,0 +1,7 @@
+T1	Protein	Type XIII collagen
+T3	Protein	type XIII collagen
+T4	Protein	Type XIII collagen alpha chains
+T5	Protein	Pepsin
+T6	Protein	type XIII collagen alpha chains
+T9	Entity	proline residues
+E1	Hydroxylation Site:T9 Theme:T4

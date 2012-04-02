@@ -1,0 +1,12 @@
+T1	Protein	MDM2
+T2	Protein	p53
+T3	Protein	ubiquitin
+T5	Protein	FOXO1
+T6	Protein	FOXO3A
+T7	Protein	AKT
+E1	Catalysis Cause:T1 Theme:E3
+E2	Catalysis Cause:T1 Theme:E4
+E3	Ubiquitination Theme:T5
+E4	Ubiquitination Theme:T6
+E5	Catalysis Cause:T1 Theme:E6
+E6	Ubiquitination Theme:T5

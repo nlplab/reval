@@ -1,0 +1,61 @@
+T1	Protein	Hsp70
+T2	Protein	Hsp90
+T3	Protein	CHIP
+T6	Protein	ubiquitin
+T7	Protein	C-terminus of Hsc70 interacting protein
+*	Equiv T7
+T30	Entity	lysine residues
+T34	Entity	K325
+T35	Entity	K451
+T36	Entity	K524
+T37	Entity	K526
+T38	Entity	K559
+T39	Entity	K561
+T41	Entity	K107
+T42	Entity	K204
+T43	Entity	K219
+T44	Entity	K275
+T45	Entity	K284
+T46	Entity	K347
+T47	Entity	K399
+T48	Entity	K477
+T49	Entity	K481
+T50	Entity	K538
+T51	Entity	K550
+T52	Entity	K607
+T53	Entity	K623
+E1	Ubiquitination Theme:T1
+E2	Catalysis Cause:T3 Theme:E1
+E3	Ubiquitination Theme:T2
+E4	Catalysis Cause:T3 Theme:E3
+E5	Ubiquitination Theme:T2
+E6	Catalysis Cause:T7 Theme:E5
+E7	Ubiquitination Theme:T1
+E8	Catalysis Cause:T7 Theme:E7
+E9	Catalysis Cause:T3 Theme:E12
+E10	Ubiquitination Site:T30 Theme:T2
+E11	Catalysis Cause:T3 Theme:E10
+E12	Ubiquitination Site:T30 Theme:T1
+E13	Ubiquitination Site:T35 Theme:T1
+E14	Ubiquitination Site:T36 Theme:T1
+E15	Ubiquitination Site:T37 Theme:T1
+E16	Ubiquitination Site:T38 Theme:T1
+E17	Ubiquitination Site:T39 Theme:T1
+E18	Ubiquitination Site:T34 Theme:T1
+E19	Ubiquitination Site:T41 Theme:T2
+E20	Ubiquitination Site:T42 Theme:T2
+E21	Ubiquitination Site:T43 Theme:T2
+E22	Ubiquitination Site:T44 Theme:T2
+E23	Ubiquitination Site:T45 Theme:T2
+E24	Ubiquitination Site:T46 Theme:T2
+E25	Ubiquitination Site:T47 Theme:T2
+E26	Ubiquitination Site:T48 Theme:T2
+E27	Ubiquitination Site:T49 Theme:T2
+E28	Ubiquitination Site:T50 Theme:T2
+E29	Ubiquitination Site:T51 Theme:T2
+E30	Ubiquitination Site:T52 Theme:T2
+E31	Ubiquitination Site:T53 Theme:T2
+E32	Catalysis Cause:T3 Theme:E35
+E33	Ubiquitination Theme:T2
+E34	Catalysis Cause:T3 Theme:E33
+E35	Ubiquitination Theme:T1

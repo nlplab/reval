@@ -1,0 +1,14 @@
+T1	Protein	histone H4
+T2	Protein	histone
+T9	Entity	K5
+T10	Entity	K8
+E1	Acetylation Theme:T1
+E2	Acetylation Theme:T2
+E3	Acetylation Site:T9 Theme:T1
+M1	Speculation E3
+E4	Acetylation Site:T10 Theme:T1
+M2	Speculation E4
+E5	Acetylation Theme:T1
+M3	Speculation E5
+E6	Acetylation Theme:T1
+M4	Speculation E6

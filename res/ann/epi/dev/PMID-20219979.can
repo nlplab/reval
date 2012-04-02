@@ -1,0 +1,12 @@
+T1	Protein	Glioma pathogenesis-related 1-like 1
+T2	Protein	glioma pathogenesis-related 1
+T3	Protein	GLIPR1
+T5	Protein	GLIPR1-like 1
+T6	Protein	GLIPR1L1
+T7	Protein	GLIPR1-like 2
+T8	Protein	GLIPR1L2
+T9	Protein	Glipr1l1
+*	Equiv T2 T3
+*	Equiv T5 T6
+*	Equiv T7 T8
+E1	Glycosylation Theme:T6

@@ -1,0 +1,21 @@
+T1	Protein	CCR4
+T2	Protein	histone
+T4	Protein	Set1
+T5	Protein	histone H3
+T6	Protein	H3
+T11	Protein	Not4
+T14	Protein	PMA1
+T17	Protein	H2B
+T20	Protein	ubiquitin
+T22	Protein	Ubc4
+*	Equiv T5 T6
+*	Equiv T30 T32
+T28	Entity	lysine
+T30	Entity	lysine 4
+T32	Entity	K4
+E1	Methylation Theme:T2
+E2	Methylation Site:T28 Theme:T2
+E3	Methylation Site:T30 Theme:T5
+E4	Methylation Contextgene:T14 Site:T30 Theme:T5
+E5	Methylation Theme:T2
+E6	Ubiquitination Theme:T17

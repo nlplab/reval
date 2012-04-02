@@ -1,0 +1,14 @@
+T1	Protein	ESET
+T2	Protein	histone H3
+T3	Protein	ERG
+T4	Protein	erg
+T8	Protein	ERG-associated protein with SET domain
+T10	Protein	SETDB1
+T11	Protein	SET domain, bifurcated 1
+T17	Protein	histone
+T19	Protein	histones
+*	Equiv T8
+*	Equiv T10 T11
+E1	Methylation Theme:T17
+E2	Catalysis Cause:T1 Theme:E3
+E3	Methylation Theme:T17

@@ -1,0 +1,14 @@
+T1	Protein	histone
+T3	Protein	histones
+T4	Protein	HDAC1
+T8	Protein	HDAC3
+T9	Protein	HDAC2
+T10	Protein	HDAC4
+T11	Protein	HDACX
+T13	Protein	SIN3
+T15	Protein	-3
+T17	Protein	-4
+T18	Protein	X
+T23	Entity	lysine residues
+E1	Deacetylation Site:T23 Theme:T3
+E2	Acetylation Theme:T1

@@ -1,0 +1,15 @@
+T1	Protein	ubiquitin
+T2	Protein	AIP2
+T3	Protein	EGR2
+T6	Protein	c-Cbl
+T7	Protein	Cbl-b
+T8	Protein	GRAIL
+T9	Protein	Itch
+T10	Protein	Nedd4
+T13	Protein	interleukin-2
+T17	Protein	Fas ligand
+T18	Protein	FasL
+*	Equiv T17 T18
+E1	Catalysis Cause:T2 Theme:E2
+E2	Ubiquitination Theme:T3
+E3	Ubiquitination Theme:T3

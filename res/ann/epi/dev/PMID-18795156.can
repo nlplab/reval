@@ -1,0 +1,4 @@
+T1	Protein	Nrf2
+T2	Protein	nuclear factor erythroid 2-related factor 2
+*	Equiv T2
+E1	Ubiquitination Theme:T1

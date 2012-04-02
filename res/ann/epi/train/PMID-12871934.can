@@ -1,0 +1,8 @@
+T1	Protein	low density lipoprotein (LDL) receptor-related protein 1
+T2	Protein	LRP1
+T4	Protein	apolipoprotein E (apoE) receptor-2
+T5	Protein	apoER2
+*	Equiv T1 T2
+*	Equiv T4 T5
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T4

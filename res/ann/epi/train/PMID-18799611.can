@@ -1,0 +1,9 @@
+T1	Protein	DNA polymerases (pol) eta
+T2	Protein	iota
+T3	Protein	poleta
+T4	Protein	proliferating cell nuclear antigen
+T5	Protein	PCNA
+T7	Protein	poliota
+*	Equiv T4 T5
+E1	Ubiquitination Theme:T4
+E2	Ubiquitination Theme:T4

@@ -1,0 +1,12 @@
+T1	Protein	ICBP90
+T2	Protein	DNMT1
+T3	Protein	VEGF
+T4	Protein	Inverted CCAAT box-binding protein of 90 kDa
+T10	Protein	glutathione-S-transferase
+T18	Protein	p16
+T19	Protein	INK4A
+T20	Protein	RB1
+T29	Protein	histone
+*	Equiv T4
+*	Equiv T18 T19
+E1	Ubiquitination Theme:T29

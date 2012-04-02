@@ -1,0 +1,16 @@
+T1	Protein	II
+T2	Protein	lysyl hydroxylase 1
+T3	Protein	PLOD1
+T5	Protein	type II collagen
+T6	Protein	alpha 1(I)
+T7	Protein	alpha 2(I)
+*	Equiv T2 T3
+T13	Entity	lysine
+T14	Entity	residues 930
+T15	Entity	933
+E1	Hydroxylation Site:T13 Theme:T1
+E2	Hydroxylation Site:T14 Theme:T6
+M1	Negation E2
+E3	Hydroxylation Site:T15 Theme:T7
+M2	Negation E3
+E4	Hydroxylation Theme:T5

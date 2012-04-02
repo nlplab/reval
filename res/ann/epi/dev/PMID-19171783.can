@@ -1,0 +1,18 @@
+T1	Protein	STAT1
+T2	Protein	Histone
+T3	Protein	histone
+T4	Protein	CBP
+T11	Protein	HDAC3
+T12	Protein	T-cell protein tyrosine phosphatase
+T13	Protein	TCP45
+*	Equiv T12 T13
+E1	Acetylation Theme:T1
+E2	Acetylation Theme:T1
+E3	Phosphorylation Theme:T1
+E4	Catalysis Cause:T4 Theme:E5
+E5	Acetylation Theme:T1
+E6	Acetylation Theme:T1
+E7	Catalysis Cause:T13 Theme:E8
+E8	Dephosphorylation Theme:T1
+E9	Phosphorylation Theme:T1
+E10	Acetylation Theme:T1

@@ -1,0 +1,6 @@
+T1	Protein	cheD
+T3	Protein	tsr
+T9	Protein	Tsr
+T10	Protein	Tar
+E1	Methylation Theme:T10
+E2	Methylation Theme:T9

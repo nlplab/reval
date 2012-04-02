@@ -1,0 +1,11 @@
+T1	Protein	helospectin
+T3	Protein	Hs1
+T4	Protein	Hs2
+T7	Protein	helospectins
+T8	Protein	VPAC1
+T9	Protein	VPAC2
+T12	Entity	N-acetylhexosamine-hexose
+T13	Entity	Ser32
+E1	Glycosylation Theme:T1
+E2	Glycosylation Sidechain:T12 Site:T13 Theme:T3
+E3	Glycosylation Sidechain:T12 Site:T13 Theme:T4

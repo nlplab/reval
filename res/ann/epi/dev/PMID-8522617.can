@@ -1,0 +1,10 @@
+T1	Protein	CD44
+T16	Protein	ICAM-1
+T19	Protein	CD34
+T26	Entity	mucin domain
+T28	Entity	glycans
+T30	Entity	carbohydrate
+T31	Entity	Ser/Thr rich regions
+E1	Glycosylation Theme:T1
+E2	Glycosylation Sidechain:T28 Site:T26 Theme:T1
+E3	Glycosylation Sidechain:T30 Site:T31 Theme:T1

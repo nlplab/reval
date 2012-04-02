@@ -1,0 +1,17 @@
+T1	Protein	AtPRMT5
+T2	Protein	PROTEIN ARGININE METHYLTRANSFERASE5
+T3	Protein	PRMT5
+T5	Protein	histone
+T9	Protein	histone H4
+T10	Protein	H2A
+T11	Protein	myelin basic protein
+T15	Protein	FlOWERING LOCUS C
+T16	Protein	FLC
+*	Equiv T2 T3
+*	Equiv T15 T16
+E1	Methylation Theme:T9
+E2	Catalysis Cause:T1 Theme:E1
+E3	Methylation Theme:T10
+E4	Catalysis Cause:T1 Theme:E3
+E5	Methylation Theme:T11
+E6	Catalysis Cause:T1 Theme:E5

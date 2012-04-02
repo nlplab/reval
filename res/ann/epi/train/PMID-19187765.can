@@ -1,0 +1,18 @@
+T1	Protein	ING4
+T2	Protein	histone H3
+T3	Protein	H3
+T4	Protein	histone
+T6	Protein	Inhibitor of Growth 4
+T7	Protein	HBO1
+*	Equiv T6
+*	Equiv T29
+T23	Entity	K4
+T26	Entity	lysine
+T29	Entity	lysine 4
+E1	Methylation Site:T23 Theme:T2
+E2	Acetylation Theme:T3
+E3	Methylation Site:T26 Theme:T4
+E4	Methylation Site:T29 Theme:T2
+E5	Acetylation Theme:T3
+E6	Methylation Site:T23 Theme:T3
+E7	Acetylation Theme:T3

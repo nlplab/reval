@@ -1,0 +1,18 @@
+T1	Protein	nptII
+T2	Protein	neomycin phosphotransferase II
+*	Equiv T1 T2
+T6	Entity	3' end
+T7	Entity	center part
+T9	Entity	5' end
+T10	Entity	35S promoter
+T12	Entity	promoter
+T13	Entity	transcribed region
+E1	DNA_methylation Site:T6 Theme:T1
+M1	Negation E1
+E2	DNA_methylation Site:T7 Theme:T1
+M2	Negation E2
+E3	DNA_methylation Site:T9 Theme:T1
+E4	DNA_methylation Site:T10 Theme:T1
+E5	DNA_methylation Site:T12 Theme:T1
+E6	DNA_methylation Site:T13 Theme:T1
+E7	DNA_methylation Site:T12 Theme:T1

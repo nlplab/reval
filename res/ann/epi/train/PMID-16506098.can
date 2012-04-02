@@ -1,0 +1,5 @@
+T1	Protein	H3
+T3	Entity	lysine 9
+T5	Entity	K9
+E1	Methylation Site:T3 Theme:T1
+E2	Methylation Site:T5 Theme:T1

@@ -1,0 +1,19 @@
+T1	Protein	HIF-1alpha
+T2	Protein	Hypoxia-inducible factor (HIF)-1alpha
+T4	Protein	ubiquitin
+T5	Protein	von Hippel-Lindau
+T6	Protein	VHL
+T12	Protein	PHD2
+T13	Protein	HPH2
+*	Equiv T5 T6
+*	Equiv T12 T13
+T22	Entity	Pro-402
+T23	Entity	Pro-564
+T30	Entity	prolyl
+E1	Hydroxylation Site:T22 Theme:T1
+E2	Hydroxylation Site:T23 Theme:T1
+E3	Hydroxylation Site:T23 Theme:T1
+E4	Catalysis Cause:T12 Theme:E3
+E5	Hydroxylation Site:T23 Theme:T1
+E6	Hydroxylation Theme:T1
+E7	Hydroxylation Site:T30 Theme:T1

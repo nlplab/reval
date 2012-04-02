@@ -1,0 +1,24 @@
+T1	Protein	histone H3
+T2	Protein	Histone H3
+T3	Protein	H3
+T6	Protein	SUV39H1
+T7	Protein	G9a
+T14	Protein	histone
+T18	Protein	H4
+T21	Protein	p300
+*	Equiv T2 T3
+*	Equiv T27
+T24	Entity	lysine 9
+T27	Entity	K9
+E1	Methylation Site:T24 Theme:T1
+E2	Methylation Site:T24 Theme:T2
+E3	Methylation Site:T27 Theme:T2
+E4	Catalysis Cause:T6 Theme:E6
+E5	Catalysis Cause:T7 Theme:E6
+E6	Methylation Site:T27 Theme:T2
+E7	DNA_methylation Site:T27 Theme:T2
+E8	Deacetylation Theme:T14
+E9	Methylation Site:T27 Theme:T2
+E10	Acetylation Theme:T14
+E11	Catalysis Cause:T21 Theme:E10
+E12	Methylation Site:T27 Theme:T2

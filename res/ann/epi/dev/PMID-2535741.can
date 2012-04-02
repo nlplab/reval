@@ -1,0 +1,15 @@
+T1	Protein	gp55
+T2	Protein	116
+T3	Protein	gB
+T9	Protein	gp150
+T10	Protein	endoglycosidase H
+T12	Protein	gp165-170
+T17	Protein	gp116
+T19	Entity	sugars
+T24	Entity	carbohydrates
+E1	Glycosylation Sidechain:T19 Theme:T1
+E2	Glycosylation Sidechain:T19 Theme:T2
+E3	Glycosylation Theme:T9
+E4	Glycosylation Sidechain:T19 Theme:T1
+E5	Glycosylation Sidechain:T24 Theme:T17
+E6	Glycosylation Sidechain:T19 Theme:T17

@@ -1,0 +1,6 @@
+T1	Protein	PAX3
+T2	Protein	FKHR
+T3	Protein	p16INK4A
+T12	Protein	p16(INK4A)
+T28	Entity	promoter
+E1	DNA_methylation Site:T28 Theme:T12

@@ -1,0 +1,16 @@
+T1	Protein	MLH1
+T2	Protein	MSH2
+T3	Protein	MSH3
+T4	Protein	MSH6
+T5	Protein	K-RAS
+T6	Protein	p53
+T8	Protein	MLH3
+T9	Protein	BRCA-2
+T10	Protein	TGF-beta type II receptor
+T11	Protein	BAX
+T15	Entity	promoter
+E1	DNA_methylation Site:T15 Theme:T1
+E2	DNA_methylation Site:T15 Theme:T2
+E3	DNA_methylation Site:T15 Theme:T3
+E4	DNA_methylation Site:T15 Theme:T4
+E5	DNA_methylation Site:T15 Theme:T1

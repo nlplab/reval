@@ -1,0 +1,13 @@
+T1	Protein	tissue plasminogen activator
+T2	Protein	Tissue plasminogen activator
+T3	Protein	tPA
+T4	Protein	ornithine transcarbamoylase
+T5	Protein	OTC
+T9	Protein	carbamoyl phosphate synthetase I
+T10	Protein	CPS I
+*	Equiv T2 T3
+*	Equiv T4 T5
+*	Equiv T9 T10
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T3
+M1	Speculation E2

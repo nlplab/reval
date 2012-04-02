@@ -1,0 +1,8 @@
+T1	Protein	vanilloid receptor 1
+T2	Protein	VR1
+T16	Entity	N604
+E1	Glycosylation Theme:T2
+E2	Glycosylation Theme:T2
+E3	Glycosylation Theme:T2
+M1	Negation E3
+E4	Glycosylation Site:T16 Theme:T2

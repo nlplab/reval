@@ -1,0 +1,13 @@
+T1	Protein	RNF8
+T2	Protein	histone
+T3	Protein	histones
+T4	Protein	Histone
+T5	Protein	ubiquitin
+T11	Protein	H4
+T18	Entity	K16
+E1	Ubiquitination Theme:T4
+E2	Catalysis Cause:T1 Theme:E3
+E3	Ubiquitination Theme:T2
+E4	Acetylation Site:T18 Theme:T11
+E5	Ubiquitination Theme:T2
+E6	Acetylation Theme:T2

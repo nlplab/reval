@@ -1,0 +1,7 @@
+T1	Protein	cyclosporin A (CsA)-binding protein
+T2	Protein	cyclophilin
+T3	Protein	collagen III
+T4	Protein	III
+*	Equiv T1 T2
+T7	Entity	lysine
+E1	Hydroxylation Site:T7 Theme:T4

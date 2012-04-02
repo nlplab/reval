@@ -1,0 +1,5 @@
+T1	Protein	Arylsulfatase G
+T2	Protein	ARSG
+T5	Protein	Arylsulfatase A
+*	Equiv T1 T2
+E1	Glycosylation Theme:T1

@@ -1,0 +1,24 @@
+T1	Protein	c-H-ras-1
+T2	Protein	insulin
+T3	Protein	retinoblastoma
+T13	Entity	Several sites
+E1	DNA_methylation Theme:T1
+M1	Speculation E1
+E2	DNA_methylation Theme:T2
+M2	Speculation E2
+E3	DNA_methylation Theme:T3
+M3	Speculation E3
+E4	DNA_methylation Theme:T1
+M4	Speculation E4
+E5	DNA_methylation Theme:T2
+M5	Speculation E5
+E6	DNA_methylation Theme:T3
+M6	Speculation E6
+E7	DNA_methylation Theme:T1
+E8	DNA_methylation Theme:T2
+E9	DNA_methylation Site:T13 Theme:T1
+E10	DNA_methylation Site:T13 Theme:T2
+E11	DNA_methylation Theme:T3
+E12	DNA_methylation Theme:T1
+E13	DNA_methylation Theme:T2
+E14	DNA_methylation Theme:T3

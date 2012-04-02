@@ -1,0 +1,11 @@
+T1	Protein	HIF prolyl-hydroxylase 2
+T2	Protein	HIF-1alpha
+T3	Protein	ubiquitin
+T4	Protein	von Hippel-Lindau tumour suppressor
+T5	Protein	pVHL
+T6	Protein	PHD1
+T7	Protein	2
+T8	Protein	3
+T9	Protein	PHD2
+T12	Protein	PHD3
+*	Equiv T4 T5

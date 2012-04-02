@@ -1,0 +1,14 @@
+T1	Protein	histone
+T2	Protein	sodium iodide symporter
+T5	Protein	NIS
+T9	Protein	PAX8
+T10	Protein	thyroid-specific transcription factor-1
+T11	Protein	Thyroid-specific transcription factor-2
+T12	Protein	Histone
+T13	Protein	HEX
+T18	Protein	pCAF
+T19	Protein	p300
+T20	Protein	HDAC 1
+*	Equiv T5
+E1	Acetylation Contextgene:T2 Theme:T1
+E2	Acetylation Theme:T12

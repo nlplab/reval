@@ -1,0 +1,12 @@
+T1	Protein	interleukin 2
+T3	Protein	IL-2
+T8	Protein	beta-galactoside alpha-2,3-sialyltransferase
+T10	Protein	interferon-beta
+*	Equiv T3
+T13	Entity	GalNAc
+T14	Entity	Gal(beta 1-3)GalNAc
+T16	Entity	Thr
+E1	Glycosylation Theme:T3
+E2	Glycosylation Theme:T3
+E3	Glycosylation Sidechain:T13 Site:T16 Theme:T3
+E4	Glycosylation Sidechain:T14 Site:T16 Theme:T3

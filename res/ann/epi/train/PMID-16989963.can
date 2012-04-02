@@ -1,0 +1,25 @@
+T1	Protein	histone
+T3	Protein	histone H3
+T4	Protein	H3
+T6	Protein	DNA polymerase
+T7	Protein	pp65
+T8	Protein	pp150
+T12	Protein	histones
+T15	Entity	K9
+E1	Acetylation Site:T15 Theme:T3
+E2	Methylation Site:T15 Theme:T3
+E3	Acetylation Site:T15 Theme:T4
+E4	Methylation Site:T15 Theme:T4
+M1	Negation E4
+E5	Acetylation Theme:T4
+M2	Negation E5
+E6	Methylation Theme:T4
+M3	Negation E6
+E7	Acetylation Contextgene:T7 Theme:T4
+E8	Acetylation Contextgene:T8 Theme:T4
+E9	Acetylation Contextgene:T6 Theme:T4
+E10	Methylation Contextgene:T7 Theme:T4
+E11	Methylation Contextgene:T8 Theme:T4
+E12	Methylation Contextgene:T6 Theme:T4
+E13	Methylation Site:T15 Theme:T4
+E14	Acetylation Theme:T12

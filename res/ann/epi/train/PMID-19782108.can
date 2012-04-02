@@ -1,0 +1,8 @@
+T1	Protein	E(rns)
+T2	Protein	interferon-beta
+T3	Protein	beta
+T6	Protein	IFN-beta
+T9	Protein	TRIF
+T12	Protein	TLR3
+E1	Glycosylation Theme:T1
+E2	Deglycosylation Theme:T1

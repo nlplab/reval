@@ -1,0 +1,9 @@
+T1	Protein	ubiquitin
+T2	Protein	Bfl-1
+T4	Protein	bfl-1
+T9	Protein	Lck
+E1	Ubiquitination Theme:T2
+M1	Negation E1
+E2	Ubiquitination Theme:T2
+E3	Ubiquitination Theme:T4
+E4	Ubiquitination Theme:T2

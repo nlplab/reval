@@ -1,0 +1,8 @@
+T1	Protein	RASSF1A
+T8	Entity	promoter
+T11	Entity	5'CpG island
+E1	DNA_methylation Site:T8 Theme:T1
+E2	DNA_methylation Site:T11 Theme:T1
+E3	DNA_methylation Theme:T1
+E4	DNA_demethylation Theme:T1
+E5	DNA_methylation Site:T8 Theme:T1

@@ -1,0 +1,11 @@
+T1	Protein	Cullin5
+T2	Protein	Vif
+T3	Protein	APOBEC3G
+T4	Protein	A3G
+T5	Protein	ubiquitin
+T7	Protein	ElonginB
+T8	Protein	ElonginC
+T10	Protein	Cul5
+*	Equiv T3 T4
+*	Equiv T10
+E1	Ubiquitination Theme:T3

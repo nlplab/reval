@@ -1,0 +1,5 @@
+T1	Protein	histone
+T2	Protein	Histone
+T6	Protein	H3
+T12	Entity	K27
+E1	Methylation Site:T12 Theme:T6

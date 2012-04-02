@@ -1,0 +1,6 @@
+T1	Protein	UBR1
+T2	Protein	ubiquitin
+T9	Protein	CUP9
+T15	Protein	EF1A
+E1	Ubiquitination Theme:T9
+E2	Catalysis Cause:T1 Theme:E1

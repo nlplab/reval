@@ -1,0 +1,31 @@
+T1	Protein	histone H3
+T2	Protein	early growth response 1
+T3	Protein	interleukin 1beta
+T5	Protein	early growth response (EGR)-1
+T6	Protein	EGR-1
+T7	Protein	histone
+T13	Protein	interleukin (IL) 1beta
+T14	Protein	IL-1beta
+T15	Protein	extracellular signal-regulated kinase 1
+T16	Protein	2
+T17	Protein	mitogen and stress-activated protein kinases 1
+T20	Protein	Histone
+T23	Protein	mitogen and stress-activated protein kinase 1
+T29	Protein	p300
+T30	Protein	H3
+T34	Protein	tissue factor
+T35	Protein	plasminogen activator inhibitor 1
+E1	Phosphorylation Theme:T1
+E2	Acetylation Theme:T1
+E3	Phosphorylation Theme:T1
+E4	Acetylation Contextgene:T6 Theme:T1
+E5	Phosphorylation Theme:T15
+E6	Phosphorylation Theme:T16
+E7	Phosphorylation Theme:T17
+E8	Phosphorylation Theme:T16
+E9	Phosphorylation Theme:T1
+E10	Acetylation Contextgene:T6 Theme:T1
+E11	Acetylation Contextgene:T6 Theme:T30
+E12	Phosphorylation Theme:T30
+E13	Phosphorylation Theme:T1
+E14	Acetylation Contextgene:T6 Theme:T1

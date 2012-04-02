@@ -1,0 +1,19 @@
+T1	Protein	connexin-43
+T2	Protein	Hrs
+T3	Protein	Tsg101
+T4	Protein	ubiquitin
+T6	Protein	Cx43
+T7	Protein	Gja1
+T12	Protein	hepatocyte growth factor-regulated tyrosine kinase substrate
+T13	Protein	Hgs
+T15	Protein	tumor susceptibility gene 101
+*	Equiv T6 T7
+*	Equiv T12 T13
+*	Equiv T15
+E1	Ubiquitination Theme:T1
+E2	Ubiquitination Theme:T7
+E3	Dephosphorylation Theme:T7
+E4	Deubiquitination Theme:T7
+E5	Phosphorylation Theme:T7
+E6	Ubiquitination Theme:T7
+E7	Ubiquitination Theme:T7

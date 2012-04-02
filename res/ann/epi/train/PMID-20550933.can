@@ -1,0 +1,11 @@
+T1	Protein	ATM
+T3	Protein	Histone H2A
+T4	Protein	H2A
+T8	Protein	ubiquitin
+T9	Protein	RNF8
+T10	Protein	RNF168
+T12	Protein	USP16
+*	Equiv T3 T4
+E1	Ubiquitination Theme:T3
+E2	Deubiquitination Theme:T3
+E3	Catalysis Cause:T12 Theme:E2

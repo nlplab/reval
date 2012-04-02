@@ -1,0 +1,27 @@
+T1	Protein	Pirh2
+T2	Protein	signal recognition particle receptor beta subunit
+T4	Protein	ubiquitin
+T5	Protein	p53
+T6	Protein	p27
+T7	Protein	Kip1
+T8	Protein	HDAC1
+T9	Protein	epsilon-COP
+T11	Protein	SRbeta
+*	Equiv T6 T7
+*	Equiv T11
+E1	Catalysis Cause:T1 Theme:E2
+E2	Ubiquitination Theme:T2
+E3	Ubiquitination Theme:T5
+E4	Ubiquitination Theme:T6
+E5	Ubiquitination Theme:T8
+E6	Ubiquitination Theme:T9
+E7	Catalysis Cause:T1 Theme:E3
+E8	Catalysis Cause:T1 Theme:E4
+E9	Catalysis Cause:T1 Theme:E5
+E10	Catalysis Cause:T1 Theme:E6
+E11	Ubiquitination Theme:T11
+E12	Catalysis Cause:T1 Theme:E11
+E13	Catalysis Cause:T1 Theme:E14
+E14	Ubiquitination Theme:T11
+E15	Catalysis Cause:T1 Theme:E16
+E16	Ubiquitination Theme:T11

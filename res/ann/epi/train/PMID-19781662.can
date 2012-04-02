@@ -1,0 +1,19 @@
+T1	Protein	5-lipoxygenase
+T3	Protein	5-LO
+T8	Protein	MBD1
+T9	Protein	MBD2
+T10	Protein	MeCP2
+T18	Protein	Sp1
+*	Equiv T3
+T21	Entity	promoter
+T27	Entity	core promoter
+T32	Entity	CpG sites
+T34	Entity	binding site
+E1	DNA_methylation Site:T21 Theme:T1
+E2	DNA_methylation Site:T21 Theme:T1
+E3	DNA_methylation Site:T21 Theme:T3
+E4	DNA_methylation Site:T27 Theme:T3
+E5	DNA_methylation Site:T21 Theme:T3
+E6	DNA_methylation Site:T21 Theme:T3
+E7	DNA_methylation Site:T32 Theme:T3
+E8	DNA_methylation Site:T34 Theme:T3

@@ -1,0 +1,7 @@
+T1	Protein	p53
+T11	Protein	p21
+T12	Protein	cyclin D1
+T13	Protein	Bax
+T14	Protein	Bcl-2
+E1	Phosphorylation Theme:T1
+E2	Ubiquitination Theme:T1

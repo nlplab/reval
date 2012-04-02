@@ -1,0 +1,15 @@
+T1	Protein	Set11
+T2	Protein	Rpl12
+T3	Protein	histones
+T4	Protein	cytochrome c
+T5	Protein	histone
+T8	Protein	ribosomal protein L12
+T10	Protein	set11
+*	Equiv T8
+T24	Entity	lysine 3
+E1	Methylation Theme:T2
+E2	Methylation Site:T24 Theme:T2
+E3	Catalysis Cause:T1 Theme:E2
+E4	Methylation Theme:T2
+E5	Catalysis Cause:T1 Theme:E4
+E6	Methylation Theme:T2

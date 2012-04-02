@@ -1,0 +1,24 @@
+T1	Protein	IKKalpha
+T2	Protein	IRF-5
+T3	Protein	MyD88
+T4	Protein	TRAF6
+T5	Protein	IRF-3
+T7	Protein	IRF-7
+T10	Protein	TBK-1
+T11	Protein	IKK epsilon
+T14	Protein	IKK alpha
+E1	Catalysis Cause:T10 Theme:E5
+E2	Catalysis Cause:T11 Theme:E5
+E3	Catalysis Cause:T10 Theme:E6
+E4	Catalysis Cause:T11 Theme:E6
+E5	Phosphorylation Theme:T5
+E6	Phosphorylation Theme:T7
+E7	Phosphorylation Theme:T2
+E8	Phosphorylation Theme:T2
+E9	Catalysis Cause:T14 Theme:E8
+E10	Catalysis Cause:T14 Theme:E11
+E11	Phosphorylation Theme:T2
+E12	Phosphorylation Theme:T2
+E13	Catalysis Cause:T14 Theme:E12
+E14	Ubiquitination Theme:T2
+E15	Dephosphorylation Theme:T2

@@ -1,0 +1,6 @@
+T1	Protein	Osteocalcin
+T2	Protein	osteocalcin
+T8	Entity	Pro-9
+E1	Hydroxylation Site:T8 Theme:T2
+E2	Hydroxylation Theme:T2
+E3	Hydroxylation Site:T8 Theme:T2

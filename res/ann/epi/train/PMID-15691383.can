@@ -1,0 +1,7 @@
+T1	Protein	NKX3.1
+T7	Protein	histones
+T9	Entity	promoter
+E1	DNA_methylation Site:T9 Theme:T1
+E2	DNA_methylation Site:T9 Theme:T1
+M1	Speculation E2
+E3	DNA_methylation Site:T9 Theme:T1

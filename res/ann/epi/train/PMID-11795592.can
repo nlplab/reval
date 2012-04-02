@@ -1,0 +1,9 @@
+T1	Protein	von Hippel-Lindau tumour suppressor
+T2	Protein	ubiquitin
+T4	Protein	pVHL
+T8	Protein	HIF-1alpha
+*	Equiv T4
+*	Equiv T10 T11
+T10	Entity	prolyl residue
+T11	Entity	Pro 564
+E1	Hydroxylation Site:T10 Theme:T8

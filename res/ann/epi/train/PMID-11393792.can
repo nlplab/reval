@@ -1,0 +1,7 @@
+T1	Protein	COL1A2
+T3	Protein	C-propeptide
+T5	Protein	pC-alpha2(I)
+T6	Protein	alpha2(I)
+T7	Protein	alpha1(I)
+E1	Hydroxylation Theme:T7
+E2	Hydroxylation Theme:T6

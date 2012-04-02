@@ -1,0 +1,12 @@
+T1	Protein	CRF receptor type 1
+T2	Protein	corticotropin-releasing factor (CRF) receptor type 1
+T3	Protein	CRFR1
+T5	Protein	CRF
+T7	Protein	sauvagine
+T8	Protein	SVG
+T9	Protein	urotensin-I
+T10	Protein	UTS-I
+*	Equiv T2 T3
+*	Equiv T7 T8
+*	Equiv T9 T10
+E1	Glycosylation Theme:T1

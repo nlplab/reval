@@ -1,0 +1,7 @@
+T1	Protein	Ubx
+T2	Protein	abd-A
+T3	Protein	Abd-B
+T4	Protein	Abd-Bm
+T7	Entity	promoter
+E1	DNA_methylation Site:T7 Theme:T4
+E2	DNA_methylation Site:T7 Theme:T4

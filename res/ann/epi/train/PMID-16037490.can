@@ -1,0 +1,16 @@
+T1	Protein	fibronectins
+T3	Protein	FNs
+T4	Protein	FN
+T5	Protein	agglutinin
+T8	Protein	apolipoprotein B-100
+T9	Protein	apoB100
+*	Equiv T3
+*	Equiv T8 T9
+T10	Entity	Asn1244
+T12	Entity	Asn1007
+T13	Entity	Asn2108
+E1	Glycosylation Site:T10 Theme:T4
+M1	Negation E1
+E2	Glycosylation Site:T12 Theme:T4
+E3	Glycosylation Site:T13 Theme:T4
+E4	Glycosylation Theme:T4

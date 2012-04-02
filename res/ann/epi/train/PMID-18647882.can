@@ -1,0 +1,9 @@
+T1	Protein	histone
+T2	Protein	MEF2A
+T3	Protein	Glut4
+T4	Protein	GLUT4
+T5	Protein	histone H3
+E1	Acetylation Contextgene:T3 Theme:T1
+E2	Acetylation Contextgene:T3 Theme:T5
+E3	Acetylation Contextgene:T3 Theme:T5
+E4	Acetylation Contextgene:T4 Theme:T5

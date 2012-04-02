@@ -1,0 +1,22 @@
+T1	Protein	HpaII
+T2	Protein	HinP1I
+T3	Protein	GSTP1
+T4	Protein	PTGS2
+T5	Protein	Reprimo
+T6	Protein	TIG1
+T16	Entity	CGI
+E1	DNA_methylation Site:T16 Theme:T3
+M1	Speculation E1
+E2	DNA_methylation Site:T16 Theme:T4
+M2	Speculation E2
+E3	DNA_methylation Site:T16 Theme:T5
+M3	Speculation E3
+E4	DNA_methylation Site:T16 Theme:T6
+M4	Speculation E4
+E5	DNA_methylation Site:T16 Theme:T3
+E6	DNA_methylation Site:T16 Theme:T6
+E7	DNA_methylation Site:T16 Theme:T4
+E8	DNA_methylation Site:T16 Theme:T5
+E9	DNA_methylation Theme:T3
+E10	DNA_methylation Theme:T3
+E11	DNA_methylation Theme:T3

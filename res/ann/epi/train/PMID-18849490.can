@@ -1,0 +1,29 @@
+T1	Protein	Histone H2B
+T2	Protein	FLOWERING LOCUS C
+T3	Protein	histone
+T4	Protein	H2B
+T6	Protein	HISTONE MONOUBIQUITINATION1
+T7	Protein	HUB1
+T8	Protein	HUB2
+T9	Protein	UBC1
+T10	Protein	UBC3
+T11	Protein	hub1
+T12	Protein	hub2
+T14	Protein	ubc1
+T15	Protein	ubc2
+T16	Protein	ubc3
+T27	Protein	UBC2
+T29	Protein	FLC
+T37	Protein	2
+T40	Protein	histones H3
+T41	Protein	H3
+*	Equiv T6 T7
+*	Equiv T29
+T52	Entity	K4
+T53	Entity	K36
+E1	Ubiquitination Theme:T1
+E2	Ubiquitination Theme:T3
+E3	Ubiquitination Theme:T4
+E4	Methylation Contextgene:T29 Site:T52 Theme:T40
+E5	Methylation Contextgene:T29 Site:T53 Theme:T41
+E6	Ubiquitination Theme:T4

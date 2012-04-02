@@ -1,0 +1,11 @@
+T1	Protein	Tip60
+T2	Protein	p53
+*	Equiv T16 T17
+T16	Entity	lysine 120
+T17	Entity	K120
+E1	Catalysis Cause:T1 Theme:E2
+E2	Acetylation Theme:T2
+E3	Catalysis Cause:T1 Theme:E4
+E4	Acetylation Site:T16 Theme:T2
+E5	Catalysis Cause:T1 Theme:E6
+E6	Acetylation Site:T16 Theme:T2

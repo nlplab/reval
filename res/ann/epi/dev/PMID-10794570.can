@@ -1,0 +1,7 @@
+T1	Protein	H1 histone
+T2	Protein	histone
+T3	Protein	histone H1
+E1	Phosphorylation Theme:T1
+E2	Phosphorylation Theme:T3
+E3	Phosphorylation Theme:T3
+E4	Phosphorylation Theme:T3

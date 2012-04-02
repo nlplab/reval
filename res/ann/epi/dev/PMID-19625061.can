@@ -1,0 +1,11 @@
+T1	Protein	Prostate specific antigen
+T2	Protein	prostate specific antigen
+T3	Protein	GSTP1
+T4	Protein	RARbeta2
+T5	Protein	APC
+E1	DNA_methylation Theme:T3
+M1	Speculation E1
+E2	DNA_methylation Theme:T4
+M2	Speculation E2
+E3	DNA_methylation Theme:T5
+M3	Speculation E3

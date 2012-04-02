@@ -1,0 +1,7 @@
+T1	Protein	ceruloplasmin
+T3	Protein	Ceruloplasmin
+T5	Protein	ferritin
+T6	Protein	transferrin
+*	Equiv T16 T17
+T16	Entity	glycosylphosphatidylinositol
+T17	Entity	GPI

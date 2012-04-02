@@ -1,0 +1,13 @@
+T1	Protein	Cdc42
+T2	Protein	E-cadherin
+T3	Protein	epidermal growth factor receptor
+T4	Protein	Src
+T5	Protein	E-cadherins
+T10	Protein	EGFR
+T20	Protein	F28L
+*	Equiv T10
+E1	Ubiquitination Theme:T2
+E2	Ubiquitination Theme:T2
+E3	Ubiquitination Theme:T2
+E4	Ubiquitination Theme:T2
+E5	Ubiquitination Theme:T2

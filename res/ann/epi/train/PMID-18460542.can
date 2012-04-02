@@ -1,0 +1,27 @@
+T1	Protein	EZH2
+T2	Protein	NSPc1
+T3	Protein	histone H2A
+T4	Protein	Dnmt1
+T5	Protein	Nervous System Polycomb 1
+T7	Protein	BMI1
+T8	Protein	H2A
+T11	Protein	RING2
+T15	Protein	DNA methyltransferase 1
+T17	Protein	HOXA7
+T30	Protein	H3
+*	Equiv T5
+*	Equiv T15
+T42	Entity	promoter
+T49	Entity	K27
+E1	Ubiquitination Theme:T3
+E2	Ubiquitination Theme:T8
+E3	Ubiquitination Theme:T8
+E4	DNA_methylation Site:T42 Theme:T17
+E5	Ubiquitination Theme:T8
+E6	DNA_demethylation Site:T42 Theme:T17
+E7	Ubiquitination Theme:T8
+E8	Catalysis Cause:T1 Theme:E9
+E9	Methylation Contextgene:T17 Site:T49 Theme:T30
+E10	Methylation Contextgene:T17 Site:T49 Theme:T30
+E11	Ubiquitination Theme:T8
+E12	Ubiquitination Theme:T8

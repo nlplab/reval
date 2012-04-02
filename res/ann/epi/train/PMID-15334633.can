@@ -1,0 +1,9 @@
+T1	Protein	reverse transcriptase
+T3	Protein	p16
+T4	Protein	E-cadherin
+T5	Protein	retinoic acid receptor beta
+T6	Protein	RARbeta
+*	Equiv T5 T6
+E1	DNA_methylation Theme:T3
+E2	DNA_methylation Theme:T4
+E3	DNA_methylation Theme:T5

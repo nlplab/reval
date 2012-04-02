@@ -1,0 +1,11 @@
+T1	Protein	Stat3
+T2	Protein	signal transducers and activators of transcription 3
+T5	Protein	Bcl-xL
+T6	Protein	CyclinD1
+T7	Protein	survivin
+T8	Protein	caspase 9
+T14	Protein	Cyclin D1
+*	Equiv T2
+T19	Entity	705
+E1	Phosphorylation Site:T19 Theme:T2
+E2	Ubiquitination Theme:T1

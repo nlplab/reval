@@ -1,0 +1,6 @@
+T1	Protein	Histone
+T2	Protein	histone
+T4	Protein	histones
+E1	Acetylation Theme:T4
+M1	Speculation E1
+E2	Acetylation Theme:T4

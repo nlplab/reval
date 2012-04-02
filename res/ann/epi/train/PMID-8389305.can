@@ -1,0 +1,11 @@
+T1	Protein	proopiomelanocortin
+T2	Protein	pituitary Proopiomelanocortin
+T3	Protein	POMC
+T4	Protein	ACTH
+T5	Protein	alpha-Melanocyte stimulating hormone
+T6	Protein	alpha-MSH
+T7	Protein	beta-endorphin
+*	Equiv T2 T3
+*	Equiv T5 T6
+E1	Acetylation Theme:T5
+E2	Acetylation Theme:T7

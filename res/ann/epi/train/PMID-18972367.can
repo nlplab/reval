@@ -1,0 +1,8 @@
+T1	Protein	histone
+T2	Protein	Histone
+T11	Entity	tail
+E1	Acetylation Theme:T1
+E2	Acetylation Theme:T2
+E3	Acetylation Theme:T1
+E4	Acetylation Site:T11 Theme:T1
+E5	Acetylation Theme:T1

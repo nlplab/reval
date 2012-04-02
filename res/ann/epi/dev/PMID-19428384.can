@@ -1,0 +1,12 @@
+T1	Protein	FANCD2
+T2	Protein	H2AX
+T3	Protein	BRCA1
+T6	Protein	gammaH2AX
+T7	Protein	RPA34
+T13	Entity	Ser1524
+E1	Ubiquitination Theme:T1
+E2	Phosphorylation Theme:T2
+E3	Phosphorylation Theme:T3
+E4	Ubiquitination Theme:T1
+E5	Phosphorylation Site:T13 Theme:T3
+E6	Phosphorylation Theme:T7

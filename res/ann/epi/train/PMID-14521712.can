@@ -1,0 +1,13 @@
+T1	Protein	hypoxia inducible factor-1alpha
+T2	Protein	HIF-1alpha
+T4	Protein	von Hippel-Lindau (VHL) tumor suppressor
+T5	Protein	ubiquitin
+T6	Protein	erythropoietin
+T12	Protein	VHL
+*	Equiv T1 T2
+T13	Entity	Pro-564
+T16	Entity	proline residues
+T17	Entity	prolyl
+E1	Hydroxylation Site:T13 Theme:T1
+E2	Hydroxylation Site:T16 Theme:T1
+E3	Hydroxylation Site:T17 Theme:T1

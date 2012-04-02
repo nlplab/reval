@@ -1,0 +1,19 @@
+T1	Protein	histone H3
+T2	Protein	histones H3
+T3	Protein	H4
+T5	Protein	H3
+T6	Protein	histone
+T7	Protein	Swi6
+T8	Protein	HP1
+T10	Protein	Clr4
+T11	Protein	Suvar39
+T18	Protein	histone H4
+*	Equiv T29 T30
+*	Equiv T5
+T29	Entity	lysine 9
+T30	Entity	K9
+E1	Acetylation Theme:T2
+M1	Negation E1
+E2	Acetylation Theme:T3
+M2	Negation E2
+E3	Methylation Site:T29 Theme:T1

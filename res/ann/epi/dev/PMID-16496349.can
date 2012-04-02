@@ -1,0 +1,8 @@
+T1	Protein	acetylcholinesterase
+T2	Protein	butyrylcholinesterase
+T3	Protein	BuChE
+T5	Protein	AChE
+*	Equiv T2 T3
+*	Equiv T5
+E1	Glycosylation Theme:T5
+E2	Glycosylation Theme:T5

@@ -1,0 +1,18 @@
+T1	Protein	elongation factor 1A
+T3	Protein	eEF1A
+T4	Protein	EF-1alpha
+T8	Protein	carboxypeptidase Y
+T9	Protein	chymotrypsin
+*	Equiv T3 T4
+T14	Entity	C terminus
+T16	Entity	lysine residues
+T24	Entity	C-terminal
+E1	Methylation Site:T14 Theme:T1
+E2	Methylation Site:T16 Theme:T3
+E3	Methylation Theme:T3
+E4	Methylation Theme:T3
+E5	Methylation Theme:T3
+M1	Negation E5
+E6	Methylation Site:T16 Theme:T3
+E7	Methylation Site:T24 Theme:T3
+E8	Demethylation Site:T24 Theme:T3

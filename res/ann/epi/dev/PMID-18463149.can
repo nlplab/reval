@@ -1,0 +1,9 @@
+T1	Protein	Cdc34p
+T2	Protein	ubiquitin
+T3	Protein	p33
+E1	Ubiquitination Theme:T3
+E2	Catalysis Cause:T1 Theme:E1
+E3	Ubiquitination Theme:T3
+E4	Catalysis Cause:T1 Theme:E3
+E5	Ubiquitination Theme:T3
+E6	Ubiquitination Theme:T3

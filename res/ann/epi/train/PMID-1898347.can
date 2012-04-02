@@ -1,0 +1,5 @@
+T1	Protein	avidin
+T3	Protein	streptavidin
+T8	Protein	Streptavidin
+E1	Glycosylation Theme:T1
+M1	Negation E1

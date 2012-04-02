@@ -1,0 +1,15 @@
+T1	Protein	IGF-I
+T2	Protein	growth hormone
+T4	Protein	GH
+T7	Protein	Stat5b
+T12	Protein	histones H3
+T13	Protein	H4
+T14	Protein	histone H3
+T16	Protein	p300
+T34	Entity	lysine 4
+E1	Acetylation Contextgene:T1 Theme:T12
+E2	Acetylation Contextgene:T1 Theme:T13
+E3	Methylation Contextgene:T1 Site:T34 Theme:T14
+E4	Acetylation Contextgene:T1 Theme:T12
+E5	Acetylation Contextgene:T1 Theme:T13
+E6	Methylation Contextgene:T1 Site:T34 Theme:T14

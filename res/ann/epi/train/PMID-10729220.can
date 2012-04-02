@@ -1,0 +1,37 @@
+T1	Protein	IGF2
+T2	Protein	H19
+T4	Protein	insulin-like growth factor II
+*	Equiv T4
+T20	Entity	imprinted region
+T22	Entity	5' flanking region
+T24	Entity	cytosine
+T25	Entity	CpG island
+T28	Entity	CpG sites
+T31	Entity	DMR
+T32	Entity	25 CpG sites
+T38	Entity	CpG region
+T41	Entity	CpNpG
+T42	Entity	GpNpC
+T44	Entity	cytosines
+E1	DNA_methylation Site:T20 Theme:T1
+E2	DNA_methylation Site:T20 Theme:T2
+E3	DNA_methylation Site:T22 Theme:T2
+E4	DNA_methylation Site:T24 Theme:T1
+M1	Speculation E4
+E5	DNA_methylation Site:T24 Theme:T2
+M2	Speculation E5
+E6	DNA_methylation Site:T25 Theme:T1
+M3	Negation E6
+E7	DNA_methylation Site:T28 Theme:T1
+E8	DNA_methylation Theme:T1
+E9	DNA_methylation Site:T31 Theme:T2
+E10	DNA_methylation Site:T32 Theme:T2
+E11	DNA_methylation Site:T25 Theme:T2
+E12	DNA_methylation Site:T32 Theme:T2
+E13	DNA_methylation Site:T38 Theme:T2
+E14	DNA_methylation Site:T41 Theme:T2
+E15	DNA_methylation Site:T42 Theme:T2
+E16	DNA_methylation Site:T41 Theme:T2
+E17	DNA_methylation Site:T44 Theme:T2
+E18	DNA_methylation Site:T44 Theme:T2
+E19	DNA_methylation Theme:T2

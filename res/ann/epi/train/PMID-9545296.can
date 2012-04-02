@@ -1,0 +1,4 @@
+T1	Protein	Protein disulfide isomerase
+T2	Protein	Protein-disulfide isomerase
+T3	Protein	PDI
+*	Equiv T2 T3

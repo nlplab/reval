@@ -1,0 +1,15 @@
+T1	Protein	VprBP
+T2	Protein	Merlin
+T3	Protein	Roc1
+T4	Protein	Cul4A
+T5	Protein	DDB1
+T6	Protein	neurofibromatosis type 2
+T7	Protein	NF2
+T12	Protein	Ezrin
+T13	Protein	Radixin
+T14	Protein	Moesin
+T15	Protein	Rac1
+T20	Protein	Cullin4A
+T25	Protein	ubiquitin
+*	Equiv T6 T7
+E1	Ubiquitination Theme:T2
