@@ -11,20 +11,21 @@ Version:    2012-03-30
 from argparse import ArgumentParser, FileType
 from itertools import combinations
 from re import compile as re_compile
-from sys import stdin, stdout
+from sys import stderr, stdin, stdout
 from collections import defaultdict, OrderedDict
 
 ### Constants
 ARGPARSER = ArgumentParser()#XXX:
 ARGPARSER.add_argument('-i', '--input', type=FileType('r'), default=stdin)
 ARGPARSER.add_argument('-o', '--output', type=FileType('w'), default=stdout)
+ARGPARSER.add_argument('-d', '--debug', action='store_true')
 TRAILING_DIGIT_REGEX=re_compile('^.*(?P<digit>[0-9]+)$')
 ###
 
 from lib.canoncommon import Text, Event, Modifier, Equiv
 from lib.sort import sort_nicely
 
-def _replace_ids(can_anns, _from, to, excluded_anns=None):
+def _replace_ids(can_anns, _from, to, excluded_anns=None, debug=False):
     if excluded_anns is None:
         excluded_anns = set()
     for can_ann in can_anns:
@@ -34,23 +35,28 @@ def _replace_ids(can_anns, _from, to, excluded_anns=None):
         elif isinstance(can_ann, Event) and Event not in excluded_anns:
             can_ann.args = [(a, to if v in _from else v)
                     for a, v in can_ann.args]
-            #XXX: Nasty case where we now have multiple like "Theme:T1 Theme:T1"
         elif isinstance(can_ann, Modifier) and Modifier not in excluded_anns:
             if can_ann.target in _from:
                 can_ann.target = to
         elif isinstance(can_ann, Equiv) and Equiv not in excluded_anns:
-            can_ann.members = [m for m in can_ann.members
-                    if m not in _from]
-            # This leads to potentially empty equivs, will purge later
+            if debug:
+                print >> stderr, 'Will purge from equiv:', _from & set(can_ann.members), to
+            new_members = [m for m in can_ann.members if m not in _from]
+            if new_members != can_ann.members:
+                can_ann.members = new_members
+                can_ann.members.append(to)
+            sort_nicely(can_ann.members)
         elif not any(isinstance(can_ann, c) for c in (Text, Event, Modifier,
                     Equiv, )):
             assert False, 'unknown canonical annotation type'
 
 # TODO: Pseudo-code for the conversion
-def _st_to_canon(st_anns):
+def _st_to_canon(st_anns, debug=False):
     # Convert each known shared-task annotation type into the corresponding
     #    canonical annotation type
     can_anns = [a.to_can() for a in st_anns]
+    if debug:
+        print >> stderr, 'We start with', len(can_anns), 'canonical annotations'
 
     #for a in can_anns:
     #    print a
@@ -73,8 +79,11 @@ def _st_to_canon(st_anns):
         for other_text_ann in (a for a in text_anns if a != text_ann):
             if (text_ann.text == other_text_ann.text
                     and text_ann.type == other_text_ann.type):
-                equivalent_texts[text_ann.text].add(text_ann.id)
-                equivalent_texts[other_text_ann.text].add(other_text_ann.id)
+                equivalent_texts[(text_ann.text, text_ann.type)].add(text_ann.id)
+                equivalent_texts[(other_text_ann.text, other_text_ann.type)].add(other_text_ann.id)
+                #equivalent_texts[text_ann.text].add(text_ann.id)
+                #equivalent_texts[other_text_ann.text].add(other_text_ann.id)
+    #print >> stderr, equivalent_texts
     # Originally the equivalences are contextual, removing the context
     #   requires us to merge them
     eq_anns_to_remove = set()
@@ -88,6 +97,8 @@ def _st_to_canon(st_anns):
             # Does the equivalent texts bridge the equivalences?
             if ((set(eq_ann_a.members) & eq_set)
                     and (set(eq_ann_b.members) & eq_set)):
+                if debug:
+                    print >> stderr, 'Merging:', eq_ann_a, 'and', eq_ann_b
                 eq_ann_a.members = eq_ann_a.members + [a for a in eq_ann_b.members
                         if a not in eq_ann_a.members]
                 sort_nicely(eq_ann_a.members)
@@ -96,6 +107,8 @@ def _st_to_canon(st_anns):
                 sort_nicely(eq_ann_b.members)
                 # We can now safely remove the latter annotation later on
                 eq_anns_to_remove.add(eq_ann_b)
+    if debug and eq_anns_to_remove:
+        print >> stderr, 'Will remove redundant Equivs:', eq_anns_to_remove
     can_anns = [a for a in can_anns if a not in eq_anns_to_remove]
     # Merge text into unique (texts, types) since we now lack textual bounds
     ids_to_remove = set()
@@ -105,7 +118,7 @@ def _st_to_canon(st_anns):
         to_keep = eqs[0]
         not_to_keep = set(eq_set - set((to_keep, )))
         ids_to_remove = ids_to_remove | not_to_keep
-        _replace_ids(can_anns, not_to_keep, to_keep)
+        _replace_ids(can_anns, not_to_keep, to_keep, debug=debug)
     # Finally, remove the redundant annotations
     can_anns = [a for a in can_anns if not (hasattr(a, 'id')
             and a.id in ids_to_remove)]
@@ -157,7 +170,7 @@ def _st_to_canon(st_anns):
         can_form = sforms[-1][1]
         other_forms = [_id for _, _id in sforms][:-1]
         _replace_ids(can_anns, other_forms, can_form,
-                excluded_anns=set((Equiv, )))
+                excluded_anns=set((Equiv, )), debug=debug)
 
     for can_ann in can_anns:
         yield can_ann
@@ -170,8 +183,14 @@ def main(args):
     # Parse the old shared-task annotations
     st_anns = (a for a in parse_st_ann(l.rstrip('\n') for l in argp.input))
 
-    for canon_ann in _st_to_canon(st_anns):
+    canon_ann_i = None
+    for canon_ann_i, canon_ann in enumerate(
+            _st_to_canon(st_anns, debug=argp.debug)):
         argp.output.write(unicode(canon_ann))
+        argp.output.write('\n')
+    if canon_ann_i is None:
+        # Blank input...
+        # TODO: Do this catch nicer!
         argp.output.write('\n')
     return 0
 
