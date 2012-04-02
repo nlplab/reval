@@ -1,0 +1,136 @@
+T1	Organism	H37Ra
+T2	Organism	tubercle bacillus H37
+T3	Organism	H37
+T5	Organism	H37Rv
+T8	Protein	PhoP
+T11	Two-component-system	PhoP/PhoR
+T13	Protein	PhoR
+T14	Organism	M. tuberculosis
+T18	Chemical	phosphate
+T19	Chemical	magnesium
+T21	Protein	phoP
+T24	Two-component-system	PhoP-PhoR
+T27	Chemical	polyketide-derived lipids
+T28	Chemical	lipoarabinomannans
+T30	Chemical	polyketide-derived (Pks2-4) lipids
+T32	Organism	phoP ko mutant
+T36	Organism	phoP-ko
+T49	Chemical	polyketide
+T50	Protein	pks2
+T51	Protein	rv3825c
+T52	Protein	papA1
+T53	Protein	rv3824c
+T55	Protein	ppe68
+T56	Protein	NirA
+T57	Protein	Rv2391
+T58	Chemical	nitrite
+T59	Protein	MmpL10
+T60	Protein	FadD21
+T61	Protein	Rv1183
+T62	Protein	85c
+T65	Protein	ESAT-6
+T66	Protein	rv3612c
+T67	Protein	rv3616c
+T70	Organism	H37Rv phoP ko mutant
+T73	Protein	rv3614c
+T77	Organism	H37Ra::phoP
+T81	Protein	espA
+T83	Protein	CFP-10
+T86	Organism	SO2
+T100	Chemical	H2O2
+T108	Organism	phoP ko
+T111	Protein	3612c
+T112	Organism	tubercle bacilli
+T113	Organism	Mycobacterium prototuberculosis
+T129	Organism	SO2 phoP ko
+T133	Protein	ESAT-6-
+T134	Organism	mice
+T135	Organism	guinea pigs
+T139	Protein	IFN-gamma
+T140	Protein	SO2
+T144	Organism	BCG
+T145	Organism	phoP complemented H37Ra
+T149	Chemical	phthiocerol dimycocerosates
+T150	Chemical	PDIM
+T161	Protein	ESX-1
+*	Equiv T50 T51
+*	Equiv T52 T53
+*	Equiv T56 T57
+*	Equiv T59 T61
+*	Equiv T60 T62
+*	Equiv T81
+E1	Process Participant:T2
+E2	Process Participant:T2
+M1	Negation E2
+E3	Process Participant:T3
+E4	Process Participant:T1
+M2	Negation E4
+E5	Process Participant:T5
+E6	Process Participant:T1
+E7	Regulation Theme:E8
+E8	Process
+E9	Negative_regulation Theme:T21
+E10	Negative_regulation Theme:E11
+E11	Process Participant:T14
+E12	Positive_regulation Cause:T30 Theme:E13
+M3	Negation E12
+E13	Process Participant:T14
+E14	Negative_regulation Theme:T21
+E15	Gene_expression Theme:T51
+E16	Gene_expression Theme:T53
+E17	Process
+E18	Positive_regulation Cause:T8 Theme:T57
+E19	Positive_regulation Cause:T8 Theme:T61
+E20	Positive_regulation Cause:T8 Theme:T60
+E21	Localization Theme:T21
+E22	Localization Theme:T65
+E23	Negative_regulation Theme:T66
+E24	Negative_regulation Theme:T67
+E25	Gene_expression Theme:T73
+E26	Positive_regulation Cause:T73 Theme:E30
+E27	Positive_regulation Cause:T67 Theme:E30
+E28	Positive_regulation Cause:T73 Theme:E31
+E29	Positive_regulation Cause:T67 Theme:E31
+E30	Localization Theme:T65
+E31	Localization Theme:T83
+E32	Gene_expression Theme:T66
+E33	Gene_expression Theme:T67
+E34	Gene_expression Theme:T66
+E35	Gene_expression Theme:T67
+E36	Positive_regulation Theme:T21
+E37	Positive_regulation Theme:T73
+E38	Positive_regulation Theme:T67
+E39	Positive_regulation Theme:T73
+E40	Positive_regulation Theme:T67
+E41	Regulation Cause:T8 Theme:E43
+E42	Regulation Cause:T8 Theme:E44
+E43	Gene_expression Theme:T66
+E44	Gene_expression Theme:T67
+E45	Regulation Cause:T8 Theme:E47
+E46	Regulation Cause:T8 Theme:E48
+E47	Localization Theme:T65
+E48	Process
+E49	Process Participant:T1
+E50	Process Participant:T108
+E51	Gene_expression Theme:T67
+E52	Gene_expression Theme:T111
+E53	Localization Theme:T65
+E54	Gene_expression Theme:T65
+E55	Gene_expression Theme:T65
+E56	Negative_regulation Theme:T65
+E57	Positive_regulation Theme:E58
+E58	Process
+E59	Positive_regulation Theme:E60
+E60	Localization Theme:T65
+E61	Gene_expression Theme:T65
+E62	Localization Theme:T65
+E63	Process Participant:T14
+E64	Gene_expression Theme:T139
+E65	Process Participant:T14
+E66	Process
+E67	Process Participant:T145
+E68	Process Participant:T5
+E69	Process Participant:T1
+E70	Localization Theme:T65
+E71	Process Participant:T14
+E72	Regulation Theme:E71

@@ -1,0 +1,23 @@
+T1	Organism	Mycobacterium tuberculosis
+T2	Organism	human
+T3	Organism	M. tuberculosis
+T6	Chemical	Nitric oxide
+T7	Chemical	NO
+T10	Two-component-system	DosR-DosS
+T11	Protein	DosR
+T12	Protein	DosS
+T13	Protein	rv2623
+T17	Organism	mice
+T20	Organism	tubercle bacillus
+T21	Protein	Rv2623
+T24	Chemical	ATP
+*	Equiv T6 T7
+E1	Process Participant:T1
+E2	Process Participant:T3
+E3	Gene_expression Theme:T13
+E4	Process Participant:T3
+E5	Process Participant:T3
+E6	Process Participant:T20
+E7	Gene_expression Theme:T21
+E8	Gene_expression Theme:T21
+E9	Binding Theme1:T21 Theme2:T24

@@ -1,0 +1,10 @@
+T1	Organism	Group A streptococcus
+T2	Organism	human
+T3	Organism	emm49 GAS
+T4	Protein	emm49
+T6	Organism	GAS
+T10	Organism	non-invasive GAS
+T11	Organism	invasive GAS
+E1	Process Participant:T1
+E2	Process Participant:T3
+E3	Process Participant:T6

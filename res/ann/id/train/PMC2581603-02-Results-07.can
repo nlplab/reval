@@ -1,0 +1,57 @@
+T1	Chemical	CAPs
+T2	Chemical	aminoglycosides
+T3	Regulon-operon	PA3552-PA3559
+T4	Protein	PA3552
+T5	Protein	PA3559
+T6	Organism	P. aeruginosa
+T7	Chemical	magnesium
+T9	Chemical	polymyxin B
+T10	Chemical	colistin
+T12	Chemical	gentamycin
+T13	Chemical	tobramycin
+T14	Chemical	CAP
+T15	Chemical	aminoglycoside
+T19	Chemical	gentamicin
+T22	Chemical	ceftazidime
+T23	Chemical	beta-lactam
+T24	Chemical	ciprofloxacin
+T25	Chemical	fluoroquinolone
+T26	Organism	PAO1
+T31	Organism	PA3553::lux mutant
+T32	Protein	PA3553
+T33	Protein	lux
+T34	Organism	PA3553::lux
+T39	Organism	PA3553 mutant
+E1	Process
+E2	Gene_expression Theme:T3
+E3	Positive_regulation Cause:E4 Theme:E2
+E4	Process
+E5	Process
+E6	Process
+E7	Process
+E8	Positive_regulation Theme:E9
+E9	Process
+E10	Process
+E11	Process
+E12	Process
+E13	Process
+E14	Process
+E15	Positive_regulation Cause:T3 Theme:E16
+E16	Process
+E17	Process
+E18	Process Participant:T31
+E19	Positive_regulation Theme:E20
+M1	Negation E19
+E20	Process Participant:T34
+E21	Process
+E22	Negative_regulation Theme:E23
+E23	Positive_regulation Theme:E24
+E24	Process Participant:T39
+E25	Process Participant:T34
+E26	Positive_regulation Theme:E27
+E27	Process
+E28	Positive_regulation Theme:T32
+E29	Process
+E30	Process
+E31	Positive_regulation Theme:E32
+E32	Process

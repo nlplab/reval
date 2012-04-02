@@ -1,0 +1,55 @@
+T1	Organism	P. aeruginosa
+T2	Protein	PA4101
+T3	Protein	PA4197
+T4	Protein	PA5511
+T7	Organism	PA4197
+T8	Organism	PA4101 mutant
+T10	Organism	PA4197 mutant
+T15	Organism	PA4101
+T16	Organism	PA4197 mutants
+T22	Protein	BfiS
+T23	Protein	BfiR
+T24	Protein	PA4196
+T25	Protein	LuxR
+T26	Protein	LasR
+T27	Protein	RhlR
+T28	Protein	QscR
+T29	Protein	GacA
+T30	Protein	RocA1
+T31	Protein	SadA
+T33	Protein	Sigma-70
+T34	Protein	RpoD
+T36	Protein	BfmR
+T37	Protein	OmpR
+T38	Protein	BfmS
+T39	Protein	PA4102
+T42	Organism	PAO1
+T43	Organism	PAO1/pJN5511
+T45	Organism	P. aeruginosa PAO1
+T48	Protein	MifR
+T50	Protein	CheY
+T51	Protein	sigma-54
+T53	Protein	NtrC
+T54	Protein	PilR
+T55	Protein	FleQ
+T56	Protein	FleR
+T57	Protein	AlgB
+T58	Protein	CbrB
+T60	Protein	MifS
+T61	Protein	PA5512
+T62	Chemical	carbon
+T63	Chemical	nitrogen
+*	Equiv T23 T24
+*	Equiv T33 T34
+*	Equiv T36
+*	Equiv T38 T39
+*	Equiv T48
+*	Equiv T60 T61
+E1	Phosphorylation Theme:T2
+E2	Phosphorylation Theme:T3
+E3	Phosphorylation Theme:T4
+E4	Phosphorylation Theme:T22
+E5	Binding Theme:T24
+E6	Phosphorylation Theme:T4
+E7	Gene_expression Theme:T4
+E8	Gene_expression Theme:T4

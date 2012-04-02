@@ -1,0 +1,52 @@
+T1	Organism	PAO1
+T2	Protein	PA2588
+T4	Protein	PA0831
+T5	Protein	OruR
+T6	Protein	PA4380
+T7	Organism	Pseudomonas fluorescens
+T8	Protein	ColS
+T9	Organism	P. fluorescens
+T11	Organism	Pseudomonas putida
+T12	Protein	TN4652
+T13	Protein	PA4554
+T14	Protein	PilY1
+T15	Protein	PA4953
+T16	Organism	E. coli
+T17	Protein	MotB
+T18	Protein	PA0173
+T19	Protein	cheB2
+T20	Organism	P. aeruginosa
+T23	Protein	CheB2
+T24	Protein	PA5479
+T25	Protein	GltP
+T27	Protein	PA2585
+T28	Protein	UvrA
+T29	Protein	B
+T30	Protein	C
+T31	Protein	UvrC
+T32	Protein	uvrC
+T33	Protein	gacA
+T37	Protein	PA2478
+T38	Protein	PA0946
+T39	Protein	PA3080
+T40	Protein	PA0260
+T41	Protein	PA2769
+T42	Organism	C. elegans
+T43	Organism	TB
+T44	Organism	PA14
+T47	Organism	TB0173s
+T49	Organism	TB4554s
+T50	Protein	pilY1
+T51	Organism	TB4380s
+T52	Protein	colS
+*	Equiv T4 T5
+*	Equiv T13 T14
+*	Equiv T18 T19
+*	Equiv T27 T31
+E1	Process
+E2	Regulation Cause:T32 Theme:E3
+E3	Process Participant:T20
+E4	Positive_regulation Theme:E5
+E5	Process
+E6	Process
+E7	Negative_regulation Theme:E6

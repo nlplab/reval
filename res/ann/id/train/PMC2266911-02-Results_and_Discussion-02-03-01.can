@@ -1,0 +1,24 @@
+T1	Organism	P. luminescens
+T2	Organism	P. luminescens ssp. laumondii strain TT01
+T3	Organism	Y. enterocolitica
+T6	Two-component-system	ccdA/ccdB
+T7	Protein	ccdA
+T8	Protein	ccdB
+T9	Regulon-operon	tolQRAB/pal
+T10	Protein	tolQ
+T11	Protein	R
+T12	Protein	A
+T13	Protein	B
+T14	Protein	pal
+T15	Two-component-system	Plu3168/Plu3869
+T16	Protein	Plu3168
+T17	Protein	Plu3869
+T18	Two-component-system	YE0791/YE1314
+T19	Protein	YE0791
+T20	Protein	YE1314
+T21	Protein	PrtS
+T22	Protein	Plu1382
+*	Equiv T21 T22
+E1	Regulation Theme:E2
+E2	Process
+E3	Localization Theme:T21

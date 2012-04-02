@@ -1,0 +1,70 @@
+T1	Protein	Rv2623
+T2	Organism	Salmonella
+T3	Organism	mice
+T5	Organism	M. tuberculosis
+T6	Organism	guinea pigs
+T7	Organism	Deltarv2623
+T8	Protein	rv2623
+T10	Organism	Deltarv2623-infected guinea pigs
+T12	Organism	Erdman
+T13	Organism	Guinea pigs
+T14	Organism	Erdman bacilli
+T15	Organism	Deltarv2623 bacilli
+T21	Organism	Deltarv2623 attB::Phsp60Rv2623
+T23	Protein	attB
+T24	Protein	hsp60
+T36	Organism	Deltarv2623 attB::Prv2623Rv2623
+T42	Organism	guinea pig
+T43	Organism	C57BL/6 mice
+T47	Organism	attB::Phsp60 Rv2623 complemented strain
+T51	Organism	mouse
+T53	Organism	C57BL/6
+T62	Organism	C3H/HeJ mouse
+T65	Organism	Erdman M. tuberculosis
+T66	Organism	C3H/HeJ mice
+T68	Organism	Deltarv2623-infected mice
+T70	Organism	Rv2623-deficient mutant
+T72	Organism	M. tuberculosis Erdman
+T74	Organism	Deltarv2623 M. tuberculosis
+T78	Organism	Deltarv2623 M.tuberculosis
+T80	Organism	C3H/HeJ
+T81	Organism	tubercle bacillus
+T86	Organism	C3HeB/FeJ
+E1	Process
+E2	Process
+E3	Process Participant:T14
+E4	Process Participant:T15
+E5	Process
+E6	Process Participant:T12
+E7	Process
+E8	Gene_expression Theme:T8
+E9	Process
+E10	Process Participant:T7
+E11	Process Participant:T12
+E12	Process Participant:T21
+E13	Gene_expression Theme:T1
+E14	Process
+E15	Process Participant:T5
+E16	Process Participant:T7
+E17	Process Participant:T47
+E18	Process
+E19	Process Participant:T5
+E20	Process Participant:T7
+E21	Process Participant:T7
+E22	Process Participant:T7
+E23	Process Participant:T65
+E24	Process Participant:T7
+E25	Process Participant:T65
+E26	Process Participant:T7
+E27	Process Participant:T65
+E28	Process Participant:T12
+E29	Process Participant:T68
+E30	Process Participant:T70
+E31	Process
+E32	Process Participant:T74
+E33	Process
+E34	Gene_expression Theme:T8
+E35	Negative_regulation Cause:E34 Theme:E36
+E36	Process Participant:T78
+E37	Process Participant:T81
+E38	Process Participant:T81

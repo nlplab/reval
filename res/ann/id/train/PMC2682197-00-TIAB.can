@@ -1,0 +1,24 @@
+T1	Organism	Mycobacterium tuberculosis
+T2	Protein	Rv2623
+T3	Chemical	ATP
+T5	Protein	rv2623
+T6	Organism	tubercle bacillus
+T8	Organism	M. tuberculosis
+T9	Organism	mice
+T11	Organism	Rv2623-deficient mutant
+T13	Organism	guinea pigs
+T22	Organism	mycobacteria
+E1	Binding Theme1:T2 Theme2:T3
+E2	Positive_regulation Theme:T5
+E3	Positive_regulation Theme:T5
+E4	Process Participant:T11
+E5	Gene_expression Theme:T5
+E6	Binding Theme1:T2 Theme2:T3
+E7	Binding Theme1:T2 Theme2:T3
+E8	Binding Theme:T3
+E9	Binding Theme1:T2 Theme2:T3
+E10	Positive_regulation Cause:T2 Theme:E11
+E11	Process Participant:T6
+E12	Binding Theme1:T2 Theme2:T3
+E13	Positive_regulation Cause:T3 Theme:T2
+M1	Speculation E13

@@ -1,0 +1,39 @@
+T1	Protein	PmrA
+T3	Organism	Salmonella
+T4	Regulon-operon	lacZYA
+T5	Protein	lacZ
+T6	Protein	Y
+T7	Protein	A
+T9	Protein	pbgP
+T10	Protein	pmrC
+T11	Protein	ugd
+T12	Chemical	Fe3+
+T13	Chemical	Al3+
+T14	Protein	PmrB
+T15	Chemical	MgCl2
+T18	Chemical	MES
+T19	Chemical	Bis-Tris
+T22	Chemical	Chelex 100
+T25	Chemical	iron
+T26	Protein	pmrA
+T28	Protein	iroA
+T32	Chemical	Chelex
+T34	Chemical	deferoxamine mesylate
+T36	Organism	pmrA mutant
+T40	Organism	pmrA strain
+E1	Regulation Cause:T1 Theme:T9
+E2	Regulation Cause:T1 Theme:T10
+E3	Regulation Cause:T1 Theme:T11
+E4	Positive_regulation Theme:E5
+E5	Transcription Theme:T9
+E6	Gene_expression Theme:T28
+E7	Regulation Cause:T26 Theme:T28
+M1	Negation E7
+E8	Negative_regulation Cause:T25 Theme:T28
+E9	Positive_regulation Theme:E6
+E10	Gene_expression Theme:T9
+E11	Positive_regulation Theme:E10
+E12	Phosphorylation Theme:T1
+M2	Negation E12
+E13	Positive_regulation Theme:T1
+E14	Phosphorylation Theme:T1

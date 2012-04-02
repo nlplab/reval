@@ -1,0 +1,24 @@
+T1	Organism	Salmonella enterica serovar Typhimurium
+T2	Organism	Salmonella
+T8	Protein	PmrA
+T11	Protein	PmrB
+T12	Organism	mice
+T13	Organism	chicken
+T14	Chemical	polymyxin B
+T15	Chemical	Fe3+
+T16	Chemical	Al3+
+T18	Chemical	ipopolysacharide
+T19	Chemical	LPS
+T20	Chemical	lipid A
+T27	Chemical	Mg2+
+T30	Protein	PhoQ
+T33	Protein	PhoP
+T35	Protein	PmrD
+*	Equiv T18 T19
+E1	Process
+E2	Process
+E3	Positive_regulation Theme:T8
+E4	Positive_regulation Cause:T30 Theme:E3
+E5	Positive_regulation Cause:T33 Theme:T35
+E6	Binding Theme1:T35 Theme2:T8
+E7	Phosphorylation Theme:T8

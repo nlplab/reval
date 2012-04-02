@@ -1,0 +1,51 @@
+T1	Protein	PmrB
+T2	Protein	PmrA
+T3	Organism	Salmonella
+T7	Protein	pbgP
+T8	Protein	pmrB
+T14	Organism	S. enterica
+T17	Organism	Escherichia coli
+T18	Chemical	acetate
+T19	Chemical	glycerol
+T20	Protein	OGR1
+T23	Protein	TraM
+T26	Protein	CadC
+T27	Organism	E. coli
+T28	Organism	human
+T30	Chemical	sphingosylphosphorylcholine
+T32	Chemical	ferric iron
+T33	Organism	cadC mutants
+T34	Protein	cadC
+T35	Protein	Tcp
+T38	Protein	PmrD
+T46	Protein	pmrD
+T49	Protein	PhoQ
+T50	Chemical	Mg2+
+T52	Protein	PhoP
+T54	Regulon-operon	PhoP regulon
+T59	Chemical	LPS
+T61	Chemical	polymyxin B
+T64	Organism	Paenibacillus polymyxa
+T65	Chemical	Fe3+
+T74	Protein	pmrA
+E1	Positive_regulation Cause:T1 Theme:T2
+E2	Regulation Theme:T7
+E3	Positive_regulation Cause:T2 Theme:T7
+E4	Positive_regulation Cause:T1 Theme:E5
+E5	Positive_regulation Theme:T7
+E6	Positive_regulation Cause:T1 Theme:E7
+M1	Negation E6
+E7	Transcription Theme:T7
+E8	Regulation Theme:T1
+E9	Positive_regulation Theme:T26
+E10	Regulation Cause:T30 Theme:T20
+E11	Positive_regulation Cause:T1 Theme:T2
+E12	Positive_regulation Cause:T38 Theme:T2
+E13	Phosphorylation Theme:T2
+E14	Positive_regulation Cause:T38 Theme:E15
+M2	Speculation E14
+E15	Phosphorylation Theme:T2
+E16	Gene_expression Theme:T46
+E17	Positive_regulation Theme:E16
+E18	Positive_regulation Cause:T50 Theme:T49
+E19	Positive_regulation Theme:T54

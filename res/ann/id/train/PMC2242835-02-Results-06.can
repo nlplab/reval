@@ -1,0 +1,60 @@
+T1	Protein	IFN-gamma
+T2	Protein	ESAT-6
+T3	Organism	H37Ra
+T5	Organism	H37Rv
+T9	Organism	H37Ra::rpsL
+T10	Protein	rpsL
+T14	Organism	H37Ra::fadE5
+T15	Protein	fadE5
+T16	Organism	M. tuberculosis H37Ra::phoP
+T17	Protein	phoP
+T20	Organism	M. tuberculosis MT103 phoP ko strain SO2
+T30	Organism	SO2
+T34	Protein	ESX-1
+T37	Organism	H37Ra::RD1-ppe68-ko
+T38	Protein	RD1
+T39	Protein	ppe68
+T41	Protein	PhoP
+T42	Organism	H37Rv-phoP ko
+T45	Protein	rv3612c
+T46	Protein	rv3616c
+T47	Protein	rv3614c
+T50	Organism	H37Ra::phoP
+T53	Protein	rv3615c
+T55	Protein	espA
+*	Equiv T55
+E1	Gene_expression Theme:T1
+E2	Localization Theme:T2
+E3	Gene_expression Theme:T2
+E4	Localization Theme:T2
+E5	Localization Theme:T2
+E6	Gene_expression Theme:T2
+E7	Localization Theme:T2
+M1	Negation E7
+E8	Gene_expression Theme:T2
+E9	Localization Theme:T2
+E10	Gene_expression Theme:T2
+E11	Localization Theme:T2
+E12	Gene_expression Theme:T2
+M2	Negation E12
+E13	Positive_regulation Cause:T17 Theme:E14
+E14	Localization Theme:T2
+M3	Negation E14
+E15	Gene_expression Theme:T45
+E16	Gene_expression Theme:T46
+E17	Negative_regulation Theme:E15
+E18	Negative_regulation Theme:E16
+E19	Gene_expression Theme:T47
+E20	Positive_regulation Cause:T47 Theme:E23
+E21	Positive_regulation Cause:T53 Theme:E23
+E22	Positive_regulation Cause:T46 Theme:E23
+E23	Localization Theme:T2
+E24	Gene_expression Theme:T47
+E25	Gene_expression Theme:T47
+E26	Positive_regulation Cause:T41 Theme:T45
+E27	Positive_regulation Cause:T41 Theme:T46
+E28	Gene_expression Theme:T17
+E29	Negative_regulation Cause:T41 Theme:E30
+E30	Gene_expression Theme:T41
+E31	Regulation Theme:E29
+E32	Gene_expression Theme:T17

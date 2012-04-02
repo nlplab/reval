@@ -1,0 +1,24 @@
+T1	Protein	RpoE
+T2	Protein	SsrB
+T3	Organism	Salmonella enterica serovar Typhimurium
+T4	Organism	Salmonella enterica
+T5	Two-component-system	SsrAB
+T6	Protein	SsrA
+T7	Protein	B
+T8	Organism	S. enterica serovar Typhimurium mutants
+T9	Two-component-system	ssrAB
+T10	Protein	ssrA
+T12	Organism	mice
+T13	Protein	sigmaE
+T14	Protein	rpoE
+T20	Organism	Salmonella
+T21	Protein	ssrB
+*	Equiv T13 T14
+E1	Process Participant:T3
+E2	Process Participant:T4
+E3	Process
+M1	Negation E3
+E4	Process Participant:T20
+E5	Process
+E6	Process
+E7	Process

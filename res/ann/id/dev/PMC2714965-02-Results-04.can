@@ -1,0 +1,31 @@
+T1	Organism	TB mutants
+T2	Protein	cheB2
+T3	Protein	PA0173
+T4	Protein	motB
+T5	Protein	PA4953
+T6	Protein	pilY1
+T7	Protein	PA4554
+T8	Organism	P. aeruginosa
+T9	Organism	human
+T10	Organism	TB4953s
+T12	Organism	TB0173s
+T14	Organism	TB
+T15	Organism	TB2588s
+T16	Protein	araC
+T17	Protein	PA2588
+T18	Organism	TB4380s
+T19	Protein	colS
+T20	Protein	PA4380
+T21	Organism	TB3080s
+T22	Protein	PA3080
+T23	Organism	TB2769s
+T24	Protein	PA2769
+T25	Organism	TB5479s
+T26	Protein	gltP
+T27	Protein	PA5479
+T33	Organism	TB0260s
+T34	Protein	PA0260
+*	Equiv T2 T3
+*	Equiv T4 T5
+*	Equiv T6 T7
+E1	Process

@@ -1,0 +1,39 @@
+T1	Organism	flea
+T2	Organism	Y. pestis
+T11	Chemical	poly-beta-1,6-N-acetyl glucosamine
+T12	Organism	staphylococcal
+T15	Protein	cafR
+T16	Protein	caf1M
+T17	Protein	1A
+T18	Protein	1
+T19	Protein	psaC
+T21	Protein	phoP
+T22	Protein	mgtC
+T25	Protein	yadBC
+T26	Protein	pla
+T29	Protein	Pla
+T37	Organism	fleas
+E1	Process Participant:T2
+E2	Process Participant:T2
+E3	Process
+E4	Process
+E5	Process
+E6	Process
+E7	Process
+E8	Process
+E9	Positive_regulation Theme:T17
+E10	Positive_regulation Theme:T18
+E11	Positive_regulation Theme:T19
+E12	Positive_regulation Theme:T15
+E13	Positive_regulation Theme:T16
+E14	Process
+E15	Positive_regulation Theme:T21
+E16	Positive_regulation Theme:T22
+E17	Process
+E18	Process
+E19	Process
+E20	Gene_expression Theme:T25
+E21	Gene_expression Theme:T26
+E22	Process
+E23	Process
+E24	Process

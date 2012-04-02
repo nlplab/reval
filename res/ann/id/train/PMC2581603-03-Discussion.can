@@ -1,0 +1,72 @@
+T1	Organism	P. aeruginosa
+T2	Organism	patients
+T6	Chemical	LPS
+T7	Chemical	Magnesium
+T8	Chemical	CAPs
+T10	Two-component-system	PhoPQ
+T11	Protein	PhoP
+T12	Protein	Q
+T13	Organism	Salmonella typhimurium
+T14	Chemical	magnesium
+T15	Protein	phoP
+T16	Chemical	Mg2+
+T26	Chemical	aminoglycosides
+T32	Organism	PhoQ mutants
+T33	Protein	PhoQ
+T36	Organism	S. typhimurium
+T41	Chemical	gentamicin
+T42	Chemical	aminoglycoside
+T45	Regulon-operon	PA3552-PA3559
+T46	Protein	PA3552
+T47	Protein	PA3559
+T51	Two-component-system	PmrAB
+T52	Protein	PmrA
+T53	Protein	B
+T54	Organism	E. coli
+T58	Two-component-system	BasRS
+T59	Protein	BasR
+T60	Protein	S
+T62	Chemical	CAP
+T71	Chemical	Mn2+
+T72	Chemical	Zn2+
+T73	Organism	Staphylococcus aureus
+T74	Chemical	oxygen
+T77	Protein	PA3553
+T89	Chemical	lipid A
+T91	Chemical	EPS alginate
+T92	Chemical	alginate
+E1	Process Participant:T1
+E2	Process Participant:T1
+E3	Process
+E4	Process
+E5	Process
+E6	Process Participant:T1
+E7	Positive_regulation Theme:E8
+E8	Process Participant:T1
+E9	Positive_regulation Theme:T10
+E10	Positive_regulation Theme:T10
+E11	Regulation Cause:T14 Theme:T10
+E12	Positive_regulation Theme:E13
+E13	Process Participant:T1
+E14	Gene_expression Theme:T15
+E15	Process
+E16	Process
+E17	Process
+E18	Process
+E19	Positive_regulation Cause:T45 Theme:E18
+E20	Binding Theme1:T26 Theme2:T6
+E21	Gene_expression Theme:T45
+E22	Positive_regulation Theme:T45
+E23	Positive_regulation Theme:E24
+E24	Gene_expression Theme:T77
+E25	Positive_regulation Theme:E26
+E26	Gene_expression Theme:T45
+E27	Positive_regulation Cause:T92 Theme:E28
+E28	Gene_expression Theme:T45
+E29	Positive_regulation Theme:E30
+M1	Negation E29
+E30	Gene_expression Theme:T77
+E31	Process
+E32	Positive_regulation Theme:E33
+E33	Process
+E34	Process

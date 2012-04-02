@@ -1,0 +1,37 @@
+T1	Chemical	AHL
+T2	Protein	LuxR
+T3	Two-component-system	LuxI/LuxR
+T4	Protein	LuxI
+T6	Chemical	acyl homoserine lactones
+T7	Chemical	AHLs
+T12	Organism	Y. enterocolitica
+T13	Two-component-system	YenI/YenR
+T14	Protein	YenI
+T15	Protein	YenR
+T16	Two-component-system	YE1600/YE1599
+T17	Protein	YE1600
+T18	Protein	YE1599
+T19	Chemical	3-oxo-C6-AHL
+T20	Chemical	C6-AHL
+T22	Organism	Y. pestis
+T23	Protein	YspI
+T24	Protein	YspR
+T29	Protein	YE1026
+T33	Organism	P. luminescens
+T36	Protein	plu0320
+T37	Protein	plu4562
+T38	Protein	luxI
+T41	Organism	Salmonella enterica
+T42	Organism	Escherichia coli
+T45	Organism	Sodalis glossinidius strain morsitans
+T46	Organism	tse tse fly Glossina morsitans morsitans
+T49	Protein	SG1740
+T50	Protein	SG0285
+*	Equiv T6 T7
+E1	Process
+E2	Regulation Cause:T3 Theme:E1
+E3	Binding Theme:T2
+E4	Gene_expression Theme:T23
+E5	Gene_expression Theme:T24
+E6	Positive_regulation Theme:E4
+E7	Positive_regulation Theme:E5

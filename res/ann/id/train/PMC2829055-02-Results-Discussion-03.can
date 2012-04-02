@@ -1,0 +1,86 @@
+T1	Organism	Y. pestis
+T2	Organism	flea
+T6	Organism	Escherichia coli
+T8	Protein	ymt
+T10	Protein	hmsH
+T11	Protein	F
+T12	Protein	R
+T13	Protein	S
+T14	Protein	hmsT
+T15	Protein	hmsP
+T16	Protein	gmhA
+T20	Protein	yidE
+T21	Organism	E. coli
+T22	Protein	cpxP
+T24	Protein	A
+T27	Organism	fleas
+T34	Organism	Pseudomonas aeruginosa
+T35	Protein	cupA1
+T36	Protein	cupA3
+T37	Protein	yapL
+T39	Protein	tibA
+T41	Protein	cupA
+T43	Organism	P. aeruginosa
+T46	Protein	rpoE
+T47	Protein	sigmaE
+T48	Protein	rseA
+T49	Protein	rseB
+T51	Protein	pspA
+T52	Protein	pspG
+T58	Protein	cupA fimbriae
+T59	Protein	pspABC
+T63	Protein	gabT
+T64	Protein	potD
+T65	Protein	B
+T66	Protein	C
+T68	Chemical	polyamines
+T70	Organism	Y. pestis Deltapot
+E1	Process
+E2	Gene_expression Theme:T8
+E3	Gene_expression Theme:T14
+E4	Gene_expression Theme:T15
+E5	Gene_expression Theme:T16
+E6	Gene_expression Theme:T10
+E7	Gene_expression Theme:T11
+E8	Gene_expression Theme:T12
+E9	Gene_expression Theme:T13
+E10	Positive_regulation Theme:T13
+E11	Positive_regulation Theme:T14
+E12	Positive_regulation Theme:T16
+E13	Positive_regulation Theme:T15
+E14	Positive_regulation Theme:T10
+E15	Positive_regulation Theme:T11
+E16	Positive_regulation Theme:T12
+E17	Positive_regulation Theme:T20
+E18	Positive_regulation Theme:T22
+E19	Positive_regulation Theme:T20
+E20	Positive_regulation Theme:T22
+E21	Positive_regulation Theme:T35
+E22	Positive_regulation Theme:T36
+E23	Positive_regulation Theme:T37
+E24	Gene_expression Theme:T46
+E25	Gene_expression Theme:T47
+E26	Gene_expression Theme:T48
+E27	Gene_expression Theme:T49
+E28	Gene_expression Theme:T22
+E29	Gene_expression Theme:T51
+E30	Gene_expression Theme:T52
+E31	Positive_regulation Theme:T46
+E32	Positive_regulation Theme:T47
+E33	Positive_regulation Theme:T48
+E34	Positive_regulation Theme:T49
+E35	Positive_regulation Theme:T22
+E36	Positive_regulation Theme:T51
+E37	Positive_regulation Theme:T52
+E38	Positive_regulation Theme:T22
+E39	Positive_regulation Theme:T39
+E40	Positive_regulation Theme:T58
+E41	Positive_regulation Theme:T59
+E42	Process
+E43	Positive_regulation Theme:T63
+E44	Positive_regulation Theme:T64
+E45	Positive_regulation Theme:T65
+E46	Positive_regulation Theme:T66
+E47	Negative_regulation Theme:E48
+M1	Negation E47
+E48	Process Participant:T70

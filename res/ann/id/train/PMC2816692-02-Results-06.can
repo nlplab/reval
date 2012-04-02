@@ -1,0 +1,13 @@
+T1	Protein	SrcA
+T2	Protein	PipB2
+T3	Organism	Salmonella
+T6	Protein	srcA
+T7	Organism	DeltapipB2
+T10	Protein	pipB2
+T11	Organism	srcA mutant
+T14	Organism	DeltasrcA
+E1	Process
+E2	Process
+E3	Process
+E4	Process
+E5	Process

@@ -1,0 +1,30 @@
+T1	Organism	cheB2 Mutant
+T2	Protein	cheB2
+T3	Organism	TB0173s
+T6	Organism	TB
+T7	Organism	PAO1
+T8	Organism	PA14
+T11	Protein	mcpA
+T12	Organism	PA0171
+T14	Protein	PA0173
+T24	Organism	cheB2 mutant
+T26	Organism	TB0173i
+T27	Organism	C. elegans
+T28	Organism	STM cheB2 mutant TB0173s
+T30	Organism	cheB2 mutants
+T36	Organism	P. aeruginosa PA14 strain
+T37	Organism	PA140173i
+T45	Organism	P. aeruginosa
+T50	Organism	TB0173sp2B2
+T51	Organism	TB0173s cheB2 mutant
+T53	Organism	TB0173sCTX
+T54	Organism	cheB2 mutant TB0173sp2B2
+T56	Organism	cheB2 mutant strain TB0173sCTX
+*	Equiv T14
+*	Equiv T24 T26
+*	Equiv T51 T53
+E1	Process Participant:T3
+E2	Negative_regulation Theme:E1
+E3	Process Participant:T6
+E4	Process Participant:T53
+E5	Process Participant:T56

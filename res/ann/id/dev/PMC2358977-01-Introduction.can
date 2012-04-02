@@ -1,0 +1,32 @@
+T1	Organism	Streptococcus suis
+T2	Organism	S. suis
+T3	Organism	pigs
+T4	Organism	humans
+T5	Organism	S. suis serotype 2
+T6	Organism	S. suis 2
+T7	Organism	SS2
+T13	Organism	98HAH12
+T14	Organism	05ZYH33
+T15	Organism	patients
+T18	Two-component-system	SalK/SalR
+T19	Protein	SalK
+T20	Protein	SalR
+T21	Organism	S. salivarius
+T22	Protein	RevS
+T27	Two-component-system	salKR
+T28	Protein	salK
+T29	Protein	R
+*	Equiv T1 T2
+*	Equiv T5 T6 T7
+E1	Process Participant:T1
+E2	Process Participant:T7
+E3	Process Participant:T7
+E4	Process
+E5	Process Participant:T7
+E6	Process Participant:T13
+E7	Process Participant:T14
+E8	Process
+E9	Process
+E10	Regulation Theme:T18
+E11	Process
+E12	Process Participant:T7

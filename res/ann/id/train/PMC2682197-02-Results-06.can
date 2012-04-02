@@ -1,0 +1,11 @@
+T1	Organism	ATP-binding-deficient Rv2623 mutants
+T2	Chemical	ATP
+T3	Protein	Rv2623
+T8	Chemical	hydrogen
+E1	Regulation Cause:T2 Theme:T3
+E2	Binding Theme:T2
+E3	Negative_regulation Theme:E4
+E4	Binding Theme:T2
+E5	Binding Theme1:T2 Theme2:T3
+E6	Negative_regulation Theme:E7
+E7	Binding Theme1:T2 Theme2:T3

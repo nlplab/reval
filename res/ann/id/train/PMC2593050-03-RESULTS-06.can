@@ -1,0 +1,20 @@
+T1	Organism	DeltavicK
+T2	Protein	vicK
+T3	Protein	SeM
+T4	Protein	IgA
+T5	Protein	IgG
+T8	Organism	mice
+T12	Organism	S. equi
+T16	Protein	SeM38
+T17	Protein	260
+T30	Organism	DeltavicK mutant
+E1	Process Participant:T1
+E2	Positive_regulation Cause:E1 Theme:T4
+E3	Positive_regulation Cause:E1 Theme:T5
+E4	Process Participant:T1
+E5	Process Participant:T1
+E6	Process Participant:T12
+E7	Process
+E8	Process Participant:T1
+E9	Process
+E10	Process Participant:T1

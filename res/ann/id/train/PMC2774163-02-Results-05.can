@@ -1,0 +1,12 @@
+T1	Protein	GacS
+T2	Organism	P. aeruginosa
+T4	Protein	BfiS
+T5	Organism	DeltagacS mutant
+T6	Protein	gacS
+T7	Organism	DeltabfiS
+T8	Protein	bfiS
+T10	Organism	DeltagacS
+E1	Phosphorylation Theme:T1
+E2	Positive_regulation Cause:T4 Theme:E1
+E3	Negative_regulation Theme:T6
+E4	Phosphorylation Theme:T1

@@ -1,0 +1,30 @@
+T1	Protein	streptolysin O
+T2	Protein	SLO
+T3	Organism	invasive GAS
+T5	Protein	annexin V
+T6	Chemical	cytolysin
+T7	Organism	GAS
+T8	Chemical	cytolysins
+T9	Protein	Streptolysin S
+T10	Protein	SLS
+T11	Chemical	oxygen
+T12	Chemical	beta-hemolysin
+T13	Protein	Streptolysin O
+T15	Chemical	cholesterol
+T22	Organism	SLO deficient mutant
+T24	Organism	NIH230
+T25	Organism	NIH230slo
+T26	Protein	slo
+T29	Organism	SLS-deficient mutant
+T32	Organism	NIH230sagA
+T33	Protein	sagA
+T36	Organism	SLO and SLS double mutant GAS
+T40	Organism	NIH230slosagA
+T47	Protein	IL-8
+T48	Organism	invasive
+T49	Organism	non-invasive GAS
+T57	Organism	non-invasive strain 1566
+*	Equiv T1 T2
+E1	Gene_expression Theme:T1
+E2	Positive_regulation Theme:T1
+E3	Positive_regulation Theme:T1

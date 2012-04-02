@@ -1,0 +1,16 @@
+T1	Organism	S. equi vicK Deletion Mutant
+T2	Protein	vicK
+T3	Organism	S. equi
+T4	Two-component-system	vicRK
+T5	Protein	vicR
+T6	Protein	K
+T8	Organism	S. pyogenes
+T12	Organism	vicK-deletion mutant
+T14	Protein	aad
+T15	Protein	cmR
+T16	Chemical	spectinomycin
+T17	Chemical	chloramphenicol
+E1	Process
+E2	Process
+E3	Process
+E4	Process

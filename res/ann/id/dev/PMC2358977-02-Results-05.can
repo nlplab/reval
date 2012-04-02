@@ -1,0 +1,7 @@
+T1	Organism	DeltasalKR
+T2	Two-component-system	salKR
+T3	Protein	salK
+T4	Protein	R
+E1	Process Participant:T1
+E2	Process Participant:T1
+E3	Negative_regulation Theme:E2

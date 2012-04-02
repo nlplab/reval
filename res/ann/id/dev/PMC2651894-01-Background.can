@@ -1,0 +1,49 @@
+T1	Organism	Salmonella enterica
+T2	Organism	Salmonella
+T3	Protein	ssrA
+T4	Protein	ssrB
+T5	Two-component-system	SsrAB
+T6	Protein	SsrA
+T7	Protein	B
+T8	Protein	SsrB
+T9	Protein	ssaB
+T10	Protein	sseL
+T11	Protein	srfN
+T13	Two-component-system	ssrAB
+T16	Organism	mice
+T17	Protein	RpoE
+T18	Protein	sigmaE
+T20	Protein	RseA
+T22	Organism	S. Typhimurium
+T25	Organism	rpoE
+T24	Protein	rpoE
+T26	Organism	ssrB mutants
+T31	Protein	rseA
+T32	Organism	Yersinia pseudotuberculosis
+*	Equiv T18 T17
+E1	Regulation Theme:E4
+E2	Regulation Theme:E5
+E3	Regulation Theme:E6
+E4	Gene_expression Theme:T9
+E5	Gene_expression Theme:T10
+E6	Gene_expression Theme:T11
+E7	Process
+E8	Process
+M1	Negation E8
+E9	Regulation Theme:T18
+E10	Process
+E11	Gene_expression Theme:T24
+E12	Gene_expression Theme:T4
+E13	Positive_regulation Theme:E11
+E14	Positive_regulation Theme:E12
+E15	Process
+E16	Gene_expression Theme:T18
+E17	Process
+E18	Process
+E19	Process
+E20	Gene_expression Theme:T4
+E21	Regulation Theme:E22
+M2	Negation E21
+E22	Gene_expression Theme:T8
+E23	Process
+E24	Process

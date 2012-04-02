@@ -1,0 +1,44 @@
+T1	Protein	FimR
+T2	Protein	mfa1
+T3	Protein	fimA
+T4	Two-component-system	FimS/FimR
+T5	Protein	FimS
+T9	Organism	fimR mutant
+T10	Protein	fimR
+T13	Organism	fimR- mutant
+T15	Organism	33277
+T19	Organism	fimR- mutant strain FRE
+T26	Protein	rgpA
+T27	Organism	P. gingivalis
+T28	Protein	16S RNA
+T32	Protein	minor fimbriae
+T35	Protein	FimA
+T36	Protein	Mfa1
+T40	Organism	FRE
+T41	Organism	fimA- mutant
+T43	Organism	FAT
+T44	Organism	mfa1- mutant
+T46	Organism	MFAE
+T56	Protein	RgpA
+E1	Regulation Cause:T1 Theme:E2
+M1	Speculation E1
+E2	Gene_expression Theme:T2
+E3	Regulation Cause:T4 Theme:T3
+E4	Regulation Cause:T1 Theme:E5
+M2	Speculation E4
+E5	Gene_expression Theme:T2
+E6	Gene_expression Theme:T3
+E7	Gene_expression Theme:T2
+E8	Gene_expression Theme:T3
+E9	Negative_regulation Theme:E8
+E10	Gene_expression Theme:T2
+E11	Negative_regulation Theme:E10
+E12	Gene_expression Theme:T3
+E13	Regulation Theme:E14
+M3	Negation E13
+E14	Gene_expression Theme:T26
+E15	Positive_regulation Cause:T4 Theme:E16
+E16	Gene_expression Theme:T32
+E17	Gene_expression Theme:T3
+E18	Gene_expression Theme:T2
+E19	Gene_expression Theme:T56

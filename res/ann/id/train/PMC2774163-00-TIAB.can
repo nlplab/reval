@@ -1,0 +1,41 @@
+T1	Organism	Pseudomonas aeruginosa
+T2	Organism	human
+T4	Two-component-system	BfiSR
+T5	Protein	BfiS
+T6	Protein	R
+T7	Two-component-system	PA4196-4197
+T8	Protein	PA4196
+T9	Protein	4197
+T10	Protein	RpoD
+T11	Protein	OmpR
+T12	Two-component-system	BfmSR
+T13	Protein	BfmS
+T15	Two-component-system	PA4101-4102
+T16	Protein	PA4101
+T17	Protein	4102
+T18	Two-component-system	MifSR
+T19	Protein	MifS
+T21	Two-component-system	PA5511-5512
+T22	Protein	PA5511
+T23	Protein	5512
+T24	Protein	NtrC
+T25	Protein	bfiS
+T26	Protein	bfmR
+T27	Protein	mifR
+T31	Protein	GacS
+T32	Protein	PA0928
+T33	Organism	P. aeruginosa
+*	Equiv T4 T7
+*	Equiv T12 T15
+*	Equiv T18 T21
+*	Equiv T31 T32
+E1	Process Participant:T1
+E2	Negative_regulation Theme:T25
+E3	Negative_regulation Theme:T26
+E4	Negative_regulation Theme:T27
+E5	Negative_regulation Theme:E9
+E6	Negative_regulation Theme:E10
+E7	Negative_regulation Theme:E8
+E8	Gene_expression Theme:T27
+E9	Gene_expression Theme:T25
+E10	Gene_expression Theme:T26

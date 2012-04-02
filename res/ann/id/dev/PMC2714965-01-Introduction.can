@@ -1,0 +1,49 @@
+T1	Organism	Pseudomonas aeruginosa
+T2	Organism	humans
+T3	Organism	P. aeruginosa
+T4	Organism	Caenorhabditis elegans
+T6	Organism	C. elegans
+T7	Organism	P. aeruginosa strain PA14
+T8	Organism	PA14
+T9	Organism	P. aeruginosa isolate PAO1
+T11	Organism	PAO1
+T12	Chemical	phosphate
+T13	Organism	P. aeruginosa isolates PA14
+T15	Organism	P. aeruginosa strain TBCF10839
+T16	Organism	TB
+T17	Organism	patient
+T20	Chemical	oxygen
+T23	Organism	TB STM (signature tagged mutagenesis) mutant
+T25	Organism	mouse
+T26	Protein	cheB2
+T30	Protein	PA0180
+T31	Protein	PA0173
+T33	Protein	PA1456
+T34	Protein	PA1464
+T35	Protein	PA3349
+T36	Protein	PA3348
+T38	Protein	PA3708
+T39	Protein	PA3702
+T40	Protein	PA0408
+T41	Protein	PA0417
+T44	Organism	Escherichia coli
+T45	Organism	Salmonella typhimurium
+T46	Organism	human
+T49	Organism	cheB2
+T50	Organism	cheB1 mutants
+T51	Protein	cheB1
+*	Equiv T16 T15
+E1	Process Participant:T1
+E2	Process Participant:T3
+E3	Process Participant:T3
+E4	Process
+E5	Process
+E6	Process
+E7	Negative_regulation Theme:E8
+E8	Process Participant:T23
+E9	Process
+E10	Process Participant:T3
+E11	Negative_regulation Theme:E12
+E12	Process Participant:T45
+E13	Process Participant:T49
+E14	Process Participant:T50

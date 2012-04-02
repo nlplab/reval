@@ -1,0 +1,60 @@
+T1	Protein	SlyA
+T2	Two-component-system	SsrA/SsrB
+T3	Protein	SsrA
+T4	Protein	SsrB
+T7	Protein	ssrA
+T11	Protein	H-NS
+T12	Protein	StpA
+T13	Protein	Hha
+T14	Protein	YdgT
+T15	Protein	slyA
+T16	Protein	rovA
+T17	Protein	toxT
+T32	Protein	PhoP
+T34	Protein	pagC
+T35	Protein	ssrB
+T40	Protein	YdgD
+T45	Entity	promoter region
+T48	Entity	promoter
+T59	Entity	A+T rich SPI-2 region
+E1	Binding Theme1:T1 Site2:T45 Theme2:T7
+E2	Binding Theme:T1
+E3	Binding Theme1:T4 Site2:T48 Theme2:T7
+E4	Binding Theme:T11
+E5	Binding Theme:T12
+E6	Binding Theme:T13
+E7	Binding Theme:T14
+E8	Process
+E9	Negative_regulation Cause:E15 Theme:T11
+E10	Negative_regulation Cause:E16 Theme:T14
+E11	Negative_regulation Cause:E17 Theme:T13
+E12	Negative_regulation Cause:E18 Theme:T11
+E13	Negative_regulation Cause:E19 Theme:T14
+E14	Negative_regulation Cause:E20 Theme:T13
+E15	Negative_regulation Cause:E21 Theme:E25
+E16	Negative_regulation Cause:E21 Theme:E22
+E17	Negative_regulation Cause:E21 Theme:E23
+E18	Negative_regulation Cause:E24 Theme:E25
+E19	Negative_regulation Cause:E24 Theme:E22
+E20	Negative_regulation Cause:E24 Theme:E23
+E21	Binding Theme:T1
+E22	Binding Theme:T14
+E23	Binding Theme:T13
+E24	Binding Theme:T4
+E25	Binding Theme:T11
+E26	Negative_regulation Cause:T1 Theme:E28
+E27	Negative_regulation Cause:T32 Theme:E28
+E28	Negative_regulation Cause:T11 Theme:T34
+E29	Gene_expression Theme:T35
+E30	Gene_expression Theme:T15
+E31	Negative_regulation Cause:T1 Theme:E37
+E32	Negative_regulation Cause:T1 Theme:E38
+E33	Negative_regulation Cause:T1 Theme:E39
+E34	Negative_regulation Cause:T4 Theme:E37
+E35	Negative_regulation Cause:T4 Theme:E38
+E36	Negative_regulation Cause:T4 Theme:E39
+E37	Binding Site:T59 Theme:T11
+E38	Binding Site:T59 Theme:T40
+E39	Binding Site:T59 Theme:T13
+E40	Gene_expression Theme:T35
+E41	Gene_expression Theme:T15

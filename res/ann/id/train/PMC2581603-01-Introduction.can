@@ -1,0 +1,90 @@
+T1	Organism	Pseudomonas aeruginosa
+T2	Organism	patients
+T3	Organism	P. aeruginosa
+T8	Chemical	alginate exopolysaccharide
+T9	Chemical	EPS
+T10	Chemical	Alginate
+T11	Organism	Pseudomonas
+T14	Chemical	alginate
+T17	Chemical	beta-lactams
+T18	Chemical	aminoglycosides
+T22	Organism	S. aureus
+T23	Organism	E. coli
+T24	Organism	V. fischeri
+T25	Protein	GacA
+T26	Protein	LadS
+T27	Protein	RetS
+T29	Protein	algR
+T31	Protein	SadA
+T32	Protein	R
+T33	Protein	S
+T34	Protein	PvrR
+T36	Chemical	cationic antimicrobial peptides
+T37	Chemical	CAPs
+T40	Organism	humans
+T43	Two-component-system	PhoPQ
+T44	Protein	PhoP
+T45	Protein	Q
+T46	Two-component-system	PmrAB
+T47	Protein	PmrA
+T48	Protein	B
+T49	Chemical	Mg2+
+T50	Chemical	magnesium
+T53	Chemical	CAP
+T54	Regulon-operon	PA3552-PA3559
+T55	Protein	PA3552
+T56	Protein	PA3559
+T57	Regulon-operon	arnBCADTEF-ugd
+T58	Protein	arnB
+T59	Protein	C
+T60	Protein	A
+T61	Protein	D
+T62	Protein	T
+T63	Protein	E
+T64	Protein	F
+T65	Protein	ugd
+T66	Chemical	LPS
+T67	Chemical	lipid A
+T81	Chemical	exopolysaccharides
+T84	Organism	Staphylococcus epidermidis
+*	Equiv T36 T37
+*	Equiv T54 T57
+E1	Process Participant:T1
+E2	Process
+E3	Process
+E4	Process
+E5	Process
+E6	Positive_regulation Theme:E7
+E7	Process
+E8	Process
+E9	Process
+E10	Process
+E11	Process
+E12	Process
+E13	Process
+E14	Process
+E15	Process
+E16	Process
+E17	Process
+E18	Process
+E19	Process
+E20	Regulation Cause:T26 Theme:T25
+E21	Regulation Cause:T27 Theme:T25
+E22	Process Participant:T3
+E23	Process
+E24	Process Participant:T3
+E25	Positive_regulation Cause:T43 Theme:E24
+E26	Positive_regulation Cause:T46 Theme:E24
+E27	Positive_regulation Theme:T43
+E28	Positive_regulation Theme:T46
+E29	Binding Theme1:T44 Theme2:T57
+E30	Binding Theme1:T47 Theme2:T57
+E31	Process
+E32	Positive_regulation Cause:T44 Theme:E34
+E33	Positive_regulation Cause:T47 Theme:E34
+E34	Gene_expression Theme:T57
+E35	Process
+E36	Gene_expression Theme:T57
+E37	Process
+E38	Process
+E39	Process

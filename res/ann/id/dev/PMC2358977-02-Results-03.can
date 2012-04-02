@@ -1,0 +1,16 @@
+T1	Organism	DeltasalKR
+T2	Two-component-system	salKR
+T3	Protein	salK
+T4	Protein	R
+T5	Two-component-system	SalK/SalR
+T6	Protein	SalK
+T7	Protein	SalR
+T8	Organism	SS2
+T12	Protein	SpcR
+T13	Organism	05ZYH33
+T14	Chemical	spectinomycin
+T56	Protein	salR
+E1	Transcription Theme:T3
+M1	Negation E1
+E2	Transcription Theme:T56
+M2	Negation E2

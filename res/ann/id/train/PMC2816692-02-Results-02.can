@@ -1,0 +1,16 @@
+T1	Protein	SrcA
+T2	Organism	Salmonella
+T3	Organism	host
+T4	Protein	SsrB
+T7	Protein	srcA
+T8	Organism	Salmonella enterica
+T9	Organism	S. bongori
+T17	Organism	S. Typhimurium
+T18	Organism	mice
+T21	Organism	srcA mutant
+E1	Process Participant:T8
+E2	Process
+E3	Process Participant:T17
+E4	Process
+E5	Process
+E6	Process Participant:T21

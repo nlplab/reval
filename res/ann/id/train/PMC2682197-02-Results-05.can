@@ -1,0 +1,11 @@
+T1	Organism	M. tuberculosis
+T2	Protein	Rv2623
+T3	Chemical	ATP
+T21	Protein	MJ0577
+E1	Binding Theme1:T3 Theme2:T2
+M1	Speculation E1
+E2	Binding Theme:T2
+E3	Binding Theme:T3
+E4	Binding Theme1:T3 Theme2:T2
+E5	Binding Theme1:T3 Theme2:T21
+E6	Binding Theme:T3

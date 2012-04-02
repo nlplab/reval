@@ -1,0 +1,51 @@
+T1	Two-component-system	VicRK
+T2	Protein	VicR
+T3	Protein	K
+T4	Two-component-system	YycFG
+T5	Protein	YycF
+T6	Protein	G
+T8	Organism	Bacillus subtilis
+T9	Organism	Staphylococcus aureus
+T10	Organism	Streptococcus pneumoniae
+T11	Organism	Streptococcus pyogenes
+T12	Protein	vicK
+T13	Organism	S. pneumoniae
+T14	Organism	Streptococcus mutans
+T15	Organism	S. pyogenes
+T16	Organism	B. subtilis
+T17	Organism	S. aureus
+T18	Two-component-system	vicRK
+T19	Protein	vicR
+T24	Organism	Streptococcus equi subspecies equi
+T25	Organism	S. equi
+T26	Organism	equine
+T29	Chemical	hyaluronic acid
+T31	Protein	M-like protein
+T32	Protein	SeM
+T33	Organism	horses
+T41	Organism	vicK deletion mutant
+T43	Organism	mouse
+*	Equiv T24 T25
+*	Equiv T31 T32
+E1	Negative_regulation Theme:T12
+E2	Negative_regulation Theme:E3
+E3	Process
+E4	Process
+E5	Process
+E6	Process Participant:T24
+E7	Process
+E8	Process Participant:T24
+E9	Process
+E10	Regulation Cause:T1 Theme:E11
+M1	Speculation E10
+E11	Process Participant:T24
+E12	Process
+E13	Negative_regulation Theme:E14
+E14	Process Participant:T24
+E15	Process
+E16	Process Participant:T41
+E17	Negative_regulation Cause:E16 Theme:E18
+E18	Process Participant:T24
+E19	Positive_regulation Cause:E16 Theme:E20
+E20	Gene_expression Theme:T32
+E21	Process

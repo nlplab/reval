@@ -1,0 +1,30 @@
+T1	Organism	Caenorhabditis elegans
+T2	Protein	cheB2
+T3	Organism	Pseudomonas aeruginosa
+T5	Organism	human
+T7	Organism	C. elegans
+T8	Organism	P. aeruginosa
+T10	Organism	TBCF10839
+T12	Protein	AraC
+T13	Protein	cheB
+T14	Chemical	methylesterase
+T15	Protein	CheB2
+T17	Organism	murine
+T20	Protein	cheB1
+T21	Organism	cheB2 mutant
+T23	Organism	cheB1 mutant
+E1	Process Participant:T3
+E2	Process Participant:T3
+E3	Process
+E4	Process
+E5	Process
+E6	Negative_regulation Theme:E7
+E7	Process
+E8	Negative_regulation Theme:E10
+M1	Negation E8
+E9	Negative_regulation Theme:E11
+M2	Negation E9
+E10	Process Participant:T23
+E11	Process Participant:T21
+E12	Process Participant:T21
+E13	Process Participant:T8

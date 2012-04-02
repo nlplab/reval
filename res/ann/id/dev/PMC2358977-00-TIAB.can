@@ -1,0 +1,22 @@
+T1	Two-component-system	SalK/SalR
+T2	Protein	SalK
+T3	Protein	SalR
+T4	Organism	Streptococcus suis Serotype 2
+T5	Organism	Streptococcus suis serotype 2
+T6	Organism	S. suis 2
+T7	Organism	SS2
+T8	Organism	human
+T14	Organism	Streptococcus salivarius
+T15	Two-component-system	salKR
+T16	Protein	salK
+T17	Protein	R
+T19	Organism	piglets
+T23	Organism	isogenic mutant DeltasalKR
+T27	Organism	DeltasalKR mutant
+*	Equiv T5 T6 T7
+E1	Positive_regulation Cause:T1 Theme:E2
+E2	Process Participant:T4
+E3	Process Participant:T5
+E4	Process Participant:T5
+E5	Positive_regulation Cause:T1 Theme:E6
+E6	Process Participant:T5

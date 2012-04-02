@@ -1,0 +1,20 @@
+T1	Chemical	folate
+T2	Chemical	ATP
+T3	Protein	RopB
+T4	Protein	spy2042
+T5	Protein	Rgg
+T6	Protein	mga
+T7	Two-component-system	csrRS
+T8	Protein	csrR
+T9	Protein	S
+T10	Protein	sagA
+T11	Regulon-operon	fasBCA
+T12	Protein	fasB
+T13	Protein	C
+T14	Protein	A
+T16	Two-component-system	spy1236-1237
+T17	Protein	spy1236
+T18	Protein	1237
+*	Equiv T4 T3
+E1	Process
+E2	Positive_regulation Theme:T16

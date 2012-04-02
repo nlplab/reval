@@ -1,0 +1,36 @@
+T1	Protein	SsrB
+T3	Organism	S. enterica serovar Typhimurium
+T4	Organism	S. Typhimurium
+T5	Protein	STM2138
+T6	Protein	srcA
+T7	Organism	ssrB mutant
+T8	Protein	ssrB
+T9	Organism	Salmonella
+T10	Protein	SsrA
+T12	Protein	STM1378
+T13	Protein	STM1425
+T14	Protein	thrL
+T24	Protein	1A
+T25	Protein	SrcA
+T30	Organism	DeltassrB
+T31	Protein	SseC
+*	Equiv T4 T3
+*	Equiv T6 T5
+T42	Entity	intergenic region (IGR)
+E1	Regulation Theme:T6
+E2	Negative_regulation Theme:T6
+E3	Negative_regulation Theme:T6
+E4	Regulation Cause:T1 Theme:E5
+M1	Speculation E4
+E5	Gene_expression Theme:T6
+E6	Binding Theme1:T1 Theme2:T6
+E7	Binding Theme1:T1 Site2:T42 Theme2:T6
+E8	Regulation Cause:T1 Theme:E9
+E9	Gene_expression Theme:T6
+E10	Gene_expression Theme:T6
+E11	Negative_regulation Theme:T25
+E12	Localization Theme:T25
+E13	Regulation Cause:T1 Theme:T31
+E14	Localization Theme:T31
+E15	Localization Theme:T31
+M2	Negation E15

@@ -1,0 +1,21 @@
+T1	Organism	cheB1 Mutant
+T2	Protein	cheB1
+T3	Organism	C. elegans
+T4	Organism	P. aeruginosa
+T5	Organism	cheB2 mutant
+T6	Protein	cheB2
+T8	Organism	cheB1 mutant
+T11	Organism	TB
+T12	Organism	TB1459i
+T25	Organism	TB0173s
+T26	Organism	cheB2 mutant TB0173i
+*	Equiv T25
+E1	Negative_regulation Theme:E2
+E2	Process Participant:T1
+E3	Process Participant:T5
+M1	Negation E3
+E4	Process Participant:T8
+E5	Process Participant:T5
+M2	Negation E5
+E6	Process Participant:T26
+M3	Negation E6

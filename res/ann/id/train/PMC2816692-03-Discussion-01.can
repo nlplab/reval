@@ -1,0 +1,18 @@
+T1	Protein	SrcA
+T2	Organism	S. Typhimurium
+T3	Organism	host
+T5	Protein	SigE
+T6	Organism	E. coli
+T7	Protein	CesT
+T8	Protein	Tir
+T11	Chemical	carboxyl
+T17	Protein	Spa15
+T18	Organism	Shigella
+T20	Protein	SicP
+T23	Organism	Salmonella
+E1	Process Participant:T2
+E2	Binding Theme1:T7 Theme2:T8
+E3	Binding Theme:T1
+E4	Binding Theme:T1
+E5	Binding Theme:T1
+M1	Negation E5

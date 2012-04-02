@@ -1,0 +1,20 @@
+T1	Protein	spy0129
+T2	Organism	spy0129 deletion mutant
+T4	Organism	SF370
+T5	Organism	SF370Deltaspy0129
+T7	Regulon-operon	spy0127-0130
+T8	Protein	spy0127
+T9	Protein	0130
+T11	Protein	spy0128
+T12	Protein	spy0130
+T13	Protein	sortase
+T14	Organism	SF370Deltaspy0129.2
+T18	Organism	SF370Deltaspy0129.2 mutant
+T27	Entity	cell-wall surface
+E1	Localization AtLoc:T27 Theme:T11
+M1	Negation E1
+E2	Localization AtLoc:T27 Theme:T12
+M2	Negation E2
+E3	Gene_expression Theme:T12
+E4	Negative_regulation Theme:E3
+E5	Negative_regulation Theme:T13

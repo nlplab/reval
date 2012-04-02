@@ -1,0 +1,16 @@
+T1	Organism	Porphyromonas gingivalis
+T2	Two-component-system	FimS/FimR
+T3	Protein	FimS
+T4	Protein	FimR
+T6	Protein	FimA
+T7	Protein	fimA
+T11	Protein	Mfa1
+T12	Organism	P. gingivalis
+T14	Protein	mfa1
+T26	Entity	promoter region
+E1	Gene_expression Theme:T7
+E2	Regulation Cause:T2 Theme:E1
+E3	Positive_regulation Theme:T4
+E4	Regulation Cause:T4 Theme:T6
+E5	Regulation Theme:T14
+E6	Binding Theme1:T4 Site2:T26 Theme2:T14

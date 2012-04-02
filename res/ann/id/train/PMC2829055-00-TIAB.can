@@ -1,0 +1,15 @@
+T1	Organism	Flea
+T2	Organism	Yersinia pestis
+T4	Organism	fleas
+T5	Organism	Y. pestis
+T6	Organism	flea
+T13	Organism	rat
+T21	Organism	host
+E1	Process Participant:T2
+E2	Process Participant:T2
+E3	Process Participant:T5
+E4	Process
+E5	Process Participant:T4
+E6	Process
+E7	Process Participant:T5
+E8	Process Participant:T4

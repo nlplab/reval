@@ -1,0 +1,13 @@
+T1	Organism	P. aeruginosa
+T2	Organism	TB
+T3	Organism	TB0173s cheB2 mutant
+T4	Protein	cheB2
+T5	Organism	mice
+T8	Organism	TB0173sp2B2
+E1	Process Participant:T1
+E2	Process Participant:T2
+E3	Process Participant:T3
+E4	Process Participant:T2
+E5	Process Participant:T3
+E6	Process Participant:T2
+E7	Process Participant:T8

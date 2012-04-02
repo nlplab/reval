@@ -1,0 +1,58 @@
+T1	Protein	hilA
+T2	Protein	invF
+T3	Protein	hilD
+T4	Protein	hilC
+T5	Organism	mlc mutant
+T6	Protein	mlc
+T7	Protein	Mlc
+T12	Organism	SL1344
+T13	Organism	SR1304
+T16	Protein	HilA
+T18	Regulon-operon	invFA
+T20	Protein	A
+T22	Protein	HilC
+T23	Protein	D
+T25	Regulon-operon	invFD
+T30	Protein	prgH
+T31	Protein	sigD
+T33	Protein	InvF
+T38	Protein	HilD
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T2
+E3	Gene_expression Theme:T3
+E4	Gene_expression Theme:T4
+E5	Negative_regulation Theme:E1
+E6	Negative_regulation Theme:E2
+E7	Negative_regulation Theme:E3
+E8	Negative_regulation Theme:E4
+E9	Gene_expression Theme:T2
+E10	Gene_expression Theme:T4
+E11	Gene_expression Theme:T3
+E12	Gene_expression Theme:T1
+E13	Negative_regulation Theme:T1
+E14	Positive_regulation Cause:T16 Theme:E15
+E15	Gene_expression Theme:T2
+E16	Negative_regulation Theme:T3
+E17	Positive_regulation Cause:T22 Theme:E19
+E18	Positive_regulation Cause:T23 Theme:E19
+E19	Gene_expression Theme:T2
+E20	Gene_expression Theme:T4
+E21	Negative_regulation Cause:T16 Theme:E25
+E22	Negative_regulation Cause:T16 Theme:E26
+E23	Negative_regulation Cause:T33 Theme:E25
+E24	Negative_regulation Cause:T33 Theme:E26
+E25	Gene_expression Theme:T30
+E26	Gene_expression Theme:T31
+E27	Gene_expression Theme:T1
+E28	Gene_expression Theme:T2
+E29	Regulation Cause:T22 Theme:E27
+E30	Regulation Cause:T38 Theme:E28
+E31	Gene_expression Theme:T4
+E32	Regulation Theme:E31
+M1	Negation E32
+E33	Regulation Cause:T7 Theme:E35
+E34	Regulation Cause:T7 Theme:E36
+E35	Gene_expression Theme:T1
+E36	Gene_expression Theme:T2
+E37	Regulation Cause:T7 Theme:E38
+E38	Gene_expression Theme:T3

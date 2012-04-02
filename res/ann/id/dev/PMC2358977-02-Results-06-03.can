@@ -1,0 +1,15 @@
+T1	Protein	05SSU0677
+T2	Protein	05SSU1912
+T3	Organism	DeltasalKR
+T4	Two-component-system	salKR
+T5	Protein	salK
+T6	Protein	R
+T19	Organism	complemented strain CDeltasalKR
+T30	Protein	05SSU0945
+T31	Protein	05SSU0942
+T32	Organism	05ZYH33
+E1	Negative_regulation Theme:T1
+E2	Negative_regulation Theme:T2
+E3	Process Participant:T3
+E4	Negative_regulation Theme:E3
+E5	Process

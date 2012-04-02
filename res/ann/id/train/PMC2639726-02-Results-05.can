@@ -1,0 +1,10 @@
+T1	Organism	Salmonella
+T2	Organism	E. coli
+T5	Protein	pepA
+T6	Protein	mopB
+E1	Process
+E2	Process
+E3	Process
+E4	Process Participant:T1
+E5	Negative_regulation Theme:T5
+E6	Negative_regulation Theme:T6

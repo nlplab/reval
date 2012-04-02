@@ -1,0 +1,70 @@
+T1	Organism	Salmonella
+T2	Organism	mouse
+T3	Organism	Typhimurium
+T4	Chemical	carbon
+T5	Organism	bacteriophage lambda
+T6	Two-component-system	ssrA/ssrB
+T7	Protein	ssrA
+T8	Protein	ssrB
+T11	Two-component-system	phoP/phoQ
+T12	Protein	phoP
+T13	Protein	phoQ
+T14	Two-component-system	ompR/envZ
+T15	Protein	ompR
+T16	Protein	envZ
+T17	Organism	BALB/c mice
+T18	Organism	mice
+T20	Protein	spvR
+T21	Protein	fruR
+T22	Protein	himD
+T29	Protein	slyA
+T30	Protein	hnr
+T31	Protein	rpoE
+T32	Protein	smpB
+T33	Protein	csrA
+T34	Protein	rpoS
+T35	Protein	crp
+T39	Protein	hfq
+T41	Organism	ATCC14028
+T44	Organism	129X1/SvJ
+T45	Organism	BALB/c
+T46	Organism	129X1/SvJ mice
+T48	Protein	Nramp1
+T67	Protein	mviA
+T71	Protein	ihf
+T92	Protein	P22
+E1	Process Participant:T1
+E2	Process Participant:T3
+E3	Process
+E4	Process
+E5	Process
+E6	Process
+E7	Negative_regulation Theme:E8
+E8	Process Participant:T41
+E9	Process
+E10	Process
+E11	Process
+M1	Negation E11
+E12	Process
+E13	Process
+E14	Process
+E15	Process
+E16	Process
+E17	Process
+E18	Process Participant:T3
+E19	Process
+E20	Process
+E21	Process
+E22	Transcription Theme:T31
+E23	Transcription Theme:T12
+E24	Transcription Theme:T13
+E25	Transcription Theme:T33
+E26	Transcription Theme:T29
+E27	Transcription Theme:T71
+E28	Transcription Theme:T39
+E29	Transcription Theme:T7
+E30	Transcription Theme:T8
+E31	Process
+E32	Process
+E33	Process
+E34	Process

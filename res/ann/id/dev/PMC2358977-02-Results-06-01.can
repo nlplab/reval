@@ -1,0 +1,19 @@
+T1	Organism	Mutant Strain DeltasalKR
+T2	Two-component-system	salKR
+T3	Protein	salK
+T4	Protein	R
+T5	Two-component-system	SalK/SalR
+T6	Protein	SalK
+T7	Protein	SalR
+T8	Organism	DeltasalKR
+T19	Chemical	orotidine-5-phosphate
+T20	Protein	05SSU1009
+T21	Organism	Vibrio vulnificus
+T26	Organism	extraintestinal pathogenic E. coli
+T27	Organism	ExPEC
+T28	Protein	pst
+T29	Protein	05SSU0451
+*	Equiv T26 T27
+*	Equiv T28 T29
+E1	Negative_regulation Theme:T20
+E2	Negative_regulation Theme:T28

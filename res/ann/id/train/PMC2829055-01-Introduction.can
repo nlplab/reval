@@ -1,0 +1,36 @@
+T1	Organism	rickettsiae
+T2	Organism	Borrelia spirochetes
+T3	Organism	Francisella tularensis
+T4	Organism	Yersinia pestis
+T5	Organism	Y. pestis
+T6	Organism	hosts
+T7	Organism	flea
+T8	Organism	fleas
+T10	Organism	host
+T15	Protein	yersinia murine toxin
+T16	Protein	ymt
+T17	Protein	phospholipase D
+T19	Regulon-operon	hmsHFRS
+T20	Protein	gmhA
+T21	Chemical	lipopolysaccharide
+T22	Chemical	LPS
+T29	Organism	Fleas
+T33	Chemical	di-GMP
+T34	Protein	hmsT
+T35	Protein	diguanylate cyclase
+T36	Protein	hmsP
+T37	Protein	phosphodiesterase
+T40	Organism	rats
+T42	Organism	Xenopsylla cheopis rat fleas
+T43	Organism	humans
+T49	Organism	rat
+*	Equiv T16 T15
+*	Equiv T21 T22
+E1	Process
+E2	Process Participant:T5
+E3	Process
+E4	Regulation Theme:T19
+E5	Regulation Theme:T20
+E6	Process
+E7	Negative_regulation Cause:T33 Theme:T34
+E8	Negative_regulation Cause:T33 Theme:T36

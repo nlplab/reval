@@ -1,0 +1,79 @@
+T1	Chemical	Iron
+T2	Chemical	iron
+T5	Chemical	heme
+T6	Chemical	yersiniabactin
+T7	Organism	Y. enterocolitica
+T8	Organism	P. luminescens
+T10	Organism	1B
+T11	Chemical	hemine
+T12	Protein	ye0323
+T13	Protein	0332
+T14	Protein	plu2631
+T15	Protein	2636
+T16	Protein	YfeA
+T17	Protein	B
+T18	Protein	C
+T19	Protein	D
+T21	Chemical	ferrous (Fe2+) iron
+T22	Protein	FeoA
+T24	Protein	AfuA
+T27	Protein	SfuA
+T30	Chemical	ferric
+T31	Chemical	Fe3+
+T32	Chemical	enterobactin
+T33	Protein	FepB
+T36	Protein	G
+T37	Protein	FecA
+T41	Protein	E
+T42	Chemical	hemin
+T43	Chemical	siderophore
+T45	Protein	YE1459
+T46	Protein	1461
+T47	Protein	Plu2850
+T48	Protein	2852
+T49	Protein	YE3190
+T50	Protein	Plu2853
+T51	Protein	YE0555
+T52	Protein	Plu3738
+T54	Regulon-operon	fecIRABCDE
+T55	Protein	fecI
+T56	Protein	R
+T57	Protein	A
+T62	Organism	E. coli
+T67	Protein	YE0123
+T68	Protein	126
+T69	Protein	YE2180
+T70	Protein	2182
+T74	Chemical	ferrichrome
+T75	Protein	YE0730
+T76	Protein	0732
+T78	Protein	YE0704
+T80	Protein	YE2481
+T81	Protein	2484
+T87	Protein	PpxA
+T88	Protein	Plu4242
+T89	Protein	PpxB
+T90	Protein	Plu4243
+T97	Protein	FepG
+T98	Organism	Y. pestis
+T99	Organism	Y. ruckeri
+*	Equiv T30 T31
+*	Equiv T87 T88
+*	Equiv T89 T90
+E1	Gene_expression Theme:T67
+E2	Gene_expression Theme:T75
+E3	Gene_expression Theme:T76
+E4	Gene_expression Theme:T78
+E5	Gene_expression Theme:T80
+E6	Gene_expression Theme:T81
+E7	Gene_expression Theme:T68
+E8	Gene_expression Theme:T69
+E9	Gene_expression Theme:T70
+E10	Gene_expression Theme:T27
+E11	Gene_expression Theme:T17
+E12	Gene_expression Theme:T18
+E13	Binding Theme:T75
+E14	Binding Theme:T76
+E15	Positive_regulation Theme:T97
+E16	Process
+E17	Process

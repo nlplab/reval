@@ -1,0 +1,36 @@
+T1	Protein	SrcA
+T2	Protein	srcA
+T3	Protein	pipB2
+T4	Protein	sseL
+T5	Organism	Salmonella enterica
+T6	Organism	S. bongori
+T8	Two-component-system	SsrA-SsrB
+T9	Protein	SsrA
+T10	Protein	SsrB
+T16	Organism	Salmonella
+T17	Organism	host
+T20	Protein	STM2137
+T22	Protein	SseK2
+T23	Protein	SseK1
+T34	Protein	InvB
+T35	Protein	SicP
+T37	Protein	CesT
+T38	Organism	E. coli
+T39	Organism	Shigella
+*	Equiv T22
+T44	Entity	promoter region
+T49	Entity	host cells
+E1	Gene_expression Theme:T2
+E2	Regulation Cause:T8 Theme:E1
+E3	Binding Theme1:T10 Site2:T44 Theme2:T2
+E4	Regulation Cause:T10 Theme:T4
+E5	Regulation Cause:T10 Theme:T3
+E6	Localization Theme:T20
+E7	Regulation Cause:T8 Theme:T22
+E8	Localization Theme:T22 ToLoc:T49
+E9	Localization Theme:T22
+M1	Negation E9
+E10	Binding Theme1:T22 Theme2:T1
+M2	Negation E10
+E11	Localization Theme:T22
+E12	Process

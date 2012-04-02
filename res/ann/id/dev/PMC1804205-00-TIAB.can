@@ -1,0 +1,13 @@
+T1	Two-component-system	PmrA/PmrB
+T2	Protein	PmrA
+T3	Protein	PmrB
+T4	Organism	Salmonella enterica
+T5	Organism	Salmonella enterica serovar Typhimurium
+T9	Chemical	Fe3+
+T10	Chemical	Al3+
+T12	Protein	PmrD
+T18	Chemical	lipopolysaccharide
+T19	Chemical	polymyxin B
+T20	Organism	Salmonella
+E1	Positive_regulation Theme:T1
+E2	Positive_regulation Theme:T2

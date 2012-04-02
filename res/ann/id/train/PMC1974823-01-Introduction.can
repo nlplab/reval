@@ -1,0 +1,58 @@
+T1	Organism	Porphyromonas gingivalis
+T2	Organism	P. gingivalis
+T3	Protein	FimA
+T4	Protein	fimA
+T5	Protein	Mfa1
+T11	Organism	fimA mutant
+T15	Chemical	hemin
+T16	Organism	Streptococcus cristatus
+T17	Protein	FimR
+T18	Two-component-system	fimS/fimR
+T19	Protein	fimS
+T20	Protein	fimR
+T22	Organism	fimR mutants
+T28	Protein	pg2130
+T30	Protein	PG2130
+T37	Organism	Streptococcus gordonii
+T39	Protein	SspB
+T45	Protein	mfa1
+T46	Organism	S. gordonii
+T47	Organism	Streptococcus sanguinis
+T48	Organism	Streptococcus mitis
+T67	Entity	promoter
+T69	Entity	promoter region
+E1	Process Participant:T2
+E2	Positive_regulation Theme:E1
+E3	Regulation Theme:E4
+M1	Speculation E3
+E4	Gene_expression Theme:T4
+E5	Gene_expression Theme:T3
+E6	Regulation Theme:E5
+E7	Gene_expression Theme:T3
+E8	Negative_regulation Theme:E7
+E9	Regulation Cause:T17 Theme:T4
+E10	Binding Theme1:T17 Site2:T67 Theme2:T4
+M2	Negation E10
+E11	Binding Theme1:T17 Site2:T69 Theme2:T28
+E12	Regulation Cause:T30 Theme:E13
+E13	Gene_expression Theme:T4
+E14	Binding Theme1:T2 Theme2:T37
+E15	Positive_regulation Cause:E16 Theme:E14
+E16	Binding Theme1:T5 Theme2:T39
+E17	Gene_expression Theme:T5
+E18	Regulation Theme:E17
+E19	Gene_expression Theme:T3
+E20	Gene_expression Theme:T5
+E21	Negative_regulation Theme:E19
+E22	Negative_regulation Theme:E20
+E23	Gene_expression Theme:T45
+E24	Negative_regulation Theme:E23
+E25	Regulation Theme:E26
+E26	Gene_expression Theme:T45
+E27	Positive_regulation Cause:T17 Theme:E28
+E28	Gene_expression Theme:T5
+E29	Positive_regulation Cause:T17 Theme:E30
+E30	Gene_expression Theme:T4
+E31	Regulation Cause:E33 Theme:E32
+E32	Gene_expression Theme:T45
+E33	Binding Theme1:T17 Site2:T69 Theme2:T45

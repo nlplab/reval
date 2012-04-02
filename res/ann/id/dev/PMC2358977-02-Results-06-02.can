@@ -1,0 +1,33 @@
+T1	Protein	05SSU0063
+T2	Protein	05SSU0588
+T3	Protein	05SSU0953
+T4	Protein	05SSU0503
+T5	Protein	05SSU1233
+T6	Two-component-system	SalK/SalR
+T7	Protein	SalK
+T8	Protein	SalR
+T9	Organism	DeltasalKR
+T10	Two-component-system	salKR
+T11	Protein	salK
+T12	Protein	R
+E1	Regulation Cause:T6 Theme:T1
+E2	Regulation Cause:T6 Theme:T2
+E3	Regulation Cause:T6 Theme:T3
+E4	Regulation Cause:T6 Theme:T4
+E5	Regulation Cause:T6 Theme:T5
+E6	Negative_regulation Theme:T5
+E7	Negative_regulation Theme:T1
+E8	Negative_regulation Theme:T2
+E9	Negative_regulation Theme:T3
+E10	Negative_regulation Theme:T4
+E11	Regulation Cause:E7 Theme:E16
+M1	Speculation E11
+E12	Regulation Cause:E8 Theme:E16
+M2	Speculation E12
+E13	Regulation Cause:E9 Theme:E16
+M3	Speculation E13
+E14	Regulation Cause:E10 Theme:E16
+M4	Speculation E14
+E15	Regulation Cause:E6 Theme:E16
+M5	Speculation E15
+E16	Process Participant:T9

@@ -1,0 +1,34 @@
+T1	Two-component-system	SalK/SalR
+T2	Protein	SalK
+T3	Protein	SalR
+T4	Two-component-system	salKR
+T5	Protein	salK
+T6	Protein	R
+T7	Organism	SS2
+T8	Chemical	spectinomycin
+T10	Organism	DeltasalKR
+T22	Organism	piglets
+T28	Organism	05HAS68
+T38	Organism	complemented strain CDeltasalKR
+T50	Organism	CDeltasalKR
+T67	Organism	05ZYH33
+E1	Regulation Cause:T1 Theme:E2
+M1	Speculation E1
+E2	Process
+E3	Process
+E4	Process Participant:T10
+E5	Process
+E6	Regulation Cause:T1 Theme:E7
+M2	Speculation E6
+E7	Process
+E8	Process
+E9	Process Participant:T28
+E10	Process Participant:T28
+E11	Process Participant:T10
+E12	Positive_regulation Theme:T4
+E13	Process Participant:T50
+E14	Process Participant:T10
+E15	Negative_regulation Theme:E14
+E16	Process
+E17	Process Participant:T10
+E18	Process Participant:T7

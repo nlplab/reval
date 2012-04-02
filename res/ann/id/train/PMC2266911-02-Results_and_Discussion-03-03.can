@@ -1,0 +1,44 @@
+T1	Two-component-system	TctE/TctD
+T2	Protein	TctE
+T3	Protein	TctD
+T4	Organism	P. luminescens
+T5	Organism	Y. enterocolitica
+T6	Regulon-operon	tctCBA
+T7	Protein	tctC
+T8	Protein	B
+T9	Protein	A
+T10	Chemical	tricarboxylic acid
+T11	Protein	TctC
+T14	Chemical	citrate
+T15	Chemical	fluorocitrate
+T16	Chemical	isocitrate
+T17	Chemical	cis-acconitate
+T18	Chemical	Na+
+T20	Protein	CitS
+T21	Organism	S. enterica
+T23	Protein	YE2507
+T24	Two-component-system	CitA/CitB
+T25	Protein	CitA
+T26	Protein	CitB
+T34	Chemical	tricarboxylic acids
+T35	Chemical	TctC
+T36	Chemical	B
+T37	Chemical	A
+T41	Protein	sucA
+T42	Chemical	alpha-ketoglutarate
+T43	Protein	acnA
+T44	Organism	V. cholerae
+T45	Chemical	TCA
+T46	Organism	S. typhimurium
+T49	Organism	Galleria mellonella
+T54	Organism	Y. pestis
+T57	Chemical	tricarboxylates
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T6
+E3	Positive_regulation Cause:T24 Theme:T20
+E4	Positive_regulation Theme:T41
+E5	Positive_regulation Theme:T43
+E6	Process
+E7	Positive_regulation Theme:E8
+E8	Process Participant:T46
+E9	Positive_regulation Theme:T41

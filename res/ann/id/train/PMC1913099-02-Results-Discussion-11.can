@@ -1,0 +1,18 @@
+T1	Regulon-operon	spy1725-1719
+T2	Protein	spy1725
+T3	Protein	1719
+T4	Protein	spy1724
+T5	Protein	spy1722
+T6	Protein	spy1721
+T7	Protein	spy1719
+T8	Regulon-operon	nusA-infB
+T9	Protein	nusA
+T10	Protein	infB
+T11	Organism	Bacillus subtilis
+T12	Organism	Escherichia coli
+T14	Protein	spy1723
+T16	Protein	SP14.3
+T17	Organism	S. pneumoniae
+T20	Protein	YlxR
+T22	Protein	domain
+E1	Negative_regulation Theme:T1

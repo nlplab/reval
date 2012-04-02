@@ -1,0 +1,10 @@
+T1	Organism	invasive GAS
+T2	Organism	human
+T3	Organism	GAS
+T4	Protein	IL-8
+T7	Organism	non-invasive GAS
+T11	Chemical	propidium iodine
+E1	Process
+E2	Process
+E3	Process Participant:T3
+E4	Process

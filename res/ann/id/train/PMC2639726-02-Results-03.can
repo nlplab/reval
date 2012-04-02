@@ -1,0 +1,13 @@
+T1	Organism	Typhimurium
+T2	Chemical	magnesium
+T4	Organism	Salmonella
+E1	Process
+M1	Negation E1
+E2	Process
+E3	Negative_regulation Theme:E4
+E4	Process
+E5	Process
+E6	Process
+E7	Process
+E8	Process
+E9	Process

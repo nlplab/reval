@@ -1,0 +1,19 @@
+T1	Organism	Mycobacterium tuberculosis
+T2	Protein	Rv2623
+T3	Organism	rv2623-deletion mutant
+T4	Protein	rv2623
+T5	Organism	M. tuberculosis Erdman strain
+T8	Chemical	hygromycin
+T9	Organism	Deltarv2623
+T14	Protein	rv2624
+T16	Organism	E. coli
+T18	Protein	UspA
+T19	Organism	Deltarv2623 M. tuberculosis
+T21	Chemical	OADC
+T22	Organism	Erdman
+T24	Organism	M. tuberculosis
+T26	Organism	M. smegmatis strain mc2155
+E1	Process Participant:T5
+E2	Process
+E3	Transcription Theme:T14
+E4	Gene_expression Theme:T4

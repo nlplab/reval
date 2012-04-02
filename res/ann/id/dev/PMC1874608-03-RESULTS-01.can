@@ -1,0 +1,15 @@
+T1	Protein	mlc
+T2	Organism	Salmonella
+T3	Organism	S. Typhimurium
+T4	Organism	mlc mutant
+T6	Organism	SR1304
+T7	Organism	HEp-2
+T8	Organism	SL1344
+T19	Organism	mouse
+T22	Protein	Mlc
+E1	Process Participant:T8
+E2	Process Participant:T6
+E3	Process Participant:T8
+E4	Process Participant:T6
+E5	Regulation Cause:T22 Theme:E6
+E6	Process Participant:T2

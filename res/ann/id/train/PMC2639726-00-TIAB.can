@@ -1,0 +1,24 @@
+T1	Organism	Salmonella enterica Serovar Typhimurium
+T2	Organism	Salmonella
+T3	Organism	mouse
+T4	Organism	Salmonella enteriditis Typhimurium
+T5	Organism	STM
+T6	Organism	BALB/c mice
+T7	Organism	129X1/SvJ mice
+T11	Protein	SsrB
+T12	Protein	MarR
+T13	Protein	SlyA
+*	Equiv T4 T5
+E1	Process Participant:T1
+E2	Process Participant:T1
+E3	Process
+E4	Process Participant:T2
+E5	Process Participant:T4
+E6	Process
+E7	Negative_regulation Theme:E8
+E8	Process
+E9	Process
+E10	Process
+E11	Process Participant:T2
+E12	Process
+E13	Process

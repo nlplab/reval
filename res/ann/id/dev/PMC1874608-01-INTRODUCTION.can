@@ -1,0 +1,111 @@
+T1	Organism	Salmonella enterica serovar Typhimurium
+T2	Organism	humans
+T3	Organism	mice
+T4	Organism	Salmonella
+T6	Chemical	oxygen
+T7	Chemical	Mg2+
+T8	Protein	HilA
+T9	Protein	HilC
+T10	Protein	HilD
+T11	Protein	InvF
+T13	Regulon-operon	prg
+T14	Regulon-operon	inv/spa
+T15	Protein	prgH
+T16	Protein	invF
+T18	Regulon-operon	sic/sip
+T19	Two-component-system	sigD/sopB
+T20	Protein	sigD
+T21	Protein	sopB
+T22	Protein	sopE
+T23	Protein	SicA
+T26	Protein	AraC
+T27	Protein	XylS
+T28	Protein	hilA
+T38	Protein	RtsA
+T40	Protein	HilE
+T43	Protein	hilE
+T50	Two-component-system	PhoP/Q
+T51	Protein	PhoP
+T52	Protein	Q
+T53	Two-component-system	PhoBR
+T54	Protein	PhoB
+T55	Protein	R
+T56	Two-component-system	OmpR/EnvZ
+T57	Protein	OmpR
+T58	Protein	EnvZ
+T59	Two-component-system	SirA/BarA
+T60	Protein	SirA
+T61	Protein	BarA
+T62	Regulon-operon	CsrAB
+T63	Protein	CsrA
+T64	Protein	B
+T65	Protein	RNase E
+T66	Protein	PNPase
+T67	Protein	Lon
+T68	Protein	HU
+T69	Protein	FIS
+T70	Protein	H-NS
+T71	Protein	Hha
+T72	Chemical	ppGpp
+T73	Chemical	NpnN
+T74	Protein	FliZ
+T75	Protein	FadD
+T76	Protein	CpxA
+T77	Chemical	phosphoenolpyruvate
+T79	Protein	pts
+T80	Protein	crr
+T81	Protein	cya
+T82	Protein	crp
+T83	Protein	IIAGlc
+T84	Protein	adenylate cyclase
+T85	Protein	cyclic AMP receptor protein
+T86	Protein	Mlc
+T89	Organism	Salmonella Typhimurium mlc mutant
+T90	Protein	mlc
+T99	Entity	upstream
+T104	Entity	promoter
+E1	Process Participant:T4
+E2	Positive_regulation Theme:T8
+E3	Positive_regulation Theme:T9
+E4	Positive_regulation Theme:T10
+E5	Positive_regulation Theme:T11
+E6	Regulation Cause:T8 Theme:E8
+E7	Regulation Cause:T8 Theme:E9
+E8	Gene_expression Theme:T13
+E9	Gene_expression Theme:T14
+E10	Binding Theme1:T8 Site2:T99 Theme2:T15
+E11	Binding Theme1:T8 Site2:T99 Theme2:T16
+E12	Gene_expression Theme:T16
+E13	Positive_regulation Cause:E12 Theme:T18
+E14	Positive_regulation Cause:E12 Theme:T19
+E15	Positive_regulation Cause:E12 Theme:T22
+E16	Gene_expression Theme:T28
+E17	Negative_regulation Cause:T9 Site:T104 Theme:T28
+E18	Negative_regulation Cause:T10 Site:T104 Theme:T28
+E19	Positive_regulation Cause:T10 Theme:T28
+E20	Positive_regulation Cause:T9 Site:T104 Theme:T16
+E21	Positive_regulation Cause:T10 Site:T104 Theme:T16
+E22	Regulation Cause:T8 Theme:T16
+M1	Negation E22
+E23	Binding Site1:T99 Theme1:T28 Theme2:T9
+E24	Binding Site1:T99 Theme1:T28 Theme2:T10
+E25	Binding Site1:T99 Theme1:T28 Theme2:T38
+E26	Positive_regulation Cause:E23 Theme:E29
+E27	Positive_regulation Cause:E24 Theme:E29
+E28	Positive_regulation Cause:E25 Theme:E29
+E29	Gene_expression Theme:T28
+E30	Gene_expression Theme:T28
+E31	Positive_regulation Theme:E32
+E32	Gene_expression Theme:T28
+E33	Binding Theme1:T40 Theme2:T10
+E34	Negative_regulation Cause:T40 Theme:E35
+E35	Gene_expression Theme:T28
+E36	Negative_regulation Cause:T40 Theme:T10
+E37	Negative_regulation Theme:E38
+E38	Process Participant:T4
+E39	Process Participant:T4
+E40	Positive_regulation Theme:T86
+M2	Speculation E40
+E41	Process Participant:T89
+E42	Negative_regulation Cause:T86 Theme:E43
+E43	Gene_expression Theme:T43

@@ -1,0 +1,154 @@
+T1	Chemical	carbon
+T2	Chemical	nitrogen
+T3	Protein	matE
+T4	Protein	BAB1_0340
+T5	Protein	dctM
+T6	Protein	BAB1_0372
+T7	Protein	fhuD
+T8	Protein	BAB1_1366
+T9	Protein	yadH
+T10	Protein	BAB1_1368
+T11	Protein	oppA
+T12	Protein	BAB1_1601
+T13	Protein	oppC
+T14	Protein	BAB2_1051
+T15	Protein	oppD
+T16	Protein	BAB2_0817
+T17	Protein	potC
+T18	Protein	BAB1_ 1624
+T19	Protein	ssuB
+T20	Protein	BAB2_0917
+T21	Protein	ugpC
+T22	Protein	BAB2_1143
+T23	Protein	BAB2_0794
+T24	Protein	BAB2_1139
+T25	Organism	bvrR mutant
+T26	Protein	bvrR
+T27	Protein	pckA
+T28	Chemical	phosphoenolpyruvate
+T29	Protein	BAB1_2091
+T30	Chemical	pyruvate
+T31	Protein	fumB
+T32	Chemical	fumarate
+T33	Protein	BAB1_0977
+T34	Protein	lpdA
+T35	Chemical	dihydrolipoamide
+T36	Protein	BAB2_0712
+T38	Protein	BAB2_0032
+T39	Chemical	acetyl-CoA
+T40	Protein	BAB2_0443
+T41	Chemical	aldehyde
+T42	Protein	BAB2_1130
+T43	Protein	BAB2_1114
+T44	Chemical	hydroxymethylglutaryl-CoA
+T45	Protein	BAB1_0017
+T46	Chemical	benzoate
+T47	Protein	pcaC
+T48	Chemical	carboxymuconolactone
+T49	Protein	BAB2_0597
+T50	Protein	pcaI
+T51	Protein	BAB2_0604
+T52	Organism	Brucella
+T53	Regulon-operon	BAB1_0236-0248
+T54	Protein	BAB1_0236
+T55	Protein	0248
+T56	Protein	malK
+T57	Protein	malG
+T58	Protein	malF
+T59	Protein	malE
+T60	Protein	iclR
+T63	Two-component-system	BvrR/BvrS
+T64	Protein	BvrR
+T65	Protein	BvrS
+T79	Protein	nirK
+T80	Protein	BAB2_0943
+T81	Chemical	nitric oxide
+T82	Chemical	nitrous oxide
+T83	Protein	nor C
+T84	Protein	BAB2_0955
+T85	Protein	nosZ
+T86	Protein	BAB2_0928
+T87	Protein	BAB2_0863
+T88	Protein	BAB1_0383
+T90	Chemical	oxygen
+T91	Chemical	nitrate
+T94	Chemical	NO
+T95	Organism	mice
+T99	Protein	norC
+T113	Protein	hpr-K
+T114	Protein	BAB1_2094
+T116	Protein	BAB1_2097
+T117	Protein	2094
+T118	Two-component-system	bvrR/bvrS
+T120	Protein	bvrS
+T128	Protein	HPr
+T129	Chemical	mannose
+T132	Chemical	oxaloacetate
+T140	Organism	A. tumefaciens
+T142	Two-component-system	ChvG/ChvI
+T143	Protein	ChvG
+T144	Protein	ChvI
+T145	Organism	S. meliloti
+T146	Protein	exoS
+T147	Protein	chvI
+*	Equiv T3 T4
+*	Equiv T5 T6
+*	Equiv T7 T8
+*	Equiv T9 T10
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T15 T16
+*	Equiv T17 T18
+*	Equiv T19 T20
+*	Equiv T21 T22
+*	Equiv T27 T29
+*	Equiv T31 T33
+*	Equiv T34 T36
+*	Equiv T47 T49
+*	Equiv T50 T51
+*	Equiv T79 T80
+*	Equiv T83 T84
+*	Equiv T85 T86
+*	Equiv T113 T114
+E1	Gene_expression Theme:T3
+E2	Gene_expression Theme:T21
+E3	Gene_expression Theme:T23
+E4	Gene_expression Theme:T24
+E5	Gene_expression Theme:T5
+E6	Gene_expression Theme:T7
+E7	Gene_expression Theme:T9
+E8	Gene_expression Theme:T11
+E9	Gene_expression Theme:T13
+E10	Gene_expression Theme:T15
+E11	Gene_expression Theme:T17
+E12	Gene_expression Theme:T19
+E13	Positive_regulation Theme:T27
+E14	Positive_regulation Theme:T31
+E15	Positive_regulation Theme:T34
+E16	Positive_regulation Theme:T38
+E17	Positive_regulation Theme:T40
+E18	Positive_regulation Theme:T42
+E19	Positive_regulation Theme:T43
+E20	Positive_regulation Theme:T45
+E21	Positive_regulation Theme:T47
+E22	Positive_regulation Theme:T50
+E23	Regulation Theme:T53
+E24	Negative_regulation Theme:T56
+E25	Negative_regulation Theme:T57
+E26	Negative_regulation Theme:T58
+E27	Negative_regulation Theme:T59
+E28	Negative_regulation Theme:T60
+E29	Negative_regulation Theme:T53
+E30	Negative_regulation Theme:T79
+E31	Positive_regulation Theme:T83
+E32	Positive_regulation Theme:T85
+E33	Regulation Theme:T87
+E34	Regulation Theme:T88
+E35	Negative_regulation Theme:T113
+E36	Gene_expression Theme:T27
+E37	Positive_regulation Theme:T27
+E38	Gene_expression Theme:T27
+E39	Binding Theme:T65
+E40	Regulation Cause:T64 Theme:E41
+E41	Transcription Theme:T27
+E42	Regulation Cause:T142 Theme:T27

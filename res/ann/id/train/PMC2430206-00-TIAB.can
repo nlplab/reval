@@ -1,0 +1,22 @@
+T1	Two-component-system	GraRS
+T2	Protein	GraR
+T3	Protein	S
+T4	Organism	Staphylococcus aureus
+T5	Regulon-operon	dlt
+T6	Organism	Gram-positive bacteria
+T7	Protein	myeloperoxidase
+T8	Two-component-system	graRS
+T9	Protein	graR
+T15	Organism	S. aureus
+T16	Organism	S. aureus SA113 wild type
+T17	Organism	graRS deletion mutant
+T21	Protein	LL-37
+T25	Organism	human
+T28	Organism	mouse
+E1	Process
+E2	Process Participant:T15
+E3	Negative_regulation Cause:T21 Theme:T16
+E4	Negative_regulation Cause:T21 Theme:T17
+E5	Negative_regulation Theme:E6
+E6	Process Participant:T8
+E7	Process

@@ -1,0 +1,30 @@
+T1	Protein	IgG Endopeptidase
+T2	Protein	SeMac
+T3	Organism	Streptococcus equi Subspecies equi
+T4	Organism	Horse
+T5	Protein	Mac
+T6	Organism	group A Streptococcus
+T7	Organism	GAS
+T8	Protein	GAS
+T9	Organism	human
+T11	Protein	immunoglobulin G
+T12	Protein	IgG
+T13	Organism	horse
+T14	Organism	Streptococcus equi subspecies equi
+T19	Protein	IgG endopeptidase
+T20	Organism	S. equi
+T23	Organism	Escherichia coli
+T24	Organism	Mice
+T26	Organism	horses
+T33	Protein	IgG1
+T43	Protein	cysteine endopeptidase
+*	Equiv T6 T7
+*	Equiv T11 T12
+E1	Localization Theme:T5
+E2	Gene_expression Theme:T2
+E3	Gene_expression Theme:T2
+E4	Process Participant:T20
+E5	Gene_expression Theme:T2
+E6	Process
+E7	Protein_catabolism Theme:T33
+E8	Positive_regulation Cause:T2 Theme:E7

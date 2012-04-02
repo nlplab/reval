@@ -1,0 +1,63 @@
+T1	Organism	human
+T2	Organism	SS2
+T5	Chemical	capsule polysaccharide
+T6	Chemical	CPS
+T7	Chemical	suilysin
+T10	Two-component-system	SalK/SalR
+T11	Protein	SalK
+T12	Protein	SalR
+T13	Two-component-system	salKR
+T14	Protein	salK
+T15	Protein	R
+T16	Chemical	Suilysin
+T26	Organism	SalK/SalR-deficient mutant
+T34	Organism	piglets
+T35	Organism	deletion of salKR
+T38	Organism	DeltasalKR
+T48	Protein	salR
+T50	Organism	CDeltasalKR
+T66	Protein	05SSU0935
+T67	Protein	05SSU0953
+T78	Organism	S. pneumoniae
+T91	Chemical	salivaricin A
+T92	Chemical	SalA
+T93	Organism	S. salivarius
+*	Equiv T5 T6
+E1	Process Participant:T2
+E2	Process Participant:T2
+E3	Process Participant:T2
+E4	Process
+E5	Process Participant:T2
+E6	Regulation Cause:T10 Theme:E7
+M1	Speculation E6
+E7	Process Participant:T2
+E8	Regulation Theme:E9
+M2	Speculation E8
+E9	Process Participant:T2
+E10	Process Participant:T35
+E11	Negative_regulation Theme:E12
+E12	Process
+E13	Positive_regulation Theme:T14
+E14	Positive_regulation Theme:T48
+E15	Process
+E16	Process Participant:T2
+E17	Transcription Theme:T14
+E18	Transcription Theme:T48
+E19	Transcription Theme:T66
+E20	Transcription Theme:T67
+E21	Negative_regulation Theme:E19
+E22	Negative_regulation Theme:E20
+E23	Regulation Cause:T10 Theme:E24
+M3	Speculation E23
+E24	Process Participant:T2
+E25	Process
+E26	Regulation Cause:T10 Theme:E27
+M4	Speculation E26
+E27	Process Participant:T2
+E28	Process
+E29	Process Participant:T2
+E30	Process
+E31	Process
+E32	Process
+E33	Positive_regulation Cause:T10 Theme:E34
+E34	Process Participant:T2

@@ -1,0 +1,28 @@
+T1	Organism	Yersinia
+T2	Organism	humans
+T3	Organism	Yersinia spp.
+T4	Organism	P. luminescens
+T5	Protein	inv
+T6	Protein	yst
+T7	Protein	yplA
+T8	Organism	Y. enterocolitica
+T9	Organism	mice
+T11	Organism	Burkholderia
+T12	Organism	Pseudomonas
+T13	Organism	Serratia
+T14	Organism	Erwinia
+T16	Organism	flhDC mutant
+T17	Protein	flhD
+T18	Protein	C
+T20	Organism	X. nematophila
+E1	Process
+E2	Positive_regulation Theme:T5
+E3	Positive_regulation Theme:T6
+E4	Positive_regulation Theme:T7
+E5	Regulation Cause:E2 Theme:E8
+E6	Regulation Cause:E3 Theme:E8
+E7	Regulation Cause:E4 Theme:E8
+E8	Process Participant:T8
+E9	Process
+E10	Process Participant:T20
+E11	Process

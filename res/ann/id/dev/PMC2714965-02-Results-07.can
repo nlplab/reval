@@ -1,0 +1,31 @@
+T1	Organism	cheB2 Mutant
+T2	Protein	cheB2
+T3	Organism	Mice
+T4	Organism	cheB2 mutant TB0173s
+T6	Organism	mouse
+T7	Organism	C3H/HeN mice
+T8	Organism	cheB2 mutant
+T10	Organism	TB0173s
+T11	Organism	mice
+T12	Organism	TB
+T13	Organism	TB0173sp2B2
+T14	Organism	TB0173s cheB2 mutant
+*	Equiv T8 T10
+E1	Process Participant:T1
+E2	Process Participant:T4
+E3	Process
+E4	Process
+E5	Process
+E6	Negative_regulation Theme:E8
+E7	Process Participant:T13
+E8	Process Participant:T8
+E9	Process Participant:T12
+E10	Process Participant:T12
+E11	Process Participant:T13
+E12	Process Participant:T8
+E13	Process Participant:T14
+E14	Process Participant:T13
+E15	Process
+E16	Process Participant:T8
+E17	Process Participant:T8
+E18	Process

@@ -1,0 +1,21 @@
+T1	Protein	BfiS
+T2	Protein	PA4197
+T3	Protein	BfmR
+T4	Protein	PA4101
+T5	Protein	MifR
+T6	Protein	PA5511
+T7	Organism	DeltabfiS
+T8	Protein	bfiS
+T9	Organism	DeltabfmR
+T10	Protein	bfmR
+T11	Organism	DeltamifR
+T12	Protein	mifR
+T13	Organism	P. aeruginosa
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T5 T6
+E1	Negative_regulation Theme:T6
+E2	Phosphorylation Theme:T6
+M1	Negation E2
+E3	Phosphorylation Theme:T6
+E4	Negative_regulation Theme:T6

@@ -1,0 +1,25 @@
+T1	Organism	M. tuberculosis
+T2	Protein	ESAT-6
+T3	Protein	PhoP
+T4	Organism	mycobacterial strains
+T5	Organism	Mycobacterium bovis BCG
+T6	Organism	BCG
+T7	Organism	Mycobacterium tuberculosis H37Ra
+T8	Organism	H37Ra
+T11	Protein	ESX-1
+T17	Protein	phoP
+T18	Organism	M. tuberculosis H37Rv
+*	Equiv T5 T6
+*	Equiv T7 T8
+E1	Regulation Cause:T3 Theme:E2
+E2	Localization Theme:T2
+E3	Process Participant:T4
+E4	Process Participant:T5
+E5	Process Participant:T7
+E6	Localization Theme:T2
+E7	Positive_regulation Theme:E8
+E8	Process Participant:T7
+E9	Localization Theme:T2
+E10	Localization Theme:T2
+E11	Process Participant:T1
+E12	Regulation Theme:E11

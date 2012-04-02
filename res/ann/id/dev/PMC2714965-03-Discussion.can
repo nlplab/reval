@@ -1,0 +1,70 @@
+T1	Organism	C. elegans
+T3	Organism	P. aeruginosa
+T5	Organism	TB
+T6	Protein	gacA
+T7	Organism	P. aeruginosa CF isolate TB
+T10	Organism	human
+T11	Organism	TB0173s
+T12	Protein	PA0173
+T13	Protein	cheB2
+T16	Protein	CheB2
+T17	Protein	McpB
+T19	Organism	cheB2 mutant
+T23	Organism	mouse
+T26	Organism	mice
+T27	Protein	cheB1
+T29	Organism	cheB1 mutant
+T40	Protein	RpoS
+T42	Protein	RsmA
+T45	Organism	rsmA mutant
+T46	Protein	rsmA
+T48	Protein	lasI
+T49	Protein	rhlI
+T50	Protein	CheY
+T51	Protein	CheA
+T52	Organism	cheW mutant
+T53	Protein	cheW
+T54	Organism	Helicobacter pylori
+T62	Organism	TB4953s
+T63	Organism	motB mutant
+T64	Protein	motB
+T65	Organism	cheB2 mutant strain
+T68	Organism	S. marcescens
+*	Equiv T62 T63
+*	Equiv T65
+E1	Process
+E2	Process
+E3	Process
+E4	Process
+E5	Process
+E6	Regulation Theme:T6
+E7	Process
+E8	Process Participant:T3
+E9	Process
+E10	Process
+E11	Process Participant:T19
+E12	Negative_regulation Theme:E11
+E13	Process
+E14	Process Participant:T19
+E15	Process Participant:T19
+E16	Process Participant:T29
+E17	Negative_regulation Theme:E16
+E18	Negative_regulation Theme:E19
+E19	Process Participant:T19
+E20	Regulation Cause:T40 Theme:E21
+E21	Gene_expression Theme:T13
+E22	Regulation Cause:T42 Theme:T13
+E23	Negative_regulation Theme:E24
+E24	Gene_expression Theme:T13
+E25	Process
+E26	Process Participant:T52
+E27	Process Participant:T3
+E28	Negative_regulation Theme:T13
+E29	Process
+E30	Process
+E31	Process Participant:T29
+E32	Process Participant:T63
+E33	Process Participant:T65
+M1	Negation E33
+E34	Process Participant:T68
+E35	Process

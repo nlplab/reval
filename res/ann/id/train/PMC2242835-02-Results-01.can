@@ -1,0 +1,8 @@
+T1	Organism	M. tuberculosis H37Ra
+T2	Organism	H37Ra
+T3	Organism	H37Rv
+T6	Protein	PhoP
+T7	Organism	M. tuberculosis
+T9	Organism	Bacillus subtilis
+T14	Organism	BCG
+E1	Process Participant:T7

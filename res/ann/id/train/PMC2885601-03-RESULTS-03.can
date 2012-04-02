@@ -1,0 +1,57 @@
+T1	Protein	SeMac
+T2	Organism	Horse
+T3	Protein	IgG1
+T4	Organism	Human
+T5	Protein	IgG
+T6	Organism	GAS
+T7	Protein	Mac
+T8	Organism	human
+T16	Protein	SeMacCys102Ser
+T17	Protein	SeMacHis272Ala
+T18	Protein	SeMacAsp294Ala
+T20	Organism	E. coli
+T21	Protein	IgG endopeptidase
+T32	Protein	cysteine endopeptidase
+T38	Organism	horse
+T52	Protein	IgG4
+E1	Protein_catabolism Theme:T5
+E2	Positive_regulation Cause:T7 Theme:E1
+E3	Gene_expression Theme:T16
+E4	Gene_expression Theme:T17
+E5	Gene_expression Theme:T18
+E6	Protein_catabolism Theme:T5
+E7	Positive_regulation Cause:T1 Theme:E6
+E8	Protein_catabolism Theme:T5
+E9	Positive_regulation Cause:T1 Theme:E8
+E10	Protein_catabolism Theme:T5
+E11	Positive_regulation Cause:T1 Theme:E10
+M1	Speculation E11
+E12	Positive_regulation Cause:T7 Theme:E10
+M2	Speculation E12
+E13	Protein_catabolism Theme:T5
+E14	Positive_regulation Cause:T1 Theme:E13
+E15	Positive_regulation Cause:T7 Theme:E13
+E16	Protein_catabolism Theme:T5
+E17	Positive_regulation Cause:T1 Theme:E16
+E18	Positive_regulation Cause:T7 Theme:E16
+E19	Protein_catabolism Theme:T5
+E20	Positive_regulation Cause:T1 Theme:E19
+E21	Positive_regulation Cause:T7 Theme:E19
+E22	Protein_catabolism Theme:T3
+E23	Protein_catabolism Theme:T52
+E24	Protein_catabolism Theme:T52
+E25	Positive_regulation Cause:T1 Theme:E22
+E26	Positive_regulation Cause:T7 Theme:E22
+E27	Positive_regulation Cause:T1 Theme:E23
+E28	Positive_regulation Cause:T7 Theme:E23
+E29	Positive_regulation Cause:T1 Theme:E24
+M3	Negation E29
+E30	Positive_regulation Cause:T7 Theme:E24
+M4	Negation E30
+E31	Protein_catabolism Theme:T3
+E32	Positive_regulation Cause:T7 Theme:E31
+E33	Protein_catabolism Theme:T52
+E34	Positive_regulation Cause:T7 Theme:E33
+M5	Negation E34
+E35	Protein_catabolism Theme:T5
+E36	Positive_regulation Cause:T1 Theme:E35

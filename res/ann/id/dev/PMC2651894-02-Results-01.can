@@ -1,0 +1,55 @@
+T1	Protein	rpoE
+T2	Protein	SsrB
+T3	Organism	Salmonella
+T5	Organism	S. Typhimurium
+T6	Protein	rpoS
+T7	Protein	rpoN
+T9	Protein	rpoH
+T10	Protein	sseB
+T13	Protein	sigmaH
+T15	Protein	SseB
+T16	Protein	RpoS
+T21	Organism	rpoE mutants
+T23	Protein	RpoE
+T26	Organism	S. Typhimurium strain SL1344
+T28	Organism	rpoE::cat mutant
+T30	Protein	cat
+T33	Organism	DeltarpoE
+T38	Protein	sigmaE
+T44	Protein	SseL-2HA
+T45	Protein	SifA-2HA
+T46	Protein	SrfN-2HA
+T56	Regulon-operon	sigmaE
+T57	Protein	SrfN
+*	Equiv T38
+T76	Entity	culture supernatant
+E1	Process
+E2	Process Participant:T3
+E3	Process
+E4	Gene_expression Theme:T10
+E5	Process Participant:T5
+E6	Positive_regulation Cause:T2 Theme:E7
+E7	Gene_expression Theme:T10
+E8	Positive_regulation Theme:E9
+E9	Gene_expression Theme:T15
+E10	Negative_regulation Theme:E11
+E11	Gene_expression Theme:T15
+E12	Process
+E13	Regulation Theme:E14
+E14	Gene_expression Theme:T15
+E15	Regulation Theme:T15
+E16	Gene_expression Theme:T1
+E17	Gene_expression Theme:T15
+E18	Localization Theme:T15 ToLoc:T76
+E19	Process
+E20	Gene_expression Theme:T44
+E21	Gene_expression Theme:T45
+E22	Gene_expression Theme:T46
+E23	Negative_regulation Theme:E24
+E24	Gene_expression Theme:T45
+E25	Regulation Cause:T1 Theme:T44
+M1	Negation E25
+E26	Gene_expression Theme:T46
+E27	Positive_regulation Theme:E26
+E28	Regulation Cause:T56 Theme:E29
+E29	Negative_regulation Theme:T57

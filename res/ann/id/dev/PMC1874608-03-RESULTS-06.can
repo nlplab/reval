@@ -1,0 +1,48 @@
+T1	Protein	Mlc
+T3	Protein	hilD
+T4	Protein	hilE
+T6	Protein	IICBGlc
+T10	Chemical	glucose
+T11	Chemical	mannose
+T18	Chemical	arabinose
+T19	Chemical	glycerol
+T20	Organism	SL1344
+T21	Organism	SR1304
+T22	Regulon-operon	hilE-lacZY
+T24	Protein	lacZ
+T25	Protein	Y
+T26	Regulon-operon	hilD-lacZY
+T30	Chemical	MOPS
+T44	Protein	mlc
+E1	Negative_regulation Cause:E3 Theme:E2
+E2	Gene_expression Theme:T3
+E3	Positive_regulation Cause:T1 Theme:T4
+E4	Phosphorylation Theme:T6
+M1	Negation E4
+E5	Positive_regulation Cause:T10 Theme:T1
+E6	Gene_expression Theme:T4
+E7	Gene_expression Theme:T3
+E8	Positive_regulation Cause:T11 Theme:E10
+E9	Positive_regulation Cause:T10 Theme:E10
+E10	Gene_expression Theme:T4
+E11	Positive_regulation Theme:T4
+E12	Negative_regulation Cause:E11 Theme:E13
+E13	Gene_expression Theme:T3
+E14	Gene_expression Theme:T4
+E15	Gene_expression Theme:T3
+E16	Regulation Theme:E14
+M2	Negation E16
+E17	Regulation Theme:E15
+M3	Negation E17
+E18	Positive_regulation Cause:T18 Theme:T4
+E19	Positive_regulation Theme:E20
+E20	Gene_expression Theme:T3
+E21	Gene_expression Theme:T4
+E22	Negative_regulation Theme:E23
+E23	Gene_expression Theme:T3
+E24	Gene_expression Theme:T4
+E25	Gene_expression Theme:T3
+E26	Positive_regulation Theme:E24
+E27	Positive_regulation Theme:E25
+E28	Regulation Theme:T4
+E29	Regulation Theme:T3

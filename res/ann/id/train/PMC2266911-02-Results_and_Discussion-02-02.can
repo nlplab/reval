@@ -1,0 +1,52 @@
+T1	Organism	P. luminescens
+T2	Organism	Y. enterocolitica
+T4	Protein	Ail
+T5	Protein	YE1820
+T7	Protein	plu2481
+T8	Protein	plu2480
+T9	Protein	plu1967
+T10	Protein	InvA
+T11	Protein	YE2564
+T12	Protein	Plu2057
+T15	Protein	ysaV
+T16	Protein	ye3546
+T17	Protein	plu3761
+T18	Protein	invF
+T19	Protein	ye3549
+T20	Protein	plu3775
+T23	Protein	ye1873
+T24	Protein	YadA
+T25	Protein	invE
+T26	Protein	ysaH
+T27	Protein	ye3550
+T28	Protein	ye3555
+T31	Protein	Plu2096
+T32	Protein	lectin
+T33	Protein	PA-I
+T34	Protein	Plu1561
+T35	Chemical	Ca2+
+T36	Protein	Plu2433
+T37	Organism	Erwinia carotovora
+T38	Protein	EvF
+T39	Organism	D. melanogaster
+T40	Protein	Plu2064
+T42	Protein	V
+T43	Protein	VII
+T44	Protein	IX
+T45	Protein	X
+T47	Organism	human
+T49	Protein	ye2664
+T50	Protein	2668
+T51	Protein	ye2692
+T52	Protein	2700
+*	Equiv T4 T5
+*	Equiv T10 T11
+*	Equiv T23 T24
+E1	Process
+E2	Binding Theme:T1
+E3	Binding Theme:T2
+E4	Gene_expression Theme:T23
+E5	Gene_expression Theme:T31
+E6	Process
+E7	Regulation Theme:E8
+E8	Process

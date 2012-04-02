@@ -1,0 +1,20 @@
+T1	Two-component-system	graRS
+T2	Protein	graR
+T3	Protein	S
+T4	Organism	mouse
+T5	Organism	graRS mutant
+T10	Organism	BALB/c mice
+T11	Organism	S. aureus
+E1	Positive_regulation Theme:E2
+E2	Negative_regulation Theme:E3
+E3	Process
+E4	Process
+E5	Negative_regulation Theme:E6
+E6	Process Participant:T5
+E7	Process
+E8	Process
+E9	Process Participant:T11
+E10	Process Participant:T5
+E11	Process
+E12	Process Participant:T5
+E13	Process

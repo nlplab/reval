@@ -1,0 +1,30 @@
+T1	Two-component-system	SalK/SalR
+T2	Protein	SalK
+T3	Protein	SalR
+T4	Organism	S. suis 05ZYH33
+T5	Protein	05SSU0944
+T6	Protein	05SSU0943
+T9	Organism	Streptococcus salivarius
+T10	Two-component-system	Nar/LuxR
+T11	Protein	Nar
+T12	Protein	LuxR
+T15	Protein	salK
+T16	Protein	salR
+T17	Two-component-system	salKR
+T19	Protein	R
+T20	Organism	05ZYH33
+T31	Protein	05SSU0942
+T32	Protein	05SSU0945
+T40	Protein	05SSU0941
+T41	Protein	05SSU0940
+T42	Protein	05SSU0939
+T43	Protein	05SSU0938
+T44	Organism	Streptococcus agalactiae
+T48	Two-component-system	PsalK
+T49	Protein	Psal
+T50	Protein	K
+*	Equiv T15
+*	Equiv T16
+E1	Regulation Theme:T3
+E2	Transcription Theme:T15
+E3	Transcription Theme:T16

@@ -1,0 +1,111 @@
+T1	Organism	Brucella mutants
+T2	Two-component-system	BvrR/BvrS
+T3	Protein	BvrR
+T4	Protein	BvrS
+T8	Organism	Brucella
+T9	Organism	B. abortus
+T10	Organism	bvrR mutant
+T11	Protein	bvrR
+T23	Protein	fliM
+T24	Protein	BAB2_0124
+T25	Protein	motB
+T26	Protein	BAB2_1103
+T27	Protein	pckA
+T28	Protein	BAB1_2091
+T31	Protein	exoR
+T32	Protein	BAB1_0891
+T33	Protein	omp25a
+T34	Protein	BAB1_0722
+T35	Protein	hpr-K
+T36	Protein	BAB1_2094
+T37	Protein	bvrS
+T38	Protein	BAB1_2093
+T39	Protein	BAB1_2147
+T40	Protein	BAB1_0589
+T41	Protein	BAB1_0358
+T45	Protein	omp22
+T49	Organism	bvrR/bvrS mutants
+T50	Two-component-system	bvrR/bvrS
+T53	Chemical	lipid A
+T54	Chemical	LPS
+T61	Protein	Omp25a
+T63	Protein	Omp25d
+T64	Protein	BAB1_0115
+T69	Protein	htpX
+T70	Protein	BAB1_1821
+T71	Protein	clpA
+T72	Protein	clpB
+T73	Protein	BAB1_1573
+T74	Protein	BAB1_1868
+T75	Protein	BAB2_1107
+T76	Protein	BAB1_0505
+T77	Protein	BAB1_1022
+T79	Protein	BAB1_1620
+T80	Protein	fabG
+T81	Protein	BAB1_2043
+T82	Protein	fabF
+T83	Protein	BAB1_0872
+T84	Protein	fadD
+T85	Chemical	fatty-acyl-CoA
+T86	Protein	BAB1_0320
+T87	Protein	cfa
+T88	Chemical	cyclopropane-fatty-acyl-phospholipid
+T89	Protein	BAB1_0476
+T90	Protein	BAB1_1357
+*	Equiv T23 T24
+*	Equiv T25 T26
+*	Equiv T27 T28
+*	Equiv T31 T32
+*	Equiv T33 T34 T61
+*	Equiv T35 T36
+*	Equiv T37 T38
+*	Equiv T63 T63
+*	Equiv T69 T70
+*	Equiv T71 T73
+*	Equiv T72 T74
+*	Equiv T80 T81
+*	Equiv T82 T83
+*	Equiv T84 T86
+*	Equiv T87 T89
+E1	Transcription Theme:T23
+E2	Transcription Theme:T25
+E3	Transcription Theme:T27
+E4	Gene_expression Theme:T41
+E5	Gene_expression Theme:T31
+E6	Gene_expression Theme:T33
+E7	Gene_expression Theme:T35
+E8	Gene_expression Theme:T37
+E9	Gene_expression Theme:T39
+E10	Gene_expression Theme:T40
+E11	Transcription Theme:T33
+E12	Transcription Theme:T45
+E13	Regulation Cause:T2 Theme:E11
+E14	Regulation Cause:T2 Theme:E12
+E15	Negative_regulation Theme:T33
+E16	Negative_regulation Theme:T63
+E17	Regulation Cause:T11 Theme:T80
+E18	Regulation Cause:T11 Theme:T82
+E19	Regulation Cause:T11 Theme:T84
+E20	Regulation Cause:T11 Theme:T87
+E21	Regulation Cause:T11 Theme:T90
+E22	Negative_regulation Cause:T11 Theme:T41
+E23	Negative_regulation Cause:T11 Theme:T40
+E24	Negative_regulation Cause:T11 Theme:T39
+E25	Positive_regulation Cause:T11 Theme:T69
+E26	Positive_regulation Cause:T11 Theme:T71
+E27	Positive_regulation Cause:T11 Theme:T72
+E28	Positive_regulation Cause:T11 Theme:T75
+E29	Positive_regulation Cause:T11 Theme:T76
+E30	Positive_regulation Cause:T11 Theme:T77
+E31	Positive_regulation Cause:T11 Theme:T79
+E32	Negative_regulation Cause:T11 Theme:T41
+E33	Negative_regulation Cause:T11 Theme:T40
+E34	Negative_regulation Cause:T11 Theme:T39
+E35	Positive_regulation Cause:T11 Theme:T69
+E36	Positive_regulation Cause:T11 Theme:T71
+E37	Positive_regulation Cause:T11 Theme:T72
+E38	Positive_regulation Cause:T11 Theme:T75
+E39	Positive_regulation Cause:T11 Theme:T76
+E40	Positive_regulation Cause:T11 Theme:T77
+E41	Positive_regulation Cause:T11 Theme:T79
+E42	Process Participant:T8

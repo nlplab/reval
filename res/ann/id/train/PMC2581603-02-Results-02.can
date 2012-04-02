@@ -1,0 +1,12 @@
+T1	Chemical	EDTA
+T2	Organism	P. aeruginosa
+T3	Chemical	Mg2+
+T4	Chemical	Ca2+
+T5	Chemical	LPS
+T10	Chemical	Propidium iodide
+T11	Chemical	PI
+T15	Organism	Pseudomonas
+T18	Chemical	syto9
+*	Equiv T10 T11
+E1	Binding Theme1:T3 Theme2:T5
+E2	Binding Theme1:T4 Theme2:T5

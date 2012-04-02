@@ -1,0 +1,47 @@
+T1	Protein	FimR
+T2	Protein	mfa1
+T4	Protein	fimA
+T17	Protein	rFimR
+T18	Organism	E. coli
+T19	Protein	rHGP44
+T20	Organism	P. gingivalis
+T31	Protein	rFimA
+T54	Entity	promoter region
+T69	Entity	promoter
+E1	Binding Theme1:T1 Site2:T54 Theme2:T2
+E2	Positive_regulation Cause:T1 Theme:T4
+E3	Regulation Cause:T1 Theme:E4
+E4	Gene_expression Theme:T2
+E5	Gene_expression Theme:T2
+E6	Regulation Cause:T1 Theme:E5
+E7	Regulation Theme:E8
+M1	Negation E7
+E8	Gene_expression Theme:T4
+E9	Regulation Cause:E11 Theme:E10
+M2	Speculation E9
+E10	Gene_expression Theme:T2
+E11	Binding Theme1:T1 Site2:T54 Theme2:T2
+E12	Gene_expression Theme:T17
+E13	Gene_expression Theme:T19
+E14	Binding Theme:T17
+E15	Binding Theme1:T17 Site2:T69 Theme2:T2
+E16	Binding Theme1:T31 Site2:T69 Theme2:T2
+E17	Regulation Cause:E18 Theme:E19
+M3	Speculation E17
+E18	Phosphorylation Theme:T1
+E19	Binding Theme1:T1 Site2:T54 Theme2:T2
+E20	Binding Theme:T17
+E21	Binding Theme:T17
+E22	Phosphorylation Theme:T17
+E23	Phosphorylation Theme:T17
+M4	Negation E23
+E24	Binding Theme1:T17 Site2:T54 Theme2:T4
+M5	Negation E24
+E25	Regulation Cause:T1 Theme:E26
+E26	Gene_expression Theme:T4
+E27	Binding Theme1:T1 Site2:T54 Theme2:T2
+E28	Positive_regulation Cause:T1 Theme:E29
+E29	Transcription Theme:T2
+E30	Binding Theme:T17
+E31	Gene_expression Theme:T2
+E32	Positive_regulation Cause:T1 Theme:E31

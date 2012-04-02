@@ -1,0 +1,21 @@
+T1	Organism	M. tuberculosis Deltarv2623
+T2	Protein	rv2623
+T3	Organism	Deltarv2623
+T5	Organism	guinea pigs
+T6	Organism	mice
+T7	Protein	Rv2623
+T8	Organism	M. tuberculosis
+T9	Organism	Rv2623-deficient mutant
+T14	Chemical	superoxide anion
+T15	Chemical	O2-
+T16	Chemical	mitomycin C
+T17	Chemical	streptonigrin
+T18	Chemical	iron
+T20	Organism	E. coli
+T22	Organism	Erdman
+*	Equiv T14 T15
+E1	Process Participant:T3
+E2	Process Participant:T8
+E3	Positive_regulation Cause:T7 Theme:E4
+E4	Process
+E5	Process Participant:T3

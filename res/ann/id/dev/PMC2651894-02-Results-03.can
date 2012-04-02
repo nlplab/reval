@@ -1,0 +1,21 @@
+T1	Protein	RpoE
+T2	Protein	ssrB
+T3	Protein	rpoE
+T4	Protein	SsrB
+T8	Organism	DeltarpoE
+T10	Regulon-operon	ssrB::FLAG
+T13	Regulon-operon	SsrB-FLAG
+T20	Organism	S. Typhimurium
+E1	Process
+E2	Gene_expression Theme:T2
+E3	Transcription Theme:T1
+E4	Regulation Cause:E5 Theme:E3
+E5	Gene_expression Theme:T2
+E6	Gene_expression Theme:T4
+E7	Regulation Theme:E8
+M1	Negation E7
+E8	Gene_expression Theme:T13
+E9	Process Participant:T8
+E10	Regulation Theme:E11
+E11	Gene_expression Theme:T4
+E12	Process Participant:T20

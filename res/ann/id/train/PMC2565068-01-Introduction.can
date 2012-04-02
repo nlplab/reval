@@ -1,0 +1,50 @@
+T1	Organism	Streptococcus pyogenes
+T2	Organism	group A streptococcus
+T3	Organism	GAS
+T4	Organism	human
+T5	Protein	M protein
+T6	Organism	invasive GAS
+T7	Organism	strains of emm1
+T8	Protein	emm1
+T9	Protein	emm
+T12	Organism	GAS with diverse emm genotypes
+T14	Organism	emm49-genotype
+T15	Protein	emm49
+T16	Organism	patients
+T18	Organism	emm49 GAS
+T24	Organism	GAS mutants
+T25	Organism	gene-manipulated GAS
+T28	Organism	emm49 clinical isolates
+T31	Protein	CsrS
+T32	Two-component-system	CsrS/CsrR
+T34	Protein	CsrR
+T35	Two-component-system	CovS/CovR
+T36	Protein	CovS
+T37	Protein	CovR
+T38	Protein	IL-8
+T39	Organism	CsrS mutations
+T42	Organism	mouse
+*	Equiv T2 T3
+*	Equiv T32 T35
+E1	Process
+E2	Process
+E3	Process
+E4	Process Participant:T2
+E5	Process Participant:T6
+E6	Process Participant:T18
+E7	Process
+E8	Process Participant:T6
+E9	Process
+E10	Process Participant:T6
+E11	Process
+E12	Process Participant:T6
+E13	Process Participant:T2
+E14	Process
+E15	Process
+E16	Process Participant:T6
+E17	Process Participant:T28
+E18	Process Participant:T28
+M1	Negation E18
+E19	Process
+E20	Process Participant:T39
+E21	Process Participant:T2

@@ -1,0 +1,63 @@
+T1	Organism	mouse
+T2	Organism	Salmonella
+T3	Organism	Salmonella enteriditis
+T4	Organism	calves
+T5	Organism	chickens
+T6	Organism	mice
+T9	Protein	rpoS
+T10	Protein	rpoE
+T11	Two-component-system	ompR/envZ
+T12	Protein	ompR
+T13	Protein	envZ
+T14	Two-component-system	phoP/phoQ
+T15	Protein	phoP
+T16	Protein	phoQ
+T17	Two-component-system	ssrA/ssrB
+T18	Protein	ssrA
+T19	Protein	ssrB
+T20	Protein	csrA
+T21	Protein	hfq
+T22	Protein	smpB
+T23	Protein	ihf
+T24	Protein	fruR
+T25	Protein	spvR
+T26	Protein	crp
+T27	Protein	slyA
+T28	Protein	hnr
+T35	Chemical	magnesium
+T36	Protein	mgtB
+T37	Protein	mgtC
+T38	Protein	STM1485
+T39	Chemical	phosphate
+T40	Protein	pstS
+T43	Protein	sifA
+T44	Regulon-operon	STM3117-3120
+T45	Protein	STM3117
+T46	Protein	3120
+T51	Organism	E. coli
+T58	Protein	hilA
+T59	Two-component-system	ssrB/slyA
+T63	Organism	BALB/c mice
+T64	Protein	hns
+T65	Two-component-system	ydgT/hha
+T66	Protein	ydgT
+T67	Protein	hha
+T68	Protein	STM0410
+E1	Process Participant:T2
+E2	Process
+E3	Process Participant:T3
+E4	Process
+E5	Process
+E6	Process
+E7	Process Participant:T2
+E8	Process Participant:T2
+E9	Process
+E10	Process
+E11	Process
+E12	Process
+E13	Process Participant:T2
+E14	Process Participant:T2
+E15	Transcription Theme:T44
+M1	Negation E15
+E16	Positive_regulation Theme:T59
+E17	Process Participant:T2

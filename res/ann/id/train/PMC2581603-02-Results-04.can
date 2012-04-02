@@ -1,0 +1,49 @@
+T1	Regulon-operon	PA3552-PA3559
+T2	Protein	PA3552
+T3	Protein	PA3559
+T4	Chemical	CAP
+T5	Organism	P. aeruginosa
+T6	Two-component-system	PhoPQ
+T7	Protein	PhoP
+T8	Protein	Q
+T9	Two-component-system	PmrAB
+T10	Protein	PmrA
+T11	Protein	B
+T12	Chemical	magnesium
+T17	Chemical	Mg2+
+T18	Chemical	LPS
+T19	Chemical	lipid A
+T20	Chemical	CAPs
+T22	Protein	lux
+T23	Protein	PA3553
+T35	Organism	salmon
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Process
+E4	Regulation Cause:T6 Theme:E6
+E5	Regulation Cause:T9 Theme:E6
+E6	Positive_regulation Theme:T2
+E7	Regulation Theme:T1
+E8	Process
+E9	Gene_expression Theme:T22
+E10	Gene_expression Theme:T23
+E11	Process
+E12	Gene_expression Theme:T23
+E13	Gene_expression Theme:T22
+E14	Positive_regulation Theme:E12
+E15	Positive_regulation Theme:E13
+E16	Process
+E17	Negative_regulation Cause:T17 Theme:E18
+E18	Gene_expression Theme:T23
+E19	Positive_regulation Theme:T23
+E20	Positive_regulation Theme:T22
+E21	Positive_regulation Theme:E22
+E22	Gene_expression Theme:T23
+E23	Positive_regulation Theme:E24
+E24	Gene_expression Theme:T23
+E25	Positive_regulation Theme:E26
+E26	Gene_expression Theme:T23
+E27	Negative_regulation Theme:E28
+E28	Positive_regulation Theme:T23
+E29	Negative_regulation Theme:E30
+E30	Gene_expression Theme:T23

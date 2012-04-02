@@ -1,0 +1,22 @@
+T1	Protein	PmrB
+T3	Protein	PmrA
+T5	Chemical	Fe3+
+T6	Chemical	Al3+
+T11	Chemical	Mg2+
+T12	Protein	PhoQ
+T14	Organism	Salmonella
+T15	Regulon-operon	pbgP-lac
+T16	Protein	pbgP
+T17	Protein	pmrB
+T33	Protein	TraM
+E1	Positive_regulation Cause:T1 Theme:E2
+E2	Positive_regulation Theme:T3
+E3	Gene_expression Theme:T1
+E4	Positive_regulation Cause:T1 Theme:E5
+E5	Gene_expression Theme:T16
+E6	Gene_expression Theme:T16
+E7	Gene_expression Theme:T16
+E8	Gene_expression Theme:T16
+E9	Gene_expression Theme:T1
+E10	Gene_expression Theme:T16
+E11	Positive_regulation Cause:T11 Theme:E10

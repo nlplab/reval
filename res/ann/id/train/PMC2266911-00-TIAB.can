@@ -1,0 +1,13 @@
+T1	Organism	Photorhabdus luminescens
+T2	Organism	Yersinia enterocolitica
+T5	Organism	P. luminescens
+T6	Organism	humans
+T7	Organism	Y. enterocolitica
+T8	Organism	men
+T9	Chemical	c-di-GMP
+T10	Protein	LuxR
+T11	Organism	Photorhabdus
+T12	Organism	Yersinia
+E1	Process
+E2	Process Participant:T5
+E3	Process

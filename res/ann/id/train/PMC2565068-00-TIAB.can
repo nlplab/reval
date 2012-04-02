@@ -1,0 +1,29 @@
+T1	Organism	Invasive Group A streptococcus
+T2	Organism	Group A streptococcus
+T3	Organism	GAS
+T4	Organism	invasive GAS
+T8	Organism	human
+T9	Protein	streptolysin O
+T10	Protein	SLO
+T11	Protein	interleukin-8
+T12	Protein	ScpC
+T13	Protein	csrS
+T14	Protein	emm49
+T16	Organism	csrS mutants
+T21	Organism	mouse
+T25	Organism	csrS-mutated parent invasive GAS
+T27	Organism	mice
+*	Equiv T2 T3
+*	Equiv T9 T10
+E1	Process
+E2	Process Participant:T4
+E3	Process Participant:T4
+E4	Process
+E5	Process Participant:T2
+E6	Gene_expression Theme:T9
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T12
+E9	Process Participant:T16
+E10	Process Participant:T4
+E11	Process Participant:T2
+E12	Process Participant:T4

@@ -1,0 +1,39 @@
+T1	Organism	host
+T5	Chemical	carboxyl
+T6	Chemical	amino
+T7	Protein	CesA
+T8	Organism	E. coli
+T9	Protein	EspA
+T10	Organism	Salmonella enterica
+T12	Protein	SseF
+T13	Protein	SscB
+T14	Protein	SseA
+T15	Protein	SseD
+T16	Protein	SseB
+T17	Protein	InvB
+T18	Protein	SicP
+T19	Protein	SigE
+T20	Protein	SsrA
+T21	Protein	SsrB
+T22	Regulon-operon	SsrB regulon
+T24	Protein	SseL
+T25	Protein	srfN
+T26	Organism	Salmonella
+T28	Protein	STM2138
+T29	Protein	srcA
+T30	Protein	SsrB-regulated chaperone A
+T31	Protein	SrcA
+T34	Protein	SsaN
+T36	Protein	STM2287
+T37	Protein	PipB2
+T38	Protein	STM2780
+*	Equiv T29 T28 T30
+*	Equiv T36
+*	Equiv T38 T37
+E1	Process
+E2	Binding Theme1:T7 Theme2:T9
+E3	Process Participant:T10
+E4	Binding Theme1:T14 Theme2:T15
+E5	Binding Theme1:T14 Theme2:T16
+E6	Regulation Cause:T21 Theme:T29
+E7	Binding Theme1:T31 Theme2:T34

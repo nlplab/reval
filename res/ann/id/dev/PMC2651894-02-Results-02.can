@@ -1,0 +1,20 @@
+T1	Protein	RpoE
+T2	Protein	sigmaE
+T3	Protein	SsrB
+T4	Organism	DeltarpoE
+T5	Protein	rpoE
+T7	Regulon-operon	type III secretion effector operon
+T8	Protein	sseA
+T9	Regulon-operon	structural operon I
+T10	Protein	ssaB
+T11	Regulon-operon	structural operon II
+T12	Protein	ssaG
+T13	Protein	sseL
+T14	Protein	sifA
+T15	Protein	srfN
+T16	Protein	lacZ
+T26	Protein	beta-galactosidase
+T33	Organism	rpoE mutant
+E1	Process
+E2	Process Participant:T4
+E3	Positive_regulation Theme:T3

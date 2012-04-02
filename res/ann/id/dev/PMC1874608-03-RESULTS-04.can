@@ -1,0 +1,12 @@
+T1	Protein	hilE
+T2	Protein	Mlc
+T4	Organism	SL1344
+T6	Organism	Salmonella
+T7	Organism	E. coli
+T9	Protein	mlc
+T10	Protein	hilE5
+T18	Organism	SR1304
+T19	Entity	P3 promoter
+E1	Negative_regulation Cause:T2 Site:T19 Theme:T1
+E2	Gene_expression Theme:T9
+E3	Transcription Theme:T1

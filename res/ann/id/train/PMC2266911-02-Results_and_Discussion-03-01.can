@@ -1,0 +1,79 @@
+T1	Organism	P. luminescens
+T2	Organism	Y. enterocolitica
+T3	Organism	E. coli
+T6	Organism	E. coli K-12
+T7	Regulon-operon	ureABCEFGD
+T8	Protein	ureA
+T9	Protein	B
+T10	Protein	C
+T11	Protein	E
+T12	Protein	F
+T13	Protein	G
+T14	Protein	D
+T15	Regulon-operon	hutHUCGI
+T16	Protein	hutH
+T17	Protein	U
+T20	Protein	I
+T21	Chemical	ammonia
+T22	Protein	ye3021
+T23	Protein	plu1240
+T24	Chemical	urocanic acid
+T26	Organism	Hyalophora gloveri
+T27	Chemical	vitamin B12
+T28	Chemical	1,2-propanediol
+T29	Regulon-operon	pdu
+T30	Chemical	ethanolamine
+T31	Protein	eutA
+T34	Chemical	cobalamine
+T35	Organism	Salmonella typhimurium
+T36	Chemical	tetrathionate
+T38	Organism	S. typhimurium
+T39	Organism	human
+T40	Organism	Listeria monocytogenes
+T41	Organism	Clostridium perfringens
+T44	Protein	ttrA
+T47	Two-component-system	TtrRS
+T48	Protein	TtrR
+T49	Protein	S
+T50	Protein	YE1613
+T51	Protein	1617
+T52	Chemical	cobalamin
+T53	Chemical	propanediol
+T54	Protein	ye2707
+T55	Protein	2750
+T56	Regulon-operon	eutABC
+T60	Chemical	Propanediol
+T62	Protein	YE4187
+T63	Protein	GlcG
+T64	Chemical	glycolate
+T71	Protein	ttrC
+T72	Protein	ttrR
+T73	Protein	ttrS
+T76	Chemical	phosphatidylethanolamine
+T77	Protein	dctA
+T78	Chemical	C4- dicarboxylates
+T79	Protein	UhpA
+T82	Chemical	hexose phosphate
+T83	Protein	UhpT
+T84	Chemical	Mg2+
+T85	Protein	CorA
+T86	Protein	MgtA
+T87	Protein	MgtB
+T88	Regulon-operon	uhpABC
+T89	Protein	uhpA
+T92	Protein	mgtC
+T97	Protein	gltP
+T100	Chemical	chitin
+T101	Protein	Plu2352
+T102	Protein	YE3576
+T103	Protein	Plu2235
+T104	Protein	Plu2458
+T105	Protein	Plu2461
+E1	Process
+E2	Process
+E3	Process
+E4	Positive_regulation Theme:T88
+E5	Positive_regulation Theme:T92
+E6	Process Participant:T1
+E7	Process Participant:T2
+E8	Positive_regulation Theme:T97

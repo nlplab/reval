@@ -1,0 +1,143 @@
+T1	Organism	Salmonella mlc mutant
+T2	Protein	mlc
+T4	Protein	HilD
+T5	Protein	HilA
+T6	Protein	InvF
+T8	Protein	hilA
+T9	Regulon-operon	invFD
+T10	Protein	invF
+T11	Protein	D
+T13	Regulon-operon	invFA
+T15	Protein	A
+T18	Protein	hilD
+T30	Organism	mlc mutant
+T32	Protein	hilC
+T41	Protein	HilC
+T48	Protein	Mlc
+T49	Protein	hilE
+T58	Two-component-system	HilC/D
+T69	Two-component-system	FimYZ
+T70	Protein	FimY
+T71	Protein	Z
+T73	Chemical	Glucose
+T74	Chemical	mannose
+T76	Protein	EIICBGlc
+T78	Chemical	glucose
+T79	Organism	Salmonella
+T81	Organism	S. Typhimurium
+T85	Chemical	lactose
+T86	Chemical	arabinose
+T106	Chemical	glycerol
+T113	Two-component-system	PhoR-PhoB
+T114	Protein	PhoR
+T115	Protein	PhoB
+T120	Chemical	Pi
+T122	Regulon-operon	Pho
+T125	Protein	CreC
+T127	Two-component-system	PhoB/R
+T129	Protein	R
+T134	Protein	sirA
+T135	Protein	BarA
+T138	Regulon-operon	SirA
+T139	Protein	csrB
+T140	Protein	csrC
+T146	Chemical	acetate
+T147	Chemical	propionate
+T148	Chemical	butyrate
+T160	Protein	SirA
+T164	Entity	upstream
+T188	Entity	P3 promoter
+T191	Entity	190-270-bp upstream
+T229	Entity	promoters
+E1	Binding Theme1:T4 Site2:T164 Theme2:T8
+E2	Binding Theme1:T4 Site2:T164 Theme2:T9
+E3	Positive_regulation Cause:T4 Theme:T8
+E4	Positive_regulation Cause:T4 Theme:T9
+E5	Positive_regulation Cause:T5 Theme:E6
+E6	Transcription Theme:T13
+E7	Negative_regulation Theme:T18
+E8	Regulation Cause:E7 Theme:E10
+E9	Regulation Cause:E7 Theme:E11
+E10	Gene_expression Theme:T8
+E11	Gene_expression Theme:T10
+E12	Negative_regulation Theme:E13
+E13	Gene_expression Theme:T18
+E14	Negative_regulation Theme:E16
+E15	Negative_regulation Theme:E17
+E16	Transcription Theme:T8
+E17	Transcription Theme:T13
+E18	Negative_regulation Theme:E19
+E19	Gene_expression Theme:T4
+E20	Positive_regulation Theme:E18
+E21	Gene_expression Theme:T32
+E22	Negative_regulation Theme:E21
+M1	Negation E22
+E23	Gene_expression Theme:T32
+E24	Positive_regulation Theme:E26
+E25	Positive_regulation Theme:E27
+E26	Gene_expression Theme:T8
+E27	Gene_expression Theme:T10
+E28	Negative_regulation Theme:T4
+E29	Regulation Theme:T8
+E30	Regulation Theme:T13
+E31	Regulation Cause:E33 Theme:E32
+E32	Gene_expression Theme:T49
+E33	Binding Theme1:T48 Site2:T188 Theme2:T49
+E34	Regulation Theme:E35
+E35	Regulation Theme:T8
+E36	Positive_regulation CSite:T191 Cause:T49 Theme:E37
+E37	Positive_regulation Cause:T69 Theme:E38
+E38	Gene_expression Theme:T49
+E39	Regulation Theme:E40
+E40	Gene_expression Theme:T49
+E41	Positive_regulation Cause:T73 Theme:T48
+E42	Positive_regulation Cause:T74 Theme:T48
+E43	Positive_regulation Theme:E41
+E44	Positive_regulation Theme:E42
+E45	Negative_regulation Cause:T78 Theme:E46
+E46	Gene_expression Theme:T8
+E47	Regulation Theme:E48
+E48	Gene_expression Theme:T8
+E49	Gene_expression Theme:T49
+E50	Positive_regulation Cause:E51 Theme:E49
+E51	Negative_regulation Cause:E52 Theme:T48
+E52	Phosphorylation Theme:T76
+M2	Negation E52
+E53	Positive_regulation Theme:T49
+E54	Negative_regulation Theme:T18
+E55	Negative_regulation Theme:E56
+M3	Speculation E55
+E56	Regulation Theme:E57
+E57	Gene_expression Theme:T49
+E58	Regulation Theme:E59
+E59	Gene_expression Theme:T8
+E60	Gene_expression Theme:T49
+E61	Positive_regulation Theme:E60
+E62	Regulation Theme:E64
+E63	Regulation Theme:E65
+E64	Gene_expression Theme:T49
+E65	Gene_expression Theme:T18
+E66	Positive_regulation Theme:E67
+E67	Gene_expression Theme:T18
+E68	Gene_expression Theme:T49
+E69	Positive_regulation Theme:E68
+E70	Positive_regulation Cause:T113 Theme:E71
+E71	Gene_expression Theme:T49
+E72	Negative_regulation Cause:T113 Theme:T8
+E73	Phosphorylation Theme:T115
+E74	Positive_regulation Cause:T114 Theme:E73
+E75	Phosphorylation Theme:T115
+E76	Binding Theme1:T115 Site2:T229 Theme2:T122
+E77	Positive_regulation Cause:T115 Site:T229 Theme:T122
+E78	Positive_regulation Theme:T122
+E79	Regulation Theme:E80
+E80	Gene_expression Theme:T49
+E81	Positive_regulation Theme:E82
+E82	Gene_expression Theme:T49
+E83	Gene_expression Theme:T134
+E84	Negative_regulation Theme:E83
+E85	Negative_regulation Cause:T78 Theme:T139
+E86	Negative_regulation Cause:T78 Theme:T140
+E87	Negative_regulation Cause:T78 Theme:T8
+E88	Regulation Theme:E89
+E89	Process Participant:T79

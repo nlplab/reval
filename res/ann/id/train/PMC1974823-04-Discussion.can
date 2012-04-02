@@ -1,0 +1,71 @@
+T1	Organism	P. gingivalis W83
+T2	Organism	P. gingivalis
+T3	Two-component-system	FimS/FimR
+T4	Protein	FimS
+T5	Protein	FimR
+T6	Protein	fimA
+T7	Protein	minor fimbriae
+T8	Protein	mfa1
+T9	Organism	fimR mutant
+T10	Protein	fimR
+T37	Protein	rFimR
+T38	Chemical	acetyl phosphate
+T41	Organism	Streptococcus mutans
+T42	Protein	CovR
+T51	Organism	E. coli
+T52	Chemical	acetate
+T53	Protein	acsP1
+T54	Protein	acsP2
+T60	Organism	S. gordonii
+T61	Organism	S. sanguinis
+T62	Organism	S. mitis
+T70	Protein	major fimbriae
+T71	Protein	FimA
+*	Equiv T7 T8
+*	Equiv T70 T71
+T86	Entity	promoter region
+T109	Entity	upstream promoter region
+T110	Entity	downstream promoter
+T114	Entity	promoters
+E1	Regulation Cause:T3 Theme:E2
+E2	Gene_expression Theme:T6
+E3	Gene_expression Theme:T7
+M1	Speculation E3
+E4	Transcription Theme:T7
+E5	Positive_regulation Cause:T3 Theme:T7
+E6	Regulation Cause:T5 Theme:E7
+E7	Gene_expression Theme:T6
+E8	Regulation Cause:E9 Theme:E7
+E9	Binding Theme1:T5 Site2:T86 Theme2:T6
+E10	Binding Theme1:T5 Site2:T86 Theme2:T7
+E11	Positive_regulation Cause:T5 Theme:E12
+E12	Gene_expression Theme:T7
+E13	Transcription Theme:T6
+E14	Negative_regulation Theme:E13
+E15	Regulation Theme:E16
+E16	Gene_expression Theme:T6
+E17	Regulation Cause:T5 Theme:E18
+E18	Gene_expression Theme:T6
+E19	Gene_expression Theme:T7
+E20	Binding Theme:T37
+E21	Regulation Theme:E22
+E22	Positive_regulation Theme:T5
+E23	Phosphorylation Theme:T42
+E24	Regulation Cause:E23 Theme:E25
+M2	Negation E24
+E25	Binding Theme:T42
+E26	Positive_regulation Cause:E27 Theme:T5
+M3	Negation E26
+E27	Phosphorylation Theme:T5
+E28	Transcription Theme:T7
+E29	Gene_expression Theme:T7
+E30	Binding Theme1:T5 Site2:T109 Theme2:T7
+E31	Negative_regulation Site:T110 Theme:T7
+E32	Regulation Theme:E33
+E33	Gene_expression Theme:T7
+E34	Regulation Site:T114 Theme:T7
+E35	Gene_expression Theme:T70
+E36	Gene_expression Theme:T7
+E37	Negative_regulation Theme:E36
+E38	Negative_regulation Theme:T5
+M4	Speculation E38

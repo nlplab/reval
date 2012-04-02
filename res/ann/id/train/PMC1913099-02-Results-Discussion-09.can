@@ -1,0 +1,21 @@
+T1	Regulon-operon	spy0127-0130
+T2	Protein	spy0127
+T3	Protein	0130
+T4	Regulon-operon	spy1701-1704
+T5	Protein	spy1701
+T6	Protein	1704
+T10	Protein	spy0123
+T11	Protein	0136
+T12	Organism	SF370
+T13	Protein	spy0129
+T17	Organism	group A streptococci
+T18	Organism	mouse
+T19	Protein	sortase
+T21	Protein	spy0128
+T22	Protein	Cpa
+T23	Protein	spy0130
+T24	Protein	protein F
+T26	Protein	gene product
+T33	Protein	spy0135
+E1	Positive_regulation Theme:T1
+E2	Process Participant:T17

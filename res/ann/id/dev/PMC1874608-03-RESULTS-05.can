@@ -1,0 +1,14 @@
+T1	Protein	Mlc
+T2	Protein	hilE
+T7	Organism	E. coli
+T8	Chemical	Ni2+
+T10	Organism	Salmonella
+T27	Entity	P3 promoter
+T35	Entity	promoter
+E1	Negative_regulation Cause:E2 Theme:T2
+E2	Binding Theme1:T1 Site2:T27 Theme2:T2
+E3	Negative_regulation Cause:T1 Site:T27 Theme:T2
+M1	Speculation E3
+E4	Binding Theme1:T1 Site2:T27 Theme2:T2
+E5	Regulation Cause:E6 Site:T27 Theme:T2
+E6	Binding Theme1:T1 Site2:T35 Theme2:T2

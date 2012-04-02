@@ -1,0 +1,36 @@
+T1	Organism	Brucella
+T2	Chemical	phosphate
+T3	Two-component-system	BvrR/BvrS
+T4	Protein	BvrR
+T5	Protein	BvrS
+T8	Chemical	ATP
+T10	Two-component-system	OmpR/PhoB
+T11	Protein	OmpR
+T12	Protein	PhoB
+T17	Organism	BvrR/bvrS mutants
+T18	Two-component-system	BvrR/bvrS
+T20	Protein	bvrS
+T21	Organism	mice
+T25	Organism	B. abortus mutants
+T26	Chemical	polymyxin B
+T27	Chemical	melittin
+T28	Chemical	poly-L-lysine
+T32	Protein	Omp22
+T33	Protein	Omp3b
+T34	Protein	Omp25a
+T35	Protein	Omp3a
+T36	Chemical	lipid A
+T37	Chemical	LPS
+T42	Chemical	carbon
+T43	Chemical	nitrogen
+*	Equiv T32 T33
+*	Equiv T34 T35
+E1	Regulation Cause:T3 Theme:E2
+M1	Speculation E1
+E2	Process Participant:T1
+E3	Process Participant:T17
+M2	Negation E3
+E4	Regulation Cause:T3 Theme:E6
+E5	Regulation Cause:T3 Theme:E7
+E6	Transcription Theme:T33
+E7	Transcription Theme:T35

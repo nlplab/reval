@@ -1,0 +1,60 @@
+T1	Chemical	iron
+T2	Organism	P. luminescens
+T3	Organism	Y. enterocolitica
+T4	Chemical	calcium
+T5	Protein	PhlA
+T6	Protein	PhlB
+T8	Two-component-system	phlA/phlB
+T9	Protein	phlA
+T10	Protein	phlB
+T11	Organism	Y. ruckeri
+T13	Two-component-system	Plu0225/Plu0226
+T14	Protein	Plu0225
+T15	Protein	Plu0226
+T16	Two-component-system	Plu0548/Plu0549
+T17	Protein	Plu0548
+T18	Protein	Plu0549
+T19	Two-component-system	Plu1149/Plu1150
+T20	Protein	Plu1149
+T21	Protein	Plu1150
+T22	Two-component-system	Plu1367/Plu1368
+T23	Protein	Plu1367
+T24	Protein	Plu1368
+T25	Two-component-system	Plu3064/Plu3065
+T26	Protein	Plu3064
+T27	Protein	Plu3065
+T28	Two-component-system	Plu3125-3127/3128
+T29	Protein	Plu3125
+T30	Protein	3127
+T31	Protein	3128
+T32	Two-component-system	Plu3667/Plu3668
+T33	Protein	Plu3667
+T34	Protein	Plu3668
+T35	Two-component-system	Plu3718/Plu3719
+T36	Protein	Plu3718
+T37	Protein	Plu3719
+T39	Two-component-system	YE0479/YE0480
+T40	Protein	YE0479
+T41	Protein	YE0480
+T42	Two-component-system	YE2407/YE2408
+T43	Protein	YE2407
+T44	Protein	YE2408
+T45	Two-component-system	(YE4084)YE4085/YE4086
+T46	Protein	YE4084
+T47	Protein	YE4085
+T48	Protein	YE4086
+T49	Protein	YE3454
+T56	Protein	FhaC
+T57	Protein	ShlA
+T58	Organism	Serratia marcescens
+T67	Protein	fhaC
+E1	Localization Theme:T5
+E2	Positive_regulation Cause:T6 Theme:T5
+E3	Gene_expression Theme:T5
+E4	Gene_expression Theme:T6
+E5	Positive_regulation Theme:T8
+E6	Positive_regulation Theme:T56
+E7	Process
+E8	Gene_expression Theme:T67
+E9	Gene_expression Theme:T40
+E10	Gene_expression Theme:T41

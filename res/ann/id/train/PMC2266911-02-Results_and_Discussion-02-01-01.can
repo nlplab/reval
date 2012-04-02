@@ -1,0 +1,14 @@
+T1	Organism	P. luminescens
+T2	Organism	Yersinia
+T3	Organism	Serratia entomophila
+T4	Organism	Xenorhabdus nematophilus
+T5	Protein	TccC
+T6	Organism	Y. enterocolitica
+T7	Protein	tccC
+T8	Organism	Y. pseudotuberculosis IP32953
+T9	Organism	Y. pestis KIM
+E1	Process
+E2	Process
+E3	Process
+E4	Process
+E5	Process Participant:T6
