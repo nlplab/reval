@@ -1,0 +1,6 @@
+T1	Protein	CD8
+T3	Protein	CD3
+T4	Protein	CD28
+T5	Protein	IL-2
+T6	Protein	rhIL-2
+*	Equiv T5 T6

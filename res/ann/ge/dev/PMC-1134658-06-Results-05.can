@@ -1,0 +1,39 @@
+T1	Protein	BMP-6
+T2	Protein	Id1
+T4	Protein	Smad 1
+T5	Protein	5
+T6	Protein	8
+T9	Protein	Id4
+T14	Protein	Id2
+T15	Protein	Id3
+E1	Positive_regulation Cause:T1 Theme:E2
+E2	Positive_regulation Theme:T2
+E3	Positive_regulation Cause:T1 Theme:E4
+E5	Positive_regulation Cause:T1 Theme:E6
+E7	Positive_regulation Cause:T1 Theme:E8
+E4	Phosphorylation Theme:T4
+E6	Phosphorylation Theme:T5
+E8	Phosphorylation Theme:T6
+E9	Positive_regulation Cause:T1 Theme:T2
+E10	Positive_regulation Cause:T1 Theme:T2
+E11	Positive_regulation Cause:T1 Theme:T2
+E12	Regulation Cause:T1 Theme:T14
+E13	Regulation Cause:T1 Theme:T15
+E14	Positive_regulation Cause:T1 Theme:T9
+E15	Positive_regulation Cause:T1 Theme:E16
+E16	Positive_regulation Theme:T2
+E17	Positive_regulation Cause:E16 Theme:E18
+E18	Positive_regulation Theme:T2
+E19	Positive_regulation Cause:T1 Theme:T2
+E20	Positive_regulation Cause:T1 Theme:T2
+E21	Positive_regulation Cause:T1 Theme:T2
+E22	Regulation Cause:T1 Theme:E23
+E24	Regulation Cause:T1 Theme:E25
+E23	Gene_expression Theme:T14
+E25	Gene_expression Theme:T15
+E26	Negative_regulation Theme:T2
+M1	Negation E12
+M2	Negation E13
+M3	Negation E14
+M4	Negation E22
+M5	Negation E24

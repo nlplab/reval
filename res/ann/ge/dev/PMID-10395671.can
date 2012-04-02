@@ -1,0 +1,14 @@
+T1	Protein	Janus kinase 3
+T2	Protein	STAT5a
+T3	Protein	CD40
+T5	Protein	CD40 ligand
+T10	Protein	p50
+T12	Protein	p65
+E1	Binding Theme:T3 Theme2:T5
+E2	Positive_regulation Theme:T10
+E3	Positive_regulation Theme:T12
+E4	Binding Theme:T1 Theme2:T3
+E5	Phosphorylation Theme:T1
+E6	Positive_regulation Theme:E5
+E7	Positive_regulation Theme:E8
+E8	Binding Theme:T2

@@ -1,0 +1,22 @@
+T1	Protein	PILOT
+T2	Protein	IL-2
+T3	Protein	interferon-gamma
+T7	Protein	EGR1
+T8	Protein	EGR2
+T9	Protein	pAT 133
+E1	Gene_expression Theme:T1
+E2	Positive_regulation Theme:E1
+E3	Positive_regulation Theme:T3
+E4	Positive_regulation Theme:T2
+E5	Gene_expression Theme:T3
+E6	Gene_expression Theme:T2
+E7	Negative_regulation Theme:E6
+E8	Negative_regulation Theme:E5
+E9	Positive_regulation Theme:E10
+E10	Gene_expression Theme:T1
+E11	Positive_regulation Theme:T1
+E12	Negative_regulation Theme:E11
+E13	Gene_expression Theme:T1
+E14	Positive_regulation Theme:E13
+E15	Regulation Theme:E13
+M1	Negation E15

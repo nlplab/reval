@@ -1,0 +1,5 @@
+T1	Protein	Akt
+T2	Protein	Stat3
+T3	Protein	LMP1
+E1	Negative_regulation Theme:T1
+E2	Negative_regulation Theme:T2

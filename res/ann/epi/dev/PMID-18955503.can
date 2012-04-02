@@ -7,7 +7,7 @@ T17	Protein	CFTR
 T18	Protein	ubiquitin
 T21	Protein	histone deacetylase 6
 *	Equiv T2 T3
-*	Equiv T5
+*	Equiv T1 T5
 *	Equiv T16 T17
-E1	Catalysis Cause:T1 Theme:E2
+E1	Catalysis Cause:T5 Theme:E2
 E2	Ubiquitination Theme:T2

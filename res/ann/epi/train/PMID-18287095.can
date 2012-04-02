@@ -2,4 +2,4 @@ T1	Protein	ISG15
 T2	Protein	Nedd4
 T3	Protein	ubiquitin
 T6	Protein	Ub
-*	Equiv T6
+*	Equiv T3 T6

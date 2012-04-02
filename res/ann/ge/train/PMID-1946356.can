@@ -1,0 +1,13 @@
+T1	Protein	65-kDa
+T2	Protein	50-kDa
+E1	Binding Theme:T1 Theme2:T2
+E2	Negative_regulation Theme:E1
+E3	Negative_regulation Theme:E2
+E4	Positive_regulation Theme:E1
+E5	Negative_regulation Theme:E1
+E6	Binding Theme:T2
+E7	Binding Theme:T1
+E8	Binding Theme:T1 Theme2:T2
+E9	Negative_regulation Theme:E6
+E10	Negative_regulation Theme:E7
+M1	Negation E5

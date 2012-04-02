@@ -1,0 +1,6 @@
+T1	Protein	IL-2
+T2	Protein	IL-6
+T3	Protein	IL-8
+E1	Regulation Theme:T3
+E2	Regulation Theme:T2
+E3	Regulation Theme:T1

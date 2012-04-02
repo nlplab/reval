@@ -1,0 +1,23 @@
+T1	Protein	Runx3
+T2	Protein	CD8
+T3	Protein	perforin
+T4	Protein	T-bet
+T5	Protein	Eomesodermin
+T6	Protein	Eomes
+T7	Protein	interferon (IFN) gamma
+T11	Protein	IFN-gamma
+T13	Protein	granzyme B
+*	Equiv T5 T6
+E1	Positive_regulation Theme:T4
+E2	Positive_regulation Theme:T5
+E3	Regulation Cause:T4 Theme:E4
+E5	Regulation Cause:T5 Theme:E4
+E4	Gene_expression Theme:T7
+E6	Regulation Cause:T1 Theme:E7
+E8	Regulation Cause:T1 Theme:E9
+E10	Regulation Cause:T1 Theme:E11
+E12	Regulation Cause:T1 Theme:E13
+E7	Gene_expression Theme:T5
+E9	Gene_expression Theme:T11
+E11	Gene_expression Theme:T3
+E13	Gene_expression Theme:T13

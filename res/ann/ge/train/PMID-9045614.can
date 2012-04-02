@@ -1,0 +1,12 @@
+T1	Protein	CD28
+T2	Protein	interleukin-2
+T3	Protein	IL-2
+*	Equiv T2 T3
+E1	Positive_regulation Theme:E3
+E2	Localization Theme:T2
+E3	Positive_regulation Theme:E2
+E4	Positive_regulation Cause:T1 Theme:E5
+E5	Localization Theme:T2
+E6	Positive_regulation Theme:T2
+E7	Positive_regulation Theme:E6
+E8	Positive_regulation Theme:E6

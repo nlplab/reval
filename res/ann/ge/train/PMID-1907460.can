@@ -1,0 +1,10 @@
+T1	Protein	tumour necrosis factor alpha
+T2	Protein	TNF alpha
+T3	Protein	chloramphenicol acetyl-transferase
+T4	Protein	CAT
+*	Equiv T2 T1
+*	Equiv T4 T3
+E1	Positive_regulation Theme:T1
+E2	Negative_regulation Theme:E4
+E3	Gene_expression Theme:T3
+E4	Regulation Theme:E3

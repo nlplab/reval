@@ -1,0 +1,5 @@
+T1	Protein	p40tax
+T2	Protein	cyclic-AMP responsive element binding factor
+T3	Protein	CREB
+*	Equiv T2 T3
+E1	Binding Theme:T2

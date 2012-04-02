@@ -1,0 +1,24 @@
+T1	Protein	Steel factor
+T2	Protein	SCL
+T5	Protein	Tcl-5
+T6	Protein	Tal-1
+T25	Protein	Steel
+*	Equiv T2 T5 T6
+E1	Regulation Cause:T1 Theme:E2
+E2	Gene_expression Theme:T5
+E3	Regulation Cause:T1 Theme:E4
+E4	Gene_expression Theme:T5
+E5	Negative_regulation Theme:T5
+E6	Negative_regulation Theme:T5
+E7	Regulation Theme:E8
+E8	Negative_regulation Theme:T5
+E9	Positive_regulation Theme:T5
+E10	Positive_regulation Theme:T5
+E11	Transcription Theme:T5
+E12	Positive_regulation Cause:T1 Theme:E11
+E13	Regulation Theme:E14
+E14	Positive_regulation Cause:T25 Theme:T5
+M1	Speculation E3
+M2	Negation E6
+M3	Negation E12
+M4	Speculation E13

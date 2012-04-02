@@ -1,0 +1,36 @@
+T1	Protein	Factor VII/VIIa
+T2	Protein	tissue factor (TF) receptor
+T3	Protein	TF
+T5	Protein	c-Rel
+T6	Protein	p65
+T10	Protein	I kappa B alpha
+T22	Entity	promoter
+T30	Entity	nuclear
+E1	Binding Theme:T1 Theme2:T2
+E2	Gene_expression Theme:T3
+E3	Positive_regulation Theme:T3
+E4	Positive_regulation Cause:E6 Theme:E3
+E5	Positive_regulation Cause:E7 Theme:E3
+E6	Binding Theme:T5 Site2:T22 Theme2:T3
+E7	Binding Theme:T6 Site2:T22 Theme2:T3
+E8	Negative_regulation Theme:E9
+E9	Positive_regulation Theme:E10
+E10	Transcription Theme:T3
+E11	Negative_regulation Theme:E12
+E12	Positive_regulation Theme:E13
+E13	Protein_catabolism Theme:T10
+E14	Negative_regulation Cause:E11 Theme:E17
+E15	Negative_regulation Cause:E11 Theme:E16
+E16	Localization Theme:T5 ToLoc:T30
+E17	Localization Theme:T6 ToLoc:T30
+E18	Negative_regulation Theme:E19
+E19	Positive_regulation Theme:T3
+E20	Negative_regulation Cause:E24 Theme:E22
+E21	Negative_regulation Cause:E25 Theme:E22
+E22	Positive_regulation Theme:E23
+E23	Transcription Theme:T3
+E24	Negative_regulation Theme:E27
+E25	Negative_regulation Theme:E26
+E26	Localization Theme:T6 ToLoc:T30
+E27	Localization Theme:T5 ToLoc:T30
+M1	Negation E18

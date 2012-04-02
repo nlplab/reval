@@ -1,0 +1,36 @@
+T1	Organism	streptococcal strain
+T2	Organism	S. pyogenes strain SF370
+T3	Regulon-operon	Mga regulon
+T4	Protein	Mga
+T6	Organism	streptococci
+T7	Regulon-operon	spy2009-2010
+T8	Protein	spy2009
+T9	Protein	2010
+T10	Regulon-operon	spy2039-2040
+T11	Protein	spy2039
+T12	Protein	2040
+T13	Protein	C5a peptidase
+T14	Protein	SpeB
+T15	Protein	spy0711
+T16	Protein	0712
+T17	Protein	SpeC
+T18	Protein	MF2
+T19	Regulon-operon	spy0098-0100
+T20	Protein	spy0098
+T21	Protein	0100
+T22	Regulon-operon	spy2159-2160
+T23	Protein	spy2159
+T24	Protein	2160
+T25	Protein	L32
+T26	Protein	L33
+T27	Regulon-operon	spy0741-0746
+T28	Protein	spy0741
+T29	Protein	0746
+T30	Protein	streptolysin S
+E1	Process
+E2	Positive_regulation Theme:T7
+E3	Positive_regulation Theme:T10
+E4	Process
+E5	Process
+E6	Regulation Theme:T17
+E7	Regulation Theme:T18

@@ -1,0 +1,30 @@
+T1	Protein	tumor necrosis factor alpha
+T2	Protein	NFATp
+T3	Protein	ATF-2
+T5	Protein	TNF-alpha
+T6	Protein	CD-40
+*	Equiv T1 T5
+E1	Regulation Cause:T3 Theme:T1
+E2	Regulation Cause:T2 Theme:T1
+E3	Transcription Theme:T1
+E4	Regulation Theme:E3
+E5	Regulation Cause:T6 Theme:E3
+E6	Positive_regulation Theme:E7
+E7	Transcription Theme:T1
+E8	Negative_regulation Theme:E6
+E9	Regulation Theme:E10
+E10	Regulation Theme:T1
+E11	Binding Theme:T2
+E12	Binding Theme:T3
+E13	Regulation Theme:T1
+E14	Regulation Cause:T2 Theme:T1
+E15	Binding Theme:T2
+E16	Binding Theme:T3
+E17	Binding Theme:T2
+E18	Regulation Theme:E19
+E19	Positive_regulation Theme:T1
+E20	Binding Theme:T2
+E21	Binding Theme:T2 Theme2:T1
+E22	Regulation Theme:E23
+E23	Regulation Theme:T1
+M1	Negation E14

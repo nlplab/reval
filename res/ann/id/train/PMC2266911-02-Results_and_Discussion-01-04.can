@@ -1,0 +1,35 @@
+T1	Chemical	c-di-GMP
+T2	Chemical	Cyclic diguanylate
+T5	Protein	GGDEF
+T7	Protein	EAL
+T10	Protein	PilZ
+T15	Organism	Y. enterocolitica
+T20	Protein	AdrA
+T21	Protein	YE3010
+T23	Chemical	diguanylate
+T24	Protein	YE2278
+T27	Protein	YE3818
+T29	Protein	YE3806
+T36	Protein	YE3197
+T37	Protein	BcsA
+T38	Protein	YE4074
+T40	Protein	YE4063
+T41	Protein	YE1324
+T44	Organism	human
+T45	Organism	P. luminescens
+T49	Organism	Helicobacter pylori
+T52	Organism	luxS-deficient mutant
+T53	Protein	luxS
+T54	Protein	AI-2
+*	Equiv T1 T2
+*	Equiv T20 T21
+*	Equiv T37 T38
+E1	Regulation Theme:E2
+E2	Process
+E3	Process
+E4	Gene_expression Theme:T40
+E5	Gene_expression Theme:T41
+E6	Positive_regulation Theme:E4
+E7	Positive_regulation Theme:E5
+E8	Process
+E9	Gene_expression Theme:T54

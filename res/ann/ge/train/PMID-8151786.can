@@ -1,0 +1,6 @@
+T1	Protein	Nef
+T2	Protein	negative factor
+T5	Protein	nef
+*	Equiv T1 T2
+E1	Gene_expression Theme:T5
+E2	Gene_expression Theme:T5

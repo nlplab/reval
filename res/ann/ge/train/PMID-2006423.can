@@ -1,0 +1,6 @@
+T1	Protein	c-rel
+T2	Protein	p50
+T3	Protein	p65
+T4	Protein	I kappa B-alpha
+T5	Protein	-beta
+E1	Binding Theme:T2

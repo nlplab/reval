@@ -1,0 +1,16 @@
+T1	Protein	Tat
+T4	Protein	IFNA2
+T6	Protein	tumor necrosis factor alpha
+T7	Protein	IFN A
+T8	Protein	IFNA
+T9	Protein	interleukin-2
+T10	Protein	phytohemagglutinin
+*	Equiv T7 T8
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T8
+E3	Gene_expression Theme:T9
+E4	Positive_regulation Cause:T10 Theme:E3
+E5	Positive_regulation Theme:E3
+E6	Positive_regulation Theme:E7
+E7	Gene_expression Theme:T8
+E8	Gene_expression Theme:T8

@@ -1,0 +1,23 @@
+T1	Protein	STAT6
+T2	Protein	IL-4
+T3	Protein	IgE
+T6	Protein	IL-4STAT
+T8	Protein	NF kappa B1
+T9	Protein	p50
+T10	Protein	p65
+T11	Protein	NF kappa B2
+T13	Protein	relB
+*	Equiv T1 T6
+T26	Entity	binding sites
+T28	Entity	germline promoter
+E1	Positive_regulation CSite:T26 Cause:T1 Theme:E2
+E2	Positive_regulation Cause:T2 Site:T28 Theme:T3
+E3	Positive_regulation Cause:T2 Theme:E4
+E4	Binding Theme:T1
+E5	Binding Theme:T9 Theme2:T10
+E6	Regulation Theme:T11
+E7	Positive_regulation Theme:E8
+E8	Positive_regulation Theme:T2
+E9	Positive_regulation Theme:E8
+E10	Binding Theme:T1
+M1	Negation E9

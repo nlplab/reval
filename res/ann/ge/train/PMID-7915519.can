@@ -1,0 +1,7 @@
+T1	Protein	CD4
+T2	Protein	gp160
+T7	Protein	p65
+T8	Protein	p50
+T9	Protein	c-rel
+E1	Positive_regulation Cause:T2 Theme:E2
+E2	Binding Theme:T7 Theme2:T8 Theme3:T9

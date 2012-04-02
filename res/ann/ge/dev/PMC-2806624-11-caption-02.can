@@ -1,0 +1,23 @@
+T1	Protein	RUNX1
+T2	Protein	RUNX3
+T3	Protein	Foxp3
+T4	Protein	CD4
+T5	Protein	CD127
+T6	Protein	CD25
+T13	Protein	IL-10
+T14	Protein	TGF-beta
+T15	Protein	FOXP3
+T22	Protein	HEK cells
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T2
+E3	Positive_regulation Theme:E4
+E5	Positive_regulation Theme:E6
+E7	Positive_regulation Theme:E8
+E9	Positive_regulation Theme:E10
+E4	Transcription Theme:T13
+E6	Transcription Theme:T14
+E8	Transcription Theme:T15
+E10	Transcription Theme:T2
+E11	Gene_expression Theme:T1
+E12	Gene_expression Theme:T1
+M1	Negation E12

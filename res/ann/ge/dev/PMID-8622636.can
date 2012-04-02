@@ -1,0 +1,22 @@
+T1	Protein	tumor necrosis factor-alpha
+T2	Protein	placental alkaline phosphatase
+T3	Protein	PLAP
+T4	Protein	TNF-alpha
+T10	Protein	p50
+T11	Protein	p65
+T13	Protein	I kappa B-alpha
+*	Equiv T2 T3
+T19	Entity	promoter
+E1	Negative_regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Transcription Theme:T2
+E4	Regulation CSite:T19 Cause:T4 Theme:E3
+E5	Positive_regulation Theme:E6
+E6	Positive_regulation Theme:E7
+E7	Transcription Theme:T4
+E8	Binding Theme:T10
+E9	Binding Theme:T11
+E10	Positive_regulation Theme:E11
+E11	Gene_expression Theme:T4
+E12	Negative_regulation Theme:E13
+E13	Protein_catabolism Theme:T13

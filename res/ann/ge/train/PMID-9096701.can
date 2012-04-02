@@ -1,0 +1,17 @@
+T1	Protein	LAZ3
+T2	Protein	BCL6
+*	Equiv T1 T1 T2 T2
+E1	Gene_expression Theme:T1
+E2	Regulation Theme:E3
+E3	Gene_expression Theme:T1
+E4	Gene_expression Theme:T1
+E5	Gene_expression Theme:T1
+E6	Transcription Theme:T1
+E7	Gene_expression Theme:T1
+E8	Gene_expression Theme:T1
+E9	Positive_regulation Theme:E8
+E10	Gene_expression Theme:T1
+E11	Gene_expression Theme:T1
+M1	Speculation E4
+M2	Speculation E5
+M3	Negation E7

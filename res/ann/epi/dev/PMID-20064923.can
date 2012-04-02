@@ -7,6 +7,6 @@ T7	Protein	CUL4B
 T11	Protein	Topo I
 T13	Protein	Cdt1
 T14	Protein	p21
-*	Equiv T11
+*	Equiv T2 T11
 E1	Ubiquitination Theme:T2
 M1	Negation E1

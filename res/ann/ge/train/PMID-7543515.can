@@ -1,0 +1,29 @@
+T1	Protein	CD4
+T2	Protein	LFA-3
+T3	Protein	B7
+T9	Protein	IL-2
+T22	Protein	p50
+T23	Protein	p65
+T24	Protein	c-Rel
+T25	Protein	c-Jun
+T26	Protein	Jun-D
+T27	Protein	Fra-1
+T28	Protein	Jun-B
+T29	Protein	c-Fos
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T3
+E3	Positive_regulation Cause:T3 Theme:E7
+E4	Positive_regulation Cause:T3 Theme:E8
+E5	Positive_regulation Cause:T2 Theme:E8
+E6	Positive_regulation Cause:T2 Theme:E7
+E7	Transcription Theme:T9
+E8	Transcription Theme:T9
+E9	Positive_regulation Theme:E10
+E10	Transcription Theme:T9
+E11	Regulation Cause:T3 Theme:E10
+E12	Regulation Cause:T2 Theme:E10
+E13	Regulation Theme:E14
+E14	Gene_expression Theme:T9
+M1	Negation E5
+M2	Negation E6
+M3	Speculation E13

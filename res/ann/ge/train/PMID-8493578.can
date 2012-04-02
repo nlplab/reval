@@ -1,0 +1,21 @@
+T1	Protein	Elf-1
+T2	Protein	retinoblastoma protein
+T3	Protein	retinoblastoma
+T4	Protein	Rb
+E1	Regulation Cause:E2 Theme:T1
+E2	Binding Theme:T2
+E3	Binding Theme:T1 Theme2:T4
+E4	Binding Theme:T1 Theme2:T4
+E5	Phosphorylation Theme:T4
+E6	Negative_regulation Theme:E5
+E7	Binding Theme:T1 Theme2:T4
+E8	Binding Theme:T1 Theme2:T4
+E9	Phosphorylation Theme:T4
+E10	Positive_regulation Cause:E9 Theme:E11
+E11	Localization Theme:T1
+E12	Gene_expression Theme:T4
+E13	Positive_regulation Theme:E12
+E14	Phosphorylation Theme:T4
+E15	Binding Theme:T4
+M1	Negation E7
+M2	Negation E14

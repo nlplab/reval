@@ -1,0 +1,14 @@
+T1	Protein	p65
+T2	Protein	p50
+T8	Protein	cathepsin G
+T9	Protein	proteinase 3
+E1	Localization Theme:T1
+E2	Positive_regulation Theme:E1
+E3	Positive_regulation Theme:E4
+E4	Localization Theme:T2
+E5	Gene_expression Theme:T8
+E6	Gene_expression Theme:T9
+E7	Gene_expression Theme:T8
+E8	Gene_expression Theme:T9
+M1	Negation E5
+M2	Negation E6

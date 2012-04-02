@@ -2,7 +2,7 @@ T1	Protein	TLR-4
 T2	Protein	toll-like receptor 4
 T8	Protein	extracellular signal response kinase 1
 T9	Protein	2
-*	Equiv T2
-E1	Glycosylation Theme:T1
-E2	Glycosylation Theme:T1
-E3	Glycosylation Theme:T1
+*	Equiv T1 T2
+E1	Glycosylation Theme:T2
+E2	Glycosylation Theme:T2
+E3	Glycosylation Theme:T2

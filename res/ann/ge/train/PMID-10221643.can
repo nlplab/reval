@@ -1,0 +1,17 @@
+T1	Protein	Tcf-1
+T2	Protein	glycogen synthase kinase-3
+T3	Protein	Beta-catenin
+T4	Protein	beta-catenin
+T8	Protein	glycogen synthase kinase-3beta
+T9	Protein	GSK-3beta
+T13	Protein	phytohemagglutinin
+T17	Protein	Tcf
+*	Equiv T8 T9
+E1	Positive_regulation Cause:E2 Theme:T1
+E2	Binding Theme:T1 Theme2:T4
+E3	Negative_regulation Theme:T8
+E4	Positive_regulation Cause:E3 Theme:T4
+E5	Negative_regulation Cause:T13 Theme:T8
+E6	Negative_regulation Theme:T8
+E7	Negative_regulation Theme:T8
+E8	Negative_regulation Theme:T8

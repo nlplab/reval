@@ -1,0 +1,6 @@
+T1	Protein	CD4
+T2	Protein	CD28
+T6	Protein	PHA
+T8	Protein	CD45RA
+T9	Protein	CD62L
+E1	Binding Theme:T2

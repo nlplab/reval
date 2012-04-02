@@ -1,0 +1,6 @@
+T1	Protein	p50
+T3	Protein	p65
+T4	Protein	Ets-1
+E1	Binding Theme:T1
+E2	Binding Theme:T1
+M1	Negation E2

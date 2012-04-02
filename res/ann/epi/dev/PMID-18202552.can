@@ -6,4 +6,4 @@ T5	Protein	Checkpoint with forkhead-associated and RING
 T7	Protein	ubiquitin
 T10	Protein	Chf1
 T11	Protein	Chf2
-*	Equiv T5
+*	Equiv T1 T5

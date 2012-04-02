@@ -1,0 +1,6 @@
+T1	Protein	chloramphenicol acetyl transferase
+T2	Protein	CAT
+T4	Protein	B7.1
+*	Equiv T1 T2
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T4

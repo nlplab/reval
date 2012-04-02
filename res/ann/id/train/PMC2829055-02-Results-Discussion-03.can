@@ -35,6 +35,7 @@ T65	Protein	B
 T66	Protein	C
 T68	Chemical	polyamines
 T70	Organism	Y. pestis Deltapot
+*	Equiv T37 T39
 E1	Process
 E2	Gene_expression Theme:T8
 E3	Gene_expression Theme:T14
@@ -73,7 +74,7 @@ E35	Positive_regulation Theme:T22
 E36	Positive_regulation Theme:T51
 E37	Positive_regulation Theme:T52
 E38	Positive_regulation Theme:T22
-E39	Positive_regulation Theme:T39
+E39	Positive_regulation Theme:T37
 E40	Positive_regulation Theme:T58
 E41	Positive_regulation Theme:T59
 E42	Process

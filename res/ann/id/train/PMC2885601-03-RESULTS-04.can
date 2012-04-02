@@ -1,0 +1,10 @@
+T1	Protein	SeMac
+T2	Organism	S. equi
+T3	Organism	Horse
+T6	Organism	horse
+T23	Protein	IgG
+T25	Organism	GAS
+T26	Organism	human
+T35	Protein	IgG endopeptidase
+E1	Protein_catabolism Theme:T23
+E2	Positive_regulation Cause:T1 Theme:E1

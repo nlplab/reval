@@ -1,0 +1,5 @@
+T1	Protein	protease
+T2	Protein	50K subunit
+T3	Protein	p105
+E1	Protein_catabolism Theme:T3
+E2	Positive_regulation Cause:T1 Theme:E1

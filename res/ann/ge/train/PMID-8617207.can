@@ -1,0 +1,29 @@
+T1	Protein	GATA-1
+T3	Protein	beta-globin
+T6	Protein	c-Jun
+T7	Protein	TBP
+T8	Protein	GATA-2
+T9	Protein	GATA-3
+T11	Protein	-2
+T13	Protein	-3
+T15	Entity	nucleoplasmic
+T18	Entity	nucleoli
+T19	Entity	nuclear periphery
+T21	Entity	consensus sites
+T24	Entity	nuclear bodies
+E1	Gene_expression Theme:T1
+E2	Localization Theme:T1 ToLoc:T15
+E3	Localization AtLoc:T19 Theme:T1
+E4	Localization AtLoc:T18 Theme:T1
+E5	Binding Theme:T1 Site2:T21 Theme2:T3
+E6	Localization Theme:T6
+E7	Localization Theme:T7
+E8	Localization AtLoc:T24 Theme:T8
+E9	Localization AtLoc:T24 Theme:T9
+E10	Gene_expression Theme:T1
+E11	Gene_expression Theme:T13
+E12	Gene_expression Theme:T1
+E13	Gene_expression Theme:T11
+M1	Negation E5
+M2	Negation E6
+M3	Negation E7

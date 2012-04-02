@@ -1,0 +1,11 @@
+T1	Organism	H37Ra
+T2	Organism	H37Rv
+T4	Protein	fadE5
+T5	Protein	rpsL
+T6	Protein	phoP
+T9	Organism	H37Ra::phoP
+T11	Organism	H37Ra::fadE5
+T13	Organism	H37Ra::rpsL
+T23	Protein	SpeI
+E1	Regulation Cause:T6 Theme:E2
+E2	Process

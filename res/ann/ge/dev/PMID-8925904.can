@@ -1,0 +1,14 @@
+T1	Protein	androgen receptor
+T2	Protein	AR
+T4	Protein	CRE binding protein
+T5	Protein	CREB
+*	Equiv T1 T2
+*	Equiv T4 T5
+E1	Regulation Theme:T1
+E2	Positive_regulation Theme:E1
+E3	Positive_regulation Theme:T1
+E4	Binding Theme:T5
+E5	Regulation Theme:E6
+E6	Transcription Theme:T1
+E7	Negative_regulation Theme:E5
+M1	Negation E3

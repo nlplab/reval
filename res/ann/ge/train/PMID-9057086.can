@@ -1,0 +1,4 @@
+T1	Protein	EGR-1
+E1	Binding Theme:T1
+E2	Positive_regulation Theme:E1
+M1	Negation E2

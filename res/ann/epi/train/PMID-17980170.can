@@ -1,11 +1,11 @@
 T1	Protein	N-acylethanolamine-hydrolyzing acid amidase
 T3	Protein	NAAA
-*	Equiv T3
+*	Equiv T1 T3
 T12	Entity	Asn-37
 T13	Entity	Asn-107
 T14	Entity	Asn-309
 T15	Entity	Asn-333
-E1	Glycosylation Theme:T1
+E1	Glycosylation Theme:T3
 E2	Glycosylation Theme:T3
 E3	Glycosylation Site:T12 Theme:T3
 E4	Glycosylation Site:T13 Theme:T3

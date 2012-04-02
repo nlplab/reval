@@ -1,0 +1,87 @@
+T1	Organism	P. luminescens ssp. laumondii TT01
+T2	Organism	Y. enterocolitica 8081
+T3	Organism	P. luminescens
+T5	Organism	Y. enterocolitica
+T10	Organism	Mycoplasma genitalium
+T11	Organism	Syncheocystes spp
+T16	Organism	H. bacteriophora
+T19	Two-component-system	CitA/CitB
+T20	Protein	CitA
+T21	Protein	CitB
+T22	Two-component-system	YE2505/YE2506
+T23	Protein	YE2505
+T24	Protein	YE2506
+T25	Two-component-system	YE2654/YE2655
+T26	Protein	YE2654
+T27	Protein	YE2655
+T28	Two-component-system	LytS/LytR
+T29	Protein	LytS
+T30	Protein	LytR
+T31	Two-component-system	YE1228/YE1227
+T32	Protein	YE1228
+T33	Protein	YE1227
+T34	Two-component-system	YE4014/YE4015
+T35	Protein	YE4014
+T36	Protein	YE4015
+T37	Two-component-system	Plu0102/Plu103
+T38	Protein	Plu0102
+T39	Protein	Plu103
+T40	Two-component-system	YE4185/YE4186
+T41	Protein	YE4185
+T42	Protein	YE4186
+T43	Organism	Photorhabdus
+T44	Organism	Yersinia
+T49	Two-component-system	Plu0102/Plu0103
+T51	Protein	Plu0103
+T52	Two-component-system	Ye4185/Ye4186
+T53	Protein	Ye4185
+T54	Protein	Ye4186
+T55	Protein	plu0104
+T56	Protein	ye4187
+T57	Two-component-system	PhoP/PhoQ
+T58	Protein	PhoP
+T59	Protein	PhoQ
+T60	Two-component-system	AstS/AstR
+T61	Protein	AstS
+T62	Protein	AstR
+T63	Two-component-system	BvgS/BvgR
+T64	Protein	BvgS
+T65	Protein	BvgR
+T69	Organism	Salmonella
+T70	Organism	Y. pseudotuberculosis
+T72	Regulon-operon	pbgPE
+T73	Protein	pbgP
+T74	Protein	E
+T75	Chemical	lipid A
+T77	Organism	Y. pestis
+T93	Two-component-system	KdpD/KdpE
+T94	Protein	KdpD
+T95	Protein	KdpE
+T103	Two-component-system	TctE/TctD
+T104	Protein	TctE
+T105	Protein	TctD
+T106	Organism	Y. intermedia
+T107	Organism	Y. frederiksenii
+T112	Organism	Burkholderia
+T113	Organism	Agrobacterium
+T114	Organism	Bordetella
+T115	Organism	Collinsella
+T116	Organism	Xylella
+T117	Organism	Xanthomonas
+T118	Organism	Pseudomonas
+T119	Organism	P. entomophila
+E1	Process Participant:T3
+E2	Process Participant:T5
+E3	Process
+E4	Regulation Cause:T57 Theme:E7
+E5	Regulation Cause:T60 Theme:E7
+E6	Regulation Cause:T63 Theme:E7
+E7	Process
+E8	Process
+E9	Process Participant:T70
+E10	Gene_expression Theme:T72
+E11	Regulation Cause:E10 Theme:E12
+E12	Process Participant:T3
+E13	Process Participant:T77
+E14	Process
+E15	Regulation Theme:E14

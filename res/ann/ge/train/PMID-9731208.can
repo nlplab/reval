@@ -1,0 +1,7 @@
+T1	Protein	Tat
+T2	Protein	TAT
+T4	Entity	nuclear
+E1	Negative_regulation Theme:E2
+E2	Localization Theme:T1 ToLoc:T4
+E3	Negative_regulation Theme:E4
+E4	Localization Theme:T2 ToLoc:T4

@@ -1,0 +1,14 @@
+T1	Protein	IL-10
+T3	Protein	p50
+T4	Protein	p65
+T5	Protein	Rel A
+T9	Protein	CD80 Ag
+T11	Protein	CD28
+T13	Protein	CD80
+*	Equiv T4 T5
+E1	Negative_regulation Theme:T3
+E2	Negative_regulation Theme:T4
+E3	Positive_regulation Theme:T9
+E4	Positive_regulation Cause:T1 Theme:E3
+E5	Negative_regulation Cause:T1 Theme:T13
+M1	Negation E4

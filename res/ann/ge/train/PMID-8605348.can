@@ -1,0 +1,41 @@
+T1	Protein	interleukin-13
+T2	Protein	interleukin-4
+T3	Protein	Interleukin-13
+T4	Protein	IL-13
+T5	Protein	IL-4
+T16	Protein	NF-ATp
+*	Equiv T3 T4
+T30	Entity	P elements
+T34	Entity	promoter
+T36	Entity	P element sites
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T1
+E3	Binding Theme:T1 Theme2:T2
+E4	Gene_expression Theme:T5
+E5	Gene_expression Theme:T3
+E6	Regulation Theme:E7
+E7	Gene_expression Theme:T3
+E8	Gene_expression Theme:T3
+E9	Regulation CSite:T30 Cause:T5 Theme:E10
+E10	Positive_regulation Theme:T5
+E11	Negative_regulation Theme:E12
+E12	Regulation Site:T34 Theme:T3
+E13	Binding Site:T36 Theme:T3 Theme2:T16
+E14	Binding Site:T36 Theme:T5 Theme2:T16
+E15	Transcription Theme:T5
+E16	Transcription Theme:T3
+E17	Positive_regulation Theme:E19
+E18	Positive_regulation Theme:E20
+E19	Gene_expression Theme:T3
+E20	Gene_expression Theme:T5
+E21	Positive_regulation Theme:T16
+E22	Binding Theme:T16 Site2:T30 Theme2:T5
+E23	Binding Theme:T16 Site2:T30 Theme2:T3
+E24	Positive_regulation Theme:E26
+E25	Positive_regulation Theme:E27
+E26	Gene_expression Theme:T3
+E27	Gene_expression Theme:T5
+M1	Speculation E6
+M2	Speculation E8
+M3	Speculation E24
+M4	Speculation E25

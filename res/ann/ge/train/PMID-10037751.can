@@ -1,0 +1,19 @@
+T1	Protein	GATA-3
+T3	Protein	CD4
+T9	Protein	ZEB
+T10	Protein	E2A
+T11	Protein	HEB
+T19	Entity	promoter
+E1	Gene_expression Theme:T1
+E2	Regulation Theme:E1
+E3	Transcription Theme:T1
+E4	Positive_regulation Site:T19 Theme:T1
+E5	Negative_regulation Site:T19 Theme:T1
+E6	Positive_regulation Theme:E5
+E7	Binding Theme:T10
+E8	Binding Theme:T11
+E9	Binding Theme:T9
+E10	Negative_regulation Cause:T9 Theme:E8
+E11	Negative_regulation Cause:T9 Theme:E7
+E12	Regulation Cause:E10 Theme:E5
+E13	Regulation Cause:E11 Theme:E5

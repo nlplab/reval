@@ -3,7 +3,7 @@ T2	Protein	Hsp90
 T3	Protein	CHIP
 T6	Protein	ubiquitin
 T7	Protein	C-terminus of Hsc70 interacting protein
-*	Equiv T7
+*	Equiv T3 T7
 T30	Entity	lysine residues
 T34	Entity	K325
 T35	Entity	K451
@@ -29,9 +29,9 @@ E2	Catalysis Cause:T3 Theme:E1
 E3	Ubiquitination Theme:T2
 E4	Catalysis Cause:T3 Theme:E3
 E5	Ubiquitination Theme:T2
-E6	Catalysis Cause:T7 Theme:E5
+E6	Catalysis Cause:T3 Theme:E5
 E7	Ubiquitination Theme:T1
-E8	Catalysis Cause:T7 Theme:E7
+E8	Catalysis Cause:T3 Theme:E7
 E9	Catalysis Cause:T3 Theme:E12
 E10	Ubiquitination Site:T30 Theme:T2
 E11	Catalysis Cause:T3 Theme:E10

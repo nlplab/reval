@@ -1,0 +1,139 @@
+T1	Protein	RUNX1
+T2	Protein	RUNX3
+T3	Protein	TGF-beta
+T4	Protein	RUNX
+T5	Protein	CD4
+T6	Protein	CD2
+T7	Protein	3
+T8	Protein	28
+T18	Protein	FOXP3
+T37	Protein	GATA3
+T38	Protein	T-bet
+T39	Protein	RORC2
+T60	Protein	IL-4
+T61	Protein	IL-5
+T62	Protein	IL-10
+T63	Protein	IL-13
+T64	Protein	IFN-gamma
+T75	Protein	CD127
+T76	Protein	CD25
+E1	Positive_regulation Cause:T3 Theme:E2
+E3	Positive_regulation Cause:T3 Theme:E4
+E2	Transcription Theme:T1
+E4	Transcription Theme:T2
+E5	Positive_regulation Cause:T3 Theme:E6
+E7	Positive_regulation Cause:T3 Theme:E8
+E9	Positive_regulation Cause:T3 Theme:E10
+E6	Transcription Theme:T1
+E8	Transcription Theme:T2
+E10	Transcription Theme:T18
+E11	Positive_regulation Theme:T1
+E12	Positive_regulation Theme:T2
+E13	Gene_expression Theme:T1
+E14	Gene_expression Theme:T2
+E15	Negative_regulation Theme:E13
+E16	Negative_regulation Theme:E14
+E17	Negative_regulation Theme:T1
+E18	Negative_regulation Theme:T2
+E19	Negative_regulation Cause:E17 Theme:E20
+E21	Negative_regulation Cause:E18 Theme:E20
+E22	Positive_regulation Cause:T3 Theme:E20
+E20	Transcription Theme:T18
+E23	Transcription Theme:T18
+E24	Negative_regulation Cause:E25 Theme:E23
+E26	Negative_regulation Cause:E27 Theme:E23
+E25	Negative_regulation Theme:T1
+E27	Negative_regulation Theme:T2
+E28	Regulation Cause:E30 Theme:E29
+E31	Regulation Cause:E32 Theme:E29
+E33	Regulation Cause:E30 Theme:E34
+E35	Regulation Cause:E32 Theme:E34
+E36	Regulation Cause:E30 Theme:E37
+E38	Regulation Cause:E32 Theme:E37
+E29	Transcription Theme:T37
+E34	Transcription Theme:T38
+E37	Transcription Theme:T39
+E30	Negative_regulation Theme:T1
+E32	Negative_regulation Theme:T2
+E39	Transcription Theme:T18
+E40	Negative_regulation Cause:E41 Theme:E39
+E42	Negative_regulation Cause:E43 Theme:E39
+E41	Negative_regulation Theme:T1
+E43	Negative_regulation Theme:T2
+E44	Regulation Cause:E46 Theme:E45
+E46	Negative_regulation Theme:T4
+E45	Gene_expression Theme:T18
+E47	Negative_regulation Cause:E48 Theme:T18
+E48	Negative_regulation Theme:T1
+E49	Negative_regulation Theme:T2
+E50	Negative_regulation Cause:E49 Theme:T18
+E51	Negative_regulation Cause:E52 Theme:T18
+E53	Negative_regulation Cause:E54 Theme:T18
+E52	Negative_regulation Theme:T1
+E54	Negative_regulation Theme:T2
+E55	Negative_regulation Theme:T1
+E56	Negative_regulation Theme:T2
+E57	Regulation Cause:T1 Theme:E58
+E59	Regulation Cause:T2 Theme:E58
+E58	Positive_regulation Theme:T18
+E60	Gene_expression Theme:T60
+E61	Gene_expression Theme:T61
+E62	Gene_expression Theme:T62
+E63	Gene_expression Theme:T63
+E64	Gene_expression Theme:T64
+E65	Negative_regulation Theme:T1
+E66	Negative_regulation Theme:T2
+E67	Regulation Cause:E65 Theme:E60
+E68	Regulation Cause:E66 Theme:E60
+E69	Regulation Cause:T3 Theme:E60
+E70	Regulation Cause:E65 Theme:E61
+E71	Regulation Cause:E66 Theme:E61
+E72	Regulation Cause:T3 Theme:E61
+E73	Regulation Cause:E65 Theme:E62
+E74	Regulation Cause:E66 Theme:E62
+E75	Regulation Cause:T3 Theme:E62
+E76	Regulation Cause:E65 Theme:E63
+E77	Regulation Cause:E66 Theme:E63
+E78	Regulation Cause:T3 Theme:E63
+E79	Regulation Cause:E65 Theme:E64
+E80	Regulation Cause:E66 Theme:E64
+E81	Regulation Cause:T3 Theme:E64
+E82	Gene_expression Theme:T1
+E83	Gene_expression Theme:T2
+E84	Transcription Theme:T2
+E85	Transcription Theme:T62
+E86	Transcription Theme:T3
+E87	Transcription Theme:T18
+E88	Regulation Theme:E89
+E89	Transcription Theme:T1
+E90	Gene_expression Theme:T18
+E91	Gene_expression Theme:T2
+E92	Negative_regulation Theme:E93
+E93	Gene_expression Theme:T1
+M1	Negation E28
+M2	Negation E31
+M3	Negation E33
+M4	Negation E35
+M5	Negation E36
+M6	Negation E38
+M7	Speculation E44
+M8	Speculation E57
+M9	Speculation E59
+M10	Negation E67
+M11	Negation E68
+M12	Negation E69
+M13	Negation E70
+M14	Negation E71
+M15	Negation E72
+M16	Negation E73
+M17	Negation E74
+M18	Negation E75
+M19	Negation E76
+M20	Negation E77
+M21	Negation E78
+M22	Negation E79
+M23	Negation E80
+M24	Negation E81
+M25	Speculation E82
+M26	Speculation E83
+M27	Negation E88

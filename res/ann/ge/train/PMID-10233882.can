@@ -1,0 +1,7 @@
+T1	Protein	CD34
+T4	Protein	tumor necrosis factor alpha
+T5	Protein	interleukin-3
+T6	Protein	granulocyte-macrophage colony-stimulating factor
+E1	Gene_expression Theme:T4
+E2	Gene_expression Theme:T5
+E3	Gene_expression Theme:T6

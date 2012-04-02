@@ -1,0 +1,10 @@
+T1	Chemical	Mg2+
+T2	Chemical	Ca2+
+T3	Chemical	Mn2+
+T4	Chemical	Zn2+
+T5	Organism	P. aeruginosa
+T21	Chemical	LPS
+T22	Chemical	reactive oxygen species
+T24	Chemical	CAP
+E1	Process Participant:T5
+E2	Process

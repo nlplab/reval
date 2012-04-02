@@ -1,0 +1,29 @@
+T1	Protein	EGR1
+T2	Protein	CD44
+T3	Protein	egr-1
+T16	Protein	chloramphenicol acetyltransferase
+T35	Entity	nuclear
+E1	Regulation Cause:T1 Theme:E2
+E2	Regulation Theme:E3
+E3	Positive_regulation Theme:E4
+E4	Transcription Theme:T2
+E5	Regulation Cause:T1 Theme:T2
+E6	Positive_regulation Theme:E7
+E7	Transcription Theme:T1
+E8	Gene_expression Theme:T1
+E9	Gene_expression Theme:T1
+E10	Transcription Theme:T3
+E11	Localization AtLoc:T35 Theme:T1
+E12	Positive_regulation Theme:T2
+E13	Positive_regulation Theme:E11
+E14	Positive_regulation Theme:E10
+E15	Gene_expression Theme:T1
+E16	Positive_regulation Theme:E17
+E17	Gene_expression Theme:T3
+E18	Positive_regulation Theme:E19
+E19	Transcription Theme:T2
+E20	Positive_regulation Theme:T1
+E21	Positive_regulation Cause:E20 Theme:E22
+E22	Positive_regulation Theme:T2
+M1	Negation E6
+M2	Negation E9

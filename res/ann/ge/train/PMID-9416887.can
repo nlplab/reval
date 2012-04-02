@@ -1,0 +1,33 @@
+T1	Protein	tissue factor
+T3	Protein	TF
+T11	Protein	interferon-gamma
+T12	Protein	interleukin-1beta
+*	Equiv T1 T3
+T38	Entity	promotor
+E1	Negative_regulation Theme:E2
+E2	Positive_regulation Theme:T1
+E3	Gene_expression Theme:T1
+E4	Positive_regulation Theme:T1
+E5	Positive_regulation Theme:E4
+E6	Gene_expression Theme:T1
+E7	Regulation Theme:E6
+E8	Positive_regulation Theme:T1
+E9	Positive_regulation Theme:E10
+E10	Gene_expression Theme:T1
+E11	Negative_regulation Theme:E9
+E12	Positive_regulation Theme:T1
+E13	Negative_regulation Theme:E12
+E14	Negative_regulation Theme:E15
+E15	Positive_regulation Theme:T1
+E16	Negative_regulation Theme:E15
+E17	Negative_regulation Theme:E18
+E18	Transcription Theme:T1
+E19	Positive_regulation Theme:E20
+E20	Positive_regulation Site:T38 Theme:T1
+E21	Positive_regulation Theme:T1
+E22	Negative_regulation Theme:E21
+E23	Negative_regulation Theme:E24
+E24	Positive_regulation Theme:T1
+E25	Gene_expression Theme:T1
+M1	Speculation E5
+M2	Speculation E7

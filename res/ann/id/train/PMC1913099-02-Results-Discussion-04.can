@@ -1,7 +1,7 @@
 T1	Organism	SF370
 T2	Protein	speH
 T3	Protein	spy1008
-*	Equiv T3 T2
+*	Equiv T2 T3
 E1	Process
 M1	Negation E1
 E2	Positive_regulation Theme:T3

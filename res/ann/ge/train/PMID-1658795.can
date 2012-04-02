@@ -1,0 +1,9 @@
+T1	Protein	EGR1
+T2	Protein	EGR2
+E1	Regulation Theme:T2
+E2	Regulation Theme:T1
+E3	Regulation Theme:T2
+E4	Regulation Theme:T1
+E5	Positive_regulation Theme:T1
+E6	Transcription Theme:T2
+M1	Negation E6

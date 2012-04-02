@@ -1,0 +1,34 @@
+T1	Protein	TAL1
+T2	Protein	retinaldehyde dehydrogenase 2
+T3	Protein	GATA3
+T9	Protein	RALDH2
+*	Equiv T2 T9
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T2
+E3	Positive_regulation Theme:T1
+E4	Gene_expression Theme:T2
+E5	Gene_expression Theme:T1
+E6	Positive_regulation Theme:E7
+E7	Gene_expression Theme:T1
+E8	Positive_regulation Cause:E6 Theme:E10
+E9	Positive_regulation Theme:E10
+E10	Gene_expression Theme:T2
+E11	Gene_expression Theme:T1
+E12	Transcription Theme:T2
+E13	Binding Theme:T3
+E14	Positive_regulation Theme:E15
+E15	Gene_expression Theme:T3
+E16	Positive_regulation Cause:E14 Theme:E17
+E17	Positive_regulation Cause:T1 Theme:T2
+E18	Binding Theme:T3 Theme2:T1
+E19	Binding Theme:T1
+E20	Positive_regulation Cause:T1 Theme:E21
+E21	Transcription Theme:T2
+E22	Positive_regulation Cause:T3 Theme:E20
+E23	Regulation Cause:T1 Theme:T2
+E24	Positive_regulation Theme:E25
+E25	Transcription Theme:T2
+M1	Negation E8
+M2	Negation E9
+M3	Negation E11
+M4	Negation E19

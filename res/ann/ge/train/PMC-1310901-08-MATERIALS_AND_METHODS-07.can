@@ -1,0 +1,9 @@
+T1	Protein	IRF-4
+T2	Protein	CpG Methylase
+T3	Protein	M.Sss I
+T4	Protein	luciferase
+*	Equiv T2 T3
+T10	Entity	promoter
+E1	Gene_expression Theme:T4
+E2	Gene_expression Theme:T4
+E3	Positive_regulation Site:T10 Theme:T1

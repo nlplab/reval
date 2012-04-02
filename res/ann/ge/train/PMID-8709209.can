@@ -1,0 +1,11 @@
+T1	Protein	ALF1
+T2	Protein	HEB
+T7	Protein	Id1
+E1	Binding Theme:T2
+E2	Binding Theme:T1
+E3	Negative_regulation Theme:E5
+E4	Negative_regulation Theme:E6
+E5	Binding Theme:T2
+E6	Binding Theme:T1
+E7	Binding Theme:T1
+E8	Binding Theme:T2

@@ -1,0 +1,33 @@
+T1	Protein	von Willebrand factor
+T2	Protein	vWf
+T3	Protein	ICAM-1
+T4	Protein	E-selectin
+T5	Protein	VCAM-1
+T6	Protein	catalase
+T7	Protein	superoxide dismutase
+T10	Protein	platelet-endothelial cell adhesion molecule-1
+T11	Protein	PECAM-1
+*	Equiv T1 T2
+*	Equiv T10 T11
+T14	Entity	surface
+E1	Binding Theme:T1
+E2	Positive_regulation Theme:E7
+E3	Positive_regulation Theme:E6
+E4	Positive_regulation Theme:E5
+E5	Localization AtLoc:T14 Theme:T4
+E6	Localization AtLoc:T14 Theme:T3
+E7	Localization AtLoc:T14 Theme:T5
+E8	Negative_regulation Cause:T7 Theme:E3
+E9	Negative_regulation Theme:E2
+E10	Negative_regulation Cause:T7 Theme:E2
+E11	Negative_regulation Cause:T7 Theme:E4
+E12	Negative_regulation Cause:T6 Theme:E3
+E13	Negative_regulation Theme:E3
+E14	Negative_regulation Theme:E4
+E15	Negative_regulation Cause:T6 Theme:E2
+E16	Negative_regulation Cause:T6 Theme:E4
+E17	Negative_regulation Theme:E18
+E18	Gene_expression Theme:T5
+E19	Positive_regulation Theme:E20
+E20	Phosphorylation Theme:T10
+E21	Negative_regulation Theme:E19

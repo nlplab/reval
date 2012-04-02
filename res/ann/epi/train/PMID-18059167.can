@@ -5,7 +5,7 @@ T6	Protein	CyclinD1
 T7	Protein	survivin
 T8	Protein	caspase 9
 T14	Protein	Cyclin D1
-*	Equiv T2
+*	Equiv T1 T2
 T19	Entity	705
 E1	Phosphorylation Site:T19 Theme:T2
-E2	Ubiquitination Theme:T1
+E2	Ubiquitination Theme:T2

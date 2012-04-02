@@ -1,0 +1,18 @@
+T1	Protein	Granulocyte colony-stimulating factor
+T2	Protein	STAT3
+T4	Protein	G-CSF
+T6	Protein	Stat3
+T7	Protein	StatG
+T9	Protein	CD34
+T10	Protein	Stat3beta
+T14	Protein	Stat3gamma
+T16	Protein	Stat3alpha
+*	Equiv T1 T4
+E1	Positive_regulation Cause:T1 Theme:T7
+E2	Binding Theme:T14
+E3	Positive_regulation Cause:E4 Theme:T14
+E4	Protein_catabolism Theme:T16
+E5	Negative_regulation Theme:T16
+E6	Binding Theme:T14
+E7	Binding Theme:T16
+M1	Speculation E5

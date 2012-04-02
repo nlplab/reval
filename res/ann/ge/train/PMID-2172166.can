@@ -1,0 +1,13 @@
+T1	Protein	phoP
+T2	Protein	phoQ
+T3	Protein	NP-1
+T4	Protein	NP-2
+T7	Protein	PhoQ
+T11	Protein	PhoP
+T16	Protein	NP-5
+T17	Protein	HNP-1
+T20	Protein	pagC
+E1	Gene_expression Theme:T7
+E2	Gene_expression Theme:T11
+E3	Gene_expression Theme:T7
+M1	Negation E2

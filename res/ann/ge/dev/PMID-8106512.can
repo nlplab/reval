@@ -1,0 +1,17 @@
+T1	Protein	interferon regulatory factor 2
+T2	Protein	Interferon regulatory factor 2
+T3	Protein	IRF-2
+T4	Protein	interferon beta
+T5	Protein	interferon regulatory factor 1
+T10	Protein	interferon-alpha
+T11	Protein	-gamma
+*	Equiv T2 T3
+T21	Entity	promoter region
+E1	Negative_regulation Cause:T2 Theme:E2
+E2	Gene_expression Theme:T4
+E3	Positive_regulation Cause:T5 Theme:E2
+E4	Positive_regulation Cause:T11 Site:T21 Theme:T2
+E5	Positive_regulation Cause:T10 Site:T21 Theme:T2
+E6	Positive_regulation Cause:T5 Site:T21 Theme:T2
+E7	Positive_regulation Cause:T5 Theme:E8
+E8	Transcription Theme:T2

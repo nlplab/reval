@@ -1,0 +1,38 @@
+T1	Protein	tumor necrosis factor-alpha
+T2	Protein	TNF-alpha
+T3	Protein	interleukin-1 beta
+T4	Protein	IL-1 beta
+T5	Protein	vascular cell adhesion molecule-1
+T6	Protein	VCAM-1
+T7	Protein	CD106
+T8	Protein	E-selectin
+T9	Protein	ELAM-1
+T10	Protein	CD62E
+T11	Protein	intercellular adhesion molecule-1
+T12	Protein	ICAM-1
+T13	Protein	CD54
+*	Equiv T11 T12 T13
+*	Equiv T8 T9 T10
+*	Equiv T5 T6 T7
+E1	Positive_regulation Theme:E3
+E2	Gene_expression Theme:T9
+E3	Gene_expression Theme:T5
+E4	Gene_expression Theme:T11
+E5	Negative_regulation Theme:E2
+E6	Negative_regulation Theme:E3
+E7	Negative_regulation Theme:E4
+E8	Negative_regulation Theme:E10
+E9	Negative_regulation Theme:E11
+E10	Positive_regulation Theme:E12
+E11	Positive_regulation Theme:E13
+E12	Gene_expression Theme:T5
+E13	Gene_expression Theme:T9
+E14	Regulation Theme:E13
+E15	Regulation Theme:E12
+E16	Negative_regulation Theme:E13
+E17	Negative_regulation Theme:E12
+M1	Negation E5
+M2	Negation E6
+M3	Negation E7
+M4	Negation E14
+M5	Negation E15

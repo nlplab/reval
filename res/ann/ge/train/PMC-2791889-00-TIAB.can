@@ -1,0 +1,40 @@
+T1	Protein	Interleukin-10
+T2	Protein	Interleukin-12
+T3	Protein	STAT4
+T4	Protein	ERK
+T5	Protein	CD4
+T6	Protein	interleukin-10
+T7	Protein	IL-10
+T8	Protein	interferon-gamma
+T9	Protein	IFN-gamma
+T12	Protein	ERK1
+T13	Protein	ERK2
+T14	Protein	IL-12
+T23	Protein	c-maf
+*	Equiv T6 T7
+*	Equiv T8 T9
+E1	Gene_expression Theme:T1
+E2	Positive_regulation Cause:E3 Theme:E1
+E4	Positive_regulation Cause:E5 Theme:E1
+E3	Positive_regulation Cause:T2 Theme:T3
+E5	Positive_regulation Theme:T4
+E6	Gene_expression Theme:T6
+E7	Gene_expression Theme:T8
+E8	Gene_expression Theme:T6
+E9	Gene_expression Theme:T6
+E10	Phosphorylation Theme:T12
+E11	Phosphorylation Theme:T13
+E12	Positive_regulation Cause:T14 Theme:E13
+E13	Positive_regulation Theme:T3
+E14	Positive_regulation Theme:E15
+E15	Gene_expression Theme:T6
+E16	Positive_regulation Theme:E17
+E17	Gene_expression Theme:T6
+E18	Positive_regulation Theme:T12
+E19	Positive_regulation Theme:T13
+E20	Positive_regulation Cause:E18 Theme:E21
+E22	Positive_regulation Cause:E19 Theme:E21
+E21	Gene_expression Theme:T6
+E23	Gene_expression Theme:T6
+E24	Gene_expression Theme:T23
+E25	Gene_expression Theme:T6

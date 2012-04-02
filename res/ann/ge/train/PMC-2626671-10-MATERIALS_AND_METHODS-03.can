@@ -1,0 +1,19 @@
+T1	Protein	Runx3
+T3	Protein	CD4
+T4	Protein	CD8
+T16	Protein	CD3
+T17	Protein	CD28
+T18	Protein	IL-2
+T23	Protein	CD25
+T24	Protein	CD69
+E1	Negative_regulation Theme:T1
+E2	Negative_regulation Cause:E1 Theme:E3
+E3	Gene_expression Theme:T3
+E4	Gene_expression Theme:T3
+E5	Positive_regulation Theme:T23
+E6	Positive_regulation Theme:T24
+E7	Positive_regulation Theme:T23
+E8	Negative_regulation Theme:E9
+E9	Gene_expression Theme:T3
+E10	Gene_expression Theme:T3
+M1	Negation E2

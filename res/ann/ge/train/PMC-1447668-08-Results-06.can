@@ -1,0 +1,44 @@
+T1	Protein	Foxp3
+T3	Protein	Tax
+T11	Protein	IKKbeta
+T16	Protein	DeltaFKH
+T23	Protein	CD4
+T29	Protein	CREB
+T32	Protein	CREB-1
+T33	Protein	c-Jun
+T34	Protein	activator protein 1
+T35	Protein	Gal4
+T36	Protein	Gal4-BD-CREB-1
+T37	Protein	Gal4-BD-c-Jun
+T46	Protein	Gal4-BD-Tax
+T53	Protein	CREB-binding protein
+T54	Protein	CBP
+T55	Protein	p300
+*	Equiv T53 T54
+T62	Entity	FKH domain
+E1	Negative_regulation Cause:T1 Theme:E2
+E2	Gene_expression Theme:T3
+E3	Regulation Cause:T1 Theme:T3
+E4	Binding Theme:T1
+E5	Gene_expression Theme:T11
+E6	Negative_regulation Site:T62 Theme:T1
+E7	Gene_expression Theme:T1
+E8	Gene_expression Theme:T16
+E9	Negative_regulation Cause:T16 Theme:E10
+E10	Positive_regulation Theme:T29
+E11	Gene_expression Theme:T36
+E12	Gene_expression Theme:T37
+E13	Binding Theme:T1 Theme2:T32
+E14	Binding Theme:T33
+E15	Negative_regulation Theme:E16
+E16	Gene_expression Theme:T32
+E17	Binding Theme:T32 Theme2:T1
+E18	Negative_regulation Cause:T1 Theme:E19
+E20	Negative_regulation Cause:T1 Theme:E21
+E19	Binding Theme:T53
+E21	Binding Theme:T55
+M1	Negation E3
+M2	Speculation E4
+M3	Negation E17
+M4	Speculation E18
+M5	Speculation E20

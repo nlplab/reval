@@ -1,0 +1,15 @@
+T1	Organism	Y. pestis
+T2	Organism	flea
+T6	Organism	fleas
+T7	Organism	Flea
+T8	Chemical	glycerol
+T10	Chemical	oxygen
+T18	Organism	Y. pestis KIM6+
+T21	Organism	mice
+E1	Process
+E2	Process Participant:T1
+E3	Process
+E4	Process
+E5	Process
+E6	Process
+M1	Negation E6

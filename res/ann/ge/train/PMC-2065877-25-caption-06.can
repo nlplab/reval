@@ -1,0 +1,21 @@
+T1	Protein	LMP1
+T2	Protein	IL10
+T3	Protein	Stat3
+T5	Protein	IL15
+T6	Protein	IFNgamma
+T8	Protein	CD19
+T9	Protein	L32
+T11	Protein	pStat3
+E1	Positive_regulation Cause:T1 Theme:E2
+E2	Gene_expression Theme:T2
+E3	Positive_regulation Cause:T1 Theme:T3
+E4	Transcription Theme:T2
+E5	Transcription Theme:T5
+E6	Transcription Theme:T6
+E7	Positive_regulation Theme:T11
+E8	Positive_regulation Theme:T11
+M1	Speculation E4
+M2	Speculation E5
+M3	Speculation E6
+M4	Speculation E7
+M5	Speculation E8

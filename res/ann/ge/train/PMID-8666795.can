@@ -1,0 +1,4 @@
+T1	Protein	CIITA
+T2	Protein	IFN-gamma
+E1	Positive_regulation Theme:T1
+E2	Transcription Theme:T1

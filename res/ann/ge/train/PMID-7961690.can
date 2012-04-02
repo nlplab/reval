@@ -1,0 +1,15 @@
+T1	Protein	Erythropoietin
+T2	Protein	erythropoietin
+T3	Protein	EPO
+T4	Protein	granulocyte-macrophage colony-stimulating factor
+T5	Protein	GM-CSF
+T6	Protein	stem cell factor
+T7	Protein	SCF
+T8	Protein	erythroid delta-aminolevulinate synthase
+T14	Protein	GATA-1
+*	Equiv T2 T3
+*	Equiv T4 T5
+*	Equiv T6 T7
+E1	Transcription Theme:T8
+E2	Transcription Theme:T8
+E3	Positive_regulation Theme:T14

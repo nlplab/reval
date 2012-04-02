@@ -1,0 +1,18 @@
+T1	Protein	Thrombopoietin
+T2	Protein	c-Mpl
+T4	Protein	TPO
+T9	Protein	TPO receptor
+T10	Protein	erythropoietin (EPO) receptor
+T12	Protein	EPO
+T13	Protein	EPO receptor
+*	Equiv T1 T4
+T20	Entity	tyrosine
+E1	Binding Theme:T1 Theme2:T2
+E2	Positive_regulation Cause:T1 Theme:E4
+E3	Positive_regulation Cause:T1 Theme:E5
+E4	Phosphorylation Site:T20 Theme:T9
+E5	Phosphorylation Site:T20 Theme:T10
+E6	Binding Theme:T1 Theme2:T13
+E7	Binding Theme:T12 Theme2:T13
+M1	Negation E3
+M2	Negation E6

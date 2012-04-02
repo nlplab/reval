@@ -1,0 +1,8 @@
+T1	Protein	IL-2
+T6	Protein	I kappa B alpha
+T9	Protein	STAT3
+E1	Positive_regulation Cause:T1 Theme:E2
+E2	Protein_catabolism Theme:T6
+E3	Positive_regulation Cause:T1 Theme:E4
+E4	Positive_regulation Theme:T9
+M1	Negation E1

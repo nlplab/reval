@@ -1,0 +1,49 @@
+T1	Protein	interleukin 2
+T2	Protein	IL-2
+T7	Protein	CD4
+T11	Protein	p120
+T12	Protein	p98
+T13	Protein	p96
+T14	Protein	p54
+T15	Protein	p38
+T18	Protein	c-fos
+T19	Protein	c-myc
+T20	Protein	junB
+T21	Protein	gp120
+T27	Entity	tyrosyl
+T34	Entity	V3 loop
+E1	Negative_regulation Theme:E2
+E2	Binding Theme:T2
+E3	Regulation Theme:E16
+E4	Regulation Theme:E15
+E5	Regulation Theme:E17
+E6	Regulation Theme:E13
+E7	Regulation Theme:E14
+E8	Phosphorylation Site:T27 Theme:T11
+E9	Phosphorylation Site:T27 Theme:T12
+E10	Phosphorylation Site:T27 Theme:T13
+E11	Phosphorylation Site:T27 Theme:T15
+E12	Phosphorylation Site:T27 Theme:T14
+E13	Positive_regulation Cause:T2 Theme:E9
+E14	Positive_regulation Cause:T2 Theme:E10
+E15	Positive_regulation Cause:T2 Theme:E11
+E16	Positive_regulation Cause:T2 Theme:E12
+E17	Positive_regulation Cause:T2 Theme:E8
+E18	Positive_regulation Theme:E23
+E19	Positive_regulation Theme:E21
+E20	Positive_regulation Theme:E22
+E21	Positive_regulation Cause:T2 Theme:E25
+E22	Positive_regulation Cause:T2 Theme:E24
+E23	Positive_regulation Cause:T2 Theme:E26
+E24	Transcription Theme:T19
+E25	Transcription Theme:T18
+E26	Transcription Theme:T20
+E27	Binding Site:T34 Theme:T21
+M1	Negation E1
+M2	Negation E3
+M3	Negation E4
+M4	Negation E5
+M5	Negation E6
+M6	Negation E7
+M7	Negation E18
+M8	Negation E20

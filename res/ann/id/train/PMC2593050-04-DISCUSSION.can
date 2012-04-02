@@ -1,0 +1,43 @@
+T1	Protein	VicK
+T2	Organism	B. subtilis
+T3	Organism	S. aureus
+T4	Organism	S. pneumoniae
+T5	Organism	S. mutans
+T6	Organism	S. pyogenes
+T7	Protein	vicK
+T8	Organism	S. equi
+T11	Organism	DeltavicK mutant
+T13	Organism	mouse
+T15	Two-component-system	VicRK
+T16	Protein	VicR
+T17	Protein	K
+T21	Organism	S. equi DeltavicK mutant
+T32	Two-component-system	vicRK
+T33	Protein	vicR
+T37	Organism	S. pyogenes DeltavicK mutant
+T45	Organism	DeltavicK
+T47	Organism	mice
+T52	Protein	IgA
+T53	Protein	IgG
+T54	Protein	SeM
+T60	Organism	horses
+E1	Negative_regulation Theme:E2
+E2	Process Participant:T11
+E3	Process Participant:T8
+E4	Regulation Cause:T15 Theme:E5
+E5	Process
+E6	Regulation Cause:T15 Theme:E7
+E7	Process
+E8	Negative_regulation Theme:E9
+E9	Process Participant:T8
+E10	Process
+E11	Process Participant:T11
+E12	Negative_regulation Theme:E13
+E13	Process Participant:T11
+E14	Process
+E15	Process Participant:T8
+E16	Process Participant:T45
+E17	Gene_expression Theme:T52
+E18	Gene_expression Theme:T53
+E19	Process Participant:T8
+M1	Negation E19

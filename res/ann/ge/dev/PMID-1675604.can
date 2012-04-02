@@ -1,0 +1,33 @@
+T1	Protein	KBF1
+T2	Protein	H-2Kb
+T3	Protein	p50
+T6	Protein	c-rel
+T7	Protein	v-rel
+T14	Protein	c-
+T16	Protein	CD4
+T19	Entity	enhancer A
+E1	Binding Theme:T1 Site2:T19 Theme2:T2
+E2	Binding Theme:T1
+E3	Binding Theme:T3
+E4	Binding Theme:T1 Theme2:T6
+E5	Binding Theme:T3 Theme2:T7
+E6	Binding Theme:T3 Theme2:T6
+E7	Binding Theme:T1 Theme2:T7
+E8	Binding Theme:T3
+E9	Binding Theme:T1
+E10	Binding Theme:T3
+E11	Binding Theme:T1
+E12	Binding Theme:T6 Theme2:T3
+E13	Binding Theme:T7 Theme2:T3
+E14	Binding Theme:T6 Theme2:T1
+E15	Binding Theme:T7 Theme2:T1
+E16	Negative_regulation Cause:T3 Theme:E22
+E17	Negative_regulation Cause:T3 Theme:E21
+E18	Negative_regulation Cause:T3 Theme:E20
+E19	Negative_regulation Cause:T3 Theme:E23
+E20	Binding Theme:T7
+E21	Binding Theme:T3
+E22	Binding Theme:T1
+E23	Binding Theme:T14
+M1	Negation E8
+M2	Negation E9

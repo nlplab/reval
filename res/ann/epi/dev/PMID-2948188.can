@@ -4,6 +4,6 @@ T3	Protein	Vitamin K-dependent protein S
 T4	Protein	thrombin
 T6	Protein	EGF
 T8	Protein	protein S
-*	Equiv T6
+*	Equiv T1 T6
 T10	Entity	asparagine
 E1	Hydroxylation Site:T10 Theme:T8

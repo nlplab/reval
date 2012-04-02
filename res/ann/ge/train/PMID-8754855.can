@@ -1,0 +1,16 @@
+T1	Protein	PU.1
+T2	Protein	Ets-1
+T5	Protein	TFE3
+E1	Binding Theme:T1 Theme2:T2
+E2	Regulation Theme:E6
+E3	Regulation Theme:E5
+E4	Regulation Theme:E7
+E5	Binding Theme:T5
+E6	Binding Theme:T2
+E7	Binding Theme:T1
+E8	Binding Theme:T2
+E9	Binding Theme:T5
+E10	Binding Theme:T1
+M1	Negation E2
+M2	Negation E3
+M3	Negation E4

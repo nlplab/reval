@@ -1,0 +1,10 @@
+T1	Protein	p50
+T2	Protein	RelA
+T3	Protein	I kappa B-alpha
+E1	Binding Theme:T2
+E2	Binding Theme:T1
+E3	Positive_regulation Theme:E2
+E4	Positive_regulation Theme:E1
+E5	Negative_regulation Theme:T3
+E6	Negative_regulation Theme:T3
+M1	Negation E6

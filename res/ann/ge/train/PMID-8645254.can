@@ -1,0 +1,23 @@
+T1	Protein	erythroid transcription factor P45 NF-E2
+T2	Protein	p45
+T7	Protein	mafK
+T13	Protein	G-CSF
+E1	Transcription Theme:T1
+E2	Binding Theme:T2
+E3	Gene_expression Theme:T2
+E4	Transcription Theme:T2
+E5	Gene_expression Theme:T2
+E6	Transcription Theme:T2
+E7	Transcription Theme:T2
+E8	Transcription Theme:T7
+E9	Transcription Theme:T2
+E10	Positive_regulation Theme:E9
+E11	Transcription Theme:T2
+E12	Positive_regulation Theme:E11
+E13	Gene_expression Theme:T2
+E14	Transcription Theme:T2
+E15	Positive_regulation Theme:E14
+E16	Transcription Theme:T2
+E17	Negative_regulation Theme:E16
+E18	Negative_regulation Cause:T13 Theme:E17
+M1	Negation E18

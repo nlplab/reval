@@ -1,0 +1,45 @@
+T1	Protein	GM-CSF
+T2	Protein	IL-3
+T3	Protein	M-CSF receptor
+T4	Protein	C-FMS
+T5	Protein	early growth response gene-1
+T6	Protein	EGR-1
+T7	Protein	M-CSF
+T10	Protein	FMS
+*	Equiv T3 T4
+*	Equiv T5 T6
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T3
+E3	Gene_expression Theme:T5
+E4	Gene_expression Theme:T1
+E5	Gene_expression Theme:T7
+E6	Gene_expression Theme:T10
+E7	Gene_expression Theme:T5
+E8	Gene_expression Theme:T1
+E9	Gene_expression Theme:T2
+E10	Gene_expression Theme:T7
+E11	Gene_expression Theme:T5
+E12	Gene_expression Theme:T7
+E13	Gene_expression Theme:T10
+E14	Gene_expression Theme:T2
+E15	Gene_expression Theme:T1
+E16	Gene_expression Theme:T7
+E17	Gene_expression Theme:T5
+E18	Gene_expression Theme:T10
+E19	Gene_expression Theme:T7
+E20	Gene_expression Theme:T10
+E21	Regulation Theme:T1
+E22	Regulation Theme:T7
+E23	Regulation Theme:T5
+E24	Regulation Theme:T10
+E25	Regulation Theme:T2
+M1	Speculation E6
+M2	Speculation E7
+M3	Speculation E8
+M4	Speculation E9
+M5	Speculation E10
+M6	Negation E21
+M7	Negation E22
+M8	Negation E23
+M9	Negation E24
+M10	Negation E25

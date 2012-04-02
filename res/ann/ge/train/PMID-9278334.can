@@ -1,0 +1,20 @@
+T1	Protein	fibronectin
+T2	Protein	IFN-gamma
+T8	Protein	high affinity Fc gammaRI receptor
+T9	Protein	STAT1
+T11	Protein	JAK1
+T12	Protein	JAK2
+T20	Entity	tyrosine
+E1	Positive_regulation Theme:E2
+E2	Transcription Theme:T8
+E3	Positive_regulation Cause:T2 Theme:E2
+E4	Positive_regulation Theme:T8
+E5	Positive_regulation Theme:T9
+E6	Binding Theme:T9
+E7	Binding Theme:T9
+E8	Phosphorylation Site:T20 Theme:T9
+E9	Phosphorylation Site:T20 Theme:T12
+E10	Phosphorylation Site:T20 Theme:T11
+E11	Positive_regulation Theme:E8
+E12	Positive_regulation Theme:E10
+E13	Positive_regulation Theme:E9

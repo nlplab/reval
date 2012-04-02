@@ -1,0 +1,21 @@
+T1	Protein	E3
+T2	Protein	retinoic acid receptor alpha
+T4	Protein	RAR alpha
+*	Equiv T2 T4
+T25	Entity	promoter
+E1	Transcription Theme:T1
+E2	Regulation Cause:T2 Theme:E1
+E3	Positive_regulation Theme:T1
+E4	Transcription Theme:T1
+E5	Positive_regulation Theme:E4
+E6	Transcription Theme:T1
+E7	Positive_regulation Theme:E6
+E8	Positive_regulation Theme:E9
+E9	Positive_regulation Theme:E10
+E10	Transcription Theme:T1
+E11	Transcription Theme:T1
+E12	Regulation Site:T25 Theme:T1
+E13	Regulation Cause:T2 Theme:T1
+E14	Positive_regulation Theme:T2
+M1	Negation E7
+M2	Negation E11

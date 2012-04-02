@@ -1,0 +1,10 @@
+T1	Protein	APOBEC3G
+T2	Protein	Pwo
+T3	Protein	luciferase
+T4	Protein	A3G
+T6	Protein	Pfu
+T9	Protein	guanylate-binding protein
+T10	Protein	GBP
+T11	Protein	Vif
+T12	Protein	Tat
+*	Equiv T9 T10

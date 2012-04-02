@@ -1,0 +1,11 @@
+T1	Protein	nuclear factor of activated T cells-1
+T2	Protein	NFAT1
+T3	Protein	NFATp
+T4	Protein	NFATc
+T5	Protein	NFAT3
+T6	Protein	NFAT4
+T7	Protein	NFATx
+T8	Protein	NFATc3
+*	Equiv T2 T3
+*	Equiv T6 T7 T8
+E1	Gene_expression Theme:T3

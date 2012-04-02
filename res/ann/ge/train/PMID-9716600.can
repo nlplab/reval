@@ -1,0 +1,17 @@
+T1	Protein	CD40
+T2	Protein	interleukin-4
+T5	Protein	IL-4
+T10	Protein	interferon-gamma
+T11	Protein	IFN-gamma
+T12	Protein	RA receptors alpha
+T13	Protein	beta
+T14	Protein	gamma
+T15	Protein	RA receptor alpha
+*	Equiv T10 T11
+*	Equiv T2 T5
+E1	Gene_expression Theme:T10
+E2	Positive_regulation Theme:E1
+E3	Transcription Theme:T13
+E4	Transcription Theme:T14
+E5	Transcription Theme:T15
+M1	Negation E2

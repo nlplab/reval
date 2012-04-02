@@ -1,0 +1,7 @@
+T1	Protein	IL-6
+T2	Protein	Ags
+T3	Protein	CD3
+T4	Protein	STAT-3
+E1	Binding Theme:T2
+E2	Regulation Theme:E1
+E3	Positive_regulation Theme:T1

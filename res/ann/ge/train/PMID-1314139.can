@@ -1,0 +1,25 @@
+T1	Protein	c-fos
+T2	Protein	c-jun
+T5	Protein	Interferon gamma
+T8	Protein	Tumor necrosis factor
+E1	Positive_regulation Theme:E4
+E2	Positive_regulation Theme:E3
+E3	Gene_expression Theme:T1
+E4	Gene_expression Theme:T2
+E5	Positive_regulation Theme:E7
+E6	Positive_regulation Theme:E8
+E7	Gene_expression Theme:T1
+E8	Gene_expression Theme:T2
+E9	Positive_regulation Cause:T5 Theme:T2
+E10	Positive_regulation Cause:T5 Theme:T1
+E11	Positive_regulation Cause:T8 Theme:T1
+E12	Regulation Cause:T8 Theme:T2
+E13	Positive_regulation Theme:E11
+E14	Positive_regulation Theme:E5
+E15	Positive_regulation Theme:E9
+E16	Positive_regulation Theme:E6
+E17	Positive_regulation Theme:E12
+E18	Positive_regulation Theme:E10
+M1	Speculation E1
+M2	Speculation E2
+M3	Negation E12

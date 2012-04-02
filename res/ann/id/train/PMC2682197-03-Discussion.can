@@ -1,0 +1,86 @@
+T1	Organism	M. tuberculosis
+T2	Organism	tubercle bacillus
+T4	Chemical	nitric oxide
+T5	Chemical	NO
+T6	Organism	bacilli
+T7	Two-component-system	DosR-DosS
+T8	Protein	DosR
+T9	Protein	DosS
+T11	Protein	DosT
+T13	Chemical	O2
+T15	Chemical	CO
+T16	Protein	dosR
+T21	Protein	rv2623
+T25	Organism	human
+T26	Organism	mouse
+T27	Organism	mice
+T30	Protein	Rv2623
+T34	Chemical	oxygen
+T44	Protein	alpha-crystallin
+T46	Protein	hspX
+T47	Protein	acr
+T48	Organism	BALB/c mouse
+T49	Organism	rv2623 knockout mutant
+T51	Organism	M. tuberculosis Erdman
+T56	Protein	HspX
+T57	Protein	LacZ
+T58	Chemical	ATP
+T60	Protein	UspA
+T61	Organism	H. influenzae
+T63	Protein	MJ0577
+T64	Organism	M. jannaschii
+T77	Organism	E. coli
+T80	Chemical	ADP
+T89	Organism	Deltarv2623
+T93	Organism	tubercle bacilli
+T103	Chemical	GTP
+*	Equiv T4 T5
+*	Equiv T46 T47
+E1	Regulation Cause:T9 Theme:T8
+E2	Regulation Cause:T11 Theme:T8
+E3	Regulation Cause:E12 Theme:T11
+E4	Regulation Cause:E10 Theme:T9
+E5	Regulation Cause:E11 Theme:T9
+E6	Regulation Cause:E13 Theme:T11
+E7	Regulation Cause:E14 Theme:T11
+E8	Regulation Cause:E9 Theme:T9
+E9	Binding Theme1:T9 Theme2:T13
+E10	Binding Theme1:T9 Theme2:T4
+E11	Binding Theme1:T9 Theme2:T15
+E12	Binding Theme1:T11 Theme2:T13
+E13	Binding Theme1:T11 Theme2:T4
+E14	Binding Theme1:T11 Theme2:T15
+E15	Process Participant:T1
+E16	Positive_regulation Theme:T21
+E17	Positive_regulation Theme:T21
+E18	Process Participant:T1
+E19	Positive_regulation Theme:T21
+E20	Gene_expression Theme:T30
+E21	Regulation Theme:E20
+E22	Positive_regulation Theme:T30
+E23	Negative_regulation Theme:T8
+E24	Regulation Cause:E23 Theme:E25
+E25	Process
+E26	Negative_regulation Theme:T8
+E27	Regulation Cause:E26 Theme:E28
+M1	Negation E27
+E28	Process Participant:T1
+E29	Process Participant:T1
+E30	Process
+E31	Process Participant:T51
+E32	Process Participant:T51
+E33	Process
+E34	Gene_expression Theme:T30
+E35	Process Participant:T1
+E36	Gene_expression Theme:T56
+E37	Gene_expression Theme:T57
+E38	Binding Theme:T58
+M2	Negation E38
+E39	Binding Theme:T58
+M3	Negation E39
+E40	Binding Theme1:T58 Theme2:T63
+E41	Binding Theme:T58
+M4	Negation E41
+E42	Binding Theme:T58
+E43	Binding Theme1:T58 Theme2:T30
+M5	Speculation E43

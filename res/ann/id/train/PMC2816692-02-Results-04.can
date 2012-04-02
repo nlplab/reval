@@ -1,0 +1,18 @@
+T1	Protein	SrcA
+T2	Organism	E. coli
+T3	Organism	Salmonella
+T4	Protein	srcA
+T6	Protein	SsaN
+T8	Protein	nucleoside triphosphate hydrolases
+T9	Chemical	ATP
+T10	Chemical	adenine
+T13	Protein	EscN
+E1	Binding Theme:T1
+E2	Process
+E3	Gene_expression Theme:T4
+E4	Regulation Theme:E3
+E5	Binding Theme1:T1 Theme2:T6
+M1	Speculation E5
+E6	Binding Theme1:T6 Theme2:T9
+E7	Binding Theme1:T1 Theme2:T6
+E8	Binding Theme1:T6 Theme2:T1

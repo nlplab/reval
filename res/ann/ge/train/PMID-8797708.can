@@ -1,0 +1,18 @@
+T1	Protein	Tax
+T7	Protein	I kappa B alpha
+T8	Protein	p105
+T9	Protein	p50
+T12	Protein	HsN3
+T16	Protein	p100
+T17	Protein	p65
+E1	Binding Theme:T1
+E2	Binding Theme:T1
+E3	Positive_regulation Theme:E6
+E4	Positive_regulation Theme:E5
+E5	Phosphorylation Theme:T7
+E6	Protein_catabolism Theme:T7
+E7	Binding Theme:T1 Theme2:T12
+E8	Binding Theme:T12 Theme2:T1
+E9	Binding Theme:T1 Theme2:T16 Theme3:T7
+E10	Binding Theme:T1 Theme2:T17 Theme3:T7
+M1	Negation E2

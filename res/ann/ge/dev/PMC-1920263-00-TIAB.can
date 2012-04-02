@@ -1,0 +1,19 @@
+T1	Protein	Sp1
+T2	Protein	Sp3
+T3	Protein	APOBEC3G
+T5	Protein	A3G
+T7	Protein	Luciferase
+T9	Protein	luciferase
+T10	Protein	specificity protein (Sp) 1
+*	Equiv T3 T5
+T16	Entity	promoter
+T18	Entity	GC-box
+E1	Regulation Cause:T1 Theme:E2
+E3	Regulation Cause:T2 Theme:E2
+E2	Transcription Theme:T3
+E4	Gene_expression Theme:T3
+E5	Regulation Theme:T3
+E6	Positive_regulation Site:T16 Theme:T3
+E7	Binding Site:T18 Theme:T3 Theme2:T10
+E8	Binding Site:T18 Theme:T3 Theme2:T2
+M1	Negation E6

@@ -1,0 +1,33 @@
+T1	Protein	Spi-1
+T2	Protein	Fli-1
+T3	Protein	Epo
+T6	Protein	erythropoietin
+T7	Protein	glycoprotein IIb
+T8	Protein	platelet factor 4
+T16	Protein	beta-globin
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T1
+E3	Gene_expression Theme:T1
+E4	Gene_expression Theme:T2
+E5	Gene_expression Theme:T7
+E6	Transcription Theme:T1
+E7	Transcription Theme:T2
+E8	Gene_expression Theme:T8
+E9	Negative_regulation Theme:E12
+E10	Negative_regulation Theme:E11
+E11	Gene_expression Theme:T1
+E12	Gene_expression Theme:T2
+E13	Positive_regulation Cause:T6 Theme:E9
+E14	Positive_regulation Cause:T6 Theme:E10
+E15	Gene_expression Theme:T2
+E16	Gene_expression Theme:T1
+E17	Transcription Theme:T8
+E18	Transcription Theme:T7
+E19	Transcription Theme:T16
+E20	Positive_regulation Theme:E22
+E21	Positive_regulation Theme:E23
+E22	Gene_expression Theme:T1
+E23	Gene_expression Theme:T2
+M1	Negation E17
+M2	Negation E18
+M3	Negation E19

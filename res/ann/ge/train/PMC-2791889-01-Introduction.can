@@ -1,0 +1,79 @@
+T1	Protein	Interleukin-10
+T2	Protein	IL-10
+T5	Protein	CD4
+T6	Protein	CD8
+T8	Protein	interferon-gamma
+T9	Protein	IFN-gamma
+T11	Protein	IL-12
+T17	Protein	signal transducer and activator of transcription (STAT)1
+T18	Protein	type I IFN
+T20	Protein	T-box 21
+T21	Protein	T-bet
+T23	Protein	STAT4
+T24	Protein	IL-18
+T25	Protein	IRAK
+T27	Protein	IL-4
+T28	Protein	IL-5
+T29	Protein	IL-13
+T31	Protein	STAT6
+T32	Protein	GATA binding protein (GATA)-3
+T33	Protein	IL-6
+T34	Protein	TGF-beta
+T35	Protein	STAT3
+T36	Protein	RORgammat
+T39	Protein	ERK1
+T40	Protein	ERK2
+*	Equiv T1 T2
+*	Equiv T8 T9
+*	Equiv T20 T21
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T8
+E3	Gene_expression Theme:T1
+E4	Gene_expression Theme:T8
+E5	Gene_expression Theme:T1
+E6	Gene_expression Theme:T1
+E7	Gene_expression Theme:T1
+E8	Gene_expression Theme:T8
+E9	Positive_regulation Theme:T17
+E10	Positive_regulation Cause:T18 Theme:E9
+E11	Positive_regulation Cause:T8 Theme:E9
+E12	Positive_regulation Cause:T24 Theme:T25
+E13	Positive_regulation Cause:E9 Theme:E14
+E14	Gene_expression Theme:T8
+E15	Gene_expression Theme:T27
+E16	Gene_expression Theme:T28
+E17	Gene_expression Theme:T29
+E18	Positive_regulation Cause:T27 Theme:T27
+E19	Positive_regulation Cause:T31 Theme:T27
+E20	Positive_regulation Cause:T32 Theme:T27
+E21	Positive_regulation Cause:T27 Theme:T28
+E22	Positive_regulation Cause:T31 Theme:T28
+E23	Positive_regulation Cause:T32 Theme:T28
+E24	Positive_regulation Cause:T27 Theme:T29
+E25	Positive_regulation Cause:T31 Theme:T29
+E26	Positive_regulation Cause:T32 Theme:T29
+E27	Positive_regulation Cause:T35 Theme:E28
+E28	Gene_expression Theme:T36
+E29	Positive_regulation Theme:E30
+E30	Gene_expression Theme:T8
+E31	Regulation Cause:T11 Theme:E30
+E32	Positive_regulation Theme:T39
+E33	Positive_regulation Theme:T40
+E34	Positive_regulation Cause:E32 Theme:E35
+E36	Positive_regulation Cause:E33 Theme:E35
+E35	Localization Theme:T27
+E37	Gene_expression Theme:T1
+E38	Regulation Cause:T1 Theme:E37
+E39	Gene_expression Theme:T1
+E40	Positive_regulation Theme:E39
+E41	Gene_expression Theme:T1
+E42	Phosphorylation Theme:T39
+E43	Phosphorylation Theme:T40
+E44	Positive_regulation Theme:T39
+E45	Positive_regulation Theme:T40
+E46	Positive_regulation Cause:E44 Theme:E47
+E48	Positive_regulation Cause:E45 Theme:E47
+E47	Gene_expression Theme:T1
+E49	Positive_regulation Theme:T1
+M1	Negation E31
+M2	Speculation E38

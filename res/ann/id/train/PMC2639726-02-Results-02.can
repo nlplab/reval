@@ -1,0 +1,27 @@
+T1	Organism	Salmonella
+T2	Organism	mouse
+T8	Organism	mice
+T11	Organism	BALB/c
+T12	Protein	rpoE
+T13	Protein	spvR
+T14	Organism	murine
+T15	Two-component-system	ssrA/ssrB
+T16	Protein	ssrA
+T17	Protein	ssrB
+T18	Protein	slyA
+T19	Protein	himD
+T21	Protein	crp
+T22	Protein	hfq
+E1	Process Participant:T1
+E2	Negative_regulation Theme:E3
+E3	Process Participant:T1
+E4	Process Participant:T1
+E5	Process Participant:T1
+E6	Process
+E7	Process
+E8	Process
+E9	Process
+E10	Process
+E11	Process
+E12	Process
+M1	Negation E12

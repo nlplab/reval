@@ -1,0 +1,11 @@
+T1	Protein	I kappa B alpha
+T2	Protein	mut-I kappa B
+T3	Protein	CD44
+T4	Protein	CD25
+T5	Protein	CD4
+T6	Protein	TCR beta-chain
+*	Equiv T2 T1
+E1	Gene_expression Theme:T2
+E2	Regulation Theme:E3
+E3	Gene_expression Theme:T6
+M1	Negation E2

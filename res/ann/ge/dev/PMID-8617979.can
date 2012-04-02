@@ -1,0 +1,27 @@
+T1	Protein	IL-1 beta
+T2	Protein	IL-1 receptor antagonist
+T3	Protein	granulocyte-macrophage colony-stimulating factor
+T4	Protein	GM-CSF
+T7	Protein	IL-8
+T9	Protein	IL-6
+T10	Protein	TNF-alpha
+T11	Protein	IL-1 receptor antagonist (ra)
+T15	Protein	IL-1ra
+*	Equiv T3 T4
+E1	Positive_regulation Theme:E8
+E2	Positive_regulation Theme:E6
+E3	Positive_regulation Theme:E7
+E4	Positive_regulation Theme:E5
+E5	Gene_expression Theme:T1
+E6	Gene_expression Theme:T7
+E7	Gene_expression Theme:T9
+E8	Gene_expression Theme:T10
+E9	Negative_regulation Theme:E10
+E10	Localization Theme:T1
+E11	Positive_regulation Theme:E12
+E12	Gene_expression Theme:T15
+E13	Negative_regulation Cause:T15 Theme:T1
+E14	Negative_regulation Cause:T1 Theme:T15
+E15	Gene_expression Theme:T15
+E16	Gene_expression Theme:T1
+M1	Negation E1

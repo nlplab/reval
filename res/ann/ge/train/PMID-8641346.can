@@ -1,0 +1,51 @@
+T1	Protein	Interferon-gamma
+T3	Protein	IFN-gamma
+T6	Protein	c-fos
+T7	Protein	c-jun
+T9	Protein	p105
+T10	Protein	p50
+T11	Protein	p65
+T29	Protein	NF-IL-6
+T30	Protein	I kappa B alpha
+*	Equiv T1 T3
+E1	Negative_regulation Theme:T6
+E2	Negative_regulation Theme:T7
+E3	Positive_regulation Theme:E4
+E4	Transcription Theme:T9
+E5	Regulation Theme:E6
+E6	Transcription Theme:T11
+E7	Regulation Theme:E8
+E8	Transcription Theme:T9
+E9	Positive_regulation Theme:E10
+E10	Transcription Theme:T11
+E11	Positive_regulation Theme:E12
+E12	Transcription Theme:T11
+E13	Positive_regulation Cause:E14 Theme:E11
+E14	Positive_regulation Theme:T11
+E15	Gene_expression Theme:T10
+E16	Positive_regulation Theme:E20
+E17	Positive_regulation Cause:T1 Theme:E20
+E18	Positive_regulation Cause:T1 Theme:E21
+E19	Positive_regulation Theme:T1
+E20	Gene_expression Theme:T10
+E21	Gene_expression Theme:T11
+E22	Gene_expression Theme:T11
+E23	Gene_expression Theme:T10
+E24	Positive_regulation Cause:T1 Theme:E23
+E25	Positive_regulation Cause:T1 Theme:E22
+E26	Positive_regulation Theme:E23
+E27	Positive_regulation Theme:E22
+E28	Positive_regulation Cause:T1 Theme:E31
+E29	Positive_regulation Cause:T1 Theme:E30
+E30	Gene_expression Theme:T11
+E31	Gene_expression Theme:T10
+E32	Regulation Cause:T1 Theme:E34
+E33	Regulation Cause:T1 Theme:E35
+E34	Gene_expression Theme:T30
+E35	Gene_expression Theme:T29
+M1	Negation E5
+M2	Negation E7
+M3	Negation E28
+M4	Negation E29
+M5	Negation E32
+M6	Negation E33

@@ -1,0 +1,17 @@
+T1	Protein	interleukin-8
+T2	Protein	Interleukin-8
+T3	Protein	IL-8
+T7	Protein	MEK1
+*	Equiv T2 T3
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Gene_expression Theme:T2
+E4	Localization Theme:T2
+E5	Positive_regulation Theme:E4
+E6	Positive_regulation Theme:T2
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T2
+E9	Positive_regulation Theme:E8
+E10	Negative_regulation Theme:T7
+E11	Positive_regulation Theme:E12
+E12	Gene_expression Theme:T2

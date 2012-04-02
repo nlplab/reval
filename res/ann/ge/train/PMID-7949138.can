@@ -1,0 +1,16 @@
+T1	Protein	DNase-I
+T2	Protein	TAL-1
+T3	Protein	tal-1
+T7	Protein	Tal-1
+T26	Entity	promoter 1b
+E1	Transcription Theme:T2
+E2	Positive_regulation Theme:T3
+E3	Gene_expression Theme:T3
+E4	Regulation Theme:E5
+E5	Gene_expression Theme:T3
+E6	Transcription Theme:T7
+E7	Gene_expression Theme:T3
+E8	Gene_expression Theme:T3
+E9	Positive_regulation Theme:E8
+E10	Positive_regulation Site:T26 Theme:T3
+E11	Transcription Theme:T3

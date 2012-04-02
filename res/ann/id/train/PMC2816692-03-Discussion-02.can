@@ -1,0 +1,10 @@
+T1	Protein	SrcA
+T2	Protein	SsaN
+T3	Organism	E. coli
+T4	Organism	Salmonella
+T7	Chemical	carboxyl
+T9	Protein	EscN
+T12	Entity	ATPase domain
+E1	Binding Theme1:T1 Theme2:T2
+E2	Positive_regulation Theme:E3
+E3	Binding Site:T12 Theme:T2

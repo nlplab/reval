@@ -1,0 +1,20 @@
+T1	Protein	IL-4
+T2	Protein	FOXP3
+T3	Protein	TGF-beta
+T5	Protein	CD4
+T6	Protein	CD45RA
+T11	Protein	CD3
+T12	Protein	CD28
+T15	Protein	SMAD2
+T16	Protein	STAT6
+T18	Protein	GAPDH
+T19	Protein	GATA3
+E1	Regulation Cause:T1 Theme:E2
+E2	Positive_regulation Theme:T2
+E3	Positive_regulation Theme:T1
+E4	Phosphorylation Theme:T15
+E5	Phosphorylation Theme:T16
+E6	Gene_expression Theme:T19
+E7	Gene_expression Theme:T2
+M1	Speculation E4
+M2	Speculation E5

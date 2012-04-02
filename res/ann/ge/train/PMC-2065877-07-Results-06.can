@@ -1,0 +1,60 @@
+T1	Protein	LMP1
+T2	Protein	Akt
+T3	Protein	Rb
+T6	Protein	pAkt
+T10	Protein	CD19
+T16	Protein	glycogen synthase kinase 3
+T17	Protein	GSK3
+T28	Protein	p-mTOR
+T34	Protein	FoxO1
+T46	Protein	p27
+T49	Protein	Cdk2
+T53	Protein	pRb
+*	Equiv T16 T17
+E1	Positive_regulation Theme:E2
+E2	Positive_regulation Theme:T2
+E3	Positive_regulation Theme:T6
+E4	Positive_regulation Theme:T6
+E5	Positive_regulation Theme:T6
+E6	Binding Theme:T2 Theme2:T16
+E7	Negative_regulation Theme:E6
+E8	Positive_regulation Theme:E9
+E9	Phosphorylation Theme:T16
+E10	Binding Theme:T16 Theme2:T2
+E11	Positive_regulation Theme:T2
+E12	Positive_regulation Theme:T2
+E13	Phosphorylation Theme:T16
+E14	Positive_regulation Theme:T2
+E15	Phosphorylation Theme:T16
+E16	Regulation Theme:T16
+E17	Binding Theme:T2
+E18	Positive_regulation Theme:T28
+E19	Positive_regulation Theme:E18
+E20	Regulation Cause:E21 Theme:E18
+E21	Positive_regulation Cause:T1 Theme:E22
+E22	Positive_regulation Theme:T2
+E23	Regulation Theme:T34
+E24	Negative_regulation Theme:T34
+E25	Positive_regulation Theme:T2
+E26	Positive_regulation Cause:E25 Theme:E27
+E27	Negative_regulation Theme:T34
+E28	Regulation Cause:T2 Theme:T34
+E29	Gene_expression Theme:T46
+E30	Positive_regulation Theme:T53
+E31	Positive_regulation Theme:T49
+E32	Positive_regulation Theme:E33
+E33	Positive_regulation Theme:T3
+E34	Positive_regulation Theme:T49
+E35	Negative_regulation Theme:T46
+E36	Negative_regulation Theme:T34
+E37	Negative_regulation Theme:T46
+M1	Negation E5
+M2	Negation E8
+M3	Negation E10
+M4	Negation E14
+M5	Speculation E17
+M6	Negation E19
+M7	Negation E20
+M8	Negation E26
+M9	Negation E28
+M10	Speculation E28

@@ -1,0 +1,4 @@
+T1	Protein	CAT
+T2	Protein	granulocyte/macrophage colony-stimulating factor
+T3	Protein	GM-CSF
+*	Equiv T2 T3

@@ -9,7 +9,7 @@ T12	Protein	H2B
 T13	Protein	H3
 T14	Protein	cytochrome c
 T16	Protein	HSL7
-*	Equiv T4
+*	Equiv T2 T4
 E1	Methylation Theme:T7
 E2	Methylation Theme:T14
 M1	Negation E2

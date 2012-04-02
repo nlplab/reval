@@ -1,0 +1,4 @@
+T1	Protein	GATA-1
+T2	Protein	EGFP
+E1	Gene_expression Theme:T2
+M1	Speculation E1

@@ -1,4 +1,4 @@
 T1	Protein	serum albumin
 T2	Protein	Serum albumins
 T4	Protein	BSA
-*	Equiv T4
+*	Equiv T1 T4

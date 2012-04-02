@@ -1,0 +1,22 @@
+T1	Protein	GATA-1
+T2	Protein	estrogen receptor
+T3	Protein	alpha-
+T4	Protein	beta-globin
+T5	Protein	H5
+T9	Protein	ER
+*	Equiv T2 T9
+T29	Entity	finger region
+T30	Entity	N-terminal activation domain
+E1	Negative_regulation Cause:T2 Theme:T1
+E2	Negative_regulation Theme:T5
+E3	Negative_regulation Theme:T4
+E4	Negative_regulation Theme:T3
+E5	Regulation Theme:T1
+E6	Binding Theme:T1 Theme2:T2
+E7	Binding Theme:T1 Theme2:T2
+E8	Regulation Theme:E7
+E9	Binding Site:T29 Theme:T1 Theme2:T2
+E10	Binding Site:T30 Theme:T1 Theme2:T2
+E11	Regulation Theme:T1
+E12	Binding Theme:T1 Theme2:T2
+M1	Speculation E5

@@ -1,0 +1,35 @@
+T1	Protein	GATA3
+T2	Protein	TGF-beta1
+T3	Protein	FOXP3
+T5	Protein	interleukin 4
+T6	Protein	IL-4
+T8	Protein	GATA-3
+T9	Protein	transforming growth factor (TGF)-beta
+*	Equiv T5 T6
+T40	Entity	promoter
+T48	Entity	GATA element
+E1	Negative_regulation Theme:E2
+E2	Positive_regulation Cause:T2 Theme:E3
+E3	Gene_expression Theme:T3
+E4	Regulation Theme:E5
+E5	Gene_expression Theme:T3
+E6	Negative_regulation Cause:T5 Theme:T3
+E7	Gene_expression Theme:T8
+E8	Negative_regulation Theme:E9
+E9	Positive_regulation Cause:T9 Theme:E10
+E10	Positive_regulation Theme:T3
+E11	Positive_regulation Cause:E12 Theme:E8
+E12	Binding Theme:T1 Site2:T40 Theme2:T3
+E13	Regulation Theme:T5
+E14	Regulation Theme:T1
+E15	Negative_regulation Cause:T5 Theme:E16
+E16	Positive_regulation Theme:T3
+E17	Positive_regulation Cause:T5 Theme:T1
+E18	Positive_regulation Cause:E20 Theme:E19
+E19	Negative_regulation Theme:T3
+E20	Binding Theme:T1 Site2:T48 Theme2:T3
+E21	Negative_regulation Theme:T5
+E22	Positive_regulation Cause:T5 Theme:T1
+E23	Binding Theme:T1 Site2:T40 Theme2:T3
+E24	Negative_regulation Cause:E23 Site:T40 Theme:T3
+M1	Speculation E4

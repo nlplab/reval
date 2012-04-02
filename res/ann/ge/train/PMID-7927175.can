@@ -1,0 +1,8 @@
+T1	Protein	retinoic acid receptor alpha
+T2	Protein	RAR alpha
+T5	Protein	hRAR alpha
+*	Equiv T2 T5
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Gene_expression Theme:T5
+E4	Positive_regulation Theme:E3

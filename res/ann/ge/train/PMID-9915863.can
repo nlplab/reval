@@ -1,0 +1,59 @@
+T1	Protein	Egr-2
+T2	Protein	Fas ligand
+T5	Protein	fasL
+T6	Protein	Egr-3
+T7	Protein	PILOT
+T8	Protein	Egr-1
+T9	Protein	NGFI-A
+T10	Protein	Krox-24
+T11	Protein	Tis-8
+T12	Protein	Zif-268
+T14	Protein	CD4
+T15	Protein	Fas
+T16	Protein	FasL
+T22	Protein	Krox-20
+T25	Protein	-2
+T26	Protein	-3
+T27	Protein	egr-3
+T28	Protein	egr-2
+*	Equiv T8 T9 T10 T11 T12
+*	Equiv T2 T5
+*	Equiv T6 T7
+*	Equiv T1 T22
+T44	Entity	promoter
+E1	Regulation Cause:T22 Theme:E2
+E2	Positive_regulation Theme:T5
+E3	Binding Site:T44 Theme:T5
+E4	Positive_regulation Cause:T12 Theme:E6
+E5	Positive_regulation Cause:T7 Theme:E6
+E6	Transcription Theme:T5
+E7	Transcription Theme:T5
+E8	Positive_regulation Theme:E7
+E9	Regulation Theme:E8
+E10	Gene_expression Theme:T7
+E11	Positive_regulation Theme:E16
+E12	Positive_regulation Theme:E14
+E13	Positive_regulation Theme:E15
+E14	Gene_expression Theme:T25
+E15	Gene_expression Theme:T12
+E16	Gene_expression Theme:T26
+E17	Gene_expression Theme:T27
+E18	Gene_expression Theme:T28
+E19	Negative_regulation Theme:E18
+E20	Negative_regulation Theme:E17
+E21	Gene_expression Theme:T12
+E22	Positive_regulation Theme:E21
+E23	Gene_expression Theme:T22
+E24	Positive_regulation Theme:E23
+E25	Positive_regulation Cause:T22 Theme:T5
+E26	Positive_regulation Cause:T7 Theme:T5
+E27	Regulation Cause:T22 Theme:E29
+E28	Regulation Cause:T7 Theme:E29
+E29	Gene_expression Theme:T16
+E30	Regulation Theme:T22
+E31	Positive_regulation Theme:T5
+M1	Negation E4
+M2	Speculation E9
+M3	Negation E10
+M4	Speculation E30
+M5	Negation E31

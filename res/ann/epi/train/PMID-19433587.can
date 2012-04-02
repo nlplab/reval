@@ -2,10 +2,10 @@ T1	Protein	HSCARG
 T2	Protein	RelA
 T3	Protein	COMMD1
 T7	Protein	MURR1 domain containing protein 1
-*	Equiv T7
+*	Equiv T3 T7
 E1	Ubiquitination Theme:T2
-E2	Ubiquitination Theme:T3
-E3	Ubiquitination Theme:T3
+E2	Ubiquitination Theme:T7
+E3	Ubiquitination Theme:T7
 E4	Ubiquitination Theme:T2
 E5	Ubiquitination Theme:T2
-E6	Ubiquitination Theme:T3
+E6	Ubiquitination Theme:T7

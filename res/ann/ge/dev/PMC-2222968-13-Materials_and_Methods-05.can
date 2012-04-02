@@ -1,0 +1,11 @@
+T1	Protein	CD4
+T2	Protein	CD45RA
+T3	Protein	CD45RO
+T4	Protein	CD3
+T5	Protein	CD28
+T6	Protein	IL-12
+T7	Protein	IL-4
+T9	Protein	IFN-gamma
+T11	Protein	TGF-beta
+T15	Protein	IL-2
+E1	Negative_regulation Theme:T3

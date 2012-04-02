@@ -1,0 +1,23 @@
+T1	Protein	tumor necrosis factor-alpha
+T2	Protein	phosphatases 1
+T3	Protein	2A
+T4	Protein	Oct-1
+T5	Protein	Oct-2
+T7	Protein	TNF-alpha
+*	Equiv T1 T7
+E1	Positive_regulation Theme:T1
+E2	Negative_regulation Theme:T2
+E3	Negative_regulation Theme:T3
+E4	Positive_regulation Theme:T4
+E5	Positive_regulation Theme:T5
+E6	Regulation Theme:E8
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T1
+E9	Regulation Theme:T1
+E10	Positive_regulation Theme:T1
+E11	Positive_regulation Cause:E10 Theme:E12
+E12	Localization Theme:T1
+M1	Speculation E1
+M2	Negation E4
+M3	Negation E5
+M4	Speculation E9

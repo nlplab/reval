@@ -1,4 +1,4 @@
 T1	Protein	serum albumin
 T4	Protein	HSA
-*	Equiv T4
+*	Equiv T1 T4
 E1	Glycosylation Theme:T1

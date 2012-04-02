@@ -27,9 +27,9 @@ T34	Protein	SsaN
 T36	Protein	STM2287
 T37	Protein	PipB2
 T38	Protein	STM2780
-*	Equiv T29 T28 T30
-*	Equiv T36
-*	Equiv T38 T37
+*	Equiv T28 T29 T30
+*	Equiv T24 T36
+*	Equiv T37 T38
 E1	Process
 E2	Binding Theme1:T7 Theme2:T9
 E3	Process Participant:T10

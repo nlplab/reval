@@ -1,0 +1,9 @@
+T1	Protein	catalase
+T3	Protein	tumor necrosis factor-alpha
+T4	Protein	interleukin-1beta
+E1	Positive_regulation Theme:E3
+E2	Positive_regulation Theme:E4
+E3	Gene_expression Theme:T4
+E4	Gene_expression Theme:T3
+E5	Positive_regulation Theme:E6
+E6	Gene_expression Theme:T3

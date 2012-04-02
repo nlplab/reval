@@ -1,0 +1,39 @@
+T1	Protein	relA
+T2	Protein	p65
+T3	Protein	I kappa B alpha
+T4	Protein	p50
+T6	Protein	RelA
+T40	Entity	cytoplasmic
+E1	Positive_regulation Theme:E4
+E2	Positive_regulation Theme:E3
+E3	Gene_expression Theme:T3
+E4	Gene_expression Theme:T1
+E5	Binding Theme:T4
+E6	Gene_expression Theme:T6
+E7	Gene_expression Theme:T4
+E8	Gene_expression Theme:T2
+E9	Gene_expression Theme:T4
+E10	Gene_expression Theme:T6
+E11	Positive_regulation Theme:T6
+E12	Positive_regulation Theme:T6
+E13	Positive_regulation Theme:E14
+E14	Gene_expression Theme:T3
+E15	Gene_expression Theme:T3
+E16	Positive_regulation Theme:E19
+E17	Positive_regulation Theme:E21
+E18	Positive_regulation Theme:E20
+E19	Gene_expression Theme:T4
+E20	Gene_expression Theme:T2
+E21	Gene_expression Theme:T6
+E22	Positive_regulation Theme:E23
+E23	Gene_expression Theme:T3
+E24	Positive_regulation Cause:E22 Theme:E29
+E25	Positive_regulation Cause:E22 Theme:E28
+E26	Positive_regulation Cause:E22 Theme:E27
+E27	Localization AtLoc:T40 Theme:T2
+E28	Localization AtLoc:T40 Theme:T4
+E29	Localization AtLoc:T40 Theme:T6
+M1	Negation E10
+M2	Speculation E24
+M3	Speculation E25
+M4	Speculation E26

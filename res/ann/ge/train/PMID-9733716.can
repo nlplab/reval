@@ -1,0 +1,15 @@
+T1	Protein	CD14
+T2	Protein	mCD14
+E1	Binding Theme:T1
+E2	Binding Theme:T2
+E3	Binding Theme:T2
+E4	Binding Theme:T2
+E5	Positive_regulation Theme:E6
+E6	Binding Theme:T2
+E7	Binding Theme:T2
+E8	Negative_regulation Cause:E9 Theme:E7
+E9	Negative_regulation Theme:E10
+E10	Binding Theme:T2
+E11	Negative_regulation Theme:E12
+E12	Binding Theme:T2
+E13	Gene_expression Theme:T2

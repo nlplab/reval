@@ -1,0 +1,7 @@
+T1	Protein	IL-2
+E1	Negative_regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Negative_regulation Theme:T1
+E4	Positive_regulation Theme:E5
+E5	Negative_regulation Theme:E6
+E6	Positive_regulation Theme:T1

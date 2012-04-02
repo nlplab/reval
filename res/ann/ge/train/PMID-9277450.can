@@ -1,0 +1,4 @@
+T1	Protein	Surfactant protein A
+T2	Protein	tumor necrosis factor-alpha
+E1	Negative_regulation Theme:E2
+E2	Positive_regulation Theme:T2

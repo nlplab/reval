@@ -1,0 +1,14 @@
+T1	Protein	L
+T2	Protein	R-PK
+T3	Protein	L-PK
+T6	Protein	GATA-1
+T8	Protein	hGATA-1
+T13	Entity	erythroid promoter
+T18	Entity	promoter
+E1	Gene_expression Theme:T3
+E2	Positive_regulation Theme:E1
+E3	Positive_regulation Site:T13 Theme:T1
+E4	Binding Theme:T6
+E5	Positive_regulation Theme:E6
+E6	Gene_expression Theme:T2
+E7	Positive_regulation Cause:T8 Site:T18 Theme:T2

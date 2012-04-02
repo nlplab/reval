@@ -1,0 +1,33 @@
+T1	Protein	csrS
+T2	Organism	mouse
+T4	Organism	GAS
+T7	Organism	non-invasive 1566
+T8	Organism	invasive NIH230
+T9	Organism	csrS deletion
+T11	Organism	1566DeltacsrS
+T13	Organism	NIH230
+T16	Organism	NIH230::csrS+
+T17	Protein	csrS+
+T18	Organism	non-invasive strain
+T22	Organism	mice
+T26	Organism	1566
+T27	Organism	non-invasive
+T28	Organism	invasive isolates +CsrS
+T29	Protein	CsrS
+T40	Organism	invasive GAS
+T41	Organism	non-invasive GAS
+*	Equiv T9 T11
+E1	Process
+E2	Process
+E3	Process Participant:T4
+E4	Process Participant:T4
+E5	Positive_regulation Theme:T1
+E6	Process
+E7	Process
+E8	Process Participant:T16
+E9	Process Participant:T13
+E10	Process Participant:T13
+E11	Process Participant:T26
+E12	Process Participant:T16
+E13	Process Participant:T40
+E14	Process Participant:T41

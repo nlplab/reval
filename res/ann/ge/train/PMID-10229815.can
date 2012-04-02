@@ -1,0 +1,36 @@
+T1	Protein	CTLA-4
+T3	Protein	CD28
+T4	Protein	IL-2
+T6	Protein	CD4
+T15	Protein	cyclin D3
+T16	Protein	(cdk)4
+T17	Protein	cdk6
+E1	Binding Theme:T1
+E2	Negative_regulation Cause:E1 Theme:E5
+E3	Positive_regulation Cause:T3 Theme:E5
+E4	Gene_expression Theme:T4
+E5	Positive_regulation Theme:E4
+E6	Binding Theme:T1
+E7	Negative_regulation Cause:E9 Theme:E8
+E8	Positive_regulation Cause:T3 Theme:T4
+E9	Negative_regulation Cause:E6 Theme:E10
+E10	Transcription Theme:T4
+E11	Positive_regulation Theme:E9
+E12	Binding Theme:T1
+E13	Regulation Cause:E12 Theme:E14
+E14	Positive_regulation Cause:T3 Theme:E15
+E15	Positive_regulation Theme:T4
+E16	Binding Theme:T1
+E17	Negative_regulation Cause:E16 Theme:E21
+E18	Negative_regulation Cause:E16 Theme:E20
+E19	Negative_regulation Cause:E16 Theme:E22
+E20	Gene_expression Theme:T17
+E21	Gene_expression Theme:T15
+E22	Gene_expression Theme:T16
+E23	Positive_regulation Theme:E22
+E24	Positive_regulation Theme:E21
+E25	Positive_regulation Theme:E20
+E26	Negative_regulation Theme:E27
+E27	Transcription Theme:T4
+M1	Negation E13
+M2	Speculation E13

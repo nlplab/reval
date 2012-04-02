@@ -1,0 +1,13 @@
+T1	Protein	NFAT4
+T6	Entity	Nuclear
+T11	Entity	nuclear
+E1	Localization AtLoc:T6 Theme:T1
+E2	Negative_regulation Theme:E1
+E3	Phosphorylation Theme:T1
+E4	Positive_regulation Theme:E5
+E5	Localization AtLoc:T11 Theme:T1
+E6	Positive_regulation Theme:E7
+E7	Localization AtLoc:T11 Theme:T1
+E8	Localization AtLoc:T11 Theme:T1
+E9	Positive_regulation Theme:E8
+E10	Negative_regulation Theme:E9

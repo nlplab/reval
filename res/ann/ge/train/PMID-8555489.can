@@ -1,0 +1,21 @@
+T1	Protein	B29
+T4	Protein	Ig beta
+T5	Protein	CD79b
+*	Equiv T1 T4 T5
+T22	Entity	minimal promoter
+T26	Entity	promoter
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T4
+E3	Regulation Theme:T4
+E4	Transcription Theme:T4
+E5	Regulation Site:T22 Theme:T4
+E6	Regulation Cause:T4 Theme:E7
+E7	Transcription Theme:T4
+E8	Regulation Site:T26 Theme:T4
+E9	Positive_regulation Theme:E7
+E10	Negative_regulation Site:T22 Theme:T4
+E11	Gene_expression Theme:T4
+E12	Regulation Theme:E11
+M1	Speculation E3
+M2	Speculation E6
+M3	Negation E8

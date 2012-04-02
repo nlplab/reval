@@ -1,0 +1,7 @@
+T1	Protein	PKD1
+T2	Protein	PKD3
+T4	Protein	3
+E1	Negative_regulation Theme:T1
+E2	Negative_regulation Theme:T2
+E3	Negative_regulation Theme:T1
+E4	Negative_regulation Theme:T4

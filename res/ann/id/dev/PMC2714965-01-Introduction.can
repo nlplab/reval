@@ -32,7 +32,7 @@ T46	Organism	human
 T49	Organism	cheB2
 T50	Organism	cheB1 mutants
 T51	Protein	cheB1
-*	Equiv T16 T15
+*	Equiv T15 T16
 E1	Process Participant:T1
 E2	Process Participant:T3
 E3	Process Participant:T3

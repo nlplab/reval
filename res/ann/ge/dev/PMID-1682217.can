@@ -1,0 +1,22 @@
+T1	Protein	v-erbA
+T2	Protein	c-erbA
+T3	Protein	CAII
+T8	Protein	carbonic anhydrase II
+*	Equiv T3 T8
+E1	Gene_expression Theme:T1
+E2	Negative_regulation Cause:E1 Theme:E3
+E3	Regulation Cause:T2 Theme:T8
+E4	Binding Theme:T1 Theme2:T8
+E5	Binding Theme:T2 Theme2:T8
+E6	Transcription Theme:T8
+E7	Negative_regulation Cause:T1 Theme:E6
+E8	Regulation Cause:T1 Theme:E9
+E9	Negative_regulation Theme:E10
+E10	Transcription Theme:T8
+E11	Gene_expression Theme:T1
+E12	Gene_expression Theme:T2
+E13	Positive_regulation Theme:E14
+E14	Transcription Theme:T8
+E15	Positive_regulation Theme:E16
+E16	Gene_expression Theme:T1
+E17	Positive_regulation Cause:E15 Theme:T1

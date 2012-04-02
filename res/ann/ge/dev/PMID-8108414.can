@@ -1,0 +1,37 @@
+T1	Protein	RelA
+T2	Protein	p65
+T5	Protein	p50
+T7	Protein	I kappa B alpha
+T9	Protein	tumor necrosis factor alpha
+T15	Protein	NF-kappa B2
+T16	Protein	p100
+T17	Protein	NF-kappa B1
+T18	Protein	p105
+*	Equiv T1 T1 T2 T2
+*	Equiv T17 T18
+*	Equiv T15 T16
+T43	Entity	nuclear
+T47	Entity	nuclear localization signal
+T53	Entity	cytoplasmic
+E1	Regulation Theme:T2
+E2	Positive_regulation Theme:E3
+E3	Protein_catabolism Theme:T7
+E4	Positive_regulation Cause:T9 Theme:E5
+E5	Protein_catabolism Theme:T7
+E6	Phosphorylation Theme:T7
+E7	Positive_regulation Cause:E4 Theme:E8
+E8	Localization Theme:T2 ToLoc:T43
+E9	Binding Theme:T2 Theme2:T18
+E10	Binding Theme:T2 Theme2:T7
+E11	Binding Theme:T2 Theme2:T16
+E12	Binding Theme:T2 Theme2:T16
+E13	Positive_regulation CSite:T47 Cause:T2 Theme:E14
+E14	Binding Theme:T2 Theme2:T7
+E15	Negative_regulation Cause:T16 Theme:T2
+E16	Positive_regulation Theme:E15
+E17	Positive_regulation Theme:E18
+E18	Localization AtLoc:T53 Theme:T2
+E19	Positive_regulation Cause:T2 Theme:E21
+E20	Positive_regulation Cause:T2 Theme:E22
+E21	Transcription Theme:T16
+E22	Gene_expression Theme:T16

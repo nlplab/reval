@@ -1,0 +1,6 @@
+T1	Protein	IL-1beta
+T2	Protein	IL-6
+T3	Protein	TNF-alpha
+E1	Positive_regulation Theme:T2
+E2	Positive_regulation Theme:T3
+E3	Positive_regulation Theme:T1

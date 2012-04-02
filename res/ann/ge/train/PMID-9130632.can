@@ -1,0 +1,34 @@
+T1	Protein	Itk
+T2	Protein	CD2
+T3	Protein	interleukin-2
+T8	Protein	Interleukin-2
+T9	Protein	IL-2
+T11	Protein	CD28
+*	Equiv T8 T9
+T27	Entity	tyrosine
+T30	Entity	promoter
+E1	Positive_regulation Cause:T1 Theme:E2
+E2	Positive_regulation Cause:T2 Theme:T3
+E3	Positive_regulation Cause:E4 Theme:T2
+E4	Binding Theme:T2
+E5	Positive_regulation Theme:E7
+E6	Positive_regulation Cause:E3 Theme:E7
+E7	Phosphorylation Site:T27 Theme:T1
+E8	Positive_regulation Theme:E5
+E9	Positive_regulation Theme:E6
+E10	Positive_regulation Cause:E13 Site:T30 Theme:T8
+E11	Positive_regulation Site:T30 Theme:T8
+E12	Positive_regulation Cause:E14 Site:T30 Theme:T8
+E13	Binding Theme:T11
+E14	Binding Theme:T2
+E15	Negative_regulation Cause:E18 Theme:E10
+E16	Negative_regulation Cause:E18 Theme:E12
+E17	Negative_regulation Cause:E18 Theme:E11
+E18	Gene_expression Theme:T1
+E19	Negative_regulation Theme:E20
+E20	Phosphorylation Site:T27 Theme:T1
+E21	Positive_regulation Theme:T2
+E22	Positive_regulation Site:T30 Theme:T8
+E23	Gene_expression Theme:T1
+E24	Regulation Cause:T1 Theme:E25
+E25	Gene_expression Theme:T8

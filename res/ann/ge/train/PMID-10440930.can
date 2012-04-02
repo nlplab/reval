@@ -1,0 +1,9 @@
+T1	Protein	TNFalpha
+T2	Protein	tumor necrosis factor-alpha
+T4	Protein	IkappaBalpha
+T5	Protein	IkappaBbeta
+*	Equiv T1 T2
+E1	Negative_regulation Theme:E3
+E2	Negative_regulation Theme:E4
+E3	Protein_catabolism Theme:T5
+E4	Protein_catabolism Theme:T4

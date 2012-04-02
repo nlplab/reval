@@ -1,0 +1,46 @@
+T1	Protein	granulocyte-macrophage colony-stimulating factor
+T2	Protein	Granulocyte-macrophage colony-stimulating factor
+T3	Protein	GM-CSF
+T4	Protein	interleukin-2
+T5	Protein	IL-2
+T9	Protein	calmodulin
+T11	Protein	CN A
+T12	Protein	CN B
+T19	Protein	NF-CLE0 gamma
+*	Equiv T2 T3
+*	Equiv T4 T5
+E1	Positive_regulation Theme:E2
+E2	Positive_regulation Theme:T1
+E3	Gene_expression Theme:T2
+E4	Gene_expression Theme:T4
+E5	Positive_regulation Theme:E3
+E6	Positive_regulation Theme:E4
+E7	Gene_expression Theme:T4
+E8	Gene_expression Theme:T2
+E9	Negative_regulation Theme:E8
+E10	Negative_regulation Theme:E7
+E11	Gene_expression Theme:T4
+E12	Positive_regulation Theme:E13
+E13	Transcription Theme:T4
+E14	Positive_regulation Theme:E15
+E15	Gene_expression Theme:T12
+E16	Positive_regulation Theme:E17
+E17	Gene_expression Theme:T11
+E18	Positive_regulation Cause:E16 Theme:E20
+E19	Positive_regulation Cause:E14 Theme:E20
+E20	Transcription Theme:T2
+E21	Negative_regulation Cause:E16 Theme:E23
+E22	Negative_regulation Cause:E14 Theme:E23
+E23	Negative_regulation Theme:E20
+E24	Positive_regulation Theme:E25
+E25	Transcription Theme:T2
+E26	Positive_regulation Theme:E28
+E27	Positive_regulation Theme:E29
+E28	Gene_expression Theme:T4
+E29	Gene_expression Theme:T2
+E30	Binding Theme:T19
+E31	Binding Theme:T19
+E32	Positive_regulation Theme:E31
+E33	Negative_regulation Theme:E31
+E34	Positive_regulation Theme:T4
+E35	Positive_regulation Theme:T2

@@ -1,0 +1,8 @@
+T1	Protein	C5a
+T2	Protein	C3a
+T9	Protein	p50
+T10	Protein	p65
+T12	Protein	IkappaBalpha
+T16	Protein	TNFalpha
+E1	Negative_regulation Theme:T12
+E2	Positive_regulation Theme:T12

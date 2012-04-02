@@ -1,0 +1,11 @@
+T1	Protein	Oct-2
+T2	Protein	OBF-1
+T3	Protein	PU.1
+T4	Protein	E47
+E1	Negative_regulation Theme:E5
+E2	Negative_regulation Theme:E4
+E3	Negative_regulation Theme:E6
+E4	Transcription Theme:T3
+E5	Transcription Theme:T1
+E6	Transcription Theme:T2
+E7	Negative_regulation Theme:T4

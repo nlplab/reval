@@ -1,4 +1,4 @@
 T1	Protein	TDP-43
 T2	Protein	TAR DNA-binding protein 43
 T4	Protein	ubiquitin
-*	Equiv T2
+*	Equiv T1 T2

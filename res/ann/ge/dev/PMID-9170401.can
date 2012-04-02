@@ -1,0 +1,17 @@
+T1	Protein	CD41
+T2	Protein	thrombin
+T3	Protein	interleukin (IL),1 beta
+T4	Protein	IL-8
+T5	Protein	monocyte chemoattractant protein (MCP)-1
+T6	Protein	IL-1 beta
+T8	Protein	MCP-1
+T9	Protein	P selectin
+E1	Positive_regulation Theme:T4
+E2	Positive_regulation Theme:T5
+E3	Positive_regulation Theme:T3
+E4	Positive_regulation Theme:T6
+E5	Positive_regulation Theme:T4
+E6	Positive_regulation Theme:T8
+E7	Positive_regulation Theme:T6
+E8	Positive_regulation Theme:T8
+E9	Positive_regulation Theme:T4

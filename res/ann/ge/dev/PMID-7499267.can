@@ -1,0 +1,40 @@
+T1	Protein	interleukin-6
+T2	Protein	interferon-gamma
+T3	Protein	tumor necrosis factor-alpha
+T4	Protein	interferon regulatory factor-1
+T5	Protein	Sp1
+T7	Protein	IFN-gamma
+T9	Protein	TNF-alpha
+T11	Protein	IL-6
+T19	Protein	p50
+T20	Protein	p65
+T24	Protein	IRF-1
+*	Equiv T3 T9
+*	Equiv T1 T11
+*	Equiv T2 T7
+T33	Entity	promoter
+E1	Positive_regulation Cause:T2 Theme:T1
+E2	Positive_regulation Cause:T3 Theme:T1
+E3	Regulation Cause:T5 Theme:E2
+E4	Regulation Cause:T4 Theme:E1
+E5	Positive_regulation Cause:T2 Theme:T1
+E6	Positive_regulation Cause:T3 Theme:T1
+E7	Positive_regulation Theme:T1
+E8	Regulation Cause:T2 Site:T33 Theme:T1
+E9	Regulation Cause:T3 Site:T33 Theme:T1
+E10	Positive_regulation Theme:T20
+E11	Positive_regulation Theme:T19
+E12	Positive_regulation Cause:T2 Theme:T1
+E13	Positive_regulation Cause:T3 Theme:T1
+E14	Positive_regulation Cause:T20 Theme:E12
+E15	Positive_regulation Cause:T20 Theme:E13
+E16	Positive_regulation Cause:T24 Theme:E13
+E17	Positive_regulation Cause:T24 Theme:E12
+E18	Positive_regulation Theme:T5
+E19	Positive_regulation Theme:E20
+E20	Binding Theme:T5
+E21	Phosphorylation Theme:T5
+E22	Positive_regulation Cause:T2 Theme:E21
+E23	Positive_regulation Cause:T2 Theme:E19
+M1	Speculation E5
+M2	Speculation E6

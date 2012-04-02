@@ -1,4 +1,4 @@
 T1	Protein	thyroglobulin
 T3	Protein	Tg
 T6	Protein	acetylcholinesterase
-*	Equiv T3
+*	Equiv T1 T3

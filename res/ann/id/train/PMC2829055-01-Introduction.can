@@ -24,7 +24,7 @@ T40	Organism	rats
 T42	Organism	Xenopsylla cheopis rat fleas
 T43	Organism	humans
 T49	Organism	rat
-*	Equiv T16 T15
+*	Equiv T15 T16
 *	Equiv T21 T22
 E1	Process
 E2	Process Participant:T5

@@ -1,0 +1,31 @@
+T1	Protein	heat shock protein 60
+T2	Protein	Hsp60
+T5	Protein	monocyte chemoattractant protein-1
+T6	Protein	MCP-1
+T8	Protein	heat shock factor-1
+T9	Protein	HSF-1
+T10	Protein	tumor necrosis factor-alpha
+T11	Protein	TNF-alpha
+T13	Protein	Hsp70
+*	Equiv T1 T2
+*	Equiv T8 T9
+*	Equiv T5 T6
+*	Equiv T10 T11
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T1
+E3	Gene_expression Theme:T5
+E4	Positive_regulation Theme:T8
+E5	Positive_regulation Theme:E6
+E6	Gene_expression Theme:T1
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T13
+E9	Positive_regulation Theme:T8
+E10	Positive_regulation Theme:T1
+E11	Positive_regulation Theme:E12
+E12	Gene_expression Theme:T1
+E13	Negative_regulation Theme:E14
+E14	Gene_expression Theme:T5
+M1	Speculation E2
+M2	Speculation E3
+M3	Speculation E4
+M4	Negation E7

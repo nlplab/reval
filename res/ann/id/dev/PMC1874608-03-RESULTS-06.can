@@ -1,4 +1,5 @@
 T1	Protein	Mlc
+T2	Regulon-operon	Mlc
 T3	Protein	hilD
 T4	Protein	hilE
 T6	Protein	IICBGlc
@@ -16,10 +17,10 @@ T30	Chemical	MOPS
 T44	Protein	mlc
 E1	Negative_regulation Cause:E3 Theme:E2
 E2	Gene_expression Theme:T3
-E3	Positive_regulation Cause:T1 Theme:T4
+E3	Positive_regulation Cause:T2 Theme:T4
 E4	Phosphorylation Theme:T6
 M1	Negation E4
-E5	Positive_regulation Cause:T10 Theme:T1
+E5	Positive_regulation Cause:T10 Theme:T2
 E6	Gene_expression Theme:T4
 E7	Gene_expression Theme:T3
 E8	Positive_regulation Cause:T11 Theme:E10

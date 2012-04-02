@@ -1,0 +1,13 @@
+T1	Protein	IRF-1
+T2	Protein	p53
+T4	Protein	interferon regulatory factor (IRF)-1
+T7	Protein	interleukin-1 beta converting enzyme
+T8	Protein	ICE
+T9	Protein	ced-3
+*	Equiv T7 T8
+E1	Positive_regulation Theme:T7
+E2	Regulation Cause:T1 Theme:E1
+E3	Gene_expression Theme:T1
+E4	Positive_regulation Theme:E3
+E5	Positive_regulation Cause:E4 Theme:E6
+E6	Positive_regulation Theme:T7

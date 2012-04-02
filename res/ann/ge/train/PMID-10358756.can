@@ -1,0 +1,9 @@
+T1	Protein	Ikaros
+T2	Protein	LKLF
+T3	Protein	GATA3
+T4	Protein	CREB
+T5	Protein	ATF
+T6	Protein	LEF1
+T7	Protein	TCF1
+T8	Protein	Sox4
+*	Equiv T4 T5

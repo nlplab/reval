@@ -1,0 +1,35 @@
+T1	Protein	IL-2
+T2	Protein	egr-1
+T4	Protein	c-fos
+T5	Protein	junB
+T7	Protein	c-jun
+T8	Protein	junD
+T11	Protein	c-myc
+T13	Protein	bcl-2
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T4
+E3	Gene_expression Theme:T5
+E4	Positive_regulation Theme:E2
+E5	Positive_regulation Theme:E3
+E6	Gene_expression Theme:T8
+E7	Gene_expression Theme:T7
+E8	Positive_regulation Theme:E7
+E9	Positive_regulation Cause:T1 Theme:E6
+E10	Positive_regulation Cause:T1 Theme:E7
+E11	Positive_regulation Theme:E6
+E12	Positive_regulation Cause:T1 Theme:E14
+E13	Positive_regulation Theme:E14
+E14	Positive_regulation Theme:T11
+E15	Positive_regulation Cause:T1 Theme:E16
+E16	Gene_expression Theme:T13
+E17	Gene_expression Theme:T5
+E18	Gene_expression Theme:T2
+E19	Gene_expression Theme:T4
+E20	Gene_expression Theme:T13
+M1	Negation E1
+M2	Negation E4
+M3	Negation E5
+M4	Negation E8
+M5	Negation E9
+M6	Negation E10
+M7	Negation E11

@@ -1,5 +1,5 @@
 T1	Protein	erythropoietin
 T3	Protein	EPO
 T5	Protein	epoetin
-*	Equiv T3 T5
-E1	Deglycosylation Theme:T5
+*	Equiv T1 T3 T3 T5
+E1	Deglycosylation Theme:T1

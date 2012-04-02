@@ -1,0 +1,24 @@
+T1	Protein	c-jun
+T2	Protein	jun B
+T3	Protein	jun D
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T3
+E3	Gene_expression Theme:T1
+E4	Transcription Theme:T3
+E5	Transcription Theme:T1
+E6	Transcription Theme:T2
+E7	Transcription Theme:T3
+E8	Transcription Theme:T1
+E9	Transcription Theme:T2
+E10	Positive_regulation Theme:E9
+E11	Positive_regulation Theme:E8
+E12	Positive_regulation Theme:E7
+E13	Positive_regulation Theme:T3
+E14	Positive_regulation Theme:T1
+E15	Positive_regulation Theme:T2
+E16	Transcription Theme:T1
+E17	Transcription Theme:T3
+E18	Transcription Theme:T2
+E19	Gene_expression Theme:T1
+E20	Gene_expression Theme:T2
+E21	Gene_expression Theme:T3

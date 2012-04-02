@@ -1,0 +1,35 @@
+T1	Protein	interleukin 4
+T2	Protein	IL-4
+T3	Protein	STAT6
+T4	Protein	GATA3
+T7	Protein	IL-5
+T8	Protein	IL-13
+T9	Protein	T-bet
+T15	Protein	FOXP3
+T16	Protein	CD25
+T19	Protein	TGF-beta
+T20	Protein	TGF-betaRII
+*	Equiv T1 T2
+T50	Entity	promoter
+E1	Positive_regulation Cause:T1 Theme:T3
+E2	Positive_regulation Cause:T1 Theme:T4
+E3	Positive_regulation Cause:T4 Theme:T1
+E4	Positive_regulation Cause:T4 Theme:T7
+E5	Positive_regulation Cause:T4 Theme:T8
+E6	Regulation Cause:T9 Theme:T4
+E7	Negative_regulation Theme:T4
+E8	Negative_regulation Theme:T4
+E9	Gene_expression Theme:T15
+E10	Gene_expression Theme:T16
+E11	Gene_expression Theme:T15
+E12	Positive_regulation Theme:E13
+E13	Gene_expression Theme:T15
+E14	Negative_regulation Theme:T20
+E15	Negative_regulation Cause:T4 Theme:E16
+E16	Positive_regulation Theme:T15
+E17	Negative_regulation Cause:T1 Theme:E18
+E18	Gene_expression Theme:T15
+E19	Positive_regulation Cause:T4 Theme:E17
+E20	Binding Theme:T4 Site2:T50 Theme2:T15
+E21	Negative_regulation Cause:E20 Theme:E22
+E22	Positive_regulation Theme:T15

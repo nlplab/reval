@@ -1,5 +1,5 @@
 T1	Protein	surfactant protein A
 T3	Protein	SP-A
-*	Equiv T3
-E1	Glycosylation Theme:T3
-E2	Glycosylation Theme:T3
+*	Equiv T1 T3
+E1	Glycosylation Theme:T1
+E2	Glycosylation Theme:T1

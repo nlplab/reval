@@ -1,0 +1,16 @@
+T1	Protein	interferon-gamma
+T2	Protein	GM-CSF
+T3	Protein	FcgammaRI
+T4	Protein	TNFalpha
+T5	Protein	p50
+T6	Protein	RelA
+T7	Protein	IFNgamma
+T8	Protein	STAT1
+E1	Positive_regulation Theme:T2
+E2	Positive_regulation Theme:T1
+E3	Positive_regulation Theme:E4
+E4	Transcription Theme:T3
+E5	Binding Theme:T5
+E6	Binding Theme:T6
+E7	Positive_regulation Cause:T7 Theme:E8
+E8	Binding Theme:T8

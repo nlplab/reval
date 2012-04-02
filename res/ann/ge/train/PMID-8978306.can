@@ -1,0 +1,28 @@
+T1	Protein	tumor necrosis factor-alpha
+T2	Protein	TNF-alpha
+T3	Protein	tissue factor
+T4	Protein	CD36
+T5	Protein	endothelial selectins
+T8	Protein	interleukin-1 beta
+T9	Protein	IL-1 beta
+T10	Protein	beta-actin
+T11	Protein	CAT
+T15	Protein	SV40 promoter specific protein-1
+*	Equiv T1 T2
+*	Equiv T8 T9
+E1	Positive_regulation Theme:E3
+E2	Positive_regulation Theme:E4
+E3	Gene_expression Theme:T4
+E4	Gene_expression Theme:T3
+E5	Positive_regulation Theme:E6
+E6	Localization Theme:T1
+E7	Positive_regulation Theme:E8
+E8	Transcription Theme:T1
+E9	Positive_regulation Theme:E10
+E10	Transcription Theme:T8
+E11	Regulation Theme:E12
+E12	Transcription Theme:T10
+E13	Positive_regulation Theme:T11
+E14	Regulation Theme:T15
+M1	Negation E11
+M2	Negation E14

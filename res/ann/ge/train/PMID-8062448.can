@@ -1,0 +1,13 @@
+T1	Protein	toxic shock syndrome toxin-1
+T2	Protein	TSST-1
+T3	Protein	staphylococcal enterotoxin A
+T4	Protein	SEA
+T5	Protein	chloramphenicol acetyl transferase
+T6	Protein	granulocyte-macrophage colony-stimulating factor
+T7	Protein	tumor necrosis factor-alpha
+*	Equiv T4 T3
+*	Equiv T2 T1
+E1	Positive_regulation Cause:T3 Theme:E3
+E2	Positive_regulation Cause:T1 Theme:E3
+E3	Positive_regulation Theme:E4
+E4	Transcription Theme:T5

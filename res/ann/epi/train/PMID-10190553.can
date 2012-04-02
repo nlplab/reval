@@ -5,22 +5,22 @@ T6	Protein	Cx43
 T11	Protein	MspI
 T12	Protein	HpaII
 T19	Protein	luciferase
-*	Equiv T4
-*	Equiv T6
+*	Equiv T1 T4
+*	Equiv T2 T6
 T24	Entity	positions -147
 T25	Entity	-847
 T27	Entity	position -38
 T29	Entity	promoter
-E1	DNA_methylation Site:T24 Theme:T4
-E2	DNA_methylation Site:T25 Theme:T4
-E3	DNA_methylation Site:T24 Theme:T4
+E1	DNA_methylation Site:T24 Theme:T1
+E2	DNA_methylation Site:T25 Theme:T1
+E3	DNA_methylation Site:T24 Theme:T1
 M1	Negation E3
-E4	DNA_methylation Site:T25 Theme:T4
+E4	DNA_methylation Site:T25 Theme:T1
 M2	Negation E4
-E5	DNA_methylation Site:T27 Theme:T6
-E6	DNA_methylation Site:T27 Theme:T6
+E5	DNA_methylation Site:T27 Theme:T2
+E6	DNA_methylation Site:T27 Theme:T2
 M3	Negation E6
-E7	DNA_methylation Site:T29 Theme:T4
+E7	DNA_methylation Site:T29 Theme:T1
 M4	Speculation E7
-E8	DNA_methylation Site:T29 Theme:T6
+E8	DNA_methylation Site:T29 Theme:T2
 M5	Speculation E8

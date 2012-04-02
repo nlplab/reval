@@ -1,0 +1,18 @@
+T1	Protein	RelA
+T2	Protein	NFkappaB1
+T3	Protein	IkappaBalpha
+T5	Protein	NF-kappaB1
+T14	Entity	nuclear
+E1	Positive_regulation Theme:E2
+E2	Binding Theme:T1 Theme2:T2
+E3	Protein_catabolism Theme:T3
+E4	Positive_regulation Theme:E3
+E5	Regulation Theme:T1
+E6	Regulation Theme:T5
+E7	Negative_regulation Theme:E9
+E8	Negative_regulation Theme:E10
+E9	Localization Theme:T5 ToLoc:T14
+E10	Localization Theme:T1 ToLoc:T14
+M1	Negation E1
+M2	Negation E5
+M3	Negation E6

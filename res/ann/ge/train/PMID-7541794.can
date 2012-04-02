@@ -1,0 +1,44 @@
+T1	Protein	Syk
+T2	Protein	beta 1 integrin
+T3	Protein	p50
+T4	Protein	p65
+T5	Protein	interleukin (IL)-1 beta
+T6	Protein	IL-1 beta
+T7	Protein	paxillin
+T8	Protein	pp125FAK
+T19	Entity	nuclear
+T24	Entity	tyrosine
+E1	Positive_regulation Theme:T1
+E2	Binding Theme:T2
+E3	Positive_regulation Theme:E7
+E4	Positive_regulation Theme:E8
+E5	Positive_regulation Theme:E6
+E6	Localization Theme:T3 ToLoc:T19
+E7	Localization Theme:T4 ToLoc:T19
+E8	Positive_regulation Theme:T5
+E9	Negative_regulation Theme:E10
+E10	Positive_regulation Theme:T6
+E11	Phosphorylation Site:T24 Theme:T8
+E12	Phosphorylation Site:T24 Theme:T7
+E13	Phosphorylation Site:T24 Theme:T1
+E14	Positive_regulation Theme:E17
+E15	Positive_regulation Theme:E12
+E16	Positive_regulation Theme:E19
+E17	Positive_regulation Theme:E21
+E18	Positive_regulation Theme:E20
+E19	Phosphorylation Site:T24 Theme:T7
+E20	Phosphorylation Site:T24 Theme:T8
+E21	Phosphorylation Site:T24 Theme:T1
+E22	Negative_regulation Theme:E27
+E23	Negative_regulation Theme:E25
+E24	Negative_regulation Theme:E26
+E25	Phosphorylation Site:T24 Theme:T7
+E26	Phosphorylation Site:T24 Theme:T8
+E27	Phosphorylation Site:T24 Theme:T1
+E28	Positive_regulation Theme:T6
+E29	Regulation Theme:E28
+M1	Speculation E1
+M2	Negation E16
+M3	Negation E18
+M4	Negation E22
+M5	Negation E29

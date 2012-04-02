@@ -1,0 +1,19 @@
+T1	Protein	vicK
+T2	Organism	S. equi
+T5	Organism	DeltavicK
+T8	Organism	DeltavicK mutant
+T10	Organism	spy1718::aad mutant
+T11	Protein	spy1718
+T12	Protein	aad
+T16	Organism	S. pyogenes
+T18	Organism	spy1718::aad
+E1	Regulation Theme:E2
+M1	Negation E1
+E2	Process Participant:T2
+E3	Regulation Theme:E4
+M2	Speculation E3
+E4	Process Participant:T2
+E5	Process Participant:T10
+M3	Negation E5
+E6	Process
+E7	Process Participant:T2

@@ -1,0 +1,14 @@
+T1	Protein	4E-BP1
+T2	Protein	4E-BP2
+T5	Protein	IFN-gamma
+E1	Regulation Theme:T1
+E2	Regulation Theme:T2
+E3	Regulation Theme:T2
+E4	Regulation Theme:T1
+E5	Positive_regulation Theme:E6
+E6	Positive_regulation Theme:T1
+E7	Negative_regulation Theme:T1
+E8	Regulation Theme:E9
+E9	Phosphorylation Theme:T1
+E10	Positive_regulation Theme:T2
+M1	Negation E8

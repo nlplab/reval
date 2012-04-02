@@ -31,7 +31,7 @@ T64	Protein	motB
 T65	Organism	cheB2 mutant strain
 T68	Organism	S. marcescens
 *	Equiv T62 T63
-*	Equiv T65
+*	Equiv T11 T65
 E1	Process
 E2	Process
 E3	Process

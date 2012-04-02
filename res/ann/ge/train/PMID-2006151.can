@@ -1,0 +1,9 @@
+T1	Protein	tax
+T2	Protein	interleukin 2 receptor alpha-chain
+T3	Protein	beta-interferon
+E1	Transcription Theme:T3
+E2	Transcription Theme:T2
+E3	Positive_regulation Theme:T3
+E4	Positive_regulation Theme:T2
+M1	Negation E3
+M2	Negation E4

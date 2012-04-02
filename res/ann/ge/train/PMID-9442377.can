@@ -1,0 +1,33 @@
+T1	Protein	ICAM-1
+T2	Protein	intercellular adhesion molecule-1
+T5	Protein	tumor necrosis factor alpha
+T6	Protein	TNF-alpha
+T8	Protein	RelA
+T9	Protein	c-Rel
+T10	Protein	NF-kappa B1
+T22	Protein	glucocorticoid receptor
+*	Equiv T1 T2
+*	Equiv T5 T6
+T30	Entity	promoter
+T31	Entity	kappa B-site
+E1	Regulation Site:T30 Theme:T2
+E2	Regulation CSite:T31 Cause:T2 Theme:E4
+E3	Regulation CSite:T31 Cause:T2 Theme:E5
+E4	Regulation Cause:T5 Theme:E6
+E5	Regulation Theme:E6
+E6	Gene_expression Theme:T2
+E7	Binding Theme:T10
+E8	Binding Theme:T10
+E9	Binding Theme:T8
+E10	Binding Theme:T9
+E11	Negative_regulation Cause:T22 Theme:T8
+E12	Negative_regulation Cause:T22 Theme:T10
+E13	Negative_regulation Cause:T22 Theme:T8
+E14	Regulation Cause:T8 Theme:E15
+E15	Positive_regulation Cause:T5 Theme:E16
+E16	Transcription Theme:T2
+M1	Speculation E7
+M2	Speculation E8
+M3	Speculation E9
+M4	Speculation E10
+M5	Speculation E14

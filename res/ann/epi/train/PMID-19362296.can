@@ -5,10 +5,10 @@ T4	Protein	iNOS
 T6	Protein	ubiquitin
 T9	Protein	COOH terminus of heat shock protein 70-interacting protein
 *	Equiv T3 T4
-*	Equiv T9
-E1	Catalysis Cause:T1 Theme:E2
+*	Equiv T1 T9
+E1	Catalysis Cause:T9 Theme:E2
 E2	Ubiquitination Theme:T2
 E3	Ubiquitination Theme:T4
-E4	Catalysis Cause:T1 Theme:E3
-E5	Catalysis Cause:T1 Theme:E6
+E4	Catalysis Cause:T9 Theme:E3
+E5	Catalysis Cause:T9 Theme:E6
 E6	Ubiquitination Theme:T4

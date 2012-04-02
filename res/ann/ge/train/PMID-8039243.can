@@ -1,0 +1,19 @@
+T1	Protein	IL-2
+T2	Protein	c-Rel
+T3	Protein	p65
+T4	Protein	RelA
+T5	Protein	p50
+T6	Protein	NF-kappa B1
+*	Equiv T3 T4
+*	Equiv T5 T6
+T12	Entity	nucleus
+E1	Localization Theme:T1
+E2	Positive_regulation Theme:E6
+E3	Positive_regulation Theme:E8
+E4	Positive_regulation Theme:E9
+E5	Positive_regulation Theme:E7
+E6	Localization AtLoc:T12 Theme:T5
+E7	Localization AtLoc:T12 Theme:T3
+E8	Positive_regulation Theme:T2
+E9	Localization AtLoc:T12 Theme:T2
+E10	Localization Theme:T1

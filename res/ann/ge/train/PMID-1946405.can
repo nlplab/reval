@@ -1,0 +1,9 @@
+T1	Protein	NF-E1
+T2	Protein	YY-1
+T3	Protein	delta
+*	Equiv T1 T2 T3
+E1	Binding Theme:T3
+E2	Binding Theme:T3
+E3	Binding Theme:T3
+E4	Binding Theme:T3
+E5	Binding Theme:T3

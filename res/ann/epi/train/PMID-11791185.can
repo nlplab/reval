@@ -7,7 +7,7 @@ T10	Protein	SETDB1
 T11	Protein	SET domain, bifurcated 1
 T17	Protein	histone
 T19	Protein	histones
-*	Equiv T8
+*	Equiv T1 T8
 *	Equiv T10 T11
 E1	Methylation Theme:T17
 E2	Catalysis Cause:T1 Theme:E3

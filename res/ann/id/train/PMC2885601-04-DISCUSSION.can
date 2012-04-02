@@ -1,0 +1,55 @@
+T1	Protein	SeMac
+T2	Protein	cysteine endopeptidase
+T3	Organism	horse
+T4	Protein	IgG
+T5	Organism	S. equi
+T8	Organism	human
+T11	Organism	GAS
+T12	Protein	Mac
+T26	Protein	IgG1
+T28	Protein	IgG4
+T33	Protein	IgG3
+T59	Protein	IdeE
+T61	Organism	equine
+T66	Protein	mac
+T67	Two-component-system	CovRS
+T68	Protein	CovR
+T69	Protein	S
+T71	Protein	semac
+E1	Protein_catabolism Theme:T4
+E2	Positive_regulation Cause:T1 Theme:E1
+E3	Protein_catabolism Theme:T4
+E4	Positive_regulation Cause:T1 Theme:E3
+E5	Positive_regulation Cause:T12 Theme:E3
+E6	Protein_catabolism Theme:T4
+E7	Positive_regulation Cause:T1 Theme:E6
+M1	Negation E7
+E8	Positive_regulation Cause:T12 Theme:E6
+M2	Negation E8
+E9	Protein_catabolism Theme:T26
+E10	Protein_catabolism Theme:T28
+E11	Positive_regulation Cause:T1 Theme:E9
+E12	Positive_regulation Cause:T12 Theme:E9
+E13	Positive_regulation Cause:T1 Theme:E10
+M3	Negation E13
+E14	Positive_regulation Cause:T12 Theme:E10
+M4	Negation E14
+E15	Protein_catabolism Theme:T33
+M5	Speculation E15
+E16	Positive_regulation Cause:T1 Theme:E15
+M6	Speculation E16
+E17	Protein_catabolism Theme:T4
+M7	Negation E17
+M8	Speculation E17
+E18	Protein_catabolism Theme:T4
+E19	Positive_regulation Cause:T1 Theme:E18
+M9	Negation E19
+E20	Protein_catabolism Theme:T4
+E21	Positive_regulation Cause:T1 Theme:E20
+E22	Gene_expression Theme:T1
+M10	Negation E22
+E23	Gene_expression Theme:T12
+E24	Regulation Cause:T67 Theme:T66
+E25	Process
+E26	Regulation Theme:T71
+E27	Regulation Theme:T66

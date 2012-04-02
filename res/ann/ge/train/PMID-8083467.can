@@ -1,0 +1,48 @@
+T1	Protein	interleukin-4
+T2	Protein	interleukin-5
+T3	Protein	interleukin (IL)-2
+T4	Protein	IL-3
+T5	Protein	IL-4
+T6	Protein	IL-10
+T7	Protein	granulocyte-macrophage colony-stimulating factor
+T8	Protein	IL-5
+T11	Protein	IL-2
+T17	Protein	P65
+T19	Protein	P50
+T34	Entity	promoter
+T43	Entity	P sequence
+E1	Regulation Theme:E4
+E2	Regulation Theme:E3
+E3	Gene_expression Theme:T2
+E4	Gene_expression Theme:T1
+E5	Gene_expression Theme:T3
+E6	Gene_expression Theme:T4
+E7	Gene_expression Theme:T6
+E8	Gene_expression Theme:T7
+E9	Gene_expression Theme:T5
+E10	Positive_regulation Theme:E6
+E11	Positive_regulation Theme:E8
+E12	Positive_regulation Theme:E5
+E13	Positive_regulation Theme:E7
+E14	Positive_regulation Theme:E9
+E15	Gene_expression Theme:T8
+E16	Positive_regulation Theme:E15
+E17	Positive_regulation Theme:E18
+E18	Positive_regulation Theme:E19
+E19	Gene_expression Theme:T8
+E20	Positive_regulation Theme:E21
+E21	Positive_regulation Site:T34 Theme:T8
+E22	Negative_regulation Theme:E24
+E23	Negative_regulation Theme:E25
+E24	Positive_regulation Theme:T11
+E25	Positive_regulation Site:T34 Theme:T11
+E26	Positive_regulation Theme:T8
+E27	Negative_regulation Theme:T11
+E28	Regulation Theme:E29
+E29	Regulation Site:T34 Theme:T8
+E30	Regulation Site:T43 Theme:T5
+E31	Binding Theme:T17
+E32	Binding Theme:T19
+E33	Binding Theme:T17
+E34	Regulation Theme:T8
+E35	Regulation Theme:T5

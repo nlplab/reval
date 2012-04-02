@@ -1,0 +1,16 @@
+T1	Protein	WT1
+E1	Negative_regulation Theme:T1
+E2	Positive_regulation Theme:E3
+E3	Gene_expression Theme:T1
+E4	Negative_regulation Theme:T1
+E5	Gene_expression Theme:T1
+E6	Positive_regulation Theme:E5
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T1
+E9	Gene_expression Theme:T1
+E10	Positive_regulation Theme:E9
+E11	Gene_expression Theme:T1
+E12	Negative_regulation Theme:E11
+E13	Positive_regulation Theme:E14
+E14	Gene_expression Theme:T1
+E15	Negative_regulation Theme:T1

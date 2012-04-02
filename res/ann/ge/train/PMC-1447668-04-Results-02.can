@@ -1,0 +1,39 @@
+T1	Protein	Foxp3
+T6	Protein	DeltaFKH mutant
+T12	Protein	DeltaFKH
+T18	Protein	CD4
+T19	Protein	p65
+T28	Entity	FKH domain
+T30	Entity	nucleus
+T35	Entity	nuclear
+E1	Negative_regulation Site:T28 Theme:T1
+E2	Localization Theme:T1 ToLoc:T30
+E3	Binding Theme:T1
+E4	Localization Theme:T6 ToLoc:T30
+E5	Binding Theme:T6
+E6	Localization Theme:T1 ToLoc:T35
+E7	Binding Theme:T1
+E8	Binding Theme:T1
+E9	Negative_regulation Cause:E8 Theme:E10
+E10	Localization Theme:T1 ToLoc:T30
+E11	Positive_regulation Theme:E10
+E12	Positive_regulation Theme:T1
+E13	Positive_regulation Theme:T12
+E14	Positive_regulation Theme:T1
+E15	Positive_regulation Theme:T12
+E16	Positive_regulation Theme:E14
+E17	Positive_regulation Theme:E15
+E18	Gene_expression Theme:T19
+E19	Negative_regulation Cause:T1 Theme:E20
+E21	Negative_regulation Cause:T12 Theme:E20
+E20	Gene_expression Theme:T19
+E22	Localization Theme:T1 ToLoc:T35
+E23	Localization Theme:T12
+M1	Negation E4
+M2	Negation E5
+M3	Speculation E8
+M4	Speculation E9
+M5	Speculation E18
+M6	Negation E19
+M7	Negation E21
+M8	Speculation E23

@@ -1,0 +1,17 @@
+T1	Protein	IL-3
+T2	Protein	interleukin-3
+T4	Protein	phytohemaglutinin
+T5	Protein	PHA
+T10	Protein	CK-1
+T11	Protein	CK-2
+*	Equiv T1 T2
+*	Equiv T4 T5
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T2
+E3	Regulation Theme:E2
+E4	Regulation Theme:E5
+E5	Transcription Theme:T2
+E6	Positive_regulation Theme:E7
+E7	Transcription Theme:T2
+E8	Positive_regulation Cause:T2 Theme:E6
+M1	Speculation E8

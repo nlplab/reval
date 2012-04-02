@@ -1,0 +1,34 @@
+T1	Protein	Runx3
+T3	Protein	Eomes
+T4	Protein	T-bet
+T5	Protein	perforin
+T8	Protein	CD8
+T9	Protein	beta-Actin
+T10	Protein	Prf1
+T15	Protein	granzyme B
+T16	Protein	IFN-gamma
+T17	Protein	TNF
+T18	Protein	IL-2
+T23	Protein	GFP
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T3
+E3	Gene_expression Theme:T4
+E4	Gene_expression Theme:T5
+E5	Transcription Theme:T10
+E6	Gene_expression Theme:T15
+E7	Gene_expression Theme:T16
+E8	Gene_expression Theme:T17
+E9	Gene_expression Theme:T18
+E10	Binding Theme:T1 Theme2:T10
+E11	Binding Theme:T3 Theme2:T10
+M1	Speculation E1
+M2	Speculation E2
+M3	Speculation E3
+M4	Speculation E4
+M5	Speculation E5
+M6	Speculation E6
+M7	Speculation E7
+M8	Speculation E8
+M9	Speculation E9
+M10	Speculation E10
+M11	Speculation E11

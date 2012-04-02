@@ -1,0 +1,8 @@
+T1	Protein	interleukin-2
+T2	Protein	Interleukin-2
+T3	Protein	IL-2
+T5	Protein	phytohemagglutinin
+*	Equiv T2 T3
+E1	Regulation Theme:E2
+E2	Transcription Theme:T1
+E3	Regulation Theme:T2

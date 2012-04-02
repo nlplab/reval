@@ -1,0 +1,44 @@
+T1	Protein	Interleukin-10
+T2	Protein	inhibitory kappaB-alpha
+T4	Protein	IL-10
+T5	Protein	tumor necrosis factor-alpha
+T6	Protein	TNF-alpha
+T9	Protein	IkappaB-alpha
+*	Equiv T1 T4
+*	Equiv T2 T9
+*	Equiv T5 T6
+E1	Positive_regulation Cause:T1 Theme:T2
+E2	Negative_regulation Theme:E3
+E3	Gene_expression Theme:T5
+E4	Protein_catabolism Theme:T2
+E5	Binding Theme:T2
+E6	Negative_regulation Cause:E9 Theme:E7
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T5
+E9	Positive_regulation Cause:T1 Theme:T2
+E10	Regulation Cause:T1 Theme:E15
+E11	Regulation Cause:T1 Theme:E14
+E12	Positive_regulation Theme:E15
+E13	Positive_regulation Theme:E14
+E14	Gene_expression Theme:T5
+E15	Protein_catabolism Theme:T2
+E16	Regulation Theme:E18
+E17	Regulation Theme:T5
+E18	Gene_expression Theme:T2
+E19	Positive_regulation Theme:T5
+E20	Negative_regulation Cause:T1 Theme:E21
+E21	Positive_regulation Theme:E22
+E22	Gene_expression Theme:T5
+E23	Negative_regulation Theme:T2
+E24	Negative_regulation Theme:E25
+E25	Negative_regulation Theme:T2
+E26	Positive_regulation Cause:T1 Theme:T2
+E27	Negative_regulation Theme:E28
+E28	Localization Theme:T5
+M1	Speculation E6
+M2	Speculation E9
+M3	Speculation E10
+M4	Speculation E11
+M5	Speculation E16
+M6	Speculation E17
+M7	Speculation E18

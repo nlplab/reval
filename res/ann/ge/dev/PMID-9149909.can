@@ -1,0 +1,22 @@
+T1	Protein	tumor necrosis factor alpha
+T3	Protein	TNF-alpha
+*	Equiv T1 T3
+E1	Regulation Theme:E2
+E2	Localization Theme:T1
+E3	Positive_regulation Theme:E4
+E4	Localization Theme:T1
+E5	Positive_regulation Theme:E6
+E6	Localization Theme:T1
+E7	Localization Theme:T1
+E8	Positive_regulation Theme:E7
+E9	Positive_regulation Cause:E10 Theme:E7
+E10	Positive_regulation Theme:T1
+E11	Localization Theme:T1
+E12	Localization Theme:T1
+E13	Localization Theme:T1
+E14	Positive_regulation Theme:E13
+E15	Localization Theme:T1
+E16	Localization Theme:T1
+E17	Positive_regulation Theme:E18
+E18	Localization Theme:T1
+M1	Negation E5

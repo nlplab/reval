@@ -2,4 +2,4 @@ T1	Protein	DNA methyltransferase 1
 T3	Protein	Dnmt1
 T5	Protein	Dnmt3a
 T6	Protein	Dnmt2
-*	Equiv T3
+*	Equiv T1 T3

@@ -1,5 +1,5 @@
 T1	Protein	alpha2-macroglobulin
 T3	Protein	alpha2-M
-*	Equiv T3
+*	Equiv T1 T3
 E1	Glycosylation Theme:T1
-E2	Glycosylation Theme:T3
+E2	Glycosylation Theme:T1

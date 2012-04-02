@@ -1,0 +1,31 @@
+T1	Protein	CD4
+T2	Protein	CD25
+T3	Protein	Foxp3
+T10	Protein	Tax
+T17	Protein	IL-2
+T29	Entity	leucine zipper
+T32	Entity	carboxyl-terminal forkhead (FKH) domain
+T34	Entity	nuclear
+T39	Entity	coding region
+T45	Entity	promoter
+E1	Gene_expression Theme:T3
+E2	Positive_regulation CSite:T29 Cause:T3 Theme:E3
+E3	Binding Theme:T3
+E4	Positive_regulation CSite:T32 Cause:T3 Theme:E5
+E6	Positive_regulation CSite:T32 Cause:T3 Theme:E7
+E5	Localization Theme:T3 ToLoc:T34
+E7	Binding Theme:T3
+E8	Negative_regulation Cause:E9 Theme:T3
+E9	Regulation Site:T39 Theme:T3
+E10	Negative_regulation Cause:T10 Theme:E11
+E11	Gene_expression Theme:T3
+E12	Negative_regulation Cause:E14 Theme:E13
+E13	Positive_regulation Site:T45 Theme:T17
+E14	Binding Theme:T3
+E15	Binding Theme:T3
+E16	Binding Theme:T3
+E17	Binding Theme:T3
+E18	Positive_regulation Theme:E19
+E19	Binding Theme:T3
+M1	Speculation E12
+M2	Speculation E18

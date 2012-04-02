@@ -1,0 +1,30 @@
+T1	Protein	Jak3
+T2	Protein	CD40
+T9	Protein	STAT3
+T14	Protein	CD23
+T15	Protein	ICAM-1
+T16	Protein	lymphotoxin-alpha
+T23	Entity	tyrosine
+T28	Entity	proline-rich sequence
+E1	Binding Theme:T1 Theme2:T2
+E2	Binding Theme:T2
+E3	Positive_regulation Cause:T2 Theme:E7
+E4	Positive_regulation Cause:T2 Theme:E10
+E5	Positive_regulation Cause:T2 Theme:E8
+E6	Positive_regulation Cause:T2 Theme:E9
+E7	Phosphorylation Site:T23 Theme:T1
+E8	Phosphorylation Site:T23 Theme:T9
+E9	Positive_regulation Cause:E7 Theme:T1
+E10	Positive_regulation Cause:E8 Theme:T9
+E11	Binding Theme:T1 Theme2:T2
+E12	Positive_regulation CSite:T28 Cause:T2 Theme:E11
+E13	Negative_regulation Theme:E16
+E14	Negative_regulation Theme:E17
+E15	Negative_regulation Theme:E18
+E16	Positive_regulation Cause:T2 Theme:E20
+E17	Positive_regulation Cause:T2 Theme:E19
+E18	Positive_regulation Cause:T2 Theme:E21
+E19	Gene_expression Theme:T16
+E20	Gene_expression Theme:T15
+E21	Gene_expression Theme:T14
+E22	Regulation Theme:E20

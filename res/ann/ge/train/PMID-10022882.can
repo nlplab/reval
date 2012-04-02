@@ -1,0 +1,13 @@
+T1	Protein	interleukin-1beta
+T2	Protein	5-lipoxygenase
+T4	Protein	5-LOX
+T7	Protein	FLAP
+T9	Protein	IL-1beta
+T18	Protein	Rac1
+T19	Protein	Cdc42
+*	Equiv T1 T9
+*	Equiv T2 T4
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T7
+M1	Negation E1
+M2	Negation E2

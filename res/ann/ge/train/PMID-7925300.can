@@ -1,0 +1,31 @@
+T1	Protein	TNF-alpha
+T2	Protein	p50
+T3	Protein	p65
+T4	Protein	c-rel
+T5	Protein	I kappa B alpha
+T8	Protein	p100
+T9	Protein	p105
+T19	Entity	nuclear
+E1	Positive_regulation Cause:T1 Theme:E4
+E2	Positive_regulation Cause:T1 Theme:E6
+E3	Positive_regulation Cause:T1 Theme:E5
+E4	Localization Theme:T2 ToLoc:T19
+E5	Localization Theme:T4 ToLoc:T19
+E6	Localization Theme:T3 ToLoc:T19
+E7	Phosphorylation Theme:T5
+E8	Phosphorylation Theme:T5
+E9	Phosphorylation Theme:T3
+E10	Protein_catabolism Theme:T5
+E11	Phosphorylation Theme:T5
+E12	Phosphorylation Theme:T9
+E13	Negative_regulation Cause:E12 Theme:E16
+E14	Negative_regulation Cause:E11 Theme:E15
+E15	Binding Theme:T5
+E16	Binding Theme:T9
+E17	Phosphorylation Theme:T3
+E18	Phosphorylation Theme:T4
+E19	Positive_regulation Theme:T4
+E20	Positive_regulation Theme:T3
+E21	Binding Theme:T3
+E22	Positive_regulation Theme:E21
+M1	Negation E3

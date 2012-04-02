@@ -1,0 +1,60 @@
+T1	Protein	tissue factor
+T2	Protein	Sp1
+T3	Protein	Tissue factor
+T4	Protein	TF
+T7	Protein	c-Rel
+T8	Protein	p65
+T9	Protein	Egr-1
+T14	Protein	c-Fos
+T15	Protein	c-Jun
+*	Equiv T3 T4
+T43	Entity	promoter
+E1	Regulation Theme:T1
+E2	Gene_expression Theme:T3
+E3	Positive_regulation Theme:E4
+E4	Transcription Theme:T3
+E5	Binding Theme:T2
+E6	Regulation Cause:T7 Theme:E17
+E7	Regulation Cause:T7 Theme:E16
+E8	Regulation Cause:T8 Theme:E16
+E9	Regulation Cause:T8 Theme:E17
+E10	Regulation Theme:E16
+E11	Regulation Cause:T9 Theme:E17
+E12	Regulation Cause:T9 Theme:E16
+E13	Regulation Theme:E17
+E14	Regulation Cause:T2 Theme:E16
+E15	Regulation Cause:T2 Theme:E17
+E16	Positive_regulation Theme:E17
+E17	Gene_expression Theme:T3
+E18	Positive_regulation Theme:E19
+E19	Gene_expression Theme:T3
+E20	Binding Theme:T14
+E21	Binding Theme:T15
+E22	Positive_regulation Site:T43 Theme:T3
+E23	Positive_regulation Theme:E22
+E24	Negative_regulation Theme:E25
+E25	Positive_regulation Site:T43 Theme:T3
+E26	Positive_regulation Theme:E27
+E27	Positive_regulation Site:T43 Theme:T3
+E28	Gene_expression Theme:T14
+E29	Gene_expression Theme:T8
+E30	Gene_expression Theme:T7
+E31	Gene_expression Theme:T15
+E32	Gene_expression Theme:T15
+E33	Gene_expression Theme:T8
+E34	Regulation Cause:T15 Theme:E39
+E35	Regulation Cause:T8 Theme:E39
+E36	Regulation Cause:T14 Theme:E39
+E37	Regulation Cause:T2 Theme:E39
+E38	Regulation Cause:T7 Theme:E39
+E39	Gene_expression Theme:T3
+M1	Speculation E6
+M2	Speculation E7
+M3	Speculation E8
+M4	Speculation E9
+M5	Speculation E10
+M6	Speculation E11
+M7	Speculation E12
+M8	Speculation E13
+M9	Speculation E14
+M10	Speculation E15

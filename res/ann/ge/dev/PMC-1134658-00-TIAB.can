@@ -1,0 +1,42 @@
+T1	Protein	BMP-6
+T2	Protein	Id1
+T3	Protein	TGF-beta
+T7	Protein	Smad1
+T8	Protein	5
+T9	Protein	8
+T10	Protein	Smad
+T13	Protein	Id2
+T14	Protein	Id3
+T16	Protein	CD19
+T17	Protein	CD27
+T20	Protein	CD40L
+T23	Protein	noggin
+E1	Positive_regulation Theme:T2
+E2	Positive_regulation Cause:T1 Theme:E3
+E4	Positive_regulation Cause:T1 Theme:E5
+E6	Positive_regulation Cause:T1 Theme:E7
+E3	Phosphorylation Theme:T7
+E5	Phosphorylation Theme:T8
+E7	Phosphorylation Theme:T9
+E8	Phosphorylation Theme:T10
+E9	Positive_regulation Cause:E8 Theme:E10
+E11	Positive_regulation Cause:E8 Theme:E12
+E10	Positive_regulation Theme:T2
+E12	Positive_regulation Theme:T2
+E13	Gene_expression Theme:T13
+E14	Gene_expression Theme:T14
+E15	Regulation Cause:E8 Theme:E13
+E16	Regulation Cause:E8 Theme:E14
+E17	Positive_regulation Theme:T1
+E18	Positive_regulation Cause:T1 Theme:E19
+E20	Positive_regulation Cause:T1 Theme:E21
+E22	Positive_regulation Cause:T1 Theme:E23
+E19	Phosphorylation Theme:T7
+E21	Phosphorylation Theme:T8
+E23	Phosphorylation Theme:T9
+E24	Positive_regulation Cause:E19 Theme:E25
+E26	Positive_regulation Cause:E21 Theme:E25
+E27	Positive_regulation Cause:E23 Theme:E25
+E25	Positive_regulation Theme:T2
+M1	Negation E15
+M2	Negation E16

@@ -1,0 +1,13 @@
+T1	Protein	ferritin H-chain
+T2	Protein	ferritin H
+T4	Entity	promoter
+E1	Regulation Site:T4 Theme:T1
+E2	Positive_regulation Theme:E4
+E3	Positive_regulation Theme:T1
+E4	Binding Theme:T1
+E5	Negative_regulation Theme:E6
+E6	Binding Theme:T1
+E7	Negative_regulation Theme:E8
+E8	Positive_regulation Theme:T1
+E9	Positive_regulation Theme:E8
+M1	Speculation E1

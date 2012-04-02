@@ -3,13 +3,13 @@ T2	Protein	estrogen receptor-alpha
 T4	Protein	ERalpha
 T13	Protein	histone
 T18	Protein	histone 3
-*	Equiv T4
+*	Equiv T2 T4
 T34	Entity	promoter
 T35	Entity	CpG island
 T37	Entity	lysine 9
-E1	DNA_methylation Site:T34 Theme:T4
+E1	DNA_methylation Site:T34 Theme:T2
 M1	Speculation E1
-E2	Acetylation Contextgene:T4 Theme:T13
+E2	Acetylation Contextgene:T2 Theme:T13
 M2	Speculation E2
-E3	DNA_methylation Site:T35 Theme:T4
-E4	Deacetylation Contextgene:T4 Site:T37 Theme:T18
+E3	DNA_methylation Site:T35 Theme:T2
+E4	Deacetylation Contextgene:T2 Site:T37 Theme:T18

@@ -1,0 +1,36 @@
+T1	Protein	interleukin 2
+T2	Protein	IL-2
+T3	Protein	c-Raf
+T6	Protein	(IL-2
+T12	Protein	GABP alpha
+T13	Protein	-beta
+T16	Protein	BXB
+*	Equiv T1 T1 T2 T6
+T21	Entity	enhancer
+T29	Entity	promoter-enhancer
+E1	Binding Site:T21 Theme:T1
+E2	Regulation Theme:E3
+E3	Positive_regulation Cause:T3 Theme:E4
+E4	Positive_regulation Theme:T1
+E5	Regulation Theme:E6
+E6	Positive_regulation Theme:T1
+E7	Positive_regulation Theme:T1
+E8	Positive_regulation Site:T29 Theme:T1
+E9	Positive_regulation Site:T29 Theme:T1
+E10	Positive_regulation Site:T29 Theme:T1
+E11	Binding Theme:T13
+E12	Binding Theme:T12
+E13	Negative_regulation Theme:E14
+E14	Positive_regulation Site:T29 Theme:T1
+E15	Positive_regulation Theme:E16
+E16	Gene_expression Theme:T13
+E17	Gene_expression Theme:T12
+E18	Positive_regulation Theme:E17
+E19	Positive_regulation Cause:E18 Theme:E20
+E20	Positive_regulation Site:T29 Theme:T1
+E21	Gene_expression Theme:T16
+E22	Positive_regulation Theme:E21
+E23	Regulation Theme:E24
+E24	Positive_regulation Theme:E25
+E25	Positive_regulation Theme:T1
+M1	Negation E10

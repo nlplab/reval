@@ -1,0 +1,17 @@
+T1	Protein	ETS1
+T2	Protein	GM-CSF
+T3	Protein	Granulocyte-macrophage colony stimulating factor
+*	Equiv T2 T3
+T15	Entity	promoter
+T20	Entity	Cis-acting elements
+E1	Positive_regulation Cause:T1 Site:T15 Theme:T3
+E2	Positive_regulation Cause:E4 Theme:E3
+E3	Gene_expression Theme:T3
+E4	Positive_regulation Theme:E5
+E5	Transcription Theme:T3
+E6	Positive_regulation CSite:T20 Cause:T3 Theme:E8
+E7	Transcription Theme:T3
+E8	Positive_regulation Theme:E7
+E9	Gene_expression Theme:T1
+E10	Positive_regulation Cause:T1 Theme:T3
+E11	Gene_expression Theme:T1

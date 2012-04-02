@@ -3,4 +3,4 @@ T2	Protein	ubiquitin
 T3	Protein	Ub
 T5	Protein	Cdc20
 *	Equiv T2 T3
-*	Equiv T5
+*	Equiv T1 T5

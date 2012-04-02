@@ -1,0 +1,18 @@
+T1	Protein	tumor necrosis factor-alpha
+T2	Protein	TNF-alpha
+T5	Protein	p50
+T6	Protein	p65
+T7	Protein	IkappaB-alpha
+*	Equiv T1 T2
+E1	Regulation Cause:T1 Theme:E7
+E2	Regulation Theme:E9
+E3	Regulation Cause:T1 Theme:E9
+E4	Regulation Theme:E7
+E5	Regulation Cause:T1 Theme:E8
+E6	Regulation Theme:E8
+E7	Regulation Theme:T6
+E8	Regulation Theme:T7
+E9	Regulation Theme:T5
+M1	Negation E2
+M2	Negation E4
+M3	Negation E6

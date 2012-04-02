@@ -1,0 +1,27 @@
+T1	Protein	CD19
+T7	Protein	Elk-1
+T14	Protein	JunD
+T15	Protein	c-Fos
+T25	Entity	tyrosine
+E1	Binding Theme:T1
+E2	Gene_expression Theme:T1
+E3	Binding Theme:T1
+E4	Binding Theme:T1
+E5	Positive_regulation Cause:E4 Theme:E7
+E6	Positive_regulation Cause:E4 Theme:E8
+E7	Binding Theme:T1
+E8	Phosphorylation Site:T25 Theme:T1
+E9	Phosphorylation Theme:T7
+E10	Positive_regulation Cause:E11 Theme:E9
+E11	Binding Theme:T1
+E12	Binding Theme:T1
+E13	Positive_regulation Cause:E12 Theme:E14
+E14	Phosphorylation Theme:T7
+E15	Phosphorylation Theme:T7
+E16	Positive_regulation Cause:E17 Theme:E15
+E17	Binding Theme:T1
+E18	Binding Theme:T1
+E19	Binding Theme:T1
+M1	Speculation E9
+M2	Speculation E10
+M3	Negation E16

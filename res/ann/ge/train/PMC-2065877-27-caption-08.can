@@ -1,0 +1,11 @@
+T1	Protein	Akt
+T2	Protein	Stat3
+T3	Protein	LMP1
+T5	Protein	mTOR
+T7	Protein	MEK1
+T8	Protein	2
+E1	Negative_regulation Theme:T5
+E2	Negative_regulation Theme:T1
+E3	Negative_regulation Theme:T7
+E4	Negative_regulation Theme:T8
+E5	Negative_regulation Theme:T2

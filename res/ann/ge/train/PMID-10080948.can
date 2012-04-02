@@ -1,0 +1,23 @@
+T1	Protein	TRAF2
+T2	Protein	CD40
+T18	Entity	cytoplasmic domain
+T22	Entity	serine residues
+E1	Phosphorylation Theme:T1
+E2	Negative_regulation Cause:E1 Theme:E3
+E3	Binding Theme:T1 Site2:T18 Theme2:T2
+E4	Binding Theme:T1 Site2:T18 Theme2:T2
+E5	Phosphorylation Site:T22 Theme:T1
+E6	Positive_regulation Cause:E7 Theme:E5
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T1
+E9	Phosphorylation Theme:T1
+E10	Regulation Cause:E9 Theme:E11
+E11	Binding Theme:T1 Theme2:T2
+E12	Binding Site:T18 Theme:T2 Theme2:T1
+E13	Phosphorylation Theme:T1
+E14	Negative_regulation Theme:E13
+E15	Positive_regulation Theme:E16
+E16	Binding Theme:T1 Theme2:T2
+E17	Phosphorylation Theme:T1
+E18	Regulation Cause:E17 Theme:E19
+E19	Binding Theme:T2 Theme2:T1

@@ -1,0 +1,13 @@
+T1	Protein	hLH-2
+T2	Protein	LH-2
+T5	Protein	BCR
+T6	Protein	ABL
+T8	Protein	c-ABL
+E1	Gene_expression Theme:T1
+E2	Positive_regulation Theme:E3
+E3	Gene_expression Theme:T1
+E4	Positive_regulation Theme:T1
+E5	Gene_expression Theme:T1
+E6	Gene_expression Theme:T1
+M1	Speculation E4
+M2	Negation E6

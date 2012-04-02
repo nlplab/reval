@@ -1,0 +1,71 @@
+T1	Protein	IL-12
+T2	Protein	IL-10
+T3	Protein	IFN-gamma
+T5	Protein	CD4
+T6	Protein	ovalbumin
+T7	Protein	OVA
+T10	Protein	IL-4
+T13	Protein	CD3
+T14	Protein	CD28
+T36	Protein	IL-2
+T43	Protein	recombination-activating gene 1
+T44	Protein	Rag1
+T47	Protein	TGF-beta
+*	Equiv T6 T7
+*	Equiv T43 T44
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T3
+E3	Gene_expression Theme:T2
+E4	Positive_regulation Theme:E5
+E6	Positive_regulation Theme:E7
+E5	Gene_expression Theme:T3
+E7	Gene_expression Theme:T2
+E8	Gene_expression Theme:T10
+E9	Gene_expression Theme:T2
+E10	Positive_regulation Cause:T1 Theme:E11
+E12	Positive_regulation Cause:T1 Theme:E13
+E11	Gene_expression Theme:T3
+E13	Gene_expression Theme:T2
+E14	Negative_regulation Theme:T2
+E15	Gene_expression Theme:T2
+E16	Positive_regulation Cause:E17 Theme:E14
+E17	Negative_regulation Theme:E18
+E18	Gene_expression Theme:T2
+E19	Positive_regulation Cause:T1 Theme:E20
+E21	Positive_regulation Cause:T1 Theme:E22
+E20	Gene_expression Theme:T3
+E22	Gene_expression Theme:T2
+E23	Positive_regulation Cause:T1 Theme:E24
+E24	Gene_expression Theme:T2
+E25	Gene_expression Theme:T2
+E26	Gene_expression Theme:T2
+E27	Positive_regulation Theme:E26
+E28	Gene_expression Theme:T2
+E29	Positive_regulation Cause:T1 Theme:E28
+E30	Gene_expression Theme:T2
+E31	Gene_expression Theme:T3
+E32	Negative_regulation Theme:E33
+E33	Gene_expression Theme:T36
+E34	Gene_expression Theme:T2
+E35	Gene_expression Theme:T2
+E36	Negative_regulation Theme:T36
+E37	Negative_regulation Theme:T43
+E38	Positive_regulation Cause:T1 Theme:E39
+E39	Gene_expression Theme:T2
+E40	Positive_regulation Theme:E39
+E41	Positive_regulation Cause:T47 Theme:T2
+E42	Negative_regulation Theme:T47
+E43	Positive_regulation Cause:E42 Theme:E44
+E44	Gene_expression Theme:T2
+E45	Gene_expression Theme:T2
+E46	Positive_regulation Cause:T1 Theme:E45
+E47	Positive_regulation Cause:T36 Theme:E45
+E48	Positive_regulation Cause:T47 Theme:E45
+M1	Negation E7
+M2	Speculation E16
+M3	Negation E23
+M4	Speculation E23
+M5	Negation E40
+M6	Speculation E41
+M7	Negation E47
+M8	Negation E48

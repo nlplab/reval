@@ -7,7 +7,7 @@ T10	Protein	Ub
 T20	Protein	Vascular endothelial growth factor
 T21	Protein	VEGF
 T26	Protein	p53
-*	Equiv T10
+*	Equiv T2 T10
 *	Equiv T20 T21
 E1	Catalysis Cause:T1 Theme:E2
 E2	Ubiquitination Theme:T3

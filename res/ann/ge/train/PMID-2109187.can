@@ -1,0 +1,13 @@
+T1	Protein	OTF2
+T2	Protein	octamer transcription factors 1
+T3	Protein	2
+T4	Protein	OTF1
+E1	Binding Theme:T4
+E2	Binding Theme:T1
+E3	Binding Theme:T4
+E4	Binding Theme:T1
+E5	Binding Theme:T4
+E6	Regulation Theme:E4
+E7	Regulation Theme:E5
+M1	Speculation E6
+M2	Speculation E7

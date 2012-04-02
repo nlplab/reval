@@ -1,0 +1,16 @@
+T1	Protein	tumor necrosis factor alpha
+T2	Protein	tumor necrosis factor (TNF) alpha
+T3	Protein	TNF
+T4	Protein	c-jun
+T6	Entity	promoter region
+T10	Entity	promoter
+E1	Regulation Site:T6 Theme:T1
+E2	Positive_regulation Site:T6 Theme:T2
+E3	Negative_regulation Site:T10 Theme:T3
+E4	Negative_regulation Theme:E6
+E5	Negative_regulation Site:T10 Theme:T3
+E6	Positive_regulation Site:T10 Theme:T3
+E7	Gene_expression Theme:T4
+E8	Positive_regulation Theme:E7
+E9	Positive_regulation Cause:E8 Site:T10 Theme:T3
+E10	Positive_regulation Site:T10 Theme:T3

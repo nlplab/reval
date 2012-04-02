@@ -1,0 +1,40 @@
+T1	Protein	erythropoietin
+T2	Protein	erythropoietin receptor
+T3	Protein	Epo-R
+T4	Protein	GATA-1
+T6	Protein	Epo
+T10	Protein	granulocyte-macrophage colony-stimulating factor
+T11	Protein	GM-CSF
+T16	Protein	alpha-globin
+T18	Protein	beta-globin
+T19	Protein	Globin chains (alpha
+T20	Protein	beta
+T21	Protein	gamma
+T26	Protein	interleukin-3
+T27	Protein	IL-3
+*	Equiv T2 T3
+*	Equiv T26 T27
+*	Equiv T10 T11
+E1	Regulation Cause:T4 Theme:T2
+E2	Gene_expression Theme:T4
+E3	Gene_expression Theme:T2
+E4	Gene_expression Theme:T4
+E5	Transcription Theme:T4
+E6	Binding Theme:T4
+E7	Transcription Theme:T2
+E8	Gene_expression Theme:T10
+E9	Gene_expression Theme:T16
+E10	Gene_expression Theme:T18
+E11	Gene_expression Theme:T20
+E12	Gene_expression Theme:T21
+E13	Gene_expression Theme:T19
+E14	Transcription Theme:T2
+E15	Transcription Theme:T4
+E16	Regulation Theme:E14
+E17	Regulation Theme:E15
+M1	Negation E8
+M2	Negation E11
+M3	Negation E12
+M4	Negation E13
+M5	Negation E16
+M6	Negation E17

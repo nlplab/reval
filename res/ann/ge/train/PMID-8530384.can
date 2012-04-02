@@ -1,0 +1,18 @@
+T1	Protein	BOB.1
+T2	Protein	OBF.1
+T3	Protein	Oct1
+T4	Protein	Oct2
+T21	Protein	GAL4
+*	Equiv T1 T1 T2 T2
+T27	Entity	NH2-terminal 126 amino acids
+T30	Entity	POU domains
+E1	Positive_regulation CSite:T27 Cause:T2 Theme:E4
+E2	Positive_regulation CSite:T27 Cause:T2 Theme:E3
+E3	Binding Theme:T2 Site2:T30 Theme2:T3
+E4	Binding Theme:T2 Site2:T30 Theme2:T4
+E5	Positive_regulation Theme:E4
+E6	Positive_regulation Theme:E3
+E7	Binding Theme:T2 Theme2:T3
+E8	Binding Theme:T2 Theme2:T4
+M1	Negation E5
+M2	Negation E6

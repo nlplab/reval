@@ -1,0 +1,66 @@
+T1	Protein	CD8
+T2	Protein	perforin
+T3	Protein	IFN-gamma
+T4	Protein	TNF
+T5	Protein	CD4
+T6	Protein	Eomesodermin
+T7	Protein	Eomes
+T8	Protein	T-bet
+T9	Protein	Tbx21
+T11	Protein	eomesodermin
+T13	Protein	IL-2Rbeta
+T21	Protein	Runx3
+T28	Protein	Il4
+T29	Protein	Ifng
+T43	Protein	Prf1
+T48	Protein	granzyme B
+T51	Protein	Gzmb
+*	Equiv T6 T7
+*	Equiv T8 T9
+T82	Entity	promoter regions
+E1	Gene_expression Theme:T3
+E2	Gene_expression Theme:T4
+E3	Negative_regulation Theme:T9
+E4	Negative_regulation Theme:T11
+E5	Negative_regulation Theme:T9
+E6	Negative_regulation Theme:T6
+E7	Binding Theme:T9
+E8	Binding Theme:T6
+E9	Transcription Theme:T21
+E10	Transcription Theme:T2
+E11	Gene_expression Theme:T21
+E12	Gene_expression Theme:T21
+E13	Positive_regulation Theme:E12
+E14	Regulation Cause:T21 Theme:T28
+E15	Regulation Cause:T21 Theme:T29
+E16	Negative_regulation Theme:T21
+E17	Positive_regulation Theme:T9
+E18	Positive_regulation Theme:T6
+E19	Positive_regulation Cause:T6 Theme:E20
+E20	Gene_expression Theme:T3
+E21	Positive_regulation Cause:T21 Theme:E22
+E23	Positive_regulation Cause:T21 Theme:E24
+E22	Gene_expression Theme:T6
+E24	Gene_expression Theme:T2
+E25	Binding Theme:T6 Theme2:T43
+E26	Binding Theme:T21 Theme2:T43
+E27	Gene_expression Theme:T2
+E28	Regulation Cause:E29 Theme:E27
+E29	Negative_regulation Theme:T9
+E30	Negative_regulation Theme:T21
+E31	Negative_regulation Cause:E30 Theme:E32
+E33	Negative_regulation Cause:E30 Theme:E34
+E32	Gene_expression Theme:T3
+E34	Gene_expression Theme:T48
+E35	Binding Theme:T21 Site2:T82 Theme2:T29
+E36	Binding Theme:T21 Site2:T82 Theme2:T51
+E37	Regulation Cause:T21 Theme:E38
+E38	Gene_expression Theme:T51
+E39	Positive_regulation Cause:T9 Theme:E40
+E41	Positive_regulation Cause:T6 Theme:E42
+E40	Transcription Theme:T29
+E42	Transcription Theme:T43
+M1	Negation E9
+M2	Negation E10
+M3	Negation E11
+M4	Negation E28

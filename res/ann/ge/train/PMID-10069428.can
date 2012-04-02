@@ -1,0 +1,28 @@
+T1	Protein	NFAT1
+T2	Protein	IL-4
+T5	Protein	IgE
+T9	Protein	NFAT2
+T20	Entity	proximal binding element P0
+E1	Negative_regulation Cause:E2 Theme:T1
+E2	Binding Theme:T1 Site2:T20 Theme2:T2
+E3	Positive_regulation Theme:E4
+E4	Transcription Theme:T2
+E5	Gene_expression Theme:T2
+E6	Positive_regulation Cause:E5 Theme:E7
+E7	Gene_expression Theme:T5
+E8	Positive_regulation Theme:E9
+E9	Gene_expression Theme:T2
+E10	Regulation Theme:T2
+E11	Regulation Cause:T9 Theme:E10
+E12	Regulation Cause:T1 Theme:E10
+E13	Negative_regulation Cause:T1 Theme:E14
+E14	Regulation Theme:T2
+E15	Binding Theme:T9
+E16	Binding Theme:T9
+E17	Positive_regulation Theme:E16
+E18	Positive_regulation Theme:E19
+E19	Gene_expression Theme:T5
+E20	Positive_regulation Theme:E21
+E21	Gene_expression Theme:T2
+M1	Negation E15
+M2	Negation E18

@@ -1,0 +1,28 @@
+T1	Protein	erythropoietin receptor
+T2	Protein	GATA-1
+T3	Protein	Sp1
+T4	Protein	Erythropoietin
+T5	Protein	Epo
+T6	Protein	EpoR
+T10	Protein	hEpoR
+*	Equiv T4 T5
+T37	Entity	promoter
+E1	Regulation Theme:E2
+E2	Transcription Theme:T1
+E3	Binding Theme:T4 Theme2:T6
+E4	Gene_expression Theme:T10
+E5	Binding Theme:T3
+E6	Positive_regulation Theme:T2
+E7	Positive_regulation Cause:E6 Site:T37 Theme:T10
+E8	Positive_regulation Theme:E9
+E9	Negative_regulation Site:T37 Theme:T10
+E10	Positive_regulation Site:T37 Theme:T10
+E11	Positive_regulation Cause:T2 Site:T37 Theme:T6
+E12	Gene_expression Theme:T10
+E13	Positive_regulation Cause:T2 Theme:E12
+E14	Transcription Theme:T10
+E15	Positive_regulation Theme:E14
+E16	Positive_regulation Theme:E12
+M1	Speculation E5
+M2	Negation E7
+M3	Negation E13

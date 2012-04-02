@@ -1,0 +1,59 @@
+T1	Protein	Latent membrane protein 1
+T2	Protein	LMP1
+T4	Protein	CD40
+T8	Protein	CD40 ligand
+T12	Protein	tumor necrosis factor
+T13	Protein	c-Jun
+T15	Protein	Akt
+T18	Protein	IL4
+T21	Protein	CD40L
+T23	Protein	TRAF6
+T24	Protein	TRAFs2
+T25	Protein	3
+T26	Protein	5
+T30	Protein	TRAFs 1
+T31	Protein	2
+T42	Protein	cRel
+T48	Protein	Stat6
+T50	Protein	Stat3
+T51	Protein	Rb
+*	Equiv T1 T2
+T65	Entity	membrane proximal
+T66	Entity	distal cytoplasmic regions
+T71	Entity	C-terminal activation regions 1
+T72	Entity	2 domains
+E1	Gene_expression Theme:T1
+E2	Binding Theme:T4 Theme2:T8
+E3	Gene_expression Theme:T8
+E4	Binding Theme:T1
+E5	Binding Theme:T1
+E6	Binding Theme:T4
+E7	Binding Theme:T4
+E8	Negative_regulation Theme:T4
+E9	Negative_regulation Theme:T21
+E10	Binding Site:T65 Theme:T4 Theme2:T23
+E11	Binding Site:T66 Theme:T4 Theme2:T24
+E12	Binding Site:T66 Theme:T4 Theme2:T25
+E13	Binding Site:T66 Theme:T4 Theme2:T26
+E14	Negative_regulation Theme:E15
+E15	Negative_regulation Theme:T4
+E16	Binding Site:T71 Theme:T1 Theme2:T30
+E17	Binding Site:T71 Theme:T1 Theme2:T31
+E18	Binding Site:T71 Theme:T1 Theme2:T25
+E19	Binding Site:T71 Theme:T1 Theme2:T26
+E20	Binding Site:T72 Theme:T1 Theme2:T23
+E21	Gene_expression Theme:T1
+E22	Positive_regulation Theme:E21
+E23	Gene_expression Theme:T1
+E24	Positive_regulation Theme:T15
+E25	Positive_regulation Theme:T42
+E26	Negative_regulation Theme:E27
+E27	Positive_regulation Theme:T48
+E28	Regulation Cause:T18 Theme:T48
+E29	Positive_regulation Theme:T50
+E30	Regulation Theme:T15
+E31	Regulation Theme:T50
+M1	Negation E30
+M2	Speculation E30
+M3	Negation E31
+M4	Speculation E31

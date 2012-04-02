@@ -5,10 +5,10 @@ T5	Protein	rit42
 T6	Protein	TDD5
 T7	Protein	Ndr1
 T8	Protein	N-myc
-*	Equiv T3 T4 T5 T6 T7
-E1	Phosphorylation Theme:T1
-E2	Phosphorylation Theme:T1
-E3	Phosphorylation Theme:T1
-E4	Phosphorylation Theme:T1
-E5	Phosphorylation Theme:T1
-E6	Phosphorylation Theme:T1
+*	Equiv T1 T3 T4 T5 T6 T7
+E1	Phosphorylation Theme:T5
+E2	Phosphorylation Theme:T5
+E3	Phosphorylation Theme:T5
+E4	Phosphorylation Theme:T5
+E5	Phosphorylation Theme:T5
+E6	Phosphorylation Theme:T5

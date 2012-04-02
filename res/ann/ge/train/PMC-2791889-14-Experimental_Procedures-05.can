@@ -1,0 +1,6 @@
+T1	Protein	CD3
+T2	Protein	CD28
+T3	Protein	ubiquitin
+T4	Protein	HPRT
+E1	Transcription Theme:T3
+E2	Transcription Theme:T4

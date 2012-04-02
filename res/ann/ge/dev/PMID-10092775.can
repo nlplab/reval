@@ -1,0 +1,41 @@
+T1	Protein	CD34
+T3	Protein	TNF-alpha
+T7	Protein	granulocyte-macrophage CSF
+T10	Protein	CD83
+T11	Protein	CD86
+T12	Protein	CD14
+T13	Protein	RelB
+T14	Protein	DC-CK1
+T15	Protein	TNF receptors 1
+T16	Protein	2
+T17	Protein	PKC isoforms alpha
+T18	Protein	beta I
+T19	Protein	beta II
+T20	Protein	mu
+E1	Gene_expression Theme:T12
+E2	Gene_expression Theme:T11
+E3	Gene_expression Theme:T10
+E4	Gene_expression Theme:T14
+E5	Gene_expression Theme:T13
+E6	Gene_expression Theme:T19
+E7	Gene_expression Theme:T16
+E8	Gene_expression Theme:T20
+E9	Gene_expression Theme:T15
+E10	Gene_expression Theme:T17
+E11	Gene_expression Theme:T13
+E12	Gene_expression Theme:T18
+E13	Positive_regulation Cause:T20 Theme:E12
+E14	Positive_regulation Cause:T17 Theme:E12
+E15	Positive_regulation Cause:T13 Theme:E12
+E16	Positive_regulation Cause:T18 Theme:E12
+E17	Positive_regulation Cause:T15 Theme:E12
+E18	Positive_regulation Cause:T19 Theme:E12
+E19	Positive_regulation Cause:T16 Theme:E12
+M1	Negation E1
+M2	Speculation E13
+M3	Speculation E14
+M4	Speculation E15
+M5	Speculation E16
+M6	Speculation E17
+M7	Speculation E18
+M8	Speculation E19

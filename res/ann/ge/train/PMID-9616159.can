@@ -1,0 +1,11 @@
+T1	Protein	tumor necrosis factor alpha
+T2	Protein	TNFalpha
+T3	Protein	TRAIL
+T4	Protein	TNF-related apoptosis-inducing ligand
+T6	Protein	FADD
+T8	Protein	CD95
+T10	Protein	IkappaBalpha
+*	Equiv T1 T2
+*	Equiv T3 T4
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T10

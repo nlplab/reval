@@ -9,7 +9,8 @@ T9	Protein	CerS6
 T13	Protein	HDAC1
 T30	Protein	histone H3
 *	Equiv T6 T7
-*	Equiv T13
+*	Equiv T3 T13 T13
+*	Equiv T2
 T39	Entity	lysine (K) 551
 E1	Deacetylation Theme:T2
 E2	Catalysis Cause:T3 Theme:E1

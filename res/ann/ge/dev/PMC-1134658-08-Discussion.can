@@ -1,0 +1,173 @@
+T1	Protein	BMP-6
+T2	Protein	CD19
+T4	Protein	CD27
+T6	Protein	Smad-1
+T7	Protein	5
+T8	Protein	8
+T10	Protein	Smad
+T11	Protein	Id1
+T15	Protein	Noggin
+T18	Protein	BMP-RIB
+T19	Protein	BMP-RII
+T22	Protein	BMP-2
+T23	Protein	4
+T24	Protein	6
+T25	Protein	-7
+T26	Protein	BMP-4
+T28	Protein	Act-RIA
+T31	Protein	Act-RIIb
+T35	Protein	STAT3
+T38	Protein	Smad1
+T56	Protein	Id2
+T57	Protein	Id4
+T60	Protein	Id3
+T63	Protein	TGF-beta
+T76	Protein	Pax5
+T88	Protein	Id-1
+T107	Protein	TGF-beta1
+T111	Protein	CD4
+T112	Protein	CD8
+T113	Protein	CD3
+T114	Protein	CD28
+E1	Positive_regulation Cause:T1 Theme:E2
+E3	Positive_regulation Cause:T1 Theme:E4
+E5	Positive_regulation Cause:T1 Theme:E6
+E2	Positive_regulation Theme:E7
+E4	Positive_regulation Theme:E8
+E6	Positive_regulation Theme:E9
+E7	Phosphorylation Theme:T6
+E8	Phosphorylation Theme:T7
+E9	Phosphorylation Theme:T8
+E10	Positive_regulation Cause:T1 Theme:E11
+E11	Phosphorylation Theme:T10
+E12	Positive_regulation Cause:E11 Theme:E13
+E14	Positive_regulation Cause:E11 Theme:E15
+E13	Positive_regulation Theme:T11
+E15	Positive_regulation Theme:T11
+E16	Negative_regulation Cause:T15 Theme:T1
+E17	Gene_expression Theme:T28
+E18	Gene_expression Theme:T18
+E19	Gene_expression Theme:T19
+E20	Gene_expression Theme:T31
+E21	Binding Theme:T28 Theme2:T1
+E22	Binding Theme:T18 Theme2:T1
+E23	Binding Theme:T19 Theme2:T1
+E24	Binding Theme:T31 Theme2:T1
+E25	Positive_regulation Cause:T22 Theme:E26
+E26	Positive_regulation Theme:T35
+E27	Phosphorylation Theme:T35
+E28	Phosphorylation Theme:T38
+E29	Phosphorylation Theme:T7
+E30	Phosphorylation Theme:T8
+E31	Positive_regulation Cause:T1 Theme:E32
+E32	Regulation Theme:E33
+E33	Phosphorylation Theme:T35
+E34	Phosphorylation Theme:T38
+E35	Phosphorylation Theme:T7
+E36	Phosphorylation Theme:T8
+E37	Positive_regulation Theme:E38
+E39	Positive_regulation Theme:E40
+E41	Positive_regulation Theme:E42
+E38	Phosphorylation Theme:T38
+E40	Phosphorylation Theme:T7
+E42	Phosphorylation Theme:T8
+E43	Positive_regulation Cause:E44 Theme:T11
+E45	Positive_regulation Cause:E46 Theme:T11
+E47	Positive_regulation Cause:E48 Theme:T11
+E44	Phosphorylation Theme:T38
+E46	Phosphorylation Theme:T7
+E48	Phosphorylation Theme:T8
+E49	Regulation Cause:T1 Theme:E43
+E50	Regulation Cause:T1 Theme:E45
+E51	Regulation Cause:T1 Theme:E47
+E52	Positive_regulation Cause:T1 Theme:T11
+E53	Gene_expression Theme:T56
+E54	Gene_expression Theme:T57
+E55	Positive_regulation Cause:T1 Theme:E53
+E56	Positive_regulation Cause:T1 Theme:E54
+E57	Positive_regulation Theme:T11
+E58	Gene_expression Theme:T56
+E59	Gene_expression Theme:T60
+E60	Positive_regulation Theme:E58
+E61	Positive_regulation Theme:E59
+E62	Gene_expression Theme:T11
+E63	Gene_expression Theme:T11
+E64	Positive_regulation Theme:T11
+E65	Positive_regulation Theme:E66
+E67	Positive_regulation Theme:E68
+E69	Positive_regulation Theme:T11
+E66	Gene_expression Theme:T56
+E68	Gene_expression Theme:T60
+E70	Gene_expression Theme:T56
+E71	Gene_expression Theme:T60
+E72	Gene_expression Theme:T11
+E73	Gene_expression Theme:T56
+E74	Gene_expression Theme:T60
+E75	Positive_regulation Cause:T1 Theme:E76
+E77	Positive_regulation Cause:T1 Theme:E78
+E76	Regulation Theme:E79
+E78	Regulation Theme:E80
+E79	Gene_expression Theme:T56
+E80	Gene_expression Theme:T60
+E81	Negative_regulation Cause:E82 Theme:T76
+E82	Binding Theme:T76
+E83	Positive_regulation Cause:E82 Theme:E84
+E84	Binding Theme:T76
+E85	Positive_regulation Cause:T1 Theme:T11
+E86	Positive_regulation Theme:T11
+E87	Positive_regulation Theme:E88
+E88	Transcription Theme:T1
+E89	Gene_expression Theme:T11
+E90	Positive_regulation Theme:E91
+E92	Positive_regulation Theme:E93
+E91	Gene_expression Theme:T11
+E93	Gene_expression Theme:T60
+E94	Positive_regulation Theme:E95
+E95	Gene_expression Theme:T88
+E96	Negative_regulation Theme:E97
+E97	Gene_expression Theme:T88
+E98	Gene_expression Theme:T1
+E99	Positive_regulation Theme:E100
+E100	Transcription Theme:T1
+E101	Transcription Theme:T1
+E102	Regulation Cause:T1 Theme:T1
+E103	Regulation Cause:T1 Theme:T1
+E104	Transcription Theme:T1
+E105	Positive_regulation Theme:T1
+E106	Transcription Theme:T1
+E107	Gene_expression Theme:T1
+E108	Gene_expression Theme:T1
+E109	Gene_expression Theme:T1
+E110	Positive_regulation Theme:T1
+E111	Positive_regulation Theme:T1
+E112	Transcription Theme:T1
+E113	Gene_expression Theme:T1
+E114	Positive_regulation Theme:E115
+E115	Transcription Theme:T1
+E116	Gene_expression Theme:T1
+E117	Transcription Theme:T1
+E118	Transcription Theme:T1
+E119	Gene_expression Theme:T1
+M1	Negation E31
+M2	Negation E55
+M3	Negation E56
+M4	Negation E60
+M5	Negation E61
+M6	Negation E62
+M7	Speculation E62
+M8	Negation E69
+M9	Speculation E70
+M10	Speculation E71
+M11	Negation E75
+M12	Negation E77
+M13	Negation E84
+M14	Speculation E86
+M15	Speculation E103
+M16	Speculation E104
+M17	Negation E107
+M18	Speculation E108
+M19	Negation E112
+M20	Negation E117
+M21	Negation E118
+M22	Negation E119
+M23	Speculation E119

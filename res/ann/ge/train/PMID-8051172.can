@@ -1,0 +1,13 @@
+T1	Protein	ZAP-70
+T2	Protein	CD45
+T7	Protein	epidermal growth factor receptor
+T15	Entity	tyrosine
+E1	Negative_regulation Theme:E2
+E2	Gene_expression Theme:T2
+E3	Regulation Theme:T1
+E4	Regulation Theme:T1
+E5	Regulation Theme:T1
+E6	Gene_expression Theme:T2
+E7	Regulation Theme:T1
+E8	Positive_regulation Theme:E9
+E9	Phosphorylation Site:T15 Theme:T7

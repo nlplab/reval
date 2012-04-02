@@ -1,0 +1,37 @@
+T1	Protein	c-jun
+T2	Protein	type 1
+T3	Protein	2A protein phosphatases
+T5	Protein	Mac-1 cell surface antigen
+T6	Protein	c-myc
+T8	Protein	c-fos
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Regulation Theme:E6
+E4	Negative_regulation Theme:T3
+E5	Negative_regulation Theme:T2
+E6	Regulation Theme:E7
+E7	Gene_expression Theme:T1
+E8	Positive_regulation Theme:E12
+E9	Positive_regulation Theme:E10
+E10	Positive_regulation Theme:E11
+E11	Gene_expression Theme:T5
+E12	Negative_regulation Theme:E13
+E13	Transcription Theme:T6
+E14	Positive_regulation Theme:E15
+E15	Transcription Theme:T1
+E16	Positive_regulation Theme:T8
+E17	Transcription Theme:T1
+E18	Positive_regulation Theme:E17
+E19	Transcription Theme:T1
+E20	Positive_regulation Theme:E19
+E21	Positive_regulation Theme:E20
+E22	Regulation Theme:E23
+E23	Positive_regulation Theme:E24
+E24	Transcription Theme:T1
+E25	Positive_regulation Theme:T1
+E26	Positive_regulation Theme:E27
+E27	Transcription Theme:T1
+E28	Regulation Theme:E26
+E29	Positive_regulation Theme:T1
+M1	Speculation E3
+M2	Negation E22

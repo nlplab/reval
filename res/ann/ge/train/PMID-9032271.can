@@ -1,0 +1,32 @@
+T1	Protein	I kappaB alpha
+T3	Protein	p50
+T4	Protein	relA
+T7	Protein	Tax
+T8	Protein	I kappaB beta
+T9	Protein	I kappaB epsilon
+T17	Entity	serines 32 and 36
+E1	Protein_catabolism Theme:T1
+E2	Positive_regulation Cause:E3 Theme:E1
+E3	Negative_regulation Theme:E4
+E4	Phosphorylation Site:T17 Theme:T1
+E5	Positive_regulation Theme:E3
+E6	Positive_regulation Theme:E7
+E7	Phosphorylation Theme:T1
+E8	Positive_regulation Theme:E9
+E9	Protein_catabolism Theme:T1
+E10	Regulation Cause:T7 Theme:E4
+E11	Protein_catabolism Theme:T8
+E12	Protein_catabolism Theme:T9
+E13	Positive_regulation Theme:E12
+E14	Positive_regulation Theme:E11
+E15	Positive_regulation Theme:E19
+E16	Positive_regulation Theme:E18
+E17	Positive_regulation Theme:E20
+E18	Protein_catabolism Theme:T9
+E19	Protein_catabolism Theme:T1
+E20	Protein_catabolism Theme:T8
+M1	Negation E1
+M2	Negation E5
+M3	Negation E10
+M4	Negation E13
+M5	Negation E14

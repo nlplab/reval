@@ -1,0 +1,9 @@
+T1	Protein	A3G
+T3	Protein	luciferase
+T5	Protein	Luciferase
+T11	Entity	1025 bp sequence
+E1	Positive_regulation CSite:T11 Cause:T1 Theme:E2
+E2	Transcription Theme:T5
+E3	Regulation Theme:E1
+E4	Negative_regulation Theme:E2
+M1	Negation E3

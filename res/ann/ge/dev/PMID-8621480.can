@@ -1,0 +1,6 @@
+T1	Protein	Ca2+-modulating cyclophilin ligand
+T3	Protein	CAML
+T4	Protein	cyclophilin B
+*	Equiv T1 T3
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T1

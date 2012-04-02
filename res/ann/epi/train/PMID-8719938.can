@@ -2,7 +2,7 @@ T1	Protein	Transforming growth factor beta 1
 T3	Protein	TGF-beta 1
 T5	Protein	III
 T9	Protein	alpha 1 (III)
-*	Equiv T3
+*	Equiv T1 T3
 T11	Entity	lysyl
 E1	Hydroxylation Site:T11 Theme:T5
 E2	Glycosylation Site:T11 Theme:T5

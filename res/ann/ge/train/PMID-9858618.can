@@ -1,0 +1,13 @@
+T1	Protein	class II transactivator
+T2	Protein	CREB binding protein
+T3	Protein	gamma interferon
+T5	Protein	CIITA
+T8	Protein	CBP
+T13	Protein	glucocorticoid receptor
+*	Equiv T1 T5
+*	Equiv T2 T8
+E1	Binding Theme:T1 Theme2:T2
+E2	Positive_regulation Cause:T1 Theme:E3
+E3	Binding Theme:T2
+E4	Binding Theme:T1 Theme2:T2
+E5	Negative_regulation Cause:T13 Theme:T2

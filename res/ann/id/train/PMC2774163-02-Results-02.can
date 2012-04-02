@@ -1,0 +1,60 @@
+T1	Protein	RpoD
+T2	Protein	PA2096
+T3	Protein	GacS
+T4	Protein	PA4197
+T5	Protein	BfiS
+T7	Protein	PA4101
+T8	Protein	BfmR
+T9	Protein	PA4102
+T10	Protein	BfmS
+T13	Protein	PA5511
+T14	Protein	MifR
+T17	Protein	PA5512
+T18	Protein	PA4196
+T28	Organism	DeltaPA4197 mutant
+T32	Organism	DeltaPA4101 mutant
+T37	Organism	DeltagacS
+T38	Protein	gacS
+T45	Protein	retS
+T46	Protein	ladS
+*	Equiv T4 T5
+*	Equiv T7 T8
+*	Equiv T9 T10
+*	Equiv T13 T14
+E1	Phosphorylation Theme:T1
+E2	Phosphorylation Theme:T2
+M1	Negation E2
+E3	Phosphorylation Theme:T3
+E4	Phosphorylation Theme:T4
+E5	Phosphorylation Theme:T2
+E6	Phosphorylation Theme:T7
+E7	Phosphorylation Theme:T9
+E8	Phosphorylation Theme:T7
+E9	Phosphorylation Theme:T13
+E10	Localization Theme:T13
+E11	Phosphorylation Theme:T13
+E12	Phosphorylation Theme:T4
+E13	Phosphorylation Theme:T7
+E14	Phosphorylation Theme:T3
+E15	Phosphorylation Theme:T4
+E16	Phosphorylation Theme:T7
+E17	Phosphorylation Theme:T3
+E18	Phosphorylation Theme:T4
+E19	Phosphorylation Theme:T7
+E20	Phosphorylation Theme:T3
+E21	Phosphorylation Theme:T3
+E22	Phosphorylation Theme:T4
+E23	Phosphorylation Theme:T7
+E24	Regulation Cause:T3 Theme:E23
+M2	Speculation E24
+E25	Regulation Cause:T4 Theme:E23
+M3	Speculation E25
+E26	Phosphorylation Theme:T4
+E27	Phosphorylation Theme:T7
+M4	Negation E27
+E28	Localization Theme:T13
+E29	Gene_expression Theme:T7
+E30	Gene_expression Theme:T4
+E31	Gene_expression Theme:T13
+E32	Gene_expression Theme:T45
+E33	Gene_expression Theme:T46

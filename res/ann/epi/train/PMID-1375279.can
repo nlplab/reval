@@ -1,6 +1,6 @@
 T1	Protein	haemagglutinin-neuraminidase
 T3	Protein	HN
-*	Equiv T3
+*	Equiv T1 T3
 T8	Entity	N-linked glycosylation sites
-E1	Glycosylation Site:T8 Theme:T3
+E1	Glycosylation Site:T8 Theme:T1
 M1	Speculation E1

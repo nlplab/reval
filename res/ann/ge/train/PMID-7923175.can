@@ -1,0 +1,10 @@
+T1	Protein	NF-kappa B1
+T2	Protein	p50
+T3	Protein	RelA
+*	Equiv T1 T2
+T8	Entity	nuclear extracts
+E1	Binding Theme:T2
+E2	Positive_regulation Theme:T3
+E3	Localization AtLoc:T8 Theme:T3
+M1	Negation E2
+M2	Negation E3

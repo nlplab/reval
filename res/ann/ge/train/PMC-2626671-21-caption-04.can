@@ -1,0 +1,60 @@
+T1	Protein	Runx3
+T2	Protein	Eomes
+T3	Protein	perforin
+T4	Protein	granzyme B
+T5	Protein	IFN-gamma
+T8	Protein	CD8
+T9	Protein	GFP
+T10	Protein	Eomes-VP16
+T11	Protein	Eo-VP16
+T12	Protein	Myc
+T17	Protein	VP16
+T23	Protein	T-bet
+T27	Protein	Runx1
+T39	Protein	Gzmb
+*	Equiv T10 T11
+E1	Regulation Cause:T1 Theme:E2
+E3	Regulation Cause:T1 Theme:E4
+E5	Regulation Cause:T1 Theme:E6
+E7	Regulation Cause:T1 Theme:E8
+E2	Gene_expression Theme:T2
+E4	Gene_expression Theme:T3
+E6	Gene_expression Theme:T4
+E8	Gene_expression Theme:T5
+E9	Positive_regulation Theme:T10
+E10	Gene_expression Theme:T4
+E11	Gene_expression Theme:T5
+E12	Gene_expression Theme:T4
+E13	Positive_regulation Theme:T23
+E14	Positive_regulation Cause:T23 Theme:E15
+E15	Gene_expression Theme:T5
+E16	Gene_expression Theme:T1
+E17	Negative_regulation Cause:T1 Theme:T27
+E18	Positive_regulation Cause:T1 Theme:E19
+E20	Positive_regulation Cause:T1 Theme:E21
+E22	Positive_regulation Cause:T1 Theme:E23
+E24	Positive_regulation Cause:T1 Theme:E25
+E19	Gene_expression Theme:T2
+E21	Gene_expression Theme:T3
+E23	Gene_expression Theme:T4
+E25	Gene_expression Theme:T5
+E26	Regulation Cause:T2 Theme:E27
+E27	Gene_expression Theme:T5
+E28	Positive_regulation Cause:T1 Theme:E29
+E30	Positive_regulation Cause:T2 Theme:E29
+E31	Positive_regulation Cause:T23 Theme:E29
+E29	Gene_expression Theme:T3
+E32	Regulation Cause:E34 Theme:E33
+E35	Regulation Cause:E34 Theme:E36
+E34	Negative_regulation Theme:T23
+E33	Gene_expression Theme:T39
+E36	Gene_expression Theme:T4
+M1	Speculation E10
+M2	Speculation E11
+M3	Speculation E12
+M4	Speculation E26
+M5	Speculation E28
+M6	Speculation E30
+M7	Negation E31
+M8	Speculation E31
+M9	Negation E35

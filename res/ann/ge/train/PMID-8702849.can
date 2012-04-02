@@ -1,0 +1,12 @@
+T1	Protein	NFATc
+T2	Protein	NFATc.beta
+T4	Protein	NFATc.alpha
+T9	Protein	interleukin-2
+T11	Protein	tumor necrosis factor-alpha
+T15	Entity	kappa3 element
+T17	Entity	promoter
+E1	Gene_expression Theme:T2
+E2	Binding Theme:T2 Site2:T15 Theme2:T11
+E3	Positive_regulation Cause:T2 Site:T17 Theme:T11
+M1	Negation E2
+M2	Negation E3

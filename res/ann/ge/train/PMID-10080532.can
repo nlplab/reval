@@ -1,0 +1,88 @@
+T1	Protein	IL-4
+T2	Protein	interleukin-4
+T4	Protein	interleukin-13
+T5	Protein	IL-13
+T6	Protein	FcepsilonRIIb
+T7	Protein	CD23
+T8	Protein	15-lipoxygenase
+T9	Protein	IL-1 receptor antagonist
+T10	Protein	IL-1ra
+T11	Protein	IFN-beta
+T12	Protein	IFN-gamma
+T15	Protein	STAT6
+T16	Protein	signal transducer and activator of transcription-6
+*	Equiv T15 T16
+*	Equiv T1 T2
+*	Equiv T6 T7
+*	Equiv T9 T10
+*	Equiv T4 T5
+T44	Entity	tyrosine
+T46	Entity	nuclear
+E1	Positive_regulation Cause:T4 Theme:E9
+E2	Positive_regulation Cause:T2 Theme:E8
+E3	Positive_regulation Cause:T4 Theme:E8
+E4	Positive_regulation Cause:T2 Theme:E7
+E5	Positive_regulation Cause:T2 Theme:E9
+E6	Positive_regulation Cause:T4 Theme:E7
+E7	Gene_expression Theme:T10
+E8	Gene_expression Theme:T6
+E9	Gene_expression Theme:T8
+E10	Negative_regulation Theme:E31
+E11	Negative_regulation Cause:T12 Theme:E30
+E12	Negative_regulation Cause:T12 Theme:E28
+E13	Negative_regulation Cause:T11 Theme:E32
+E14	Negative_regulation Cause:T11 Theme:E33
+E15	Negative_regulation Cause:T11 Theme:E31
+E16	Negative_regulation Cause:T12 Theme:E32
+E17	Negative_regulation Theme:E30
+E18	Negative_regulation Cause:T11 Theme:E29
+E19	Negative_regulation Theme:E29
+E20	Negative_regulation Theme:E32
+E21	Negative_regulation Theme:E28
+E22	Negative_regulation Cause:T11 Theme:E28
+E23	Negative_regulation Cause:T12 Theme:E33
+E24	Negative_regulation Theme:E33
+E25	Negative_regulation Cause:T12 Theme:E31
+E26	Negative_regulation Cause:T11 Theme:E30
+E27	Negative_regulation Cause:T12 Theme:E29
+E28	Positive_regulation Cause:T2 Theme:T6
+E29	Positive_regulation Cause:T4 Theme:T8
+E30	Positive_regulation Cause:T4 Theme:T10
+E31	Positive_regulation Cause:T4 Theme:T6
+E32	Positive_regulation Cause:T2 Theme:T8
+E33	Positive_regulation Cause:T2 Theme:T10
+E34	Positive_regulation Theme:E14
+E35	Positive_regulation Theme:E10
+E36	Positive_regulation Theme:E15
+E37	Positive_regulation Theme:E12
+E38	Positive_regulation Theme:E16
+E39	Positive_regulation Theme:E11
+E40	Positive_regulation Theme:E13
+E41	Positive_regulation Theme:E17
+E42	Positive_regulation Theme:E20
+E43	Positive_regulation Theme:E21
+E44	Positive_regulation Theme:E27
+E45	Positive_regulation Theme:E24
+E46	Positive_regulation Theme:E26
+E47	Positive_regulation Theme:E25
+E48	Positive_regulation Theme:E22
+E49	Positive_regulation Theme:E23
+E50	Positive_regulation Theme:E19
+E51	Positive_regulation Theme:E18
+E52	Negative_regulation Theme:E53
+E53	Phosphorylation Site:T44 Theme:T16
+E54	Localization Theme:T16 ToLoc:T46
+E55	Negative_regulation Theme:E57
+E56	Negative_regulation Theme:E58
+E57	Positive_regulation Cause:T2 Theme:T16
+E58	Positive_regulation Cause:T4 Theme:T16
+E59	Negative_regulation Theme:T16
+E60	Negative_regulation Theme:E59
+E61	Positive_regulation Theme:E59
+E62	Negative_regulation Theme:E65
+E63	Negative_regulation Theme:E64
+E64	Positive_regulation Cause:T2 Theme:T16
+E65	Positive_regulation Cause:T4 Theme:T16
+E66	Positive_regulation Theme:T16
+E67	Negative_regulation Cause:T11 Theme:T16
+E68	Negative_regulation Cause:T12 Theme:T16

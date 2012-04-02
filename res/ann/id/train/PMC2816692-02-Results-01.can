@@ -14,8 +14,8 @@ T24	Protein	1A
 T25	Protein	SrcA
 T30	Organism	DeltassrB
 T31	Protein	SseC
-*	Equiv T4 T3
-*	Equiv T6 T5
+*	Equiv T3 T4
+*	Equiv T5 T6
 T42	Entity	intergenic region (IGR)
 E1	Regulation Theme:T6
 E2	Negative_regulation Theme:T6

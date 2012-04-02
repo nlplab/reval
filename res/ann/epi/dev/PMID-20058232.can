@@ -3,4 +3,4 @@ T2	Protein	Mitf
 T3	Protein	microphthalmia-associated transcription factor
 T11	Protein	RANKL
 T14	Protein	Acp5
-*	Equiv T3
+*	Equiv T2 T3

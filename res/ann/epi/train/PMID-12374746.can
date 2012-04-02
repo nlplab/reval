@@ -4,14 +4,14 @@ T3	Protein	CREB binding protein
 T5	Protein	p300
 T6	Protein	GRIP-1
 T9	Protein	CARM1
-*	Equiv T3
+*	Equiv T1 T3
 T16	Entity	arginine
 T18	Entity	KIX domain
 T23	Entity	arginine residues
-E1	Methylation Site:T16 Theme:T1
-E2	Methylation Site:T18 Theme:T1
+E1	Methylation Site:T16 Theme:T3
+E2	Methylation Site:T18 Theme:T3
 E3	Catalysis Cause:T9 Theme:E2
-E4	Methylation Theme:T1
+E4	Methylation Theme:T3
 E5	Catalysis Cause:T9 Theme:E4
-E6	Methylation Site:T23 Theme:T1
+E6	Methylation Site:T23 Theme:T3
 E7	Catalysis Cause:T9 Theme:E6

@@ -1,0 +1,4 @@
+T1	Protein	alpha TCR
+E1	Transcription Theme:T1
+E2	Regulation Theme:E1
+E3	Regulation Theme:T1

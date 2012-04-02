@@ -1,0 +1,33 @@
+T1	Protein	Jagged1
+T4	Protein	c-Rel
+T5	Protein	RelA
+T6	Protein	jagged1
+T8	Protein	IkappaBalpha
+T11	Protein	Notch1
+T12	Protein	TAN-1
+T13	Protein	HES-1
+T14	Protein	CD23
+*	Equiv T11 T12
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Regulation Theme:E4
+E4	Gene_expression Theme:T1
+E5	Regulation Theme:T1
+E6	Positive_regulation Cause:T5 Theme:E9
+E7	Positive_regulation Cause:T4 Theme:E9
+E8	Positive_regulation Theme:E9
+E9	Gene_expression Theme:T6
+E10	Positive_regulation Theme:T6
+E11	Negative_regulation Cause:T8 Theme:E10
+E12	Gene_expression Theme:T1
+E13	Gene_expression Theme:T4
+E14	Gene_expression Theme:T12
+E15	Positive_regulation Theme:T13
+E16	Positive_regulation Theme:T14
+E17	Positive_regulation Theme:T1
+E18	Positive_regulation Theme:E19
+E19	Gene_expression Theme:T1
+E20	Gene_expression Theme:T4
+E21	Positive_regulation Cause:T4 Theme:E22
+E22	Gene_expression Theme:T6
+M1	Negation E8

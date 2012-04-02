@@ -1,0 +1,12 @@
+T1	Protein	OCT-1
+T2	Protein	TNF
+T4	Protein	tumour necrosis factor
+*	Equiv T2 T4
+T11	Entity	promoter region
+E1	Regulation Theme:E2
+E2	Binding Theme:T1 Site2:T11 Theme2:T4
+E3	Positive_regulation Theme:E4
+E4	Binding Theme:T1
+E5	Regulation Theme:E6
+E6	Gene_expression Theme:T4
+E7	Binding Site:T11 Theme:T4 Theme2:T1

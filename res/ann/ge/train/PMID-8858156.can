@@ -1,0 +1,9 @@
+T1	Protein	TAFII 105
+T2	Protein	hTAFII130
+T3	Protein	hTAFII105
+T5	Protein	oTAFII110
+T6	Protein	TAFII105
+E1	Transcription Theme:T6
+E2	Binding Theme:T6
+E3	Positive_regulation Theme:E4
+E4	Gene_expression Theme:T3

@@ -2,9 +2,9 @@ T1	Protein	vitamin D3-binding protein
 T2	Protein	alpha-N-acetylgalactosaminidase
 T3	Protein	Gc
 T5	Protein	beta-galactosidase
-*	Equiv T3
+*	Equiv T1 T3
 E1	Deglycosylation Theme:T1
 E2	Catalysis Cause:T2 Theme:E1
-E3	Deglycosylation Theme:T3
+E3	Deglycosylation Theme:T1
 E4	Catalysis Cause:T2 Theme:E3
-E5	Deglycosylation Theme:T3
+E5	Deglycosylation Theme:T1

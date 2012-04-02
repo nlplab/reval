@@ -6,6 +6,6 @@ T5	Protein	prolyl hydroxylases 1
 T11	Protein	PHD2
 T18	Protein	HIF-1alpha
 *	Equiv T3 T5
-*	Equiv T4
+*	Equiv T4 T4
 E1	Hydroxylation Theme:T18
 E2	Catalysis Cause:T1 Theme:E1

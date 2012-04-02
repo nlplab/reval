@@ -1,0 +1,17 @@
+T1	Protein	FOXP3
+T2	Protein	CD25
+T4	Protein	CD152
+T5	Protein	PD-1
+T6	Protein	GITR
+T7	Protein	CD69
+T8	Protein	CD103
+T9	Protein	CD62L
+T10	Protein	CD3
+T11	Protein	CD4
+T14	Protein	CD2
+T15	Protein	GATA3
+T19	Protein	Foxp3
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T19
+M1	Speculation E1
+M2	Speculation E2

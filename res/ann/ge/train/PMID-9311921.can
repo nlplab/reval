@@ -1,0 +1,10 @@
+T1	Protein	CAML
+T3	Protein	calcium-modulator and cyclophilin ligand
+T5	Protein	TACI
+T6	Protein	transmembrane activator and CAML-interactor
+*	Equiv T1 T3
+*	Equiv T5 T6
+E1	Gene_expression Theme:T3
+E2	Positive_regulation Theme:E1
+E3	Binding Theme:T3
+M1	Speculation E3

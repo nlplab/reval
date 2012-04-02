@@ -1,0 +1,11 @@
+T1	Protein	GR6
+T3	Protein	ecotropic viral insertion site I
+T4	Protein	EVI1
+T7	Protein	Ribophorin I
+T10	Protein	MDS1
+T12	Protein	acute myelogenous leukemia 1
+T14	Protein	ETV6
+*	Equiv T3 T4
+E1	Gene_expression Theme:T1
+E2	Positive_regulation Theme:T1
+M1	Negation E1

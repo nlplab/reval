@@ -20,7 +20,8 @@ T24	Protein	rpoE
 T26	Organism	ssrB mutants
 T31	Protein	rseA
 T32	Organism	Yersinia pseudotuberculosis
-*	Equiv T18 T17
+T33	Regulon-operon	sigmaE
+*	Equiv T17 T18
 E1	Regulation Theme:E4
 E2	Regulation Theme:E5
 E3	Regulation Theme:E6

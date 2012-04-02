@@ -3,9 +3,9 @@ T2	Protein	VHL
 T3	Protein	Hypoxia-inducible factor-1alpha
 T6	Protein	von Hippel-Lindau tumor-suppressor
 T8	Protein	ubiquitin
-*	Equiv T3
-*	Equiv T6
+*	Equiv T1 T3
+*	Equiv T2 T6
 T18	Entity	proline
 T21	Entity	Pro-564
-E1	Hydroxylation Site:T18 Theme:T1
-E2	Hydroxylation Site:T21 Theme:T1
+E1	Hydroxylation Site:T18 Theme:T3
+E2	Hydroxylation Site:T21 Theme:T3

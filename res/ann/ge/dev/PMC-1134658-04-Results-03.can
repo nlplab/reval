@@ -1,0 +1,15 @@
+T1	Protein	BMP-6
+T2	Protein	Act-RIA
+T3	Protein	BMP-RIB
+T4	Protein	BMP-RII
+T5	Protein	Act-RIIb
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T3
+E3	Gene_expression Theme:T4
+E4	Gene_expression Theme:T5
+E5	Gene_expression Theme:T2
+E6	Gene_expression Theme:T3
+E7	Gene_expression Theme:T4
+E8	Gene_expression Theme:T2
+E9	Gene_expression Theme:T4
+E10	Binding Theme:T1

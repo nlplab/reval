@@ -1,0 +1,39 @@
+T1	Organism	P. aeruginosa
+T2	Protein	BfiS
+T3	Protein	BfmR
+T4	Protein	MifR
+T5	Protein	PA4197
+T6	Protein	PA4101
+T7	Protein	PA5511
+T8	Chemical	polystyrene
+T9	Protein	Pel
+T10	Protein	Psl
+T13	Organism	DeltagacS mutant
+T14	Protein	gacS
+T15	Organism	DeltabfiS
+T16	Protein	bfiS
+T17	Organism	DeltabfmR mutant
+T18	Protein	bfmR
+T20	Organism	DeltabfmR
+T26	Organism	DeltamifR
+T27	Protein	mifR
+T37	Organism	DeltamifR mutant
+*	Equiv T2 T5
+*	Equiv T3 T6
+*	Equiv T4 T7
+E1	Negative_regulation Theme:T5
+E2	Negative_regulation Theme:T6
+E3	Negative_regulation Theme:T7
+E4	Regulation Cause:E1 Theme:E7
+M1	Negation E4
+E5	Regulation Cause:E2 Theme:E7
+M2	Negation E5
+E6	Regulation Cause:E3 Theme:E7
+M3	Negation E6
+E7	Binding Theme:T8
+E8	Negative_regulation Theme:E9
+E9	Binding Theme:T13
+E10	Phosphorylation Theme:T5
+E11	Phosphorylation Theme:T6
+E12	Phosphorylation Theme:T7
+E13	Phosphorylation Theme:T7

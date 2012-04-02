@@ -1,0 +1,4 @@
+T1	Protein	DPA
+E1	Regulation Theme:T1
+E2	Positive_regulation Theme:E3
+E3	Gene_expression Theme:T1

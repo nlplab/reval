@@ -1,0 +1,25 @@
+T1	Protein	NFAT1
+T2	Protein	NFATp
+T6	Protein	calmodulin
+T11	Protein	interleukin-2
+T12	Protein	interleukin-4
+T13	Protein	tumor necrosis factor alpha
+T14	Protein	granulocyte-macrophage colony-stimulating factor
+*	Equiv T1 T2
+E1	Gene_expression Theme:T2
+E2	Positive_regulation Theme:E8
+E3	Positive_regulation Theme:E7
+E4	Positive_regulation Theme:E9
+E5	Positive_regulation Theme:E6
+E6	Transcription Theme:T14
+E7	Transcription Theme:T12
+E8	Transcription Theme:T13
+E9	Transcription Theme:T11
+E10	Positive_regulation Cause:T2 Theme:E17
+E11	Positive_regulation Cause:T2 Theme:E15
+E12	Positive_regulation Cause:T2 Theme:E16
+E13	Positive_regulation Cause:T2 Theme:E14
+E14	Transcription Theme:T14
+E15	Transcription Theme:T12
+E16	Transcription Theme:T13
+E17	Transcription Theme:T11

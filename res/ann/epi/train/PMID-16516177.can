@@ -2,4 +2,4 @@ T1	Protein	beta-Gal-3'-sulfotransferase
 T3	Protein	GP3ST
 T4	Protein	Tamm-Horsfall glycoprotein
 T6	Protein	beta-galactosidase
-*	Equiv T3
+*	Equiv T1 T3

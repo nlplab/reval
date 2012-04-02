@@ -1,0 +1,13 @@
+T1	Protein	tax
+T7	Protein	Jak2
+T9	Protein	Jak3
+T12	Protein	IL-6
+T19	Entity	Tyrosine
+E1	Gene_expression Theme:T1
+E2	Phosphorylation Theme:T7
+E3	Positive_regulation Cause:E4 Theme:E2
+E4	Positive_regulation Theme:E5
+E5	Gene_expression Theme:T12
+E6	Phosphorylation Site:T19 Theme:T7
+E7	Positive_regulation Theme:E6
+E8	Negative_regulation Theme:E6

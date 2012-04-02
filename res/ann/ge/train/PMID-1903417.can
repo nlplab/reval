@@ -1,0 +1,23 @@
+T1	Protein	IL-2
+T2	Protein	kappa L chain
+T3	Protein	lambda L chain
+T4	Protein	CD20
+T5	Protein	kappa
+T6	Protein	lambda
+T12	Protein	Oct-2
+E1	Negative_regulation Theme:E3
+E2	Negative_regulation Theme:E4
+E3	Gene_expression Theme:T2
+E4	Gene_expression Theme:T3
+E5	Regulation Theme:T4
+E6	Negative_regulation Theme:T2
+E7	Negative_regulation Theme:T3
+E8	Negative_regulation Theme:T5
+E9	Negative_regulation Theme:T3
+E10	Negative_regulation Theme:E11
+E11	Transcription Theme:T2
+E12	Regulation Theme:T12
+E13	Regulation Theme:T12
+E14	Negative_regulation Theme:E15
+E15	Binding Theme:T12
+M1	Negation E13

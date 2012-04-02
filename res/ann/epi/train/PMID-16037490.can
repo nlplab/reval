@@ -4,7 +4,7 @@ T4	Protein	FN
 T5	Protein	agglutinin
 T8	Protein	apolipoprotein B-100
 T9	Protein	apoB100
-*	Equiv T3
+*	Equiv T1 T3
 *	Equiv T8 T9
 T10	Entity	Asn1244
 T12	Entity	Asn1007

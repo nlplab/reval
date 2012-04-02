@@ -1,0 +1,28 @@
+T1	Protein	interleukin-8
+T3	Protein	IL-8
+T7	Protein	NF-IL-6
+T10	Protein	IkappaBalpha
+T13	Protein	C5a receptor
+*	Equiv T1 T3
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Positive_regulation Theme:E4
+E4	Localization Theme:T1
+E5	Positive_regulation Theme:E6
+E6	Gene_expression Theme:T1
+E7	Localization Theme:T1
+E8	Binding Theme:T7
+E9	Positive_regulation Theme:E8
+E10	Regulation Theme:E11
+E11	Gene_expression Theme:T1
+E12	Gene_expression Theme:T1
+E13	Gene_expression Theme:T10
+E14	Binding Theme:T13
+E15	Negative_regulation Theme:E16
+E16	Positive_regulation Theme:E17
+E17	Gene_expression Theme:T1
+E18	Positive_regulation Theme:E19
+E19	Gene_expression Theme:T1
+M1	Negation E9
+M2	Negation E10
+M3	Negation E15

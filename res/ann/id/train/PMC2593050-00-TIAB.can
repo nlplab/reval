@@ -1,0 +1,35 @@
+T1	Two-component-system	VicRK
+T2	Protein	VicR
+T3	Protein	K
+T4	Organism	Streptococcus equi Subspecies equi
+T8	Organism	horse
+T9	Organism	Streptococcus equi subspecies equi
+T10	Protein	vicK
+T11	Organism	mouse
+T13	Organism	DeltavicK mutant
+T15	Organism	mice
+T16	Organism	DeltavicK
+T18	Organism	S. equi
+T26	Protein	SeM
+T27	Protein	IgA
+T28	Protein	IgG
+E1	Regulation Cause:T1 Theme:E2
+E2	Process Participant:T4
+E3	Regulation Cause:T1 Theme:E4
+M1	Speculation E3
+E4	Process Participant:T9
+E5	Process
+E6	Negative_regulation Theme:E7
+E7	Process Participant:T13
+E8	Process Participant:T13
+E9	Process Participant:T18
+E10	Process Participant:T16
+E11	Negative_regulation Cause:E10 Theme:E12
+E12	Process Participant:T18
+E13	Process Participant:T16
+E14	Positive_regulation Cause:E13 Theme:E16
+E15	Positive_regulation Cause:E13 Theme:E17
+E16	Gene_expression Theme:T27
+E17	Gene_expression Theme:T28
+E18	Regulation Cause:T1 Theme:E19
+E19	Process Participant:T18

@@ -1,0 +1,7 @@
+T1	Protein	Oct-1
+T2	Protein	Oct-2A
+T3	Protein	Oct-2B
+T5	Protein	Oct-2
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T3
+E3	Gene_expression Theme:T2

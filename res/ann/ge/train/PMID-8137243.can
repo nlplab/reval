@@ -1,0 +1,24 @@
+T1	Protein	I kappa B alpha
+T18	Entity	tyrosine
+E1	Positive_regulation Theme:E2
+E2	Phosphorylation Theme:T1
+E3	Positive_regulation Theme:E4
+E4	Protein_catabolism Theme:T1
+E5	Negative_regulation Theme:E7
+E6	Protein_catabolism Theme:T1
+E7	Positive_regulation Theme:E6
+E8	Phosphorylation Theme:T1
+E9	Phosphorylation Site:T18 Theme:T1
+E10	Positive_regulation Theme:E9
+E11	Negative_regulation Theme:E12
+E12	Phosphorylation Theme:T1
+E13	Negative_regulation Cause:E11 Theme:E14
+E14	Protein_catabolism Theme:T1
+E15	Regulation Theme:E16
+E16	Phosphorylation Site:T18 Theme:T1
+E17	Phosphorylation Site:T18 Theme:T1
+E18	Positive_regulation Theme:E17
+E19	Positive_regulation Cause:E18 Theme:E20
+E20	Protein_catabolism Theme:T1
+M1	Negation E15
+M2	Speculation E19

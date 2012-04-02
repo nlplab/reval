@@ -1,0 +1,18 @@
+T1	Protein	platelet/endothelial cell adhesion molecule-1
+T2	Protein	GATA-2
+T3	Protein	Platelet/endothelial cell adhesion molecule-1
+T4	Protein	PECAM-1
+T8	Protein	ets
+T9	Protein	Sp1
+T10	Protein	AP-2
+T12	Protein	GATA-1
+*	Equiv T3 T4
+E1	Gene_expression Theme:T3
+E2	Regulation Theme:E3
+E3	Gene_expression Theme:T3
+E4	Binding Theme:T12
+E5	Binding Theme:T2
+E6	Regulation Theme:E7
+E7	Gene_expression Theme:T3
+M1	Speculation E2
+M2	Negation E4

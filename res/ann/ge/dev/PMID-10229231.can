@@ -1,0 +1,21 @@
+T1	Protein	Fas ligand
+T2	Protein	apoptosis-linked gene 4
+T3	Protein	Fas
+T5	Protein	FasL
+T7	Protein	ALG-4
+*	Equiv T1 T5
+E1	Regulation Cause:T2 Theme:E2
+E2	Gene_expression Theme:T5
+E3	Binding Theme:T3 Theme2:T5
+E4	Negative_regulation Theme:E5
+E5	Positive_regulation Theme:E6
+E6	Positive_regulation Theme:T5
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T7
+E9	Positive_regulation Cause:E7 Theme:E10
+E10	Transcription Theme:T5
+E11	Positive_regulation Cause:T7 Theme:E12
+E12	Gene_expression Theme:T5
+E13	Binding Theme:T3 Theme2:T5
+E14	Regulation Theme:E13
+M1	Negation E14

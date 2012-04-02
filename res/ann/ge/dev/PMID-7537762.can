@@ -1,0 +1,25 @@
+T1	Protein	P-selectin
+T2	Protein	monocyte chemotactic protein-1
+T3	Protein	tumor necrosis factor-alpha
+T6	Protein	MCP-1
+T8	Protein	TNF-alpha
+T11	Protein	P-selectin glycoprotein ligand-1
+*	Equiv T2 T6
+*	Equiv T3 T8
+E1	Regulation Theme:E4
+E2	Regulation Theme:E3
+E3	Localization Theme:T3
+E4	Localization Theme:T2
+E5	Gene_expression Theme:T1
+E6	Positive_regulation Theme:E9
+E7	Positive_regulation Theme:E8
+E8	Localization Theme:T3
+E9	Localization Theme:T2
+E10	Positive_regulation Theme:E8
+E11	Positive_regulation Theme:E9
+E12	Negative_regulation Theme:E13
+E13	Binding Theme:T1 Theme2:T11
+E14	Positive_regulation Theme:E16
+E15	Positive_regulation Theme:E17
+E16	Gene_expression Theme:T2
+E17	Gene_expression Theme:T3

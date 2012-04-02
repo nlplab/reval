@@ -7,7 +7,7 @@ T6	Protein	pten-induced putative kinase 1
 T14	Protein	Synphilin-1
 T15	Protein	Pink1
 T16	Protein	Dj-1
-*	Equiv T6
+*	Equiv T2 T6
 E1	Ubiquitination Theme:T1
 E2	Ubiquitination Theme:T14
 E3	Catalysis Cause:T1 Theme:E1

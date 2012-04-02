@@ -1,0 +1,87 @@
+T1	Protein	LMP1
+T10	Protein	CD40
+T15	Protein	LMP2
+T25	Protein	IL10
+T26	Protein	Stat3
+T27	Protein	Akt
+T40	Protein	cRel
+T41	Protein	p85
+T51	Protein	p27
+T54	Protein	Rb
+T55	Protein	Cdk2
+T60	Protein	pAkt
+T61	Protein	GSK3
+T64	Protein	p-mTOR
+T66	Protein	Fox01
+T67	Protein	FoxO1
+T68	Protein	bcl6
+T82	Protein	CyclinD2
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Negative_regulation Theme:T10
+E4	Gene_expression Theme:T1
+E5	Gene_expression Theme:T1
+E6	Positive_regulation Theme:E7
+E7	Gene_expression Theme:T1
+E8	Positive_regulation Theme:T25
+E9	Positive_regulation Theme:T25
+E10	Positive_regulation Cause:T1 Theme:E11
+E11	Gene_expression Theme:T25
+E12	Positive_regulation Theme:T26
+E13	Positive_regulation Theme:T25
+E14	Positive_regulation Cause:E13 Theme:E15
+E15	Positive_regulation Theme:T26
+E16	Negative_regulation Theme:T40
+E17	Negative_regulation Theme:T41
+E18	Binding Theme:T10
+E19	Positive_regulation Theme:T40
+E20	Positive_regulation Theme:T40
+E21	Positive_regulation Cause:T1 Theme:E22
+E23	Positive_regulation Cause:T1 Theme:E24
+E22	Positive_regulation Theme:T27
+E24	Positive_regulation Theme:T40
+E25	Positive_regulation Cause:T10 Theme:E26
+E26	Negative_regulation Theme:T51
+E27	Negative_regulation Theme:T51
+E28	Phosphorylation Theme:T54
+E29	Positive_regulation Theme:T55
+E30	Positive_regulation Theme:E31
+E31	Positive_regulation Theme:T27
+E32	Negative_regulation Theme:T27
+E33	Positive_regulation Theme:T60
+E34	Positive_regulation Cause:E33 Theme:E35
+E36	Positive_regulation Cause:E33 Theme:E37
+E35	Phosphorylation Theme:T61
+E37	Negative_regulation Theme:T61
+E38	Negative_regulation Theme:E39
+E39	Positive_regulation Theme:T64
+E40	Regulation Cause:T27 Theme:E41
+E41	Negative_regulation Theme:T66
+E42	Negative_regulation Theme:T67
+E43	Negative_regulation Cause:E42 Theme:E44
+E44	Gene_expression Theme:T68
+E45	Negative_regulation Theme:T68
+E46	Gene_expression Theme:T1
+E47	Gene_expression Theme:T68
+E48	Negative_regulation Cause:E46 Theme:E46
+E49	Negative_regulation Cause:E47 Theme:E46
+E50	Negative_regulation Cause:E46 Theme:E47
+E51	Negative_regulation Cause:E47 Theme:E47
+E52	Positive_regulation Theme:T27
+E53	Negative_regulation Theme:T66
+E54	Regulation Cause:E55 Theme:T68
+E55	Regulation Cause:T1 Theme:T66
+E56	Regulation Theme:T51
+E57	Regulation Theme:T82
+E58	Negative_regulation Theme:E59
+E59	Gene_expression Theme:T67
+E60	Positive_regulation Cause:E58 Theme:E61
+E61	Negative_regulation Theme:T51
+E62	Positive_regulation Theme:T82
+E63	Negative_regulation Theme:T51
+M1	Speculation E14
+M2	Speculation E21
+M3	Speculation E23
+M4	Negation E34
+M5	Negation E36
+M6	Speculation E54

@@ -1,0 +1,19 @@
+T1	Protein	EBV nuclear antigen (EBNA) 1
+T2	Protein	EBNA2
+T4	Protein	Latent membrane protein (LMP) 2A
+T5	Protein	LMP1
+T6	Protein	LMP2B
+T7	Protein	BZLF1
+E1	Transcription Theme:T2
+E2	Transcription Theme:T1
+E3	Positive_regulation Theme:E4
+E4	Transcription Theme:T2
+E5	Transcription Theme:T4
+E6	Transcription Theme:T5
+E7	Transcription Theme:T6
+E8	Transcription Theme:T7
+M1	Negation E1
+M2	Negation E4
+M3	Negation E6
+M4	Negation E7
+M5	Negation E8

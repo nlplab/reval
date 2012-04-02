@@ -1,0 +1,21 @@
+T1	Protein	I kappa B alpha
+T2	Protein	p105
+T8	Protein	p50
+T13	Protein	MAD3
+E1	Regulation Theme:T1
+E2	Regulation Theme:T2
+E3	Negative_regulation Theme:T1
+E4	Positive_regulation Theme:E5
+E5	Transcription Theme:T1
+E6	Positive_regulation Theme:T1
+E7	Positive_regulation Theme:E8
+E8	Transcription Theme:T1
+E9	Regulation Theme:T2
+E10	Positive_regulation Theme:T2
+E11	Positive_regulation Theme:T8
+E12	Transcription Theme:T2
+E13	Positive_regulation Theme:E12
+E14	Positive_regulation Theme:E12
+E15	Regulation Theme:T13
+E16	Regulation Theme:T2
+E17	Regulation Theme:T8

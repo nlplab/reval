@@ -1,0 +1,34 @@
+T1	Organism	Staphylococcus aureus
+T2	Organism	human
+T3	Organism	S. aureus
+T4	Protein	phospholipase A2
+T5	Protein	myeloperoxidase
+T6	Chemical	phosphatidylglycerol
+T7	Protein	MprF
+T8	Regulon-operon	dltABCD
+T9	Protein	dltA
+T10	Protein	B
+T11	Protein	C
+T12	Protein	D
+T13	Chemical	teichoic acids
+T15	Two-component-system	graRS
+T16	Protein	graR
+T17	Protein	S
+T18	Regulon-operon	dlt
+T19	Organism	S. aureus SA113 graRS deletion mutant
+T24	Chemical	polymyxin B
+T25	Chemical	gallidermin
+T26	Chemical	vancomycin
+E1	Process Participant:T1
+E2	Process Participant:T1
+E3	Process Participant:T3
+E4	Positive_regulation Theme:T8
+E5	Process
+E6	Positive_regulation Cause:T15 Theme:E7
+E7	Gene_expression Theme:T18
+E8	Negative_regulation Theme:E9
+E9	Process Participant:T19
+E10	Regulation Cause:T15 Theme:E11
+E11	Process
+E12	Regulation Cause:T18 Theme:E13
+E13	Process Participant:T3

@@ -1,0 +1,23 @@
+T1	Protein	Nuclear factor-IL6
+T2	Protein	IL-4
+T4	Protein	(NF)-IL6
+T5	Protein	C/EBP beta
+T6	Protein	NF-IL6
+T7	Protein	rNF-IL6
+T11	Protein	chloramphenicol acetyl transferase
+*	Equiv T4 T5
+T17	Entity	promoter
+E1	Positive_regulation Cause:T1 Site:T17 Theme:T2
+E2	Positive_regulation Theme:E3
+E3	Gene_expression Theme:T2
+E4	Transcription Theme:T6
+E5	Gene_expression Theme:T7
+E6	Binding Theme:T7
+E7	Binding Theme:T6
+E8	Gene_expression Theme:T6
+E9	Positive_regulation Theme:E8
+E10	Positive_regulation Cause:E9 Theme:E11
+E11	Gene_expression Theme:T11
+E12	Regulation Cause:T6 Theme:E13
+E13	Positive_regulation Site:T17 Theme:T2
+M1	Negation E4

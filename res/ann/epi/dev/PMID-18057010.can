@@ -5,7 +5,7 @@ T4	Protein	Src
 T5	Protein	E-cadherins
 T10	Protein	EGFR
 T20	Protein	F28L
-*	Equiv T10
+*	Equiv T3 T10
 E1	Ubiquitination Theme:T2
 E2	Ubiquitination Theme:T2
 E3	Ubiquitination Theme:T2

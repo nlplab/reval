@@ -41,9 +41,9 @@ T62	Chemical	carbon
 T63	Chemical	nitrogen
 *	Equiv T23 T24
 *	Equiv T33 T34
-*	Equiv T36
+*	Equiv T2 T36
 *	Equiv T38 T39
-*	Equiv T48
+*	Equiv T4 T48
 *	Equiv T60 T61
 E1	Phosphorylation Theme:T2
 E2	Phosphorylation Theme:T3

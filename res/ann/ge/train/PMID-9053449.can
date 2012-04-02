@@ -1,0 +1,33 @@
+T1	Protein	Egr-1
+T2	Protein	RelA
+T3	Protein	tumor necrosis factor-alpha
+T4	Protein	NF-kappa B1
+T5	Protein	p50
+T7	Protein	phytohemagglutin
+T8	Protein	PHA
+*	Equiv T7 T8
+T27	Entity	promoter
+E1	Positive_regulation Cause:T3 Theme:E2
+E2	Transcription Theme:T4
+E3	Regulation Theme:T4
+E4	Positive_regulation Theme:T4
+E5	Positive_regulation Cause:T1 Theme:E9
+E6	Positive_regulation Cause:T1 Theme:E8
+E7	Positive_regulation Cause:T1 Theme:E10
+E8	Positive_regulation Cause:T7 Site:T27 Theme:T4
+E9	Positive_regulation Site:T27 Theme:T4
+E10	Positive_regulation Theme:T2
+E11	Positive_regulation Theme:T1
+E12	Gene_expression Theme:T1
+E13	Gene_expression Theme:T2
+E14	Positive_regulation Theme:T1
+E15	Positive_regulation Cause:E14 Theme:E16
+E16	Gene_expression Theme:T4
+E17	Negative_regulation Theme:E19
+E18	Negative_regulation Theme:E20
+E19	Positive_regulation Theme:E21
+E20	Positive_regulation Cause:T7 Theme:E21
+E21	Transcription Theme:T4
+E22	Positive_regulation Theme:T1
+E23	Positive_regulation Theme:E24
+E24	Gene_expression Theme:T4

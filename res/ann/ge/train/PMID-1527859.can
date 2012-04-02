@@ -1,0 +1,11 @@
+T1	Protein	Nef
+T2	Protein	CD4
+T5	Protein	SP-1
+T7	Protein	interleukin 2
+T15	Entity	promoters
+E1	Regulation Cause:T1 Theme:E2
+E2	Binding Theme:T5
+E3	Positive_regulation Theme:E4
+E4	Negative_regulation Site:T15 Theme:T7
+M1	Negation E1
+M2	Speculation E3

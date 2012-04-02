@@ -1,0 +1,19 @@
+T1	Protein	beta-galactosidase
+T2	Protein	beta-gal
+T3	Protein	lacZ
+T7	Protein	interleukin-2
+*	Equiv T1 T2
+E1	Regulation Theme:E2
+E2	Transcription Theme:T3
+E3	Positive_regulation Theme:E7
+E4	Positive_regulation Theme:E6
+E5	Gene_expression Theme:T1
+E6	Gene_expression Theme:T1
+E7	Gene_expression Theme:T1
+E8	Positive_regulation Theme:E7
+E9	Regulation Theme:E5
+E10	Regulation Theme:E11
+E11	Gene_expression Theme:T7
+E12	Positive_regulation Theme:E11
+M1	Negation E6
+M2	Negation E9

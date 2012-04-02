@@ -1,0 +1,19 @@
+T1	Protein	p50
+T2	Protein	p65
+T3	Protein	IkappaB-alpha
+T4	Protein	p105
+T5	Protein	tumour necrosis factor-alpha
+T6	Protein	TNF-alpha
+*	Equiv T5 T6
+T12	Entity	nucleus
+E1	Positive_regulation Theme:E3
+E2	Positive_regulation Theme:E4
+E3	Localization AtLoc:T12 Theme:T1
+E4	Localization AtLoc:T12 Theme:T2
+E5	Protein_catabolism Theme:T3
+E6	Positive_regulation Theme:E5
+E7	Positive_regulation Theme:E8
+E8	Localization Theme:T5
+E9	Localization Theme:T5
+E10	Positive_regulation Theme:E11
+E11	Localization Theme:T5

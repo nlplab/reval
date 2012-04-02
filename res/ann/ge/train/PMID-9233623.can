@@ -1,0 +1,13 @@
+T1	Protein	RP1
+T2	Protein	CD28
+T7	Protein	adenomatous polyposis coli (APC) protein
+T8	Protein	EB1
+T10	Protein	APC
+E1	Gene_expression Theme:T1
+E2	Binding Theme:T2
+E3	Gene_expression Theme:T1
+E4	Binding Theme:T1
+E5	Binding Theme:T1 Theme2:T10
+E6	Positive_regulation Theme:T1
+E7	Gene_expression Theme:T1
+M1	Negation E4

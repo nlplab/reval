@@ -1,0 +1,15 @@
+T1	Protein	tumor necrosis factor-alpha
+T2	Protein	interleukin 1-beta
+T3	Protein	granulocyte-macrophage colony-stimulating factor
+T4	Protein	interleukin-6
+T5	Protein	nitric oxide synthase
+E1	Gene_expression Theme:T3
+E2	Gene_expression Theme:T4
+E3	Gene_expression Theme:T2
+E4	Gene_expression Theme:T1
+E5	Negative_regulation Theme:E3
+E6	Negative_regulation Theme:E1
+E7	Negative_regulation Theme:E2
+E8	Negative_regulation Theme:E4
+E9	Transcription Theme:T5
+E10	Negative_regulation Theme:E9

@@ -6,5 +6,5 @@ T5	Protein	programmed cell death gene 4
 T8	Protein	eIF4A
 T9	Protein	eIF4G
 T16	Protein	p53
-*	Equiv T2 T3 T4
-*	Equiv T5
+*	Equiv T2 T2 T3 T3 T4 T4
+*	Equiv T1 T5

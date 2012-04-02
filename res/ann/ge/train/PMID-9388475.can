@@ -1,0 +1,11 @@
+T1	Protein	NFATc
+T2	Protein	murine (m) NFATc
+T3	Protein	mNFATc
+T4	Protein	AP-1
+T5	Protein	IL-2
+E1	Binding Theme:T3 Theme2:T4
+E2	Binding Theme:T3
+E3	Positive_regulation Cause:E2 Theme:E4
+E4	Transcription Theme:T5
+E5	Transcription Theme:T3
+E6	Transcription Theme:T3

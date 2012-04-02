@@ -1,0 +1,37 @@
+T1	Protein	latent infection membrane protein 1
+T2	Protein	IKKalpha
+T3	Protein	IKKbeta
+T5	Protein	LMP1
+T6	Protein	TNFRII
+T7	Protein	TRAF1
+T8	Protein	TRAF2
+T9	Protein	TNFRI
+T11	Protein	TRADD
+T14	Protein	RIP
+T16	Protein	NF-kappaB-inducing kinase
+T17	Protein	NIK
+T20	Protein	IkappaB alpha
+*	Equiv T16 T17
+*	Equiv T1 T5
+T34	Entity	death domain
+T41	Entity	Ser-32
+T42	Entity	Ser-36
+E1	Binding Theme:T1
+E2	Positive_regulation Theme:T6
+E3	Binding Theme:T7
+E4	Binding Theme:T8
+E5	Binding Theme:T9 Theme2:T11
+E6	Binding Theme:T11
+E7	Binding Site:T34 Theme:T9 Theme2:T11
+E8	Binding Theme:T9 Theme2:T8
+E9	Binding Theme:T9 Theme2:T11
+E10	Binding Theme:T9 Theme2:T14
+E11	Positive_regulation Theme:T17
+E12	Positive_regulation Theme:T3
+E13	Positive_regulation Theme:T2
+E14	Phosphorylation Theme:T20
+E15	Phosphorylation Site:T42 Theme:T20
+E16	Phosphorylation Site:T41 Theme:T20
+E17	Positive_regulation Cause:E15 Theme:E19
+E18	Positive_regulation Cause:E16 Theme:E19
+E19	Protein_catabolism Theme:T20

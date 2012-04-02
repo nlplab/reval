@@ -1,0 +1,16 @@
+T1	Organism	S. equi
+T2	Protein	vicK
+T3	Organism	mice
+T4	Organism	DeltavicK mutant
+T9	Organism	DeltavicK
+T18	Organism	mouse
+E1	Negative_regulation Theme:E2
+E2	Process Participant:T1
+E3	Process Participant:T1
+E4	Process
+E5	Process
+E6	Process Participant:T9
+E7	Process Participant:T1
+E8	Negative_regulation Theme:E9
+E9	Process Participant:T1
+E10	Process

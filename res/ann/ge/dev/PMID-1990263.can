@@ -1,0 +1,15 @@
+T1	Protein	proenkephalin
+T5	Protein	p50
+T7	Protein	p65
+T13	Entity	promoter
+T17	Entity	B2 site
+E1	Positive_regulation Theme:E2
+E2	Transcription Theme:T1
+E3	Positive_regulation Site:T13 Theme:T1
+E4	Negative_regulation Theme:E3
+E5	Binding Theme:T5
+E6	Binding Site:T17 Theme:T1
+E7	Binding Theme:T7 Theme2:T5
+E8	Positive_regulation Site:T13 Theme:T1
+E9	Positive_regulation Theme:E8
+M1	Speculation E9

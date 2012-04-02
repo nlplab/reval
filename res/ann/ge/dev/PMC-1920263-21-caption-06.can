@@ -1,0 +1,8 @@
+T1	Protein	Sp1
+T2	Protein	Sp3
+T3	Protein	A3G
+T7	Protein	3
+T18	Protein	actin
+T22	Entity	GC-box
+E1	Binding Theme:T1 Site2:T22 Theme2:T3
+E2	Binding Theme:T2 Site2:T22 Theme2:T3

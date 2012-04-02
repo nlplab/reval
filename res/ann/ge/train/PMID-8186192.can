@@ -1,0 +1,37 @@
+T1	Protein	tumor necrosis factor-alpha
+T2	Protein	IL-beta
+T3	Protein	IL-6
+T4	Protein	tumor necrosis factor (TNF)-alpha
+T5	Protein	IL-1 beta
+T9	Protein	TNF-alpha
+E1	Negative_regulation Theme:E5
+E2	Negative_regulation Theme:E6
+E3	Negative_regulation Theme:E4
+E4	Gene_expression Theme:T2
+E5	Gene_expression Theme:T3
+E6	Gene_expression Theme:T1
+E7	Negative_regulation Theme:E10
+E8	Negative_regulation Theme:E11
+E9	Negative_regulation Theme:E12
+E10	Gene_expression Theme:T5
+E11	Gene_expression Theme:T3
+E12	Gene_expression Theme:T4
+E13	Regulation Theme:E18
+E14	Regulation Theme:E16
+E15	Regulation Theme:E17
+E16	Gene_expression Theme:T4
+E17	Gene_expression Theme:T3
+E18	Gene_expression Theme:T5
+E19	Negative_regulation Theme:E20
+E20	Positive_regulation Theme:E21
+E21	Gene_expression Theme:T3
+E22	Negative_regulation Theme:E23
+E23	Transcription Theme:T5
+E24	Negative_regulation Theme:E27
+E25	Negative_regulation Theme:E26
+E26	Gene_expression Theme:T5
+E27	Gene_expression Theme:T9
+M1	Negation E13
+M2	Negation E14
+M3	Negation E15
+M4	Negation E19

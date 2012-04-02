@@ -1,0 +1,28 @@
+T1	Protein	fas-ligand
+T2	Protein	FasL
+T6	Protein	p65
+T7	Protein	Rel A
+*	Equiv T6 T7
+T21	Entity	promoter
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Transcription Theme:T2
+E4	Gene_expression Theme:T2
+E5	Regulation Theme:E6
+E6	Positive_regulation Theme:E7
+E7	Gene_expression Theme:T2
+E8	Positive_regulation Theme:E9
+E9	Negative_regulation Theme:E10
+E10	Gene_expression Theme:T2
+E11	Positive_regulation CSite:T21 Cause:T2 Theme:E8
+E12	Gene_expression Theme:T6
+E13	Gene_expression Theme:T2
+E14	Positive_regulation Cause:E13 Site:T21 Theme:T2
+E15	Positive_regulation Cause:E12 Site:T21 Theme:T2
+E16	Negative_regulation Site:T21 Theme:T2
+E17	Positive_regulation Site:T21 Theme:T2
+E18	Positive_regulation Site:T21 Theme:T2
+E19	Regulation Theme:E20
+E20	Positive_regulation Theme:E21
+E21	Gene_expression Theme:T2
+M1	Negation E18

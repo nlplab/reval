@@ -1,0 +1,19 @@
+T1	Protein	OVA
+T2	Protein	Rag1
+T3	Protein	IL-4
+T4	Protein	IFN-gamma
+T5	Protein	STAT4
+T6	Protein	STAT6
+T7	Protein	ovalbumin
+T10	Protein	MEK
+T11	Protein	p38
+T12	Protein	GSK3beta
+*	Equiv T1 T7
+E1	Negative_regulation Theme:T2
+E2	Negative_regulation Theme:T3
+E3	Negative_regulation Theme:T4
+E4	Negative_regulation Theme:T5
+E5	Negative_regulation Theme:T6
+E6	Negative_regulation Theme:T10
+E7	Negative_regulation Theme:T11
+E8	Negative_regulation Theme:T12

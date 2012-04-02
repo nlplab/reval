@@ -1,0 +1,57 @@
+T1	Protein	IL-6
+T2	Protein	C3a
+T3	Protein	C3a(desArg)
+T8	Protein	IL-1beta
+E1	Regulation Cause:T3 Theme:E3
+E2	Regulation Cause:T2 Theme:E3
+E3	Gene_expression Theme:T1
+E4	Regulation Cause:T8 Theme:E11
+E5	Regulation Cause:T3 Theme:E11
+E6	Regulation Cause:T8 Theme:E10
+E7	Regulation Cause:T3 Theme:E10
+E8	Regulation Cause:T2 Theme:E10
+E9	Regulation Cause:T2 Theme:E11
+E10	Gene_expression Theme:T1
+E11	Localization Theme:T1
+E12	Regulation Cause:T3 Theme:E17
+E13	Regulation Cause:T2 Theme:E17
+E14	Regulation Cause:T3 Theme:E16
+E15	Regulation Cause:T2 Theme:E16
+E16	Gene_expression Theme:T1
+E17	Localization Theme:T1
+E18	Positive_regulation Theme:E20
+E19	Positive_regulation Theme:E21
+E20	Positive_regulation Cause:T2 Theme:E22
+E21	Positive_regulation Cause:T3 Theme:E22
+E22	Localization Theme:T1
+E23	Regulation Theme:E24
+E24	Positive_regulation Cause:T2 Theme:E27
+E25	Positive_regulation Cause:T8 Theme:E27
+E26	Positive_regulation Theme:E27
+E27	Gene_expression Theme:T1
+E28	Regulation Theme:E24
+E29	Regulation Cause:T2 Theme:E30
+E30	Gene_expression Theme:T1
+E31	Regulation Theme:E29
+E32	Positive_regulation Cause:T3 Theme:E34
+E33	Positive_regulation Cause:T2 Theme:E34
+E34	Positive_regulation Theme:T1
+E35	Negative_regulation Theme:E33
+E36	Negative_regulation Theme:E32
+E37	Positive_regulation Theme:E33
+E38	Positive_regulation Theme:E32
+M1	Speculation E4
+M2	Speculation E5
+M3	Speculation E6
+M4	Speculation E7
+M5	Speculation E8
+M6	Speculation E9
+M7	Speculation E10
+M8	Speculation E11
+M9	Negation E12
+M10	Negation E13
+M11	Negation E14
+M12	Negation E15
+M13	Speculation E23
+M14	Negation E28
+M15	Negation E31

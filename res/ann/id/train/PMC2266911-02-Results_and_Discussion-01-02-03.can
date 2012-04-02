@@ -1,0 +1,24 @@
+T1	Protein	PAS_4
+T2	Protein	LuxR
+T3	Organism	P. luminescens
+T4	Protein	luxR
+T7	Chemical	AHL
+T8	Protein	plu0918
+T9	Protein	0925
+T10	Protein	plu2001
+T11	Protein	2019
+T13	Organism	Y. enterocolitica
+T14	Protein	ye0035
+T15	Protein	0039
+T17	Organism	S. glossinidius
+T20	Organism	fruit fly Drosophila melanogaster
+T21	Chemical	methoprene
+T22	Protein	met
+T23	Protein	Rst1JH
+T24	Organism	D. melanogaster
+T25	Protein	PAS_3
+T26	Protein	Met
+T34	Organism	M. sexta
+*	Equiv T22 T23
+E1	Process
+E2	Binding Theme:T26

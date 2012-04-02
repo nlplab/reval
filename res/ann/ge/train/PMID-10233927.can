@@ -1,0 +1,16 @@
+T1	Protein	cyclin D2
+T2	Protein	E2F-4
+T3	Protein	CD21
+T4	Protein	BCL-2
+T5	Protein	A20
+T7	Protein	LMP-1
+E1	Positive_regulation Theme:T1
+E2	Positive_regulation Theme:E1
+E3	Regulation Theme:T2
+E4	Regulation Theme:E3
+E5	Positive_regulation Theme:E3
+E6	Binding Theme:T3
+E7	Gene_expression Theme:T4
+E8	Gene_expression Theme:T5
+E9	Regulation Theme:T5
+M1	Negation E4

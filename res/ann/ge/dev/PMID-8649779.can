@@ -1,0 +1,17 @@
+T1	Protein	p105
+T2	Protein	NF-kappaB1
+T4	Protein	p50
+T11	Protein	RelA
+T12	Protein	c-Rel
+*	Equiv T1 T2
+E1	Positive_regulation Theme:T4
+E2	Binding Theme:T4
+E3	Binding Theme:T4 Theme2:T1
+E4	Binding Theme:T11 Theme2:T1
+E5	Binding Theme:T12 Theme2:T1
+E6	Positive_regulation Theme:E7
+E7	Protein_catabolism Theme:T1
+E8	Protein_catabolism Theme:T1
+E9	Gene_expression Theme:T4
+E10	Protein_catabolism Theme:T1
+E11	Regulation Theme:E10

@@ -1,0 +1,25 @@
+T1	Protein	OTF-2
+T2	Protein	DRA
+T6	Protein	OTF-1
+T23	Entity	ATTTGCAT
+E1	Positive_regulation Cause:T1 Theme:E2
+E2	Transcription Theme:T2
+E3	Positive_regulation CSite:T23 Cause:T2 Theme:E4
+E4	Gene_expression Theme:T2
+E5	Binding Site:T23 Theme:T2
+E6	Regulation Cause:T6 Theme:T2
+E7	Regulation Cause:T1 Theme:T2
+E8	Positive_regulation Cause:T1 Theme:E9
+E9	Transcription Theme:T2
+E10	Regulation Cause:T6 Theme:E11
+E11	Transcription Theme:T2
+E12	Transcription Theme:T1
+E13	Positive_regulation Cause:T1 Theme:E14
+E14	Transcription Theme:T2
+E15	Positive_regulation Cause:T1 Theme:E16
+E16	Transcription Theme:T2
+E17	Positive_regulation Theme:E15
+E18	Positive_regulation Theme:E19
+E19	Transcription Theme:T2
+M1	Negation E6
+M2	Negation E10

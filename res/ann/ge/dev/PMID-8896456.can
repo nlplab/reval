@@ -1,0 +1,19 @@
+T1	Protein	IL-2
+T2	Protein	IL-2 receptor alpha chain
+T3	Protein	Stat5
+T4	Protein	Elf-1
+T5	Protein	HMG-I(Y)
+T6	Protein	interleukin-2 (IL-2) receptor alpha chain
+T15	Protein	IL-2R alpha
+T23	Entity	promoter
+E1	Binding Theme:T3
+E2	Binding Theme:T5
+E3	Binding Theme:T4
+E4	Gene_expression Theme:T6
+E5	Positive_regulation Cause:T1 Theme:E4
+E6	Binding Theme:T5
+E7	Binding Theme:T3
+E8	Binding Theme:T4
+E9	Negative_regulation Site:T23 Theme:T15
+E10	Positive_regulation Cause:T1 Site:T23 Theme:T15
+E11	Positive_regulation Theme:E10

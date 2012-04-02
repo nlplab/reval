@@ -1,0 +1,18 @@
+T1	Protein	I kappa B-alpha
+T13	Entity	serine-32
+T14	Entity	serine-36
+E1	Regulation Cause:E3 Theme:E2
+E2	Protein_catabolism Theme:T1
+E3	Phosphorylation Theme:T1
+E4	Negative_regulation Theme:T1
+E5	Phosphorylation Theme:T1
+E6	Regulation Theme:E7
+E7	Protein_catabolism Theme:T1
+E8	Phosphorylation Site:T14 Theme:T1
+E9	Phosphorylation Site:T13 Theme:T1
+E10	Protein_catabolism Theme:T1
+E11	Phosphorylation Site:T14 Theme:T1
+E12	Phosphorylation Site:T13 Theme:T1
+M1	Negation E8
+M2	Negation E9
+M3	Negation E10

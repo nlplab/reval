@@ -1,0 +1,28 @@
+T1	Protein	CD40 ligand
+T2	Protein	IL-4
+T3	Protein	STAT-6
+T4	Protein	I gamma 3
+T5	Protein	C gamma 3
+T8	Protein	I gamma 1
+T9	Protein	I gamma 2
+T10	Protein	I gamma 4
+T11	Protein	CD40
+T13	Protein	CD40L
+T22	Protein	p50
+T23	Protein	p65
+T24	Protein	c-Rel
+*	Equiv T1 T13
+E1	Regulation Theme:E2
+E2	Positive_regulation Theme:T5
+E3	Binding Theme:T11 Theme2:T13
+E4	Binding Theme:T11 Theme2:T13
+E5	Positive_regulation Theme:T2
+E6	Positive_regulation Cause:T13 Theme:T24
+E7	Positive_regulation Cause:T13 Theme:T23
+E8	Positive_regulation Cause:T2 Theme:T3
+E9	Positive_regulation Cause:T13 Theme:T22
+E10	Binding Theme:T24
+E11	Binding Theme:T23
+E12	Binding Theme:T22
+E13	Binding Theme:T3
+M1	Speculation E1

@@ -1,0 +1,22 @@
+T1	Protein	prolactin
+T2	Protein	interferon regulatory factor-1
+T4	Protein	IRF-1
+T5	Protein	PRL
+T11	Protein	chloramphenicol acetyl transferase
+T12	Protein	CAT
+*	Equiv T11 T12
+*	Equiv T2 T4
+T40	Entity	promoter region
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T2
+E3	Positive_regulation Cause:T5 Theme:T2
+E4	Regulation Cause:T5 Theme:E5
+E5	Gene_expression Theme:T2
+E6	Positive_regulation Theme:E7
+E7	Positive_regulation Cause:T5 Theme:T11
+E8	Regulation Cause:T5 Theme:T2
+E9	Positive_regulation Cause:T5 Theme:E10
+E10	Gene_expression Theme:T2
+E11	Regulation CSite:T40 Cause:T2 Theme:E9
+E12	Regulation Theme:E9
+E13	Positive_regulation Site:T40 Theme:T2

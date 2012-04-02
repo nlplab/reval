@@ -1,0 +1,72 @@
+T1	Organism	Y. pestis
+T2	Organism	flea
+T5	Chemical	TCA
+T6	Chemical	succinate
+T7	Chemical	formate
+T8	Chemical	alpha-ketoglutarate
+T9	Protein	gabD
+T10	Protein	gabT
+T12	Chemical	gamma-aminobutyrate
+T13	Chemical	GABA
+T18	Chemical	hydroxyphenylacetate
+T19	Chemical	HPA
+T20	Protein	HPA transport
+T21	Protein	hpaX
+T22	Protein	hpaC
+T23	Protein	B
+T24	Protein	I
+T25	Protein	F
+T26	Protein	H
+T27	Protein	D
+T28	Protein	E
+T39	Chemical	glutamate
+T43	Chemical	hexoses
+T45	Protein	chitobiose phosphotransferase
+T46	Protein	PTS
+T47	Two-component-system	chbBC
+T48	Protein	chbB
+T49	Protein	C
+T50	Protein	chbF
+T51	Protein	frwB
+T55	Protein	Chitobiose
+T57	Chemical	glucose
+T60	Protein	actP
+T61	Protein	acs
+T63	Chemical	acetate
+T64	Chemical	acetyl-CoA
+T69	Chemical	hexose
+T71	Protein	permeases
+T72	Chemical	pentoses ribose
+T73	Chemical	xylose
+T74	Chemical	arabinose
+T76	Chemical	pentoses
+T78	Protein	glucose 6-phosphate dehydrogenase
+T79	Chemical	pentose phosphate
+T83	Chemical	glycerol
+T84	Chemical	glycerol-3-phosphate
+T86	Chemical	glycerolipids
+T89	Chemical	carbon
+T90	Chemical	nitrogen
+*	Equiv T12 T13
+*	Equiv T18 T19
+*	Equiv T20 T21
+*	Equiv T45 T46
+E1	Positive_regulation Theme:T9
+E2	Positive_regulation Theme:T10
+E3	Positive_regulation Theme:T21
+E4	Positive_regulation Theme:T22
+E5	Positive_regulation Theme:T23
+E6	Positive_regulation Theme:T24
+E7	Positive_regulation Theme:T25
+E8	Positive_regulation Theme:T26
+E9	Positive_regulation Theme:T27
+E10	Positive_regulation Theme:T28
+E11	Process
+E12	Positive_regulation Theme:T60
+E13	Localization Theme:T63
+E14	Localization Theme:T63
+E15	Localization Theme:T63
+E16	Localization Theme:T69
+E17	Localization Theme:T76
+E18	Localization Theme:T83
+E19	Localization Theme:T84

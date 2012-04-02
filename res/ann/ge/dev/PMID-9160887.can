@@ -1,0 +1,11 @@
+T1	Protein	Tax
+T2	Protein	Tax1
+T3	Protein	SRF
+T7	Protein	IL-2
+T8	Protein	CD4
+E1	Gene_expression Theme:T1
+E2	Positive_regulation Theme:E1
+E3	Binding Theme:T2 Theme2:T3
+E4	Binding Theme:T2
+E5	Gene_expression Theme:T2
+E6	Positive_regulation Theme:E5

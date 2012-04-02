@@ -1,0 +1,8 @@
+T1	Protein	beta-casein
+T2	Protein	IRF-1
+T5	Protein	STAT5
+T6	Protein	STAT1
+T8	Protein	STAT3
+T11	Entity	promoters
+E1	Binding Site:T11 Theme:T2
+E2	Binding Site:T11 Theme:T1

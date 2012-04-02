@@ -1,0 +1,14 @@
+T1	Protein	interleukin 2
+T2	Protein	Ca2+/calmodulin kinase type IV/Gr
+T3	Protein	Ca2+/calmodulin-dependent protein kinase (CaMK) type IV/Gr
+T4	Protein	CaMKIV/Gr
+T5	Protein	p21ras
+T6	Protein	CaMKIV/ Gr
+T7	Protein	c-fos
+E1	Positive_regulation Theme:E2
+E2	Positive_regulation Cause:T2 Theme:T1
+E3	Gene_expression Theme:T3
+E4	Positive_regulation Theme:E3
+E5	Positive_regulation Theme:T7
+E6	Positive_regulation Theme:E7
+E7	Gene_expression Theme:T1

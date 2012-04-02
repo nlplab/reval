@@ -1,0 +1,39 @@
+T1	Protein	PKD1
+T2	Protein	3
+T5	Protein	PKD3
+T8	Protein	Akt
+T9	Protein	mTOR
+T10	Protein	S6 ribosomal protein
+T15	Protein	Erk1
+T16	Protein	RSK1
+T35	Protein	MAPKAPK2
+T36	Protein	Bcr-Abl oncogene
+T38	Protein	HPK1
+T39	Protein	PKCbeta
+T53	Entity	S916
+E1	Positive_regulation Theme:E2
+E3	Positive_regulation Theme:E4
+E5	Positive_regulation Theme:E6
+E2	Positive_regulation Theme:T8
+E4	Positive_regulation Theme:T9
+E6	Positive_regulation Theme:E7
+E7	Phosphorylation Theme:T10
+E8	Negative_regulation Cause:E9 Theme:E1
+E10	Negative_regulation Cause:E11 Theme:E1
+E12	Negative_regulation Cause:E9 Theme:E3
+E13	Negative_regulation Cause:E11 Theme:E3
+E14	Negative_regulation Cause:E9 Theme:E5
+E15	Negative_regulation Cause:E11 Theme:E5
+E9	Negative_regulation Theme:T1
+E11	Negative_regulation Theme:T2
+E16	Negative_regulation Theme:T1
+E17	Negative_regulation Theme:T2
+E18	Positive_regulation Theme:T1
+E19	Phosphorylation Site:T53 Theme:T1
+E20	Positive_regulation Theme:E19
+M1	Negation E8
+M2	Negation E10
+M3	Negation E12
+M4	Negation E13
+M5	Negation E14
+M6	Negation E15

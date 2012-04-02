@@ -1,0 +1,41 @@
+T1	Protein	Nef
+T2	Protein	CD4
+T6	Protein	IL-2
+T7	Protein	TNF-alpha
+T8	Protein	Fos
+T9	Protein	Jun
+T24	Entity	Thr-15
+E1	Gene_expression Theme:T1
+E2	Positive_regulation Theme:E3
+E3	Gene_expression Theme:T1
+E4	Localization Theme:T6
+E5	Localization Theme:T7
+E6	Binding Theme:T9
+E7	Binding Theme:T8
+E8	Positive_regulation Theme:E5
+E9	Positive_regulation Theme:E7
+E10	Positive_regulation Cause:T7 Theme:E4
+E11	Positive_regulation Cause:T7 Theme:E6
+E12	Positive_regulation Cause:T7 Theme:E7
+E13	Positive_regulation Theme:E6
+E14	Positive_regulation Cause:T7 Theme:E5
+E15	Positive_regulation Theme:E4
+E16	Regulation Cause:E20 Theme:E4
+E17	Regulation Cause:E20 Theme:E6
+E18	Regulation Cause:E20 Theme:E5
+E19	Regulation Cause:E20 Theme:E7
+E20	Gene_expression Theme:T1
+E21	Phosphorylation Site:T24 Theme:T1
+E22	Binding Theme:T1
+M1	Speculation E8
+M2	Speculation E9
+M3	Speculation E10
+M4	Speculation E11
+M5	Speculation E12
+M6	Speculation E13
+M7	Speculation E14
+M8	Speculation E15
+M9	Negation E16
+M10	Negation E17
+M11	Negation E18
+M12	Negation E19

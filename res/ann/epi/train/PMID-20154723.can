@@ -3,5 +3,5 @@ T2	Protein	FATS
 T3	Protein	p21
 T7	Protein	fragile site
 T11	Protein	histone deacetylase 1
-*	Equiv T11
+*	Equiv T1 T11
 E1	Acetylation Theme:T3

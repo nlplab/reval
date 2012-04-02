@@ -1,0 +1,19 @@
+T1	Protein	SrcA
+T2	Organism	Salmonella
+T3	Organism	Host
+T4	Organism	host
+T7	Organism	Salmonella enterica serovar Typhimurium
+T8	Organism	mice
+T10	Protein	CesT
+T11	Organism	E. coli
+T12	Chemical	carboxyl
+T14	Protein	SseL
+T15	Protein	PipB2
+T16	Protein	SsaN
+E1	Process
+E2	Process
+E3	Binding Theme1:T1 Theme2:T14
+E4	Binding Theme1:T1 Theme2:T15
+E5	Binding Theme1:T1 Theme2:T16
+E6	Process
+E7	Process

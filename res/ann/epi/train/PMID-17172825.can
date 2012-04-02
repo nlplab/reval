@@ -9,7 +9,7 @@ T18	Protein	SUV39H 1
 T20	Protein	histones H3
 T21	Protein	H4
 T23	Protein	HP1 alpha
-*	Equiv T2 T3
+*	Equiv T2 T2 T3 T3
 T26	Entity	CpG island
 T29	Entity	K9
 T30	Entity	promoter

@@ -1,0 +1,22 @@
+T1	Protein	IL-8
+T2	Protein	CD28
+T26	Entity	NF-kappa B-like sequence
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Positive_regulation Theme:E1
+E4	Localization Theme:T1
+E5	Positive_regulation Theme:T2
+E6	Gene_expression Theme:T1
+E7	Positive_regulation Theme:E8
+E8	Positive_regulation Theme:E9
+E9	Localization Theme:T1
+E10	Regulation Cause:T2 Site:T26 Theme:T1
+E11	Negative_regulation Theme:E12
+E12	Positive_regulation Theme:E13
+E13	Gene_expression Theme:T1
+E14	Positive_regulation Theme:E15
+E15	Positive_regulation Theme:E16
+E16	Gene_expression Theme:T1
+E17	Positive_regulation Theme:E18
+E18	Gene_expression Theme:T1
+M1	Negation E11

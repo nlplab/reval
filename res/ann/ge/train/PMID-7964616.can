@@ -1,0 +1,43 @@
+T1	Protein	Epstein-Barr virus nuclear antigen 2
+T2	Protein	EBNA-2
+T4	Protein	Epstein-Barr virus (EBV) nuclear antigen 2
+T7	Protein	CD23
+T8	Protein	c-fgr
+T9	Protein	latent membrane protein 1
+T10	Protein	LMP1
+T11	Protein	terminal protein 1
+T12	Protein	TP1
+T14	Protein	BamHI C
+T17	Protein	LMP
+T27	Protein	EBNA-2A
+*	Equiv T11 T12
+*	Equiv T9 T10
+*	Equiv T1 T2 T2 T4
+T36	Entity	promoter
+T41	Entity	cis-acting elements
+E1	Binding Theme:T1
+E2	Positive_regulation Cause:T1 Theme:T8
+E3	Positive_regulation Cause:T1 Theme:T9
+E4	Positive_regulation Cause:T1 Theme:T7
+E5	Positive_regulation Cause:T1 Theme:T11
+E6	Positive_regulation Site:T36 Theme:T11
+E7	Positive_regulation Site:T36 Theme:T14
+E8	Positive_regulation Theme:E6
+E9	Positive_regulation Theme:E7
+E10	Positive_regulation Cause:T1 Theme:E11
+E11	Gene_expression Theme:T17
+E12	Positive_regulation Cause:T1 Site:T41 Theme:T17
+E13	Positive_regulation Cause:E14 Site:T36 Theme:T17
+E14	Binding Theme:T1
+E15	Binding Site:T36 Theme:T17
+E16	Binding Theme:T1
+E17	Binding Theme:T1
+E18	Binding Theme:T27 Site2:T36 Theme2:T11
+E19	Binding Site:T36 Theme:T17
+E20	Binding Site:T36 Theme:T17
+M1	Speculation E1
+M2	Speculation E8
+M3	Negation E9
+M4	Speculation E9
+M5	Speculation E13
+M6	Speculation E20

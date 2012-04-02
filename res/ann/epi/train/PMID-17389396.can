@@ -8,8 +8,8 @@ T14	Protein	PMA1
 T17	Protein	H2B
 T20	Protein	ubiquitin
 T22	Protein	Ubc4
-*	Equiv T5 T6
-*	Equiv T30 T32
+*	Equiv T5 T6 T6
+*	Equiv T30 T32 T32
 T28	Entity	lysine
 T30	Entity	lysine 4
 T32	Entity	K4

@@ -1,0 +1,69 @@
+T1	Organism	Y. pestis
+T3	Organism	fleas
+T4	Organism	rat
+T5	Organism	flea
+T9	Organism	hosts
+T11	Chemical	iron
+T12	Regulon-operon	ybt
+T13	Regulon-operon	yfe
+T14	Protein	hmp virulence factor
+T18	Chemical	hexaacylated lipid A
+T20	Chemical	tetraacylated
+T21	Protein	Y. pestis plasminogen activator
+T22	Protein	pla
+T23	Protein	ymt
+T26	Protein	yadB
+T28	Protein	psaE
+T29	Protein	F
+T30	Protein	A
+T31	Protein	B
+T32	Protein	C
+T33	Protein	PsaA
+T35	Protein	psaC
+T37	Protein	RovA
+T38	Protein	rovA
+T40	Protein	rovM
+T42	Protein	phoP
+T43	Two-component-system	PhoPQ
+T44	Protein	PhoP
+T45	Protein	Q
+T47	Protein	mgtC
+T50	Protein	MgtC
+T55	Chemical	Mg2+
+T58	Organism	X. cheopis fleas
+T59	Protein	cecropin
+T60	Protein	defensin
+T72	Regulon-operon	PhoP
+*	Equiv T21 T22
+E1	Process
+E2	Process
+E3	Positive_regulation Cause:T12 Theme:E5
+E4	Positive_regulation Cause:T13 Theme:E5
+E5	Process
+E6	Positive_regulation Theme:T14
+E7	Process
+E8	Gene_expression Theme:T23
+E9	Gene_expression Theme:T22
+E10	Positive_regulation Theme:T26
+E11	Gene_expression Theme:T28
+E12	Gene_expression Theme:T29
+E13	Gene_expression Theme:T30
+E14	Gene_expression Theme:T31
+E15	Gene_expression Theme:T32
+E16	Positive_regulation Cause:T33 Theme:E17
+E17	Process
+E18	Positive_regulation Theme:T35
+E19	Gene_expression Theme:T38
+E20	Negative_regulation Theme:E19
+E21	Gene_expression Theme:T40
+E22	Positive_regulation Theme:E21
+E23	Regulation Cause:T44 Theme:T47
+E24	Gene_expression Theme:T42
+E25	Gene_expression Theme:T47
+E26	Process
+E27	Process
+E28	Positive_regulation Theme:T43
+E29	Process
+E30	Positive_regulation Theme:T43
+E31	Positive_regulation Theme:T42
+E32	Regulation Theme:T72

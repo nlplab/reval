@@ -1,0 +1,9 @@
+T1	Protein	CD28
+T3	Protein	interleukin 2
+T4	Protein	IL-2
+*	Equiv T3 T4
+E1	Positive_regulation Theme:T1
+E2	Gene_expression Theme:T3
+E3	Positive_regulation Cause:T1 Theme:E4
+E4	Gene_expression Theme:T3
+E5	Binding Theme:T1

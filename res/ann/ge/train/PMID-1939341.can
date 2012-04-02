@@ -1,0 +1,54 @@
+T1	Protein	c-fos
+T2	Protein	c-jun
+T7	Protein	lamin A
+T8	Protein	lamin C
+T9	Protein	vimentin
+T12	Protein	PKC
+T18	Protein	chloramphenicol acetyltransferase
+T19	Protein	CAT
+*	Equiv T18 T19
+E1	Negative_regulation Theme:T2
+E2	Negative_regulation Theme:T1
+E3	Negative_regulation Theme:E6
+E4	Negative_regulation Theme:E5
+E5	Positive_regulation Theme:T2
+E6	Positive_regulation Theme:T1
+E7	Negative_regulation Theme:E10
+E8	Negative_regulation Theme:E12
+E9	Negative_regulation Theme:E11
+E10	Positive_regulation Theme:T7
+E11	Positive_regulation Theme:T9
+E12	Positive_regulation Theme:T8
+E13	Gene_expression Theme:T1
+E14	Gene_expression Theme:T2
+E15	Regulation Theme:E14
+E16	Regulation Theme:E13
+E17	Regulation Theme:E18
+E18	Positive_regulation Theme:T12
+E19	Positive_regulation Theme:E22
+E20	Positive_regulation Theme:E21
+E21	Gene_expression Theme:T1
+E22	Gene_expression Theme:T2
+E23	Regulation Theme:E20
+E24	Regulation Theme:E19
+E25	Positive_regulation Theme:E27
+E26	Positive_regulation Theme:E28
+E27	Gene_expression Theme:T2
+E28	Gene_expression Theme:T1
+E29	Positive_regulation Theme:E25
+E30	Positive_regulation Theme:E26
+E31	Positive_regulation Theme:E36
+E32	Positive_regulation Theme:E35
+E33	Negative_regulation Theme:E32
+E34	Negative_regulation Theme:E31
+E35	Transcription Theme:T1
+E36	Transcription Theme:T2
+E37	Positive_regulation Theme:T18
+E38	Positive_regulation Theme:T18
+E39	Regulation Theme:E38
+E40	Negative_regulation Theme:E42
+E41	Positive_regulation Theme:E42
+E42	Transcription Theme:T2
+M1	Negation E17
+M2	Negation E29
+M3	Negation E30

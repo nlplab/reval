@@ -1,0 +1,25 @@
+T1	Protein	p105 NF-kappa B
+T2	Protein	I kappa B gamma
+T3	Protein	p105
+T4	Protein	p50
+T5	Protein	p70 I kappa B
+T8	Protein	I kappa B gamma-1
+T10	Protein	I kappa B gamma-2
+T11	Protein	p70I kappa B gamma
+T18	Protein	p65
+T19	Protein	c-Rel
+T32	Entity	cytoplasm
+T33	Entity	nucleus
+T34	Entity	nuclear
+E1	Gene_expression Theme:T2
+E2	Positive_regulation Theme:E1
+E3	Gene_expression Theme:T2
+E4	Positive_regulation Theme:E3
+E5	Localization AtLoc:T34 Theme:T10
+E6	Localization AtLoc:T32 Theme:T8
+E7	Localization AtLoc:T33 Theme:T8
+E8	Binding Theme:T8 Theme2:T4
+E9	Binding Theme:T10 Theme2:T4
+E10	Positive_regulation Theme:T2
+E11	Regulation Theme:T2
+M1	Speculation E10

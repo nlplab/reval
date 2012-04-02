@@ -1,0 +1,5 @@
+T1	Protein	IFN-gamma
+T2	Protein	interferon gamma
+T7	Protein	GM-CSF
+T8	Protein	M-CSF
+*	Equiv T1 T2

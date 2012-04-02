@@ -1,0 +1,45 @@
+T1	Protein	interleukin-2 receptor alpha chain
+T2	Protein	tumor necrosis factor alpha
+T4	Protein	IL-2R alpha
+T6	Protein	p65
+T7	Protein	c-Rel
+T9	Protein	p50
+T14	Protein	TNF alpha
+T19	Protein	IL-2
+T23	Protein	IL-2R alpha chain
+*	Equiv T2 T14
+*	Equiv T1 T4
+T31	Entity	nucleus
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Regulation Theme:E4
+E4	Gene_expression Theme:T1
+E5	Positive_regulation Theme:E6
+E6	Gene_expression Theme:T1
+E7	Localization Theme:T6 ToLoc:T31
+E8	Localization Theme:T7 ToLoc:T31
+E9	Binding Theme:T7 Theme2:T1
+E10	Binding Theme:T6 Theme2:T1
+E11	Binding Theme:T9 Theme2:T6
+E12	Binding Theme:T9 Theme2:T7
+E13	Positive_regulation Cause:T2 Theme:E9
+E14	Positive_regulation Cause:T2 Theme:E8
+E15	Positive_regulation Cause:T2 Theme:E7
+E16	Positive_regulation Cause:T2 Theme:E10
+E17	Localization Theme:T2
+E18	Negative_regulation Theme:E9
+E19	Negative_regulation Theme:E10
+E20	Negative_regulation Theme:E8
+E21	Negative_regulation Theme:E23
+E22	Gene_expression Theme:T2
+E23	Positive_regulation Theme:E22
+E24	Negative_regulation Theme:E25
+E25	Positive_regulation Theme:T1
+E26	Negative_regulation Cause:T19 Theme:E28
+E27	Negative_regulation Cause:T2 Theme:E28
+E28	Negative_regulation Theme:T1
+E29	Localization Theme:T2
+E30	Regulation Cause:T2 Theme:E31
+E31	Gene_expression Theme:T23
+M1	Speculation E3
+M2	Speculation E4

@@ -1,0 +1,24 @@
+T1	Protein	p50
+T2	Protein	p105
+T5	Protein	p65
+T6	Protein	PKC isoenzymes alpha
+T7	Protein	beta
+T12	Entity	promoter
+E1	Positive_regulation Site:T12 Theme:T1
+E2	Regulation Cause:E1 Theme:E3
+E3	Positive_regulation Theme:E4
+E4	Transcription Theme:T1
+E5	Regulation Theme:E6
+E6	Gene_expression Theme:T2
+E7	Positive_regulation Theme:E5
+E8	Regulation Theme:E7
+E9	Regulation Cause:T5 Theme:E7
+E10	Regulation Cause:T1 Theme:E7
+E11	Negative_regulation Theme:T7
+E12	Negative_regulation Theme:T6
+E13	Localization Theme:T1
+E14	Localization Theme:T5
+E15	Positive_regulation Cause:E14 Theme:E17
+E16	Positive_regulation Cause:E13 Theme:E17
+E17	Positive_regulation Site:T12 Theme:T2
+M1	Negation E8

@@ -1,0 +1,14 @@
+T1	Protein	NF-E1
+T2	Protein	YY1
+T3	Protein	DR alpha
+T6	Protein	DR beta
+T7	Protein	DQ alpha
+T9	Protein	DP alpha
+*	Equiv T1 T1 T2 T2
+T15	Entity	promoter
+T17	Entity	element
+E1	Binding Theme:T2 Theme2:T3
+E2	Negative_regulation Site:T15 Theme:T3
+E3	Binding Site:T17 Theme:T7
+E4	Binding Theme:T2
+M1	Negation E3

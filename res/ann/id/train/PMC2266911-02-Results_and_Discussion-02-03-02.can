@@ -1,0 +1,25 @@
+T1	Organism	P. luminescens
+T2	Chemical	polyphenols
+T3	Chemical	reactive oxygen species
+T4	Protein	plu4258
+T5	Chemical	glutathione
+T6	Protein	plu4259
+T7	Chemical	steroid
+T8	Protein	Plu4232
+T9	Protein	Plu2242
+T10	Organism	Y. enterocolitica
+T11	Protein	ye1945
+T12	Protein	hpaC
+T13	Protein	plu0974
+T14	Protein	ye3394
+T15	Protein	plu3599
+T16	Protein	ubiH
+T17	Protein	ye3395
+T18	Protein	plu3600
+T19	Protein	ubiF
+T20	Protein	ye2984
+T21	Protein	plu1313
+E1	Gene_expression Theme:T4
+E2	Gene_expression Theme:T6
+E3	Gene_expression Theme:T8
+E4	Gene_expression Theme:T9

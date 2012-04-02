@@ -1,0 +1,41 @@
+T1	Protein	I kappa B alpha
+T3	Protein	MAD-3
+T14	Protein	interleukin 1 beta
+T15	Protein	IL-1 beta
+*	Equiv T1 T3 T3
+*	Equiv T14 T15
+E1	Regulation Theme:T3
+E2	Gene_expression Theme:T3
+E3	Positive_regulation Theme:E2
+E4	Negative_regulation Theme:T3
+E5	Negative_regulation Theme:E4
+E6	Regulation Theme:E5
+E7	Regulation Theme:E8
+E8	Transcription Theme:T3
+E9	Positive_regulation Theme:T3
+E10	Positive_regulation Theme:T3
+E11	Positive_regulation Theme:T14
+E12	Transcription Theme:T3
+E13	Positive_regulation Theme:E12
+E14	Positive_regulation Theme:T3
+E15	Positive_regulation Cause:E16 Theme:E14
+E16	Positive_regulation Theme:T3
+E17	Positive_regulation Theme:T3
+E18	Positive_regulation Theme:T14
+E19	Positive_regulation Theme:T14
+E20	Positive_regulation Theme:T3
+E21	Regulation Theme:T3
+E22	Positive_regulation Theme:T3
+E23	Positive_regulation Theme:E24
+E24	Transcription Theme:T3
+E25	Positive_regulation Theme:E26
+E26	Positive_regulation Theme:T3
+E27	Positive_regulation Theme:E28
+E28	Transcription Theme:T3
+E29	Negative_regulation Theme:T3
+M1	Negation E13
+M2	Negation E15
+M3	Negation E20
+M4	Speculation E22
+M5	Negation E23
+M6	Negation E27

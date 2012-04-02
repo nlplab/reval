@@ -1,0 +1,21 @@
+T1	Protein	glycoprotein IX
+T2	Protein	Fli-1
+T3	Protein	Glycoprotein (GP) IX
+T4	Protein	GPIX
+T14	Protein	GPIbalpha
+T15	Protein	GPIIb
+T18	Protein	CD34
+T19	Protein	thrombopoietin
+T22	Entity	promoter
+E1	Regulation Cause:T2 Theme:T1
+E2	Negative_regulation Site:T22 Theme:T4
+E3	Regulation Theme:E4
+E4	Gene_expression Theme:T4
+E5	Positive_regulation Cause:T2 Site:T22 Theme:T4
+E6	Binding Theme:T2
+E7	Positive_regulation Cause:T2 Site:T22 Theme:T14
+E8	Positive_regulation Cause:T2 Site:T22 Theme:T15
+E9	Gene_expression Theme:T2
+E10	Gene_expression Theme:T2
+M1	Speculation E3
+M2	Speculation E4

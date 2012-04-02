@@ -9,15 +9,15 @@ T13	Protein	NatB
 T14	Protein	NatC
 T16	Protein	nat4
 T21	Protein	histone H2A.Z
-*	Equiv T5
+*	Equiv T1 T5
 T24	Entity	N termini
 T27	Entity	N terminus
 T28	Entity	N-terminal serine
 T31	Entity	lysines
 E1	Acetylation Site:T24 Theme:T2
-E2	Catalysis Cause:T1 Theme:E1
+E2	Catalysis Cause:T5 Theme:E1
 E3	Acetylation Site:T24 Theme:T3
-E4	Catalysis Cause:T1 Theme:E3
+E4	Catalysis Cause:T5 Theme:E3
 E5	Acetylation Site:T27 Theme:T8
 E6	Catalysis Cause:T5 Theme:E5
 E7	Acetylation Site:T28 Theme:T3

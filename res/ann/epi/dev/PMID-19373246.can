@@ -1,4 +1,4 @@
 T1	Protein	CYLD
 T2	Protein	ubiquitin
 T3	Protein	cylindromatosis
-*	Equiv T3
+*	Equiv T1 T3

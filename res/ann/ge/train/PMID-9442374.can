@@ -1,0 +1,24 @@
+T1	Protein	I kappa B beta
+T2	Protein	I kappa B alpha
+T4	Protein	p65
+T5	Protein	c-Rel
+T6	Protein	I kappa B epsilon
+T13	Protein	TNF alpha
+E1	Binding Theme:T2 Theme2:T4
+E2	Binding Theme:T2 Theme2:T5
+E3	Binding Theme:T1 Theme2:T5
+E4	Binding Theme:T1 Theme2:T4
+E5	Protein_catabolism Theme:T1
+E6	Protein_catabolism Theme:T2
+E7	Binding Theme:T2 Theme2:T4
+E8	Binding Theme:T1 Theme2:T4
+E9	Protein_catabolism Theme:T1
+E10	Positive_regulation Cause:T13 Theme:E9
+E11	Phosphorylation Theme:T1
+E12	Phosphorylation Theme:T2
+E13	Negative_regulation Theme:E14
+E14	Localization Theme:T1
+E15	Phosphorylation Theme:T1
+E16	Positive_regulation Theme:E17
+E17	Protein_catabolism Theme:T1
+M1	Negation E12

@@ -1,0 +1,21 @@
+T1	Protein	thyrotropin receptor
+T2	Protein	TSH receptor
+T3	Protein	TSH-R
+T6	Protein	thyroid peroxidase
+T7	Protein	thyroglobulin
+T8	Protein	c-fos
+T9	Protein	c-myc
+T11	Protein	gamma-Interferon
+*	Equiv T2 T3
+E1	Gene_expression Theme:T1
+E2	Regulation Theme:E1
+E3	Transcription Theme:T3
+E4	Gene_expression Theme:T3
+E5	Gene_expression Theme:T7
+E6	Gene_expression Theme:T8
+E7	Gene_expression Theme:T6
+E8	Gene_expression Theme:T9
+E9	Transcription Theme:T3
+E10	Gene_expression Theme:T11
+M1	Speculation E3
+M2	Negation E9

@@ -1,0 +1,24 @@
+T1	Protein	Elf-1
+T2	Protein	Stat5
+T3	Protein	interleukin-2 receptor alpha
+T4	Protein	interleukin 2 receptor alpha-chain
+T5	Protein	IL-2R alpha
+T7	Protein	Interleukin 2
+T8	Protein	IL-2
+T12	Protein	HMG-I(Y)
+T20	Protein	CAT
+*	Equiv T7 T8
+*	Equiv T4 T5
+E1	Binding Theme:T2 Theme2:T3
+E2	Binding Theme:T1 Theme2:T3
+E3	Positive_regulation Theme:T4
+E4	Transcription Theme:T4
+E5	Regulation Theme:E4
+E6	Binding Theme:T12
+E7	Binding Theme:T1
+E8	Positive_regulation Cause:T7 Theme:E9
+E9	Transcription Theme:T4
+E10	Positive_regulation Theme:E11
+E11	Gene_expression Theme:T4
+E12	Regulation Theme:E13
+E13	Regulation Theme:T4

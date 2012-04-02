@@ -4,4 +4,4 @@ T3	Protein	CD4
 T8	Protein	CCR5
 T9	Protein	CXCR4
 T12	Protein	DC-SIGN
-*	Equiv T12
+*	Equiv T1 T12

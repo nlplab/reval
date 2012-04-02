@@ -1,0 +1,11 @@
+T1	Protein	early growth response gene 1
+T2	Protein	egr-1
+T7	Protein	interleukin-2
+T8	Protein	CD44
+T9	Protein	ICAM-1
+T10	Protein	tumor necrosis factor
+*	Equiv T1 T2
+E1	Regulation Theme:T7
+E2	Regulation Theme:T10
+E3	Regulation Theme:T9
+E4	Regulation Theme:T8

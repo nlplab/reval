@@ -1,0 +1,16 @@
+T1	Protein	gammac
+T2	Protein	interleukin (IL)-2
+T3	Protein	IL-4
+T4	Protein	IL-7
+T5	Protein	IL-9
+T6	Protein	IL-15
+T10	Protein	Elf-1
+T11	Protein	IL2Rbeta
+T13	Protein	GABP
+E1	Negative_regulation Theme:T1
+E2	Binding Theme:T10
+E3	Gene_expression Theme:T13
+E4	Binding Theme:T13
+E5	Positive_regulation Cause:E4 Theme:E6
+E6	Gene_expression Theme:T1
+M1	Speculation E5

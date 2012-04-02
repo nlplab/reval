@@ -1,0 +1,24 @@
+T1	Protein	IL-2
+T2	Protein	CD28
+T12	Entity	promoter
+E1	Positive_regulation Theme:E2
+E2	Positive_regulation Site:T12 Theme:T1
+E3	Positive_regulation Theme:E2
+E4	Transcription Theme:T1
+E5	Positive_regulation Theme:E4
+E6	Positive_regulation Site:T12 Theme:T1
+E7	Positive_regulation Cause:E8 Theme:E6
+E8	Positive_regulation Theme:T2
+E9	Negative_regulation Theme:E10
+E10	Binding Theme:T2
+E11	Negative_regulation Theme:E12
+E12	Positive_regulation Site:T12 Theme:T1
+E13	Positive_regulation Theme:E14
+E14	Positive_regulation Site:T12 Theme:T1
+E15	Positive_regulation Cause:T2 Theme:E16
+E16	Positive_regulation Site:T12 Theme:T1
+E17	Regulation Theme:E15
+M1	Negation E1
+M2	Negation E13
+M3	Negation E17
+M4	Speculation E17

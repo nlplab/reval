@@ -2,6 +2,6 @@ T1	Protein	IKKgamma
 T2	Protein	NEMO
 T3	Protein	Inhibitor of kappaB kinase (IKK) gamma
 T5	Protein	nuclear factor kappaB (NF-kappaB) essential modulator
-*	Equiv T1 T2 T3 T5
+*	Equiv T1 T1 T2 T2 T3 T5
 E1	Ubiquitination Theme:T5
 E2	Phosphorylation Theme:T5

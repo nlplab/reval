@@ -1,0 +1,55 @@
+T1	Protein	c-Rel
+T2	Protein	p65
+T3	Protein	Tissue factor
+T4	Protein	TF
+T10	Protein	I kappa B alpha
+T19	Protein	Egr-1
+*	Equiv T3 T4
+T28	Entity	kappa B-like site
+T29	Entity	Nuclear
+T40	Entity	promoter
+T43	Entity	nuclear
+E1	Negative_regulation Theme:E3
+E2	Negative_regulation Theme:E4
+E3	Positive_regulation Theme:T1
+E4	Positive_regulation Theme:T2
+E5	Gene_expression Theme:T3
+E6	Positive_regulation Theme:E5
+E7	Binding Theme:T1 Site2:T28 Theme2:T3
+E8	Binding Theme:T2 Site2:T28 Theme2:T3
+E9	Localization Theme:T1 ToLoc:T29
+E10	Localization Theme:T2 ToLoc:T29
+E11	Positive_regulation Theme:E10
+E12	Positive_regulation Cause:E15 Theme:E9
+E13	Positive_regulation Cause:E15 Theme:E10
+E14	Positive_regulation Theme:E9
+E15	Protein_catabolism Theme:T10
+E16	Negative_regulation Theme:E17
+E17	Protein_catabolism Theme:T10
+E18	Negative_regulation Theme:E19
+E19	Positive_regulation Theme:E20
+E20	Gene_expression Theme:T3
+E21	Negative_regulation Theme:E26
+E22	Negative_regulation Theme:E25
+E23	Negative_regulation Theme:E24
+E24	Positive_regulation Theme:T3
+E25	Positive_regulation Site:T40 Theme:T3
+E26	Positive_regulation Theme:T3
+E27	Negative_regulation Theme:E32
+E28	Negative_regulation Theme:E30
+E29	Negative_regulation Theme:E31
+E30	Protein_catabolism Theme:T10
+E31	Localization Theme:T1 ToLoc:T43
+E32	Localization Theme:T2 ToLoc:T43
+E33	Negative_regulation Theme:E34
+E34	Positive_regulation Theme:T19
+E35	Negative_regulation Theme:E37
+E36	Negative_regulation Theme:E38
+E37	Localization Theme:T2 ToLoc:T43
+E38	Localization Theme:T1 ToLoc:T43
+E39	Negative_regulation Cause:E35 Theme:E41
+E40	Negative_regulation Cause:E36 Theme:E41
+E41	Positive_regulation Theme:E42
+E42	Transcription Theme:T3
+M1	Speculation E18
+M2	Negation E33

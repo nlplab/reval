@@ -1,0 +1,9 @@
+T1	Protein	Oct-1
+T2	Protein	TBP
+T3	Protein	Sp1
+E1	Regulation Theme:T3
+E2	Regulation Theme:T2
+E3	Regulation Theme:T1
+M1	Negation E1
+M2	Negation E2
+M3	Negation E3

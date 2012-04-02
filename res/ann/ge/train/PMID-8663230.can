@@ -1,0 +1,9 @@
+T1	Protein	oct-2A
+T2	Protein	Oct-2a
+T4	Protein	GAL4
+T10	Entity	N
+T11	Entity	termini
+E1	Positive_regulation Cause:E4 Site:T11 Theme:T2
+E2	Positive_regulation Cause:E3 Site:T10 Theme:T2
+E3	Binding Site:T10 Theme:T2
+E4	Binding Site:T11 Theme:T2

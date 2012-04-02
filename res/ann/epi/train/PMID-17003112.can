@@ -5,7 +5,7 @@ T4	Protein	HIF asparaginyl hydroxylase
 T8	Protein	p105
 T9	Protein	NFKB1
 T10	Protein	IkappaBalpha
-*	Equiv T1 T2 T3 T4
+*	Equiv T1 T2 T2 T3 T3 T4
 *	Equiv T8 T9
 T16	Entity	Asn residues
 E1	Hydroxylation Site:T16 Theme:T8

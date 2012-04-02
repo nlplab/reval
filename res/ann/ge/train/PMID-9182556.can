@@ -1,0 +1,33 @@
+T1	Protein	HSF2-beta
+T2	Protein	heat shock factor 2
+T3	Protein	HSF2
+T5	Protein	HSF2-alpha
+*	Equiv T2 T3
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Binding Theme:T2
+E4	Regulation Theme:E3
+E5	Regulation Theme:T1
+E6	Regulation Theme:T5
+E7	Regulation Theme:T5
+E8	Regulation Theme:T1
+E9	Regulation Cause:T5 Theme:E11
+E10	Regulation Cause:T1 Theme:E11
+E11	Positive_regulation Theme:T2
+E12	Gene_expression Theme:T5
+E13	Gene_expression Theme:T1
+E14	Gene_expression Theme:T5
+E15	Positive_regulation Theme:T2
+E16	Gene_expression Theme:T5
+E17	Gene_expression Theme:T1
+E18	Positive_regulation Theme:E17
+E19	Positive_regulation Theme:E20
+E20	Gene_expression Theme:T5
+E21	Negative_regulation Theme:E23
+E22	Gene_expression Theme:T1
+E23	Positive_regulation Theme:E22
+E24	Negative_regulation Cause:T1 Theme:T2
+M1	Speculation E9
+M2	Speculation E10
+M3	Speculation E11
+M4	Speculation E24

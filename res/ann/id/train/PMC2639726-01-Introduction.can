@@ -1,0 +1,20 @@
+T1	Organism	Typhi
+T2	Organism	Salmonella
+T3	Organism	children
+T4	Organism	HIV infected adults
+T5	Organism	HIV
+T6	Organism	Salmonella enteriditis serotype Typhimurium
+T8	Organism	Typhimurium
+T9	Organism	mouse
+T10	Organism	Salmonella enteriditis
+T16	Organism	mice
+T21	Organism	E. coli
+E1	Process
+E2	Process Participant:T8
+E3	Process
+E4	Process
+E5	Process
+E6	Process
+E7	Process
+E8	Process Participant:T2
+E9	Process Participant:T2

@@ -1,0 +1,76 @@
+T1	Protein	Foxp3
+T11	Protein	CD4
+T12	Protein	Tax
+T19	Protein	CD25
+T27	Protein	CBP
+T28	Protein	p300
+T31	Protein	DeltaFKH
+T46	Protein	CD8
+T72	Protein	JunD
+T73	Protein	c-Fos
+T74	Protein	signal transducer of activated T cells 3
+T75	Protein	STAT3
+T76	Protein	p15INK4b
+T77	Protein	cyclin A
+T78	Protein	cyclin D1
+T79	Protein	IL-2
+T80	Protein	IL-6
+*	Equiv T74 T75
+T91	Entity	amino-terminal proline-rich region
+T92	Entity	leucine zipper domain
+T120	Entity	FKH domain
+E1	Gene_expression Theme:T1
+E2	Negative_regulation Theme:T1
+E3	Binding Site:T91 Theme:T1
+E4	Regulation CSite:T92 Cause:T1 Theme:E5
+E5	Binding Theme:T1
+E6	Regulation CSite:T92 Cause:T1 Theme:E5
+E7	Regulation Theme:E8
+E8	Gene_expression Theme:T1
+E9	Binding Theme:T12
+E10	Binding Theme:T12
+E11	Positive_regulation Cause:E10 Theme:E12
+E12	Binding Theme:T12
+E13	Binding Theme:T12 Theme2:T27
+E14	Binding Theme:T12 Theme2:T28
+E15	Positive_regulation Theme:T1
+E16	Positive_regulation Theme:T31
+E17	Gene_expression Theme:T1
+E18	Gene_expression Theme:T31
+E19	Positive_regulation Theme:E20
+E20	Gene_expression Theme:T1
+E21	Negative_regulation Theme:E22
+E22	Gene_expression Theme:T1
+E23	Regulation Theme:E24
+E24	Gene_expression Theme:T1
+E25	Gene_expression Theme:T1
+E26	Negative_regulation Cause:T12 Theme:E25
+E27	Binding Theme:T27
+E28	Binding Theme:T28
+E29	Negative_regulation Cause:T1 Theme:E27
+E30	Negative_regulation Cause:T1 Theme:E28
+E31	Binding Theme:T28
+E32	Negative_regulation Cause:T1 Theme:E31
+E33	Positive_regulation Cause:E34 Theme:E29
+E35	Positive_regulation Cause:E34 Theme:E30
+E36	Positive_regulation Cause:E34 Theme:E32
+E34	Binding Theme:T1 Theme2:T28
+E37	Negative_regulation Site:T120 Theme:T1
+E38	Regulation Theme:T72
+E39	Regulation Theme:T73
+E40	Regulation Theme:T74
+E41	Regulation Theme:T76
+E42	Regulation Theme:T77
+E43	Regulation Theme:T78
+E44	Regulation Theme:T79
+E45	Regulation Theme:T80
+E46	Gene_expression Theme:T1
+E47	Negative_regulation Theme:E48
+E48	Gene_expression Theme:T1
+E49	Binding Theme:T1
+M1	Speculation E3
+M2	Speculation E4
+M3	Negation E7
+M4	Speculation E33
+M5	Speculation E35
+M6	Speculation E36

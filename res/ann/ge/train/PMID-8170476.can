@@ -1,0 +1,21 @@
+T1	Protein	Pan
+T2	Protein	Pan-1
+T3	Protein	Pan-2
+T4	Protein	E47
+T5	Protein	E12
+T8	Protein	E2A
+T17	Protein	GH
+T18	Protein	insulin
+*	Equiv T3 T5
+*	Equiv T2 T4
+E1	Transcription Theme:T1
+E2	Gene_expression Theme:T8
+E3	Gene_expression Theme:T1
+E4	Binding Theme:T1
+E5	Gene_expression Theme:T1
+E6	Gene_expression Theme:T17
+E7	Gene_expression Theme:T18
+E8	Regulation Theme:E9
+E9	Gene_expression Theme:T18
+E10	Gene_expression Theme:T1
+M1	Speculation E8

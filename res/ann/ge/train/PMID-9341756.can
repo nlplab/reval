@@ -1,0 +1,27 @@
+T1	Protein	intracellular adhesion molecule (ICAM)-1
+T2	Protein	vascular cell adhesion molecule (VCAM)-1
+T3	Protein	endothelial leukocyte adhesion molecule (ELAM)-1
+T4	Protein	ICAM-1
+T5	Protein	VCAM-1
+T6	Protein	ELAM-1
+E1	Regulation Theme:E5
+E2	Regulation Theme:E6
+E3	Regulation Theme:E4
+E4	Positive_regulation Theme:T1
+E5	Positive_regulation Theme:T3
+E6	Positive_regulation Theme:T2
+E7	Positive_regulation Theme:T6
+E8	Positive_regulation Theme:T5
+E9	Positive_regulation Theme:T4
+E10	Negative_regulation Theme:E7
+E11	Negative_regulation Theme:E9
+E12	Negative_regulation Theme:E8
+E13	Negative_regulation Theme:E18
+E14	Negative_regulation Theme:E17
+E15	Negative_regulation Theme:E16
+E16	Positive_regulation Theme:T4
+E17	Positive_regulation Theme:T5
+E18	Positive_regulation Theme:T6
+M1	Speculation E1
+M2	Speculation E2
+M3	Speculation E3

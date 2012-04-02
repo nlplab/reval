@@ -2,4 +2,4 @@ T1	Protein	latency-associated nuclear antigen
 T2	Protein	Sel10
 T4	Protein	ubiquitin
 T7	Protein	LANA
-*	Equiv T7
+*	Equiv T1 T7

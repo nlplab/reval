@@ -4,7 +4,7 @@ T4	Protein	IRF3
 T6	Protein	tripartite motif-containing 21
 T11	Protein	Pin1
 T12	Protein	peptidyl-prolyl cis/trans isomerase, NIMA-interacting 1
-*	Equiv T4
-*	Equiv T6
+*	Equiv T2 T4
+*	Equiv T1 T6
 *	Equiv T11 T12
 E1	Ubiquitination Theme:T4

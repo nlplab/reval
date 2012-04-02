@@ -9,8 +9,8 @@ T11	Protein	RING2
 T15	Protein	DNA methyltransferase 1
 T17	Protein	HOXA7
 T30	Protein	H3
-*	Equiv T5
-*	Equiv T15
+*	Equiv T2 T5
+*	Equiv T4 T15
 T42	Entity	promoter
 T49	Entity	K27
 E1	Ubiquitination Theme:T3

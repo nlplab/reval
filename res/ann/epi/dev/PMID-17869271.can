@@ -7,5 +7,5 @@ T7	Protein	ElonginB
 T8	Protein	ElonginC
 T10	Protein	Cul5
 *	Equiv T3 T4
-*	Equiv T10
+*	Equiv T1 T10
 E1	Ubiquitination Theme:T3

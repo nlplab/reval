@@ -1,0 +1,14 @@
+T1	Protein	tumor necrosis factor receptor-associated factor (TRAF) 1
+T2	Protein	2
+T3	Protein	3
+T4	Protein	STP-A11
+T5	Protein	STP-C488
+T8	Protein	interleukin-2
+T10	Protein	TRAF2
+E1	Binding Theme:T3
+E2	Binding Theme:T2
+E3	Binding Theme:T1
+E4	Binding Theme:T4
+E5	Binding Theme:T5
+E6	Binding Theme:T5
+E7	Positive_regulation Cause:T5 Theme:E1

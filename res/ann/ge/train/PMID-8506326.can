@@ -1,0 +1,44 @@
+T1	Protein	IL2
+T2	Protein	IL3
+T3	Protein	IL4
+T4	Protein	IL5
+T5	Protein	interleukins 2
+T6	Protein	3
+T7	Protein	4
+T8	Protein	5
+T9	Protein	IL-2
+T10	Protein	-3
+T11	Protein	-4
+T12	Protein	-5
+T14	Protein	OCT-1
+T17	Protein	chloramphenicol acetyl transferase
+T18	Protein	CAT
+*	Equiv T17 T18
+T27	Entity	response elements
+T30	Entity	enhancer
+E1	Transcription Theme:T1
+E2	Transcription Theme:T3
+E3	Transcription Theme:T4
+E4	Transcription Theme:T2
+E5	Regulation Theme:E4
+E6	Binding Site:T27 Theme:T1
+E7	Binding Site:T27 Theme:T1
+E8	Binding Site:T27 Theme:T1 Theme2:T14
+E9	Binding Site:T30 Theme:T1
+E10	Binding Site:T30 Theme:T3
+E11	Gene_expression Theme:T17
+E12	Positive_regulation Theme:E11
+E13	Regulation Theme:T17
+E14	Gene_expression Theme:T17
+E15	Regulation Theme:E14
+E16	Negative_regulation Theme:E14
+E17	Gene_expression Theme:T17
+E18	Negative_regulation Theme:E17
+M1	Negation E1
+M2	Negation E2
+M3	Negation E3
+M4	Negation E4
+M5	Speculation E5
+M6	Speculation E6
+M7	Speculation E11
+M8	Negation E18

@@ -1,0 +1,20 @@
+T1	Protein	IL-2
+T5	Protein	c-myc
+T6	Protein	bcl-2
+T7	Protein	I kappa B-alpha
+T8	Protein	I kappa B-beta
+T9	Protein	CD40
+E1	Negative_regulation Theme:E2
+E2	Positive_regulation Theme:T1
+E3	Negative_regulation Theme:E6
+E4	Negative_regulation Theme:E5
+E5	Positive_regulation Theme:T5
+E6	Positive_regulation Theme:T6
+E7	Negative_regulation Theme:E9
+E8	Negative_regulation Theme:E10
+E9	Protein_catabolism Theme:T8
+E10	Protein_catabolism Theme:T7
+E11	Binding Theme:T9
+M1	Negation E1
+M2	Negation E3
+M3	Negation E4

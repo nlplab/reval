@@ -1,7 +1,7 @@
 T1	Protein	Tissue factor
 T2	Protein	tissue factor
 T3	Protein	TF
-*	Equiv T3 T2
+*	Equiv T2 T3
 E1	Gene_expression Theme:T1
 E2	Negative_regulation Theme:E1
 E3	Gene_expression Theme:T2

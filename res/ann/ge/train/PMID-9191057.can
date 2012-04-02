@@ -1,0 +1,16 @@
+T1	Protein	cyclin A
+T2	Protein	CD2
+T3	Protein	CD28
+T4	Protein	Cyclin A
+T13	Protein	ATF-1
+E1	Negative_regulation Theme:E2
+E2	Negative_regulation Theme:T1
+E3	Transcription Theme:T4
+E4	Regulation Theme:E3
+E5	Positive_regulation Theme:E3
+E6	Binding Theme:T4
+E7	Transcription Theme:T4
+E8	Positive_regulation Theme:E3
+E9	Binding Theme:T13
+M1	Speculation E6
+M2	Negation E8

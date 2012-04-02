@@ -1,0 +1,13 @@
+T1	Protein	Fas ligand
+T2	Protein	CD95
+T3	Protein	caspase-1
+T4	Protein	caspase-3
+T5	Protein	CPP32
+T6	Protein	Yama
+T7	Protein	apopain
+T8	Protein	caspase-6
+T10	Protein	DNA fragmentation factor-45
+*	Equiv T1 T2
+*	Equiv T5 T6 T7
+E1	Positive_regulation Theme:T8
+E2	Positive_regulation Theme:T7

@@ -1,0 +1,15 @@
+T1	Protein	Sp1
+T2	Protein	Sp3
+T3	Protein	A3G
+T11	Protein	luciferase reporter plasmid containing the 180 bp A3G promoter
+E1	Negative_regulation Theme:T1
+E2	Negative_regulation Theme:T2
+E3	Gene_expression Theme:T1
+E4	Gene_expression Theme:T2
+E5	Negative_regulation Theme:E3
+E6	Negative_regulation Theme:E4
+E7	Gene_expression Theme:T11
+E8	Negative_regulation Cause:E9 Theme:T11
+E10	Negative_regulation Cause:E11 Theme:T11
+E9	Negative_regulation Theme:T1
+E11	Negative_regulation Theme:T2

@@ -1,0 +1,13 @@
+T1	Protein	LDL-receptor
+T2	Protein	low density lipoprotein (LDL)-receptor
+T3	Protein	3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase
+T4	Protein	HMG-CoA synthase
+T5	Protein	alpha-interferon
+E1	Positive_regulation Theme:E2
+E2	Transcription Theme:T1
+E3	Regulation Theme:T2
+E4	Regulation Theme:T3
+E5	Regulation Theme:T4
+E6	Regulation Theme:E7
+E7	Transcription Theme:T1
+E8	Transcription Theme:T1

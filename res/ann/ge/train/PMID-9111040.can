@@ -1,0 +1,10 @@
+T1	Protein	NOTCH1
+T2	Protein	RBP-Jkappa
+T20	Entity	nuclear
+E1	Binding Theme:T1 Theme2:T2
+E2	Binding Theme:T2
+E3	Positive_regulation Theme:E4
+E4	Binding Theme:T1 Theme2:T2
+E5	Negative_regulation Theme:E6
+E6	Localization AtLoc:T20 Theme:T1
+E7	Binding Theme:T2

@@ -1,0 +1,14 @@
+T1	Protein	RFLAT-1
+T2	Protein	RANTES
+T4	Protein	Regulated upon Activation, Normal T cell Expressed and Secreted
+T6	Protein	RANTES Factor of Late Activated T Lymphocytes-1
+*	Equiv T2 T4
+E1	Positive_regulation Cause:T1 Theme:E2
+E2	Gene_expression Theme:T4
+E3	Gene_expression Theme:T4
+E4	Phosphorylation Theme:T1
+E5	Gene_expression Theme:T1
+E6	Gene_expression Theme:T4
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T4
+E9	Positive_regulation Cause:T1 Theme:T4

@@ -1,0 +1,12 @@
+T1	Protein	interleukin 2
+T2	Protein	Interleukin 2
+T3	Protein	Il-2
+T5	Protein	TCF-1
+T6	Protein	T cell factor 1
+*	Equiv T2 T3
+*	Equiv T5 T6
+E1	Localization Theme:T2
+E2	Binding Theme:T5
+E3	Binding Theme:T5
+E4	Regulation Theme:E5
+E5	Transcription Theme:T2

@@ -1,0 +1,16 @@
+T1	Protein	thioredoxin
+T2	Protein	TRX
+T3	Protein	p56lck
+T4	Protein	p59fyn
+T5	Protein	CD4
+T6	Protein	IL-2 receptor beta-chain
+T7	Protein	IL-2
+*	Equiv T1 T2
+E1	Positive_regulation Theme:T3
+E2	Positive_regulation Theme:T4
+E3	Regulation Theme:T3
+E4	Regulation Theme:T4
+E5	Positive_regulation Theme:T3
+E6	Positive_regulation Theme:T4
+M1	Speculation E3
+M2	Speculation E4

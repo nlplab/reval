@@ -1,0 +1,33 @@
+T1	Organism	human
+T2	Organism	Mycobacterium tuberculosis
+T4	Organism	M. tuberculosis
+T6	Organism	Bacille de Calmette et Guerin
+T7	Organism	BCG
+T8	Organism	Mycobacterium bovis
+T10	Organism	M. tuberculosis H37Ra
+T11	Organism	H37Ra
+T12	Organism	patient
+T13	Organism	M. tuberculosis H37
+T15	Organism	M. tuberculosis H37Rv
+T16	Organism	H37Rv
+T21	Organism	mouse
+T22	Organism	mice
+T26	Chemical	PA-824
+T29	Two-component-system	phoP/phoR
+T30	Protein	phoP
+T31	Protein	phoR
+T33	Protein	ESAT-6
+T34	Protein	CFP-10
+*	Equiv T6 T7
+*	Equiv T10 T11
+*	Equiv T15 T16
+E1	Process Participant:T4
+E2	Process Participant:T8
+E3	Process
+M1	Negation E3
+E4	Process Participant:T15
+E5	Process Participant:T10
+E6	Process Participant:T15
+E7	Process Participant:T10
+E8	Process Participant:T10
+E9	Process

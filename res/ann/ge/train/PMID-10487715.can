@@ -1,0 +1,4 @@
+T1	Protein	P65
+E1	Negative_regulation Theme:T1
+E2	Negative_regulation Theme:E1
+M1	Negation E2

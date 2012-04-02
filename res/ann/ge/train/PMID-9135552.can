@@ -1,0 +1,30 @@
+T1	Protein	CD4
+T5	Protein	CD80
+T6	Protein	CD86
+T7	Protein	CD71
+T8	Protein	interleukin-2 (IL-2)R alpha
+T9	Protein	IL-2R beta
+T10	Protein	IL-2R gamma
+T11	Protein	OCT-1
+T12	Protein	IL-2
+E1	Positive_regulation Theme:T7
+E2	Positive_regulation Theme:T5
+E3	Positive_regulation Theme:T10
+E4	Positive_regulation Theme:T6
+E5	Positive_regulation Theme:T9
+E6	Positive_regulation Theme:T8
+E7	Positive_regulation Theme:T5
+E8	Positive_regulation Theme:T9
+E9	Positive_regulation Theme:T8
+E10	Positive_regulation Theme:T6
+E11	Positive_regulation Theme:T10
+E12	Positive_regulation Theme:T7
+E13	Positive_regulation Theme:T11
+E14	Regulation Theme:T12
+E15	Regulation Cause:T11 Theme:T12
+M1	Negation E8
+M2	Negation E9
+M3	Negation E10
+M4	Negation E11
+M5	Negation E12
+M6	Speculation E13

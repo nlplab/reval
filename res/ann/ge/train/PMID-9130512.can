@@ -1,0 +1,37 @@
+T1	Protein	IL-2
+T3	Protein	IL-6
+T6	Protein	RA receptors (RAR)-alpha
+T7	Protein	beta
+T8	Protein	gamma
+T9	Protein	IL-2-alpha receptor
+T11	Protein	IL-2R-alpha
+T12	Protein	RAR-alpha
+E1	Regulation Theme:E2
+E2	Transcription Theme:T1
+E3	Gene_expression Theme:T3
+E4	Positive_regulation Theme:E3
+E5	Regulation Theme:E6
+E6	Transcription Theme:T1
+E7	Regulation Theme:E10
+E8	Regulation Theme:E11
+E9	Regulation Theme:E12
+E10	Transcription Theme:T6
+E11	Transcription Theme:T7
+E12	Transcription Theme:T8
+E13	Regulation Theme:E14
+E14	Gene_expression Theme:T9
+E15	Positive_regulation Theme:E16
+E16	Transcription Theme:T1
+E17	Regulation Theme:E18
+E18	Gene_expression Theme:T11
+E19	Positive_regulation Cause:T12 Theme:E16
+E20	Regulation Theme:T1
+M1	Speculation E5
+M2	Speculation E6
+M3	Speculation E7
+M4	Speculation E8
+M5	Speculation E9
+M6	Speculation E13
+M7	Speculation E17
+M8	Speculation E19
+M9	Speculation E20

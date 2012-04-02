@@ -1,0 +1,12 @@
+T1	Protein	C1
+T2	Protein	C2
+T5	Protein	interleukin-2-receptor alpha-subunit
+T11	Entity	enhancer
+E1	Binding Theme:T1
+E2	Binding Theme:T2
+E3	Regulation Theme:E6
+E4	Regulation Theme:E5
+E5	Binding Theme:T2
+E6	Binding Theme:T1
+E7	Binding Theme:T2 Site2:T11 Theme2:T5
+E8	Binding Theme:T1 Site2:T11 Theme2:T5

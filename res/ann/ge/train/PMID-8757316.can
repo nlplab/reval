@@ -1,0 +1,20 @@
+T1	Protein	Alpha 4 beta 1 (CD49d/CD29) integrin
+T2	Protein	integrin alpha 4 beta 1
+T3	Protein	IL-2
+T4	Protein	IL-2R
+T6	Protein	vascular-cell adhesion molecule-1
+T7	Protein	alpha 4 beta 1
+T9	Protein	TNF-alpha
+T10	Protein	IFN-gamma
+T11	Protein	granulocyte macrophage-CSF
+E1	Positive_regulation Cause:T2 Theme:E3
+E2	Positive_regulation Cause:T2 Theme:E4
+E3	Localization Theme:T3
+E4	Gene_expression Theme:T4
+E5	Gene_expression Theme:T3
+E6	Binding Theme:T7
+E7	Localization Theme:T11
+E8	Localization Theme:T10
+E9	Localization Theme:T3
+E10	Localization Theme:T9
+E11	Positive_regulation Theme:T3

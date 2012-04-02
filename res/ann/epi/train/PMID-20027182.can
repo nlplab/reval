@@ -4,7 +4,7 @@ T4	Protein	AICDA
 T5	Protein	OCT4
 T6	Protein	POU5F1
 T7	Protein	NANOG
-*	Equiv T2 T4
+*	Equiv T1 T2 T4
 *	Equiv T5 T6
 T12	Entity	promoter
 T15	Entity	promoters

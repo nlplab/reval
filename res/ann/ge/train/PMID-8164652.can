@@ -1,0 +1,13 @@
+T1	Protein	major histocompatibility complex class II invariant chain
+T2	Protein	histocompatibility complex class II-associated invariant-chain
+T3	Protein	p50
+T4	Protein	p52
+T5	Protein	p65
+T6	Protein	cRel
+T15	Entity	promoter
+E1	Regulation Site:T15 Theme:T1
+E2	Regulation Theme:E1
+E3	Binding Theme:T3 Theme2:T4 Theme3:T5 Theme4:T6
+E4	Binding Theme:T3
+E5	Binding Theme:T3 Theme2:T4 Theme3:T5 Theme4:T6
+E6	Binding Theme:T3 Theme2:T4

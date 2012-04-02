@@ -1,0 +1,4 @@
+T1	Protein	TAT
+T2	Protein	GATA3
+T7	Entity	two zinc fingers
+E1	Negative_regulation Site:T7 Theme:T2

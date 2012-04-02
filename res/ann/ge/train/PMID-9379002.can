@@ -1,0 +1,33 @@
+T1	Protein	I kappa B-alpha
+T2	Protein	MAD-3
+T3	Protein	TNF-alpha
+T4	Protein	IL-2R
+T8	Protein	IL-8
+T9	Protein	IL-1 beta
+T10	Protein	tuberculin
+*	Equiv T1 T2
+E1	Regulation Theme:T2
+E2	Positive_regulation Theme:E5
+E3	Positive_regulation Theme:E6
+E4	Positive_regulation Theme:E5
+E5	Localization Theme:T3
+E6	Gene_expression Theme:T4
+E7	Protein_catabolism Theme:T2
+E8	Protein_catabolism Theme:T2
+E9	Gene_expression Theme:T2
+E10	Positive_regulation Theme:E9
+E11	Positive_regulation Theme:E9
+E12	Gene_expression Theme:T9
+E13	Gene_expression Theme:T8
+E14	Positive_regulation Theme:E13
+E15	Positive_regulation Theme:E12
+E16	Positive_regulation Cause:T10 Theme:E20
+E17	Positive_regulation Cause:T10 Theme:E21
+E18	Positive_regulation Theme:E21
+E19	Positive_regulation Theme:E20
+E20	Protein_catabolism Theme:T2
+E21	Transcription Theme:T2
+M1	Negation E8
+M2	Negation E11
+M3	Negation E14
+M4	Negation E15

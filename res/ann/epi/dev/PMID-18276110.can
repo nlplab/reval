@@ -3,6 +3,6 @@ T2	Protein	SIAH1
 T3	Protein	TRB3
 T4	Protein	Tribbles 3 homolog
 T6	Protein	insulin
-*	Equiv T4
+*	Equiv T3 T4
 E1	Catalysis Cause:T2 Theme:E2
-E2	Ubiquitination Theme:T3
+E2	Ubiquitination Theme:T4

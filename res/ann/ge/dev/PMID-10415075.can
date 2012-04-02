@@ -1,0 +1,8 @@
+T1	Protein	p65
+T2	Protein	RelA
+T3	Protein	CD28
+T7	Protein	p50
+E1	Negative_regulation Theme:T1
+E2	Positive_regulation Theme:T1
+E3	Positive_regulation Theme:T7
+M1	Negation E3

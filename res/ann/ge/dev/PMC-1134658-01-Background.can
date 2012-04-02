@@ -1,0 +1,65 @@
+T1	Protein	transforming growth factor beta
+T2	Protein	TGF-beta
+T3	Protein	TGF-beta,
+T5	Protein	BMP- 2
+T6	Protein	-4
+T7	Protein	-7
+T8	Protein	BMP-6
+T9	Protein	BMP-2
+T11	Protein	6
+T16	Protein	Act-RIA
+T17	Protein	BMP-RIA
+T18	Protein	BMP-RIB
+T19	Protein	BMP-RII
+T20	Protein	Act-RIIA
+T21	Protein	Act-RIIB
+T22	Protein	Smad-1
+T23	Protein	Smad-5
+T24	Protein	Smad-8
+T25	Protein	Smad4
+T29	Protein	Id1
+T30	Protein	Id4
+T40	Entity	nucleus
+E1	Positive_regulation Theme:T8
+E2	Binding Theme:T8
+E3	Binding Theme:T8
+E4	Binding Theme:T8 Theme2:T16
+E5	Binding Theme:T8 Theme2:T17
+E6	Binding Theme:T8 Theme2:T18
+E7	Binding Theme:T8 Theme2:T19
+E8	Binding Theme:T8 Theme2:T20
+E9	Binding Theme:T8 Theme2:T21
+E10	Positive_regulation Cause:E4 Theme:E11
+E12	Positive_regulation Cause:E5 Theme:E11
+E13	Positive_regulation Cause:E6 Theme:E11
+E14	Positive_regulation Cause:E7 Theme:E11
+E15	Positive_regulation Cause:E8 Theme:E11
+E16	Positive_regulation Cause:E9 Theme:E11
+E17	Positive_regulation Cause:E4 Theme:E18
+E19	Positive_regulation Cause:E5 Theme:E18
+E20	Positive_regulation Cause:E6 Theme:E18
+E21	Positive_regulation Cause:E7 Theme:E18
+E22	Positive_regulation Cause:E8 Theme:E18
+E23	Positive_regulation Cause:E9 Theme:E18
+E24	Positive_regulation Cause:E4 Theme:E25
+E26	Positive_regulation Cause:E5 Theme:E25
+E27	Positive_regulation Cause:E6 Theme:E25
+E28	Positive_regulation Cause:E7 Theme:E25
+E29	Positive_regulation Cause:E8 Theme:E25
+E30	Positive_regulation Cause:E9 Theme:E25
+E11	Phosphorylation Theme:T22
+E18	Phosphorylation Theme:T23
+E25	Phosphorylation Theme:T24
+E31	Binding Theme:T22 Theme2:T25
+E32	Binding Theme:T23 Theme2:T25
+E33	Binding Theme:T24 Theme2:T25
+E34	Localization Theme:T22 ToLoc:T40
+E35	Localization Theme:T23 ToLoc:T40
+E36	Localization Theme:T24 ToLoc:T40
+E37	Gene_expression Theme:T8
+E38	Positive_regulation Cause:E37 Theme:E39
+E40	Positive_regulation Cause:E37 Theme:E41
+E39	Regulation Theme:T29
+E41	Regulation Theme:T30
+E42	Gene_expression Theme:T8
+M1	Speculation E42

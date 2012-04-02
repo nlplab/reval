@@ -1,0 +1,53 @@
+T1	Protein	RUNX1
+T2	Protein	RUNX3
+T3	Protein	FOXP3
+T8	Protein	RUNX
+T20	Protein	Foxp3
+T25	Protein	CBFbeta
+T27	Protein	CD4
+T28	Protein	IL-2
+T29	Protein	CD2
+T30	Protein	3
+T31	Protein	28
+T32	Protein	TGF-beta
+T40	Entity	promoter
+T44	Entity	binding site
+T51	Entity	binding sites
+T54	Entity	-333
+T55	Entity	-287 sites
+T57	Entity	-53 site
+E1	Binding Theme:T1 Site2:T40 Theme2:T3
+E2	Binding Theme:T2 Site2:T40 Theme2:T3
+E3	Gene_expression Theme:T1
+E4	Gene_expression Theme:T2
+E5	Binding Theme:T8 Site2:T40 Theme2:T3
+E6	Binding Site:T44 Theme:T3 Theme2:T1
+E7	Binding Site:T44 Theme:T3 Theme2:T2
+E8	Positive_regulation Theme:E9
+E10	Positive_regulation Theme:E11
+E9	Gene_expression Theme:T1
+E11	Gene_expression Theme:T2
+E12	Binding Site:T40 Theme:T3 Theme2:T1
+E13	Binding Site:T40 Theme:T3 Theme2:T2
+E14	Binding Site:T51 Theme:T3 Theme2:T1
+E15	Binding Site:T51 Theme:T3 Theme2:T2
+E16	Binding Theme:T1
+E17	Binding Theme:T2
+E18	Binding Site:T54 Theme:T20
+E19	Binding Site:T55 Theme:T20
+E20	Binding Site:T57 Theme:T20
+E21	Binding Theme:T1
+E22	Binding Theme:T2
+E23	Binding Site:T51 Theme:T20
+E24	Binding Theme:T1 Site2:T40 Theme2:T3
+E25	Binding Theme:T2 Site2:T40 Theme2:T3
+E26	Binding Theme:T25 Site2:T40 Theme2:T3
+E27	Positive_regulation Cause:T28 Theme:T20
+E28	Positive_regulation Cause:T32 Theme:T20
+E29	Binding Theme:T1 Site2:T40 Theme2:T3
+E30	Binding Theme:T2 Site2:T40 Theme2:T3
+E31	Binding Theme:T25 Site2:T40 Theme2:T3
+M1	Speculation E6
+M2	Speculation E7
+M3	Negation E16
+M4	Negation E17

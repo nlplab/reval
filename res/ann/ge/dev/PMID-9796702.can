@@ -1,0 +1,20 @@
+T1	Protein	p21ras
+T2	Protein	Rac-1
+T3	Protein	PKB
+T5	Protein	Raf-1
+T9	Protein	Akt
+*	Equiv T3 T9 T9
+E1	Positive_regulation Theme:T1
+E2	Regulation Theme:T1
+E3	Positive_regulation Cause:T2 Theme:E2
+E4	Positive_regulation Cause:T5 Theme:E2
+E5	Positive_regulation Theme:T3
+E6	Regulation Theme:T3
+E7	Positive_regulation Theme:T3
+E8	Positive_regulation Theme:E7
+E9	Positive_regulation Cause:T1 Theme:T3
+E10	Positive_regulation Cause:T1 Theme:E11
+E11	Positive_regulation Theme:T3
+M1	Speculation E6
+M2	Negation E9
+M3	Negation E10

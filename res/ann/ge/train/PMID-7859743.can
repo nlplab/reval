@@ -1,0 +1,19 @@
+T1	Protein	Tat
+T7	Protein	Mn-dependent superoxide dismutase
+T8	Protein	Mn-SOD
+*	Equiv T7 T8
+E1	Gene_expression Theme:T1
+E2	Negative_regulation Cause:T1 Theme:E3
+E3	Gene_expression Theme:T7
+E4	Transcription Theme:T7
+E5	Gene_expression Theme:T7
+E6	Negative_regulation Cause:T1 Theme:E5
+E7	Negative_regulation Cause:T1 Theme:T7
+E8	Negative_regulation Cause:T1 Theme:E4
+E9	Negative_regulation Theme:E10
+E10	Gene_expression Theme:T7
+E11	Regulation Cause:T1 Theme:E12
+E12	Gene_expression Theme:T7
+E13	Negative_regulation Theme:E14
+E14	Gene_expression Theme:T7
+M1	Negation E11

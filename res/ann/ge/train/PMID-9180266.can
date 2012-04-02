@@ -1,0 +1,9 @@
+T1	Protein	Elf-1
+T4	Protein	Gal4
+T9	Entity	nuclear
+T13	Entity	nucleus
+E1	Localization AtLoc:T9 Theme:T1
+E2	Binding Theme:T1
+E3	Localization AtLoc:T13 Theme:T1
+E4	Positive_regulation Theme:E3
+E5	Binding Theme:T1

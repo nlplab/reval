@@ -1,0 +1,17 @@
+T1	Protein	CD4
+T2	Protein	IL-2
+T5	Protein	TCF-1
+T6	Protein	CD28RC
+E1	Positive_regulation Theme:E2
+E2	Transcription Theme:T2
+E3	Positive_regulation Cause:E1 Theme:E4
+E4	Gene_expression Theme:T2
+E5	Regulation Theme:E6
+E6	Gene_expression Theme:T2
+E7	Binding Theme:T5
+E8	Gene_expression Theme:T6
+E9	Regulation Theme:E10
+E10	Transcription Theme:T2
+M1	Negation E1
+M2	Negation E4
+M3	Negation E8

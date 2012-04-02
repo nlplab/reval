@@ -1,0 +1,25 @@
+T1	Protein	STAT1
+T2	Protein	STAT2
+T3	Protein	STAT3
+T27	Entity	tyrosine
+E1	Regulation Theme:T2
+E2	Regulation Theme:T3
+E3	Binding Theme:T2
+E4	Binding Theme:T1
+E5	Binding Theme:T1 Theme2:T3
+E6	Binding Theme:T1 Theme2:T2
+E7	Binding Theme:T1 Theme2:T3
+E8	Positive_regulation Theme:E6
+E9	Positive_regulation Theme:E7
+E10	Positive_regulation Theme:E13
+E11	Positive_regulation Theme:E12
+E12	Phosphorylation Site:T27 Theme:T2
+E13	Phosphorylation Site:T27 Theme:T1
+E14	Positive_regulation Cause:E11 Theme:T2
+E15	Positive_regulation Cause:E11 Theme:T1
+E16	Positive_regulation Cause:E10 Theme:T2
+E17	Positive_regulation Cause:E10 Theme:T1
+E18	Binding Theme:T1 Theme2:T3
+E19	Binding Theme:T1 Theme2:T2
+E20	Binding Theme:T2 Theme2:T1
+E21	Binding Theme:T3 Theme2:T1

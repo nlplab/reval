@@ -1,0 +1,19 @@
+T1	Protein	ERP
+T3	Protein	ets-related protein
+T5	Protein	ELK-1
+T6	Protein	SAP-1
+T7	Protein	serum response factor
+T10	Protein	lck
+*	Equiv T1 T3
+T19	Entity	promoter ets site
+E1	Gene_expression Theme:T3
+E2	Binding Theme:T5 Theme2:T7
+E3	Binding Theme:T6 Theme2:T7
+E4	Binding Theme:T3
+E5	Positive_regulation Theme:E7
+E6	Positive_regulation Theme:E8
+E7	Binding Theme:T3
+E8	Binding Theme:T3 Site2:T19 Theme2:T10
+E9	Gene_expression Theme:T3
+E10	Negative_regulation Theme:E9
+M1	Negation E4

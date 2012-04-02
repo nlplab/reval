@@ -1,0 +1,6 @@
+T1	Protein	beta-like globin
+T2	Protein	chloramphenicol acetyltransferase
+T3	Protein	CAT
+*	Equiv T2 T3
+E1	Regulation Theme:E2
+E2	Transcription Theme:T1

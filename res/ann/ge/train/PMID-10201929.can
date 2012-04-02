@@ -1,0 +1,23 @@
+T1	Protein	JunB
+T2	Protein	FosB
+T3	Protein	c-Fos
+T4	Protein	immunoglobulin-like transcript-2
+T5	Protein	leukocyte Ig-like receptor 1
+T6	Protein	HLA-B27
+*	Equiv T4 T5
+E1	Positive_regulation Theme:T3
+E2	Positive_regulation Theme:T1
+E3	Positive_regulation Theme:T2
+E4	Binding Theme:T5 Theme2:T6
+E5	Negative_regulation Theme:E8
+E6	Negative_regulation Theme:E10
+E7	Negative_regulation Theme:E9
+E8	Transcription Theme:T1
+E9	Transcription Theme:T3
+E10	Transcription Theme:T2
+E11	Negative_regulation Theme:E15
+E12	Negative_regulation Theme:E14
+E13	Negative_regulation Theme:E16
+E14	Binding Theme:T2
+E15	Binding Theme:T1
+E16	Binding Theme:T3

@@ -1,0 +1,7 @@
+T1	Protein	T cell receptor gamma
+T3	Protein	TCRG
+*	Equiv T1 T3
+T8	Entity	enhancer
+E1	Positive_regulation Theme:E2
+E2	Positive_regulation Site:T8 Theme:T3
+E3	Positive_regulation Theme:T3

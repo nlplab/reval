@@ -1,0 +1,14 @@
+T1	Protein	CD40
+T2	Protein	B7
+T8	Protein	CD40 ligand
+T9	Protein	IL-6
+T10	Protein	IL-8
+T11	Protein	IFN-gamma
+T13	Protein	B7-1
+T14	Protein	B7-2
+T16	Protein	CD40L
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T1
+E3	Gene_expression Theme:T1
+E4	Positive_regulation Theme:T9
+E5	Positive_regulation Theme:T10

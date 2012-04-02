@@ -1,0 +1,43 @@
+T1	Protein	galectin-3
+T2	Protein	Galectin-3
+T3	Protein	epsilon BP
+T4	Protein	IgE-binding protein
+T5	Protein	CBP35
+T6	Protein	Mac-2
+T7	Protein	L-29
+T8	Protein	L-34
+T15	Protein	Tax
+T21	Protein	interleukin-2
+*	Equiv T3 T4
+T36	Entity	promoter
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Gene_expression Theme:T2
+E4	Gene_expression Theme:T2
+E5	Gene_expression Theme:T2
+E6	Gene_expression Theme:T1
+E7	Gene_expression Theme:T1
+E8	Positive_regulation Theme:T1
+E9	Positive_regulation Theme:E10
+E10	Gene_expression Theme:T1
+E11	Gene_expression Theme:T1
+E12	Gene_expression Theme:T1
+E13	Positive_regulation Cause:T15 Site:T36 Theme:T1
+E14	Positive_regulation Site:T36 Theme:T1
+E15	Positive_regulation Theme:E14
+E16	Positive_regulation Theme:E17
+E17	Gene_expression Theme:T15
+E18	Positive_regulation Cause:E16 Theme:E19
+E19	Gene_expression Theme:T1
+E20	Positive_regulation Cause:T1 Theme:E21
+E21	Gene_expression Theme:T21
+E22	Gene_expression Theme:T15
+E23	Positive_regulation Cause:E22 Theme:E26
+E24	Positive_regulation Cause:E22 Theme:E25
+E25	Transcription Theme:T1
+E26	Localization Theme:T1
+M1	Negation E5
+M2	Negation E7
+M3	Negation E11
+M4	Speculation E23
+M5	Speculation E24

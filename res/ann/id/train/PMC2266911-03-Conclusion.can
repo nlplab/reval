@@ -1,0 +1,11 @@
+T1	Organism	Y. enterocolitica
+T2	Organism	P. luminescens
+T6	Organism	X. nematophilus
+T9	Protein	AI-2
+T10	Protein	PAS-4
+T11	Protein	LuxR
+T12	Chemical	c-di-GMP
+T13	Organism	human
+T18	Organism	M. sexta
+T21	Organism	Y. pestis
+E1	Process Participant:T1

@@ -1,0 +1,11 @@
+T1	Protein	IL-4
+T2	Protein	CD4
+T3	Protein	CD25
+T4	Protein	CD3
+T5	Protein	CD28
+T6	Protein	IL-2
+T8	Protein	FOXP3
+T11	Protein	TGF-beta
+E1	Gene_expression Theme:T8
+E2	Positive_regulation Theme:T1
+M1	Speculation E1

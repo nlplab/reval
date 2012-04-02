@@ -3,8 +3,8 @@ T3	Protein	CTCF
 T4	Protein	histone H3
 T5	Protein	H3
 T15	Protein	luciferase
-*	Equiv T17 T18
-*	Equiv T4 T5
+*	Equiv T17 T17 T18 T18
+*	Equiv T4 T4 T5 T5
 *	Equiv T27 T28
 T17	Entity	lysine 4
 T18	Entity	K4

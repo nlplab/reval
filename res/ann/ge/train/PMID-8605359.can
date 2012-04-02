@@ -1,0 +1,25 @@
+T1	Protein	interleukin-1alpha
+T2	Protein	Tax
+T4	Protein	IL-1alpha
+T9	Protein	chloramphenicol acetyltransferase
+T10	Protein	CAT
+T17	Protein	p65
+T18	Protein	p50
+*	Equiv T9 T10
+*	Equiv T1 T4
+T27	Entity	promoter
+E1	Positive_regulation Cause:T2 Site:T27 Theme:T1
+E2	Gene_expression Theme:T1
+E3	Positive_regulation Theme:E2
+E4	Gene_expression Theme:T1
+E5	Positive_regulation Theme:T1
+E6	Gene_expression Theme:T1
+E7	Negative_regulation Theme:E9
+E8	Negative_regulation Theme:E10
+E9	Positive_regulation Site:T27 Theme:T1
+E10	Positive_regulation Cause:T2 Site:T27 Theme:T1
+E11	Regulation Cause:E12 Theme:E14
+E12	Positive_regulation Theme:T2
+E13	Transcription Theme:T1
+E14	Positive_regulation Theme:E13
+E15	Gene_expression Theme:T1

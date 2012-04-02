@@ -1,0 +1,12 @@
+T1	Protein	CIITA
+T5	Protein	DR alpha
+T10	Entity	S
+T11	Entity	X2
+E1	Positive_regulation Site:T10 Theme:T5
+E2	Positive_regulation Site:T11 Theme:T5
+E3	Regulation Cause:T1 Theme:E1
+E4	Regulation Cause:T1 Theme:E2
+E5	Gene_expression Theme:T1
+E6	Positive_regulation Theme:E5
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T1

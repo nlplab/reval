@@ -1,0 +1,11 @@
+T1	Protein	Fra-1
+T2	Protein	cJun
+T3	Protein	JunD
+T4	Protein	JunB
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T4
+E3	Positive_regulation Theme:E6
+E4	Positive_regulation Theme:E7
+E5	Positive_regulation Theme:E2
+E6	Gene_expression Theme:T3
+E7	Gene_expression Theme:T2

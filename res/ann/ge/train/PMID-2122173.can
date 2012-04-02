@@ -1,0 +1,4 @@
+T1	Protein	Interferon-gamma
+T2	Protein	interferon-gamma
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T2

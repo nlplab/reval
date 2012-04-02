@@ -1,0 +1,5 @@
+T1	Protein	Sp 1
+T3	Protein	OTF-1
+T4	Protein	OTF-2
+E1	Gene_expression Theme:T3
+E2	Gene_expression Theme:T4

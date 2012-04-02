@@ -1,0 +1,40 @@
+T1	Chemical	AI-2
+T2	Chemical	AHL
+T3	Chemical	autoinductor 2
+T5	Chemical	furanosyl borate diester
+T6	Protein	luxS
+T7	Organism	P. luminescens
+T8	Organism	Y. enterocolitica
+T9	Protein	plu1253
+T10	Protein	ye0839
+T12	Chemical	carbapenem
+T16	Protein	tcdA1
+T17	Protein	tccC1
+T18	Protein	mcf2
+T20	Organism	DeltaluxS mutant
+T22	Protein	CcdB
+T23	Protein	HlyD
+T24	Protein	Plu0635
+T25	Two-component-system	RtxD/RtxB
+T26	Protein	RtxD
+T27	Protein	RtxB
+T30	Organism	P. luminescens luxS-negative strain
+*	Equiv T1 T3 T5
+*	Equiv T23 T24
+E1	Gene_expression Theme:T16
+E2	Gene_expression Theme:T17
+E3	Gene_expression Theme:T18
+E4	Positive_regulation Cause:T6 Theme:E1
+E5	Positive_regulation Cause:T6 Theme:E2
+E6	Positive_regulation Cause:T6 Theme:E3
+E7	Negative_regulation Theme:E11
+E8	Negative_regulation Theme:E12
+E9	Negative_regulation Theme:E13
+E10	Negative_regulation Theme:E14
+E11	Gene_expression Theme:T24
+E12	Gene_expression Theme:T26
+E13	Gene_expression Theme:T27
+E14	Gene_expression Theme:T22
+E15	Process
+E16	Negative_regulation Theme:E17
+E17	Process Participant:T30

@@ -1,0 +1,32 @@
+T1	Protein	vascular cell adhesion molecule-1
+T2	Protein	Peroxisome proliferator-activated receptor-alpha
+T3	Protein	PPARalpha
+T6	Protein	VCAM-1
+T9	Protein	TNF-alpha
+T11	Protein	PPARgamma
+*	Equiv T1 T6
+*	Equiv T2 T3
+E1	Negative_regulation Theme:E2
+E2	Positive_regulation Theme:E3
+E3	Gene_expression Theme:T1
+E4	Regulation Theme:T2
+E5	Gene_expression Theme:T2
+E6	Regulation Cause:T2 Theme:T1
+E7	Gene_expression Theme:T2
+E8	Positive_regulation Theme:T2
+E9	Negative_regulation Theme:E10
+E10	Positive_regulation Cause:T9 Theme:T1
+E11	Negative_regulation Theme:E12
+E12	Positive_regulation Theme:E13
+E13	Transcription Theme:T1
+E14	Regulation Theme:T1
+E15	Transcription Theme:T1
+E16	Gene_expression Theme:T2
+E17	Regulation Cause:T2 Theme:E18
+E18	Gene_expression Theme:T1
+E19	Positive_regulation Theme:T2
+M1	Speculation E5
+M2	Speculation E6
+M3	Negation E9
+M4	Negation E14
+M5	Speculation E19

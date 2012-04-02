@@ -1,0 +1,7 @@
+T1	Protein	Intercellular adhesion molecule-1
+T2	Protein	P-selectin
+T3	Protein	E-selectin
+T4	Protein	intercellular adhesion molecule-1
+E1	Gene_expression Theme:T4
+E2	Gene_expression Theme:T3
+E3	Gene_expression Theme:T2

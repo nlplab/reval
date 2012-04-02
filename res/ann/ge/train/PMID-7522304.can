@@ -1,0 +1,7 @@
+T1	Protein	cyclophilin B
+T3	Protein	interleukin-2
+T4	Protein	calcium-signal modulating cyclophilin ligand
+T5	Protein	CAML
+*	Equiv T4 T5
+E1	Positive_regulation Theme:E2
+E2	Transcription Theme:T3

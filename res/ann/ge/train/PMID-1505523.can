@@ -1,0 +1,4 @@
+T1	Protein	Tat
+T8	Protein	p24
+E1	Binding Theme:T1
+E2	Gene_expression Theme:T8

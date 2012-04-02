@@ -1,0 +1,28 @@
+T1	Protein	AML1
+T2	Protein	CBFalpha2
+T3	Protein	B cell-specific activating protein
+T4	Protein	BSAP
+T5	Protein	PAX5
+T6	Protein	BLK
+T12	Protein	B cell-specific tyrosine kinase
+T13	Protein	blk
+*	Equiv T1 T2
+*	Equiv T3 T4 T5
+T31	Entity	promoter
+T38	Entity	paired DNA-binding domain
+E1	Positive_regulation Cause:T5 Site:T31 Theme:T6
+E2	Positive_regulation Cause:T2 Site:T31 Theme:T6
+E3	Binding Theme:T2
+E4	Binding Theme:T2 Site2:T31 Theme2:T13
+E5	Positive_regulation Site:T31 Theme:T13
+E6	Binding Site:T38 Theme:T5
+E7	Positive_regulation Cause:T5 Theme:E8
+E8	Regulation Theme:T13
+E9	Binding Theme:T2 Theme2:T5
+E10	Positive_regulation Cause:T5 Theme:E12
+E11	Positive_regulation Cause:T2 Theme:E12
+E12	Transcription Theme:T13
+E13	Binding Theme:T2 Theme2:T5
+E14	Positive_regulation Cause:T2 Theme:E15
+E15	Regulation Theme:T13
+M1	Speculation E3

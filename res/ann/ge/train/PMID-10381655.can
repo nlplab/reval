@@ -1,0 +1,8 @@
+T1	Protein	IkappaBalpha
+T2	Protein	Fas Ligand
+T3	Protein	FasL
+*	Equiv T2 T3
+E1	Positive_regulation Theme:T3
+E2	Negative_regulation Theme:E4
+E3	Positive_regulation Theme:E4
+E4	Transcription Theme:T3

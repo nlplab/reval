@@ -1,0 +1,42 @@
+T1	Protein	Foxp3
+T2	Protein	CBP
+T3	Protein	p300
+T6	Protein	CREB-1
+T7	Protein	activating transcription factor 2
+T8	Protein	ATF-2
+T16	Protein	Gal4
+T17	Protein	Gal4-BD-CREB-1
+*	Equiv T7 T8
+E1	Positive_regulation Theme:E2
+E3	Positive_regulation Theme:E4
+E2	Binding Theme:T2
+E4	Binding Theme:T3
+E5	Positive_regulation Theme:T1
+E6	Binding Theme:T1
+E7	Regulation Cause:E6 Theme:E8
+E8	Binding Theme:T6
+E9	Negative_regulation Cause:T1 Theme:E10
+E10	Binding Theme:T7
+E11	Binding Theme:T1
+E12	Gene_expression Theme:T17
+E13	Gene_expression Theme:T1
+E14	Gene_expression Theme:T3
+E15	Positive_regulation Theme:T3
+E16	Positive_regulation Cause:E15 Theme:E17
+E17	Transcription Theme:T17
+E18	Negative_regulation Cause:T1 Theme:E19
+E19	Positive_regulation Theme:T17
+E20	Negative_regulation Cause:T1 Theme:E21
+E21	Positive_regulation Theme:T17
+E22	Positive_regulation Theme:T1
+E23	Binding Theme:T1 Theme2:T3
+E24	Binding Theme:T3 Theme2:T1
+E25	Positive_regulation Cause:E26 Theme:E24
+E27	Positive_regulation Cause:E28 Theme:E24
+E26	Gene_expression Theme:T3
+E28	Gene_expression Theme:T1
+E29	Binding Theme:T1 Theme2:T3
+E30	Negative_regulation Cause:E29 Theme:E31
+E31	Binding Theme:T3
+M1	Negation E7
+M2	Speculation E23

@@ -1,0 +1,16 @@
+T1	Protein	interleukin-2
+T3	Protein	IL-2
+T6	Protein	Stat5
+T7	Protein	Protein kinase B
+T8	Protein	PKB
+T11	Protein	Rb
+T12	Protein	p27kip1
+*	Equiv T1 T3
+*	Equiv T7 T8
+T16	Entity	PI3K
+E1	Positive_regulation CSite:T16 Cause:T1 Theme:T7
+E2	Gene_expression Theme:T7
+E3	Negative_regulation Theme:E5
+E4	Negative_regulation Theme:E6
+E5	Phosphorylation Theme:T11
+E6	Protein_catabolism Theme:T12

@@ -1,0 +1,30 @@
+T1	Protein	TCF-1 alpha
+T2	Protein	T-cell receptor C alpha
+T5	Protein	TCR alpha
+T7	Protein	p56lck
+T8	Protein	CD3 delta
+T10	Protein	TCR delta
+T11	Protein	TCR beta
+T15	Protein	TCF-2 alpha
+T24	Protein	T alpha 1
+T25	Protein	CREB
+*	Equiv T24 T25
+T28	Entity	enhancer
+T31	Entity	promoters
+E1	Positive_regulation Cause:T1 Site:T28 Theme:T2
+E2	Binding Theme:T1 Site2:T31 Theme2:T5
+E3	Binding Theme:T1 Site2:T28 Theme2:T5
+E4	Positive_regulation Theme:E5
+E5	Gene_expression Theme:T7
+E6	Gene_expression Theme:T8
+E7	Gene_expression Theme:T5
+E8	Positive_regulation Theme:T1
+E9	Positive_regulation Site:T28 Theme:T5
+E10	Transcription Theme:T1
+E11	Positive_regulation Cause:T15 Theme:E10
+E12	Positive_regulation CSite:T28 Cause:T5 Theme:E10
+E13	Positive_regulation Cause:T24 Theme:E10
+M1	Negation E9
+M2	Speculation E11
+M3	Speculation E12
+M4	Speculation E13

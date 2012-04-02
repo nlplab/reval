@@ -1,0 +1,24 @@
+T1	Protein	Bcl-2
+T2	Protein	IL-1beta
+T3	Protein	Fas
+T6	Protein	Fas ligand
+T13	Protein	Bcl-xL
+T14	Protein	E1B 19K
+T18	Protein	interleukin-1beta
+E1	Positive_regulation Theme:E3
+E2	Positive_regulation Theme:E4
+E3	Gene_expression Theme:T3
+E4	Gene_expression Theme:T6
+E5	Binding Theme:T3 Theme2:T6
+E6	Positive_regulation Theme:E7
+E7	Gene_expression Theme:T1
+E8	Positive_regulation Theme:E9
+E9	Gene_expression Theme:T1
+E10	Gene_expression Theme:T1
+E11	Positive_regulation Theme:E10
+E12	Gene_expression Theme:T13
+E13	Gene_expression Theme:T14
+E14	Gene_expression Theme:T13
+E15	Gene_expression Theme:T1
+E16	Positive_regulation Theme:E15
+E17	Positive_regulation Theme:E14

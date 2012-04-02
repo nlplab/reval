@@ -1,0 +1,48 @@
+T1	Protein	interleukin-2
+T2	Protein	NFATp
+T3	Protein	interleukin 2
+T4	Protein	IL-2
+T6	Protein	vitamin D3 receptor
+T7	Protein	VDR
+T11	Protein	NF-AT-1
+*	Equiv T3 T4
+*	Equiv T6 T7
+E1	Negative_regulation Theme:T1
+E2	Negative_regulation Theme:E3
+E3	Binding Theme:T2
+E4	Negative_regulation Theme:T3
+E5	Negative_regulation Cause:T6 Theme:E6
+E6	Transcription Theme:T3
+E7	Negative_regulation Cause:E12 Theme:E10
+E8	Negative_regulation Cause:E11 Theme:E10
+E9	Positive_regulation Theme:T3
+E10	Gene_expression Theme:T3
+E11	Gene_expression Theme:T6
+E12	Gene_expression Theme:T3
+E13	Regulation Theme:E14
+E14	Binding Theme:T6
+E15	Binding Theme:T11 Theme2:T2
+E16	Binding Theme:T11
+E17	Binding Theme:T6
+E18	Negative_regulation Cause:E17 Theme:E20
+E19	Negative_regulation Theme:E20
+E20	Gene_expression Theme:T3
+E21	Binding Theme:T6
+E22	Positive_regulation Cause:E21 Theme:E23
+E23	Negative_regulation Theme:T3
+E24	Negative_regulation Cause:T6 Theme:E26
+E25	Negative_regulation Cause:T6 Theme:E26
+E26	Binding Theme:T2
+E27	Negative_regulation Cause:T6 Theme:E28
+E28	Binding Theme:T2
+E29	Binding Theme:T6 Theme2:T11
+E30	Positive_regulation Theme:T3
+M1	Speculation E5
+M2	Speculation E7
+M3	Speculation E8
+M4	Negation E17
+M5	Negation E18
+M6	Negation E19
+M7	Speculation E24
+M8	Speculation E25
+M9	Speculation E26

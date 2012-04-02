@@ -1,0 +1,5 @@
+T1	Protein	c-fos
+T3	Protein	Fos
+E1	Transcription Theme:T1
+E2	Positive_regulation Theme:E1
+E3	Gene_expression Theme:T3

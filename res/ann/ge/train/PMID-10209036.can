@@ -1,0 +1,15 @@
+T1	Protein	SHP2-interacting transmembrane adaptor protein
+T2	Protein	SIT
+T4	Protein	SHP2 interacting transmembrane adaptor protein
+T6	Protein	src
+T7	Protein	syk
+T9	Protein	SHP2
+T11	Protein	phytohemagglutinin
+*	Equiv T1 T2 T2 T4
+T17	Entity	tyrosine
+E1	Gene_expression Theme:T2
+E2	Phosphorylation Site:T17 Theme:T2
+E3	Positive_regulation Cause:T6 Theme:E2
+E4	Positive_regulation Cause:T7 Theme:E2
+E5	Gene_expression Theme:T2
+E6	Binding Theme:T9 Theme2:T2

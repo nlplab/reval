@@ -1,0 +1,38 @@
+T1	Protein	c-Rel
+T2	Protein	p65
+T3	Protein	tissue factor
+T4	Protein	TF
+T11	Protein	p50
+*	Equiv T3 T4
+T36	Entity	kappa B-like site
+E1	Binding Theme:T1
+E2	Binding Theme:T2
+E3	Positive_regulation Theme:T3
+E4	Binding Site:T36 Theme:T3
+E5	Positive_regulation Theme:T3
+E6	Binding Theme:T11
+E7	Binding Theme:T1
+E8	Binding Theme:T11
+E9	Binding Theme:T2
+E10	Binding Theme:T2
+E11	Binding Theme:T3 Theme2:T11
+E12	Binding Theme:T3 Theme2:T2
+E13	Binding Theme:T3 Theme2:T2
+E14	Binding Theme:T3 Theme2:T1
+E15	Binding Theme:T1 Theme2:T3
+E16	Binding Theme:T2 Theme2:T3
+E17	Binding Theme:T11 Theme2:T3
+E18	Binding Theme:T1
+E19	Binding Theme:T2
+E20	Binding Theme:T2
+E21	Binding Theme:T1
+E22	Positive_regulation Cause:E21 Theme:E24
+E23	Positive_regulation Cause:E20 Theme:E24
+E24	Positive_regulation Theme:E25
+E25	Gene_expression Theme:T3
+M1	Negation E6
+M2	Negation E8
+M3	Negation E10
+M4	Negation E11
+M5	Negation E12
+M6	Negation E17

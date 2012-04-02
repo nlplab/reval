@@ -1,0 +1,41 @@
+T1	Protein	Interleukin-10
+T2	Protein	interferon gamma
+T3	Protein	STAT1
+T5	Protein	IL-10
+T7	Protein	IFNgamma
+T13	Protein	IP-10
+T14	Protein	ISG54
+T15	Protein	intercellular adhesion molecule-1
+T24	Protein	suppressor of cytokine signaling 3
+T25	Protein	SOCS3
+*	Equiv T24 T25
+*	Equiv T2 T7
+*	Equiv T1 T5
+T27	Entity	tyrosine
+E1	Negative_regulation Cause:T1 Theme:E2
+E2	Phosphorylation Site:T27 Theme:T3
+E3	Gene_expression Theme:T2
+E4	Negative_regulation Theme:E7
+E5	Negative_regulation Theme:E9
+E6	Negative_regulation Theme:E8
+E7	Gene_expression Theme:T15
+E8	Gene_expression Theme:T14
+E9	Gene_expression Theme:T13
+E10	Positive_regulation Theme:T15
+E11	Positive_regulation Theme:T14
+E12	Positive_regulation Theme:T13
+E13	Positive_regulation Theme:E6
+E14	Positive_regulation Theme:E5
+E15	Positive_regulation Theme:E4
+E16	Positive_regulation Cause:E19 Theme:E13
+E17	Positive_regulation Cause:E19 Theme:E15
+E18	Positive_regulation Cause:E19 Theme:E14
+E19	Negative_regulation Theme:E20
+E20	Positive_regulation Theme:E21
+E21	Phosphorylation Site:T27 Theme:T3
+E22	Positive_regulation Theme:T3
+E23	Positive_regulation Cause:T2 Theme:T3
+E24	Negative_regulation Cause:T1 Theme:E25
+E25	Phosphorylation Site:T27 Theme:T3
+E26	Positive_regulation Cause:T1 Theme:E27
+E27	Gene_expression Theme:T24

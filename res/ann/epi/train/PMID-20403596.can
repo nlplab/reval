@@ -1,6 +1,6 @@
 T1	Protein	H19
 T2	Protein	Igf2
-*	Equiv T23
+*	Equiv T20 T23
 T20	Entity	differentially methylated domain
 T23	Entity	DMD
 E1	DNA_methylation Site:T20 Theme:T1
@@ -9,13 +9,13 @@ E3	DNA_methylation Site:T20 Theme:T1
 M1	Speculation E3
 E4	DNA_methylation Site:T20 Theme:T2
 M2	Speculation E4
-E5	DNA_methylation Site:T23 Theme:T1
-E6	DNA_methylation Site:T23 Theme:T2
-E7	DNA_methylation Site:T23 Theme:T1
+E5	DNA_methylation Site:T20 Theme:T1
+E6	DNA_methylation Site:T20 Theme:T2
+E7	DNA_methylation Site:T20 Theme:T1
 M3	Negation E7
-E8	DNA_methylation Site:T23 Theme:T2
+E8	DNA_methylation Site:T20 Theme:T2
 M4	Negation E8
-E9	DNA_methylation Site:T23 Theme:T2
+E9	DNA_methylation Site:T20 Theme:T2
 M5	Negation E9
-E10	DNA_methylation Site:T23 Theme:T1
+E10	DNA_methylation Site:T20 Theme:T1
 M6	Negation E10

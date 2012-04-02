@@ -1,0 +1,22 @@
+T1	Protein	phytohemagglutinin
+T2	Protein	c-jun
+T3	Protein	junD
+T4	Protein	junB
+T5	Protein	c-fos
+T6	Protein	fra-1
+T10	Protein	protein phosphatases 1
+T11	Protein	2A
+E1	Positive_regulation Theme:E7
+E2	Positive_regulation Theme:E8
+E3	Positive_regulation Theme:E10
+E4	Positive_regulation Theme:E9
+E5	Positive_regulation Theme:E6
+E6	Transcription Theme:T6
+E7	Transcription Theme:T3
+E8	Transcription Theme:T2
+E9	Transcription Theme:T4
+E10	Transcription Theme:T5
+E11	Negative_regulation Theme:E12
+E12	Positive_regulation Theme:T2
+E13	Positive_regulation Theme:E14
+E14	Transcription Theme:T2

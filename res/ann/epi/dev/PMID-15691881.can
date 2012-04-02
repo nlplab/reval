@@ -5,6 +5,6 @@ T8	Protein	PSA
 T11	Protein	p300
 T12	Protein	CBP
 T15	Protein	histone
-*	Equiv T4
-*	Equiv T8
-E1	Acetylation Contextgene:T8 Theme:T15
+*	Equiv T1 T4
+*	Equiv T2 T8
+E1	Acetylation Contextgene:T2 Theme:T15

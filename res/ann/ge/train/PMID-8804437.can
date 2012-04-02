@@ -1,0 +1,9 @@
+T1	Protein	Id-3
+T5	Protein	E47
+E1	Negative_regulation Theme:T1
+E2	Positive_regulation Theme:T1
+E3	Transcription Theme:T1
+E4	Transcription Theme:T1
+E5	Negative_regulation Theme:E6
+E6	Binding Theme:T5
+M1	Negation E5

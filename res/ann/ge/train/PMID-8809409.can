@@ -1,0 +1,15 @@
+T1	Protein	GM-CSF
+T3	Protein	Sp1
+T5	Protein	NFATp
+T7	Protein	YY-1
+T9	Protein	AML1
+T10	Protein	CBF beta
+T16	Entity	promoter
+T17	Entity	enhancer
+E1	Regulation Theme:E2
+E2	Transcription Theme:T1
+E3	Positive_regulation Theme:T1
+E4	Binding Site:T16 Theme:T1
+E5	Binding Site:T17 Theme:T1
+E6	Binding Theme:T5
+E7	Regulation Theme:T1

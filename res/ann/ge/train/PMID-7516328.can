@@ -1,0 +1,13 @@
+T1	Protein	p50
+T2	Protein	CD14
+T4	Protein	p65
+T7	Protein	p105
+T13	Entity	naive Mono Mac 6 cells
+E1	Localization Theme:T1
+E2	Localization AtLoc:T13 Theme:T1
+E3	Localization Theme:T1
+E4	Localization AtLoc:T13 Theme:T4
+E5	Positive_regulation Theme:T1
+E6	Positive_regulation Theme:T7
+E7	Positive_regulation Theme:T1
+E8	Positive_regulation Theme:T2

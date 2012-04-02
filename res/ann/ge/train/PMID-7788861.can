@@ -1,0 +1,30 @@
+T1	Protein	Ah receptor
+T2	Protein	TCDD receptor
+T6	Protein	AhR
+T7	Protein	P450IA1
+T11	Protein	transforming growth factor beta 1
+*	Equiv T1 T1 T2 T2
+E1	Gene_expression Theme:T2
+E2	Transcription Theme:T2
+E3	Gene_expression Theme:T2
+E4	Gene_expression Theme:T2
+E5	Gene_expression Theme:T7
+E6	Transcription Theme:T6
+E7	Gene_expression Theme:T6
+E8	Gene_expression Theme:T6
+E9	Positive_regulation Theme:T6
+E10	Positive_regulation Theme:T6
+E11	Positive_regulation Theme:T6
+E12	Positive_regulation Theme:T6
+E13	Regulation Theme:T6
+E14	Binding Theme:T6
+E15	Positive_regulation Theme:E16
+E16	Gene_expression Theme:T7
+E17	Transcription Theme:T6
+E18	Positive_regulation Theme:E17
+M1	Speculation E3
+M2	Speculation E5
+M3	Speculation E6
+M4	Negation E8
+M5	Speculation E9
+M6	Negation E13

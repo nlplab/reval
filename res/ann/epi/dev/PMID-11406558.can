@@ -4,7 +4,7 @@ T10	Protein	luciferase
 T12	Protein	histone
 T16	Protein	methyl-CpG-binding domain 2 protein
 T17	Protein	MBD2
-*	Equiv T1 T2
+*	Equiv T1 T1 T2 T2
 *	Equiv T16 T17
 T22	Entity	promoter
 T32	Entity	cytosine

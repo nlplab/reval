@@ -1,0 +1,42 @@
+T1	Chemical	Carbon
+T2	Chemical	Mg2+
+T3	Chemical	Ca2+
+T4	Two-component-system	phoP/phoQ
+T5	Protein	phoP
+T6	Protein	phoQ
+T7	Two-component-system	ompR/envZ
+T8	Protein	ompR
+T9	Protein	envZ
+T10	Protein	OmpR
+T11	Protein	cadC
+T12	Protein	SsrA
+T13	Two-component-system	SsrA/SsrB
+T15	Protein	SsrB
+T16	Protein	ssrB
+T17	Protein	ssrA
+T18	Two-component-system	ssrA/ssrB
+T21	Chemical	phosphate
+T26	Protein	PhoP
+T27	Protein	rpoE
+T28	Protein	smpB
+T29	Protein	rpoS
+T30	Protein	hfq
+T31	Organism	murine
+T34	Organism	SCV
+T40	Protein	spvR
+T41	Protein	hnr
+T42	Organism	BALB/c mice
+T43	Organism	mouse
+E1	Positive_regulation Cause:T11 Theme:T10
+E2	Gene_expression Theme:T16
+E3	Positive_regulation Cause:E4 Theme:T15
+E4	Phosphorylation Theme:T15
+E5	Gene_expression Theme:T16
+E6	Phosphorylation Theme:T15
+E7	Gene_expression Theme:T15
+E8	Positive_regulation Cause:E7 Theme:T15
+E9	Regulation Cause:T29 Theme:T7
+E10	Regulation Cause:E12 Theme:T29
+E11	Regulation Cause:E9 Theme:T27
+E12	Regulation Cause:T27 Theme:T7
+E13	Process

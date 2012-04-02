@@ -1,0 +1,47 @@
+T1	Protein	fibronectin
+T2	Protein	interleukin-beta
+T3	Protein	interleukin-1beta
+T4	Protein	IL-1beta
+T6	Protein	FN
+*	Equiv T3 T4
+*	Equiv T1 T6
+E1	Regulation Theme:E3
+E2	Regulation Theme:E4
+E3	Positive_regulation Cause:T1 Theme:E6
+E4	Positive_regulation Cause:T1 Theme:E5
+E5	Transcription Theme:T2
+E6	Localization Theme:T2
+E7	Gene_expression Theme:T3
+E8	Positive_regulation Theme:E7
+E9	Positive_regulation Theme:E8
+E10	Positive_regulation Theme:E11
+E11	Positive_regulation Cause:T1 Theme:T3
+E12	Negative_regulation Theme:E13
+E13	Positive_regulation Cause:T1 Theme:T3
+E14	Negative_regulation Theme:E16
+E15	Localization Theme:T3
+E16	Positive_regulation Theme:E15
+E17	Negative_regulation Theme:E18
+E18	Gene_expression Theme:T3
+E19	Negative_regulation Theme:E20
+E20	Gene_expression Theme:T3
+E21	Negative_regulation Theme:E22
+E22	Localization Theme:T3
+E23	Positive_regulation Theme:E24
+E24	Positive_regulation Cause:T1 Theme:E25
+E25	Transcription Theme:T3
+E26	Negative_regulation Theme:E27
+E27	Transcription Theme:T3
+E28	Positive_regulation Theme:E29
+E29	Positive_regulation Theme:T3
+E30	Negative_regulation Theme:E31
+E31	Transcription Theme:T3
+E32	Negative_regulation Cause:E30 Theme:E33
+E33	Gene_expression Theme:T3
+E34	Positive_regulation Theme:E35
+E35	Positive_regulation Cause:T1 Theme:E36
+E36	Gene_expression Theme:T3
+E37	Negative_regulation Theme:E38
+E38	Localization Theme:T3
+M1	Negation E19
+M2	Speculation E23

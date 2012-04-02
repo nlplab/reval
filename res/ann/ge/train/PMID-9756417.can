@@ -1,0 +1,6 @@
+T1	Protein	IL-2
+T2	Protein	interleukin-2
+T4	Protein	Sp1
+*	Equiv T1 T2
+E1	Binding Theme:T4
+E2	Positive_regulation Cause:T2 Theme:E1

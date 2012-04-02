@@ -8,7 +8,7 @@ T14	Protein	2
 T15	Protein	hypoxia-inducible factor-1 alpha
 T16	Protein	HIF-1 alpha
 T21	Protein	von Hippel-Lindau tumor suppressor
-*	Equiv T4
+*	Equiv T2 T4
 *	Equiv T15 T16
 T33	Entity	oxygen-dependent degradation domain
 E1	Deacetylation Site:T33 Theme:T15

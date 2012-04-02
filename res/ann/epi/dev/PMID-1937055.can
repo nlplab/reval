@@ -1,4 +1,4 @@
 T1	Protein	epidermal growth factor
 T3	Protein	EGF
 T5	Protein	KEX2
-*	Equiv T3
+*	Equiv T1 T3

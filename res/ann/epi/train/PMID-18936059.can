@@ -3,7 +3,7 @@ T2	Protein	FIH
 T3	Protein	HIF asparaginyl hydroxylase
 T4	Protein	factor inhibiting HIF
 T11	Protein	Tankyrase-2
-*	Equiv T1 T2 T3 T4
+*	Equiv T1 T2 T2 T3 T4
 T13	Entity	eight sites
 E1	Catalysis Cause:T1 Theme:E2
 E2	Hydroxylation Site:T13 Theme:T11

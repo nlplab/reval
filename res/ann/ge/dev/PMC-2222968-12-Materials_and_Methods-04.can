@@ -1,0 +1,7 @@
+T1	Protein	CD4
+T3	Protein	CD62L
+T4	Protein	CD25
+T5	Protein	TGF-ss1
+T6	Protein	FOXP3
+E1	Gene_expression Theme:T6
+M1	Speculation E1

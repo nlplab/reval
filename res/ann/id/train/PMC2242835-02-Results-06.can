@@ -22,7 +22,7 @@ T47	Protein	rv3614c
 T50	Organism	H37Ra::phoP
 T53	Protein	rv3615c
 T55	Protein	espA
-*	Equiv T55
+*	Equiv T46 T55
 E1	Gene_expression Theme:T1
 E2	Localization Theme:T2
 E3	Gene_expression Theme:T2

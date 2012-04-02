@@ -1,0 +1,50 @@
+T1	Protein	IL-4
+T2	Protein	IL-2
+T3	Protein	IL-3
+T4	Protein	GM-CSF
+T6	Protein	IL-1 alpha
+T7	Protein	IL-1 beta
+T8	Protein	IL-6
+T9	Protein	IL-8
+T10	Protein	TNF-alpha
+T11	Protein	IL-1 receptor antagonist
+T12	Protein	(IL1-RA
+T34	Protein	IL-1-RA
+*	Equiv T11 T12
+E1	Gene_expression Theme:T1
+E2	Negative_regulation Cause:T1 Theme:E15
+E3	Negative_regulation Cause:T1 Theme:E16
+E4	Negative_regulation Cause:T1 Theme:E14
+E5	Negative_regulation Cause:T1 Theme:E13
+E6	Negative_regulation Cause:T1 Theme:E12
+E7	Gene_expression Theme:T10
+E8	Gene_expression Theme:T6
+E9	Gene_expression Theme:T8
+E10	Gene_expression Theme:T9
+E11	Gene_expression Theme:T7
+E12	Positive_regulation Theme:E11
+E13	Positive_regulation Theme:E7
+E14	Positive_regulation Theme:E8
+E15	Positive_regulation Theme:E10
+E16	Positive_regulation Theme:E9
+E17	Positive_regulation Cause:T1 Theme:E18
+E18	Gene_expression Theme:T11
+E19	Negative_regulation Cause:T1 Theme:E22
+E20	Negative_regulation Cause:T1 Theme:E23
+E21	Negative_regulation Cause:T1 Theme:E24
+E22	Positive_regulation Theme:T9
+E23	Positive_regulation Theme:T7
+E24	Positive_regulation Theme:T10
+E25	Negative_regulation Cause:T1 Theme:E26
+E26	Positive_regulation Cause:T2 Theme:E27
+E27	Transcription Theme:T8
+E28	Regulation Cause:T1 Theme:E31
+E29	Regulation Cause:T1 Theme:E32
+E30	Regulation Cause:T1 Theme:E33
+E31	Positive_regulation Cause:T3 Theme:E34
+E32	Positive_regulation Cause:T4 Theme:E34
+E33	Positive_regulation Cause:T2 Theme:E34
+E34	Gene_expression Theme:T34
+M1	Negation E28
+M2	Negation E29
+M3	Negation E30

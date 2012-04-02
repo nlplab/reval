@@ -1,0 +1,20 @@
+T1	Protein	FOSB
+T2	Protein	G0S3
+T7	Protein	FOS
+T8	Protein	G0S7
+*	Equiv T7 T8
+*	Equiv T1 T2
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T2
+E3	Transcription Theme:T2
+E4	Transcription Theme:T8
+E5	Transcription Theme:T8
+E6	Positive_regulation Theme:E5
+E7	Transcription Theme:T2
+E8	Positive_regulation Theme:E7
+E9	Positive_regulation Theme:T8
+E10	Positive_regulation Theme:T2
+E11	Negative_regulation Theme:E9
+E12	Negative_regulation Theme:E10
+E13	Gene_expression Theme:T2
+E14	Gene_expression Theme:T8

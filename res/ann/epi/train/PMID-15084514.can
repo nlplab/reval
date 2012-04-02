@@ -6,7 +6,7 @@ T6	Protein	VHL
 T12	Protein	PHD2
 T13	Protein	HPH2
 *	Equiv T5 T6
-*	Equiv T12 T13
+*	Equiv T12 T12 T13 T13
 T22	Entity	Pro-402
 T23	Entity	Pro-564
 T30	Entity	prolyl

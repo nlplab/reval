@@ -1,0 +1,5 @@
+T1	Protein	interleukin-4
+T2	Protein	IL-4
+T3	Protein	CD40
+*	Equiv T1 T2
+E1	Binding Theme:T3

@@ -1,0 +1,28 @@
+T1	Protein	ATF1
+T2	Protein	histone H4
+T5	Protein	ATF2
+T6	Protein	ATF4
+T7	Protein	CREB2
+T10	Protein	H4
+*	Equiv T6 T7
+T23	Entity	promoter
+E1	Positive_regulation Theme:E3
+E2	Positive_regulation Cause:T1 Theme:E3
+E3	Regulation Theme:T2
+E4	Regulation Theme:T2
+E5	Regulation Theme:E4
+E6	Positive_regulation Theme:E7
+E7	Positive_regulation Theme:E8
+E8	Transcription Theme:T2
+E9	Binding Theme:T5
+E10	Binding Theme:T1
+E11	Binding Theme:T7
+E12	Binding Theme:T1
+E13	Positive_regulation Theme:E15
+E14	Positive_regulation Theme:E16
+E15	Positive_regulation Cause:T1 Site:T23 Theme:T10
+E16	Positive_regulation Site:T23 Theme:T10
+E17	Regulation Theme:E18
+E18	Transcription Theme:T2
+E19	Positive_regulation Theme:E17
+M1	Negation E11

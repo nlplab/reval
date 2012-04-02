@@ -8,7 +8,7 @@ T10	Protein	cyclophilin B
 T11	Protein	CyPB
 T12	Protein	alpha1(I)
 T13	Protein	alpha1(II) collagen
-*	Equiv T3
+*	Equiv T2 T3
 *	Equiv T5 T6 T7
 *	Equiv T10 T11
 T38	Entity	Pro986

@@ -1,0 +1,18 @@
+T1	Protein	Stat 5b
+T2	Protein	c-Kit
+T3	Protein	Epo-R
+T6	Protein	erythropoietin receptor
+T10	Entity	tyrosine
+E1	Positive_regulation Theme:T1
+E2	Positive_regulation Theme:E5
+E3	Positive_regulation Theme:E4
+E4	Phosphorylation Site:T10 Theme:T1
+E5	Binding Theme:T1
+E6	Positive_regulation Theme:T2
+E7	Positive_regulation Cause:E6 Theme:E5
+E8	Positive_regulation Cause:E6 Theme:E4
+E9	Positive_regulation Theme:T6
+E10	Positive_regulation Cause:E9 Theme:E11
+E11	Binding Theme:T1
+M1	Negation E7
+M2	Negation E8

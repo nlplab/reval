@@ -1,0 +1,64 @@
+T1	Protein	FOXP3
+T3	Protein	RUNX1
+T4	Protein	RUNX3
+T8	Protein	CD4
+T9	Protein	FOXP3 promoter luciferase
+T12	Protein	luciferase
+T13	Protein	FOXP3 promoter (-511 to +176) luciferase
+T18	Protein	Luciferase
+T23	Protein	TGF-beta
+T28	Protein	RUNX
+T33	Protein	CD3
+T34	Protein	CD28
+T40	Entity	promoter
+T44	Entity	RUNX binding sites
+T63	Entity	binding sites
+E1	Regulation Cause:T3 Theme:E2
+E3	Regulation Cause:T4 Theme:E2
+E4	Regulation Cause:T3 Theme:E5
+E6	Regulation Cause:T4 Theme:E5
+E2	Positive_regulation Site:T40 Theme:T1
+E5	Gene_expression Theme:T1
+E7	Binding Theme:T3 Site2:T44 Theme2:T1
+E8	Binding Theme:T4 Site2:T44 Theme2:T1
+E9	Positive_regulation Theme:E10
+E11	Positive_regulation Theme:E12
+E13	Positive_regulation Theme:E14
+E10	Gene_expression Theme:T9
+E12	Gene_expression Theme:T3
+E14	Gene_expression Theme:T4
+E15	Positive_regulation Cause:E16 Theme:T12
+E17	Positive_regulation Cause:E18 Theme:T12
+E19	Positive_regulation Cause:E20 Theme:T12
+E16	Positive_regulation Theme:E21
+E18	Positive_regulation Theme:E22
+E20	Positive_regulation Theme:E23
+E21	Gene_expression Theme:T13
+E22	Gene_expression Theme:T3
+E23	Gene_expression Theme:T4
+E24	Positive_regulation Cause:E25 Site:T40 Theme:T1
+E26	Positive_regulation Cause:E27 Site:T40 Theme:T1
+E25	Gene_expression Theme:T4
+E27	Gene_expression Theme:T3
+E28	Gene_expression Theme:T18
+E29	Negative_regulation Theme:E28
+E30	Gene_expression Theme:T3
+E31	Gene_expression Theme:T4
+E32	Positive_regulation Cause:T23 Theme:E33
+E33	Positive_regulation Site:T40 Theme:T1
+E34	Negative_regulation Theme:T12
+E35	Negative_regulation Theme:T12
+E36	Negative_regulation Theme:T12
+E37	Negative_regulation Theme:T12
+E38	Binding Theme:T28 Site2:T63 Theme2:T1
+E39	Positive_regulation Cause:E38 Theme:E40
+E40	Positive_regulation Site:T40 Theme:T1
+E41	Gene_expression Theme:T3
+E42	Positive_regulation Cause:E41 Theme:T1
+E43	Positive_regulation Cause:T23 Theme:E42
+E44	Gene_expression Theme:T4
+E45	Positive_regulation Cause:E44 Theme:T1
+M1	Negation E34
+M2	Speculation E39
+M3	Negation E43
+M4	Negation E45

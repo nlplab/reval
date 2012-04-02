@@ -2,4 +2,4 @@ T1	Protein	CD4
 T2	Protein	agglutinin
 T3	Protein	PNA
 T5	Protein	GNA
-*	Equiv T2 T3 T5
+*	Equiv T2 T2 T3 T5

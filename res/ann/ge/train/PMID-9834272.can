@@ -1,0 +1,7 @@
+T1	Protein	p65
+T2	Protein	interleukin 1beta
+T3	Protein	interleukin 8
+E1	Negative_regulation Theme:E4
+E2	Negative_regulation Theme:E3
+E3	Gene_expression Theme:T3
+E4	Gene_expression Theme:T2

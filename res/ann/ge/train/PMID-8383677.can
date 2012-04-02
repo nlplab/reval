@@ -1,0 +1,37 @@
+T1	Protein	interleukin-1 alpha
+T2	Protein	interleukin-1 beta
+T3	Protein	protein phosphatase 1
+T4	Protein	2A
+T5	Protein	Protein phosphatases 1
+T9	Protein	AP-1
+T11	Protein	IL-1 beta convertase
+E1	Negative_regulation Cause:T4 Theme:E5
+E2	Negative_regulation Cause:T3 Theme:E6
+E3	Negative_regulation Cause:T3 Theme:E5
+E4	Negative_regulation Cause:T4 Theme:E6
+E5	Gene_expression Theme:T2
+E6	Gene_expression Theme:T1
+E7	Negative_regulation Theme:T4
+E8	Negative_regulation Theme:T3
+E9	Negative_regulation Theme:T4
+E10	Negative_regulation Theme:T5
+E11	Positive_regulation Theme:E15
+E12	Positive_regulation Theme:E16
+E13	Positive_regulation Theme:E18
+E14	Positive_regulation Theme:E17
+E15	Positive_regulation Theme:T1
+E16	Positive_regulation Theme:T2
+E17	Gene_expression Theme:T2
+E18	Gene_expression Theme:T1
+E19	Positive_regulation Theme:E12
+E20	Positive_regulation Theme:E11
+E21	Positive_regulation Theme:T9
+E22	Positive_regulation Theme:E23
+E23	Localization Theme:T2
+E24	Positive_regulation Theme:E25
+E25	Positive_regulation Theme:T11
+E26	Positive_regulation Theme:E27
+E27	Gene_expression Theme:T1
+E28	Gene_expression Theme:T2
+E29	Phosphorylation Theme:T1
+E30	Positive_regulation Theme:E29

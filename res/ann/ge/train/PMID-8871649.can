@@ -1,0 +1,26 @@
+T1	Protein	Sp1
+T2	Protein	perforin
+T6	Protein	Chloramphenicol acetyltransferase
+T7	Protein	CAT
+*	Equiv T6 T7
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T2
+E3	Regulation Theme:E4
+E4	Regulation Theme:T2
+E5	Gene_expression Theme:T2
+E6	Regulation Theme:T6
+E7	Positive_regulation Theme:T6
+E8	Positive_regulation Theme:T6
+E9	Binding Theme:T1
+E10	Negative_regulation Theme:T6
+E11	Regulation Theme:E12
+E12	Gene_expression Theme:T2
+E13	Regulation Theme:E14
+E14	Negative_regulation Theme:T6
+E15	Regulation Theme:E16
+E16	Gene_expression Theme:T2
+M1	Speculation E3
+M2	Speculation E4
+M3	Speculation E11
+M4	Speculation E12
+M5	Speculation E15

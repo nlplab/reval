@@ -1,0 +1,46 @@
+T1	Protein	SLP-76
+T2	Protein	Vav
+T3	Protein	interleukin-2
+T12	Protein	interleukin (IL)-2
+T17	Protein	IL-2
+T23	Protein	CD28
+T29	Entity	promoter
+T31	Entity	tyrosine
+T34	Entity	SH2 domain
+T36	Entity	tyrosines
+E1	Positive_regulation Cause:T1 Site:T29 Theme:T3
+E2	Positive_regulation Cause:T2 Site:T29 Theme:T3
+E3	Positive_regulation Theme:E5
+E4	Positive_regulation Theme:E6
+E5	Phosphorylation Site:T31 Theme:T2
+E6	Phosphorylation Site:T31 Theme:T1
+E7	Binding Site:T34 Theme:T2 Theme2:T1
+E8	Phosphorylation Site:T36 Theme:T1
+E9	Positive_regulation Cause:T2 Site:T29 Theme:T12
+E10	Positive_regulation Cause:T1 Site:T29 Theme:T12
+E11	Regulation Theme:E12
+E12	Binding Theme:T1 Theme2:T2
+E13	Binding Theme:T1 Theme2:T2
+E14	Positive_regulation Cause:E13 Theme:E16
+E15	Positive_regulation Cause:E13 Theme:E17
+E16	Positive_regulation Cause:T2 Site:T29 Theme:T17
+E17	Positive_regulation Cause:T1 Site:T29 Theme:T17
+E18	Positive_regulation Theme:E19
+E19	Gene_expression Theme:T17
+E20	Positive_regulation Theme:E21
+E21	Gene_expression Theme:T1
+E22	Positive_regulation Theme:E23
+E23	Gene_expression Theme:T2
+E24	Gene_expression Theme:T1
+E25	Positive_regulation Theme:E26
+E26	Gene_expression Theme:T2
+E27	Positive_regulation Theme:E24
+E28	Positive_regulation Cause:E27 Theme:E30
+E29	Positive_regulation Cause:E25 Theme:E30
+E30	Positive_regulation Cause:T23 Site:T29 Theme:T17
+E31	Regulation Cause:T1 Theme:E33
+E32	Regulation Cause:T2 Theme:E33
+E33	Gene_expression Theme:T17
+M1	Negation E14
+M2	Negation E15
+M3	Negation E28

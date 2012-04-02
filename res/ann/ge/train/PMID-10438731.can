@@ -1,0 +1,46 @@
+T1	Protein	C/EBPbeta
+T2	Protein	GATA-1
+T3	Protein	eosinophil granule major basic protein
+T5	Protein	Eosinophil granule major basic protein
+T6	Protein	MBP
+T8	Protein	GATA-2
+T12	Protein	C/EBPalpha
+*	Equiv T5 T6
+T36	Entity	promoter
+E1	Regulation Cause:T2 Site:T36 Theme:T3
+E2	Regulation Cause:T1 Site:T36 Theme:T3
+E3	Gene_expression Theme:T6
+E4	Positive_regulation Cause:T2 Theme:E6
+E5	Negative_regulation Cause:T8 Theme:E6
+E6	Transcription Theme:T6
+E7	Transcription Theme:T12
+E8	Negative_regulation Theme:E7
+E9	Gene_expression Theme:T1
+E10	Positive_regulation Theme:E9
+E11	Binding Theme:T1 Site2:T36 Theme2:T6
+E12	Binding Theme:T2 Site2:T36 Theme2:T6
+E13	Binding Theme:T1 Site2:T36 Theme2:T6
+E14	Positive_regulation Cause:T2 Site:T36 Theme:T6
+E15	Positive_regulation Cause:T1 Site:T36 Theme:T6
+E16	Gene_expression Theme:T1
+E17	Gene_expression Theme:T2
+E18	Positive_regulation Theme:E21
+E19	Gene_expression Theme:T1
+E20	Positive_regulation Theme:E19
+E21	Gene_expression Theme:T2
+E22	Positive_regulation Cause:E18 Site:T36 Theme:T6
+E23	Positive_regulation Cause:E20 Site:T36 Theme:T6
+E24	Positive_regulation Cause:E26 Site:T36 Theme:T6
+E25	Positive_regulation Cause:E29 Site:T36 Theme:T6
+E26	Positive_regulation Theme:E27
+E27	Gene_expression Theme:T1
+E28	Gene_expression Theme:T2
+E29	Positive_regulation Theme:E28
+E30	Binding Theme:T2 Theme2:T1
+E31	Binding Theme:T2
+E32	Negative_regulation Theme:E33
+E33	Positive_regulation Cause:T2 Site:T36 Theme:T6
+M1	Speculation E14
+M2	Speculation E15
+M3	Negation E16
+M4	Negation E17

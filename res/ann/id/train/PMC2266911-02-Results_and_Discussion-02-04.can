@@ -1,0 +1,88 @@
+T1	Organism	Y. enterocolitica
+T2	Regulon-operon	ysa
+T3	Regulon-operon	YE3533-3561
+T4	Protein	YE3533
+T5	Protein	3561
+T6	Organism	P. luminescens
+T8	Organism	Y. pestis
+T9	Organism	Y. pseudotuberculosis
+T10	Protein	YplA
+T15	Protein	LopT
+T19	Chemical	calcium
+T20	Protein	lcrH
+T21	Protein	lcrV
+T22	Protein	lrcD
+T24	Protein	plu3757
+T25	Protein	plu3758
+T26	Protein	sctV
+T29	Organism	human
+T30	Organism	P. luminesens
+T32	Organism	Vibrio cholerae
+T34	Protein	Yts1
+T35	Organism	mice
+T40	Organism	Pseudomonas aeruginosa
+T43	Protein	phospholipase A
+T45	Protein	YplB
+T47	Protein	YE1005
+T48	Protein	YE1006
+T50	Protein	Plu3370
+T51	Protein	Plu3369
+T54	Organism	mouse
+T56	Protein	yplA
+T57	Two-component-system	FlhDC
+T58	Protein	FlhD
+T59	Protein	C
+T63	Protein	PdlA
+T64	Protein	YE0203
+T65	Protein	PdlB
+T66	Protein	YE0207
+T67	Protein	Plu4619
+T69	Protein	Plu1971
+T71	Protein	phospholipase D
+T72	Organism	murine
+T73	Protein	Ymt
+T75	Protein	ymt
+T80	Chemical	AHL
+T89	Chemical	triacylglycerol
+T92	Protein	PrtA
+T93	Protein	Plu0655
+T94	Protein	YE4052
+T95	Organism	X. nematophila
+T97	Protein	Plu0306
+T98	Protein	YE4066
+T99	Protein	Plu0631
+T100	Protein	YE3311
+T101	Two-component-system	DegQ/DegS
+T102	Protein	DegQ
+T103	Protein	DegS
+T104	Protein	YE3744
+T105	Protein	YE3745
+T106	Protein	Plu4018
+T107	Protein	Plu4022
+T108	Protein	Plu4291
+T110	Protein	YE0320
+T111	Protein	YE2087
+*	Equiv T2 T3
+*	Equiv T10 T43
+*	Equiv T63 T64
+*	Equiv T65 T66
+E1	Positive_regulation Cause:T2 Theme:E2
+E2	Process Participant:T1
+E3	Process
+E4	Process Participant:T6
+E5	Process
+E6	Regulation Cause:T43 Theme:E5
+E7	Process Participant:T32
+E8	Process Participant:T1
+E9	Process
+E10	Process Participant:T32
+E11	Process Participant:T40
+E12	Process Participant:T6
+E13	Process Participant:T1
+E14	Process
+E15	Binding Theme:T1
+E16	Process
+E17	Regulation Cause:T110 Theme:E19
+E18	Regulation Cause:T111 Theme:E19
+E19	Process Participant:T1
+E20	Process Participant:T6

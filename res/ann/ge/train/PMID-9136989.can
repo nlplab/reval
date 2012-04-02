@@ -1,0 +1,16 @@
+T1	Protein	IK
+T2	Protein	IFN-gamma
+T3	Protein	interferon-gamma
+T8	Protein	class II transactivator
+T9	Protein	CIITA
+*	Equiv T8 T9
+*	Equiv T2 T3
+E1	Gene_expression Theme:T1
+E2	Positive_regulation Theme:E1
+E3	Transcription Theme:T8
+E4	Positive_regulation Theme:E5
+E5	Gene_expression Theme:T1
+E6	Negative_regulation Cause:E4 Theme:E7
+E7	Transcription Theme:T8
+E8	Negative_regulation Cause:T1 Theme:T8
+M1	Speculation E3

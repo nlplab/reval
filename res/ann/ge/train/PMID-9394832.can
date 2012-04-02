@@ -1,0 +1,5 @@
+T1	Protein	IL-1 receptor
+T2	Protein	interleukin-1 receptor type I
+T3	Protein	IL-1RI
+*	Equiv T2 T3
+E1	Binding Theme:T2

@@ -1,0 +1,13 @@
+T1	Protein	interferon-gamma
+T2	Protein	IFN gamma
+T3	Protein	RelA
+T4	Protein	p50
+T12	Entity	nucleus
+E1	Localization Theme:T4 ToLoc:T12
+E2	Localization Theme:T3 ToLoc:T12
+E3	Positive_regulation Theme:E2
+E4	Positive_regulation Theme:E1
+E5	Positive_regulation Theme:E8
+E6	Positive_regulation Theme:E7
+E7	Binding Theme:T4
+E8	Binding Theme:T3

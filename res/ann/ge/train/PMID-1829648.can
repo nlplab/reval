@@ -1,0 +1,13 @@
+T1	Protein	MAD-3
+T2	Protein	KBF1
+T3	Protein	p50
+T6	Protein	p65
+*	Equiv T2 T2 T3 T3
+E1	Positive_regulation Theme:T1
+E2	Negative_regulation Theme:E6
+E3	Negative_regulation Theme:E5
+E4	Negative_regulation Theme:E7
+E5	Binding Theme:T6
+E6	Binding Theme:T3
+E7	Binding Theme:T3
+M1	Negation E2

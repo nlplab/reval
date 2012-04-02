@@ -1,0 +1,31 @@
+T1	Protein	MAD-3
+T2	Protein	p65
+T5	Protein	p50
+T6	Protein	v-rel
+T28	Entity	nuclear localization signal
+T38	Entity	cytoplasm
+T43	Entity	C-terminus
+T45	Entity	nuclear
+E1	Negative_regulation Cause:T1 Site:T28 Theme:T2
+E2	Negative_regulation Cause:T1 Theme:E3
+E3	Binding Theme:T2
+E4	Binding Theme:T2 Theme2:T5
+E5	Binding Theme:T5
+E6	Binding Theme:T2
+E7	Binding Theme:T2
+E8	Regulation Theme:T5
+E9	Binding Theme:T1 Theme2:T2
+E10	Positive_regulation Cause:E9 Theme:E11
+E11	Localization Theme:T2 ToLoc:T38
+E12	Negative_regulation Site:T28 Theme:T2
+E13	Negative_regulation Cause:E12 Theme:E14
+E14	Binding Theme:T2 Theme2:T1
+E15	Negative_regulation CSite:T43 Cause:T2 Theme:E16
+E16	Localization Theme:T2 ToLoc:T45
+E17	Positive_regulation CSite:T43 Cause:T2 Theme:E18
+E18	Negative_regulation Theme:E19
+E19	Binding Theme:T2
+E20	Binding Theme:T1 Theme2:T5
+E21	Positive_regulation Cause:E20 Theme:E22
+E22	Localization Theme:T5 ToLoc:T38
+M1	Negation E8

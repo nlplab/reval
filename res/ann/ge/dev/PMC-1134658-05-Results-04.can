@@ -1,0 +1,36 @@
+T1	Protein	BMP-6
+T2	Protein	Smad1
+T3	Protein	5
+T4	Protein	8
+T14	Protein	STAT3
+T15	Protein	p38
+E1	Positive_regulation Cause:T1 Theme:E2
+E3	Positive_regulation Cause:T1 Theme:E4
+E5	Positive_regulation Cause:T1 Theme:E6
+E2	Phosphorylation Theme:T2
+E4	Phosphorylation Theme:T3
+E6	Phosphorylation Theme:T4
+E7	Phosphorylation Theme:T2
+E8	Phosphorylation Theme:T3
+E9	Phosphorylation Theme:T4
+E10	Positive_regulation Cause:T1 Theme:E11
+E12	Positive_regulation Cause:T1 Theme:E13
+E14	Positive_regulation Cause:T1 Theme:E15
+E11	Phosphorylation Theme:T2
+E13	Phosphorylation Theme:T3
+E15	Phosphorylation Theme:T4
+E16	Positive_regulation Cause:T1 Theme:E17
+E18	Positive_regulation Cause:T1 Theme:E19
+E20	Positive_regulation Cause:T1 Theme:E21
+E17	Phosphorylation Theme:T2
+E19	Phosphorylation Theme:T3
+E21	Phosphorylation Theme:T4
+E22	Regulation Cause:T1 Theme:E23
+E24	Regulation Cause:T1 Theme:E25
+E23	Phosphorylation Theme:T14
+E25	Phosphorylation Theme:T15
+M1	Speculation E7
+M2	Speculation E8
+M3	Speculation E9
+M4	Negation E22
+M5	Negation E24

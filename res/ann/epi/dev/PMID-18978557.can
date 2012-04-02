@@ -1,9 +1,9 @@
 T1	Protein	AZGP1
 T2	Protein	histone
 T3	Protein	alpha-2-glycoprotein 1, zinc
-*	Equiv T3
+*	Equiv T1 T3
 T18	Entity	promoter
-E1	DNA_methylation Site:T18 Theme:T1
-E2	Deacetylation Contextgene:T1 Theme:T2
-E3	Acetylation Contextgene:T1 Theme:T2
+E1	DNA_methylation Site:T18 Theme:T3
+E2	Deacetylation Contextgene:T3 Theme:T2
+E3	Acetylation Contextgene:T3 Theme:T2
 M1	Speculation E3

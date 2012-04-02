@@ -1,0 +1,4 @@
+T1	Protein	p50
+T4	Protein	p56
+E1	Binding Theme:T1
+E2	Binding Theme:T1 Theme2:T4

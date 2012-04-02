@@ -1,0 +1,27 @@
+T1	Protein	CD3
+T2	Protein	CD16
+T3	Protein	hGATA-3
+T4	Protein	TcR delta
+T5	Protein	T cell receptor(TcR) delta
+T9	Protein	recombination-activating gene (RAG)-1
+T16	Protein	TcR gamma
+T17	Protein	delta
+T24	Protein	RAG-1
+E1	Transcription Theme:T4
+E2	Gene_expression Theme:T3
+E3	Transcription Theme:T5
+E4	Gene_expression Theme:T9
+E5	Gene_expression Theme:T3
+E6	Transcription Theme:T4
+E7	Transcription Theme:T4
+E8	Gene_expression Theme:T3
+E9	Regulation Cause:T3 Theme:E10
+E10	Transcription Theme:T4
+E11	Transcription Theme:T3
+E12	Regulation Cause:T3 Theme:E13
+E13	Gene_expression Theme:T4
+E14	Transcription Theme:T24
+M1	Speculation E4
+M2	Speculation E5
+M3	Speculation E12
+M4	Negation E14

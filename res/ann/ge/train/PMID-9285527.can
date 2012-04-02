@@ -1,0 +1,7 @@
+T1	Protein	CD36
+T2	Protein	tumor necrosis factor-alpha
+T8	Protein	TNF-alpha
+*	Equiv T2 T8
+E1	Binding Theme:T1
+E2	Gene_expression Theme:T1
+M1	Speculation E1

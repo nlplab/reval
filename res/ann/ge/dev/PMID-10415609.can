@@ -1,0 +1,16 @@
+T1	Protein	IL-2
+T2	Protein	IL-6
+T3	Protein	TNF-alpha
+T4	Protein	IL-10
+E1	Regulation Theme:E5
+E2	Regulation Theme:E8
+E3	Regulation Theme:E6
+E4	Regulation Theme:E7
+E5	Gene_expression Theme:T1
+E6	Gene_expression Theme:T4
+E7	Gene_expression Theme:T3
+E8	Gene_expression Theme:T2
+M1	Speculation E1
+M2	Speculation E2
+M3	Speculation E3
+M4	Speculation E4

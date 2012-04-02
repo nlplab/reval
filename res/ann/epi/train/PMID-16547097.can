@@ -6,7 +6,7 @@ T12	Protein	FLC1
 T13	Protein	FLC2
 T15	Protein	histone H3
 T16	Protein	H3
-*	Equiv T2
+*	Equiv T1 T2
 *	Equiv T4 T5
 T19	Entity	Lys4
 T21	Entity	Lys9

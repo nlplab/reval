@@ -1,0 +1,8 @@
+T1	Protein	JunD
+T2	Protein	JunB
+T9	Protein	c-Fos
+E1	Binding Theme:T1
+E2	Binding Theme:T2
+E3	Positive_regulation Cause:T9 Theme:E4
+E4	Binding Theme:T2
+M1	Negation E2

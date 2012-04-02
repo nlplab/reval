@@ -9,7 +9,7 @@ T17	Protein	Cbx5
 T18	Protein	heterochromatin protein 1
 T19	Protein	HP1
 *	Equiv T9 T10
-*	Equiv T24
+*	Equiv T24 T24
 *	Equiv T18 T19
 T24	Entity	Lys9
 E1	Catalysis Cause:T1 Theme:E3

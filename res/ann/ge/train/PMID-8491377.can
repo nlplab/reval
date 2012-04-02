@@ -1,0 +1,12 @@
+T1	Protein	early B-cell factor
+T2	Protein	Early B-cell factor
+T3	Protein	EBF
+T4	Protein	mb-1
+*	Equiv T2 T3
+E1	Binding Theme:T2
+E2	Regulation Cause:T2 Theme:T4
+E3	Transcription Theme:T2
+E4	Transcription Theme:T2
+E5	Binding Theme:T2
+E6	Binding Theme:T2
+M1	Negation E4

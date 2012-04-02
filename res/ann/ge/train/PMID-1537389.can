@@ -1,0 +1,9 @@
+T1	Protein	Interleukin 6
+T2	Protein	c-fos
+T4	Protein	interleukin (IL) 6
+T5	Protein	IL 6
+E1	Positive_regulation Theme:E2
+E2	Transcription Theme:T2
+E3	Positive_regulation Theme:E1
+E4	Negative_regulation Theme:E1
+E5	Positive_regulation Theme:T2

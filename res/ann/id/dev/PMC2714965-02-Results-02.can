@@ -1,10 +1,10 @@
 T1	Organism	TB
 T2	Organism	P. aeruginosa CF isolate
 T5	Organism	C. elegans
-*	Equiv T2
+*	Equiv T1 T2
 E1	Negative_regulation Theme:E2
 E2	Process
-E3	Process Participant:T2
+E3	Process Participant:T1
 E4	Negative_regulation Theme:E5
 E5	Process
 E6	Process

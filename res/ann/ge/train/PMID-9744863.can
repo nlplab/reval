@@ -1,0 +1,9 @@
+T1	Protein	EKLF
+T2	Protein	Sp1
+T4	Protein	beta-globin
+E1	Binding Theme:T2
+E2	Binding Theme:T1
+E3	Positive_regulation Theme:E4
+E4	Positive_regulation Theme:T4
+E5	Positive_regulation Theme:E4
+E6	Binding Theme:T2

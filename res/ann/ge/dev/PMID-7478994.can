@@ -1,0 +1,8 @@
+T1	Protein	15-lipoxygenase
+T3	Protein	lox
+T4	Protein	15-lox
+*	Equiv T1 T3
+E1	Regulation Theme:T3
+E2	Gene_expression Theme:T3
+E3	Negative_regulation Cause:T4 Theme:E2
+M1	Negation E3

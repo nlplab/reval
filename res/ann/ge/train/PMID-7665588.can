@@ -1,0 +1,17 @@
+T1	Protein	Ubiquitin
+T2	Protein	p105
+T3	Protein	ubiquitin
+T4	Protein	E2
+T6	Protein	E3
+T7	Protein	p50
+T8	Protein	p65
+T17	Protein	E2-F1
+T18	Protein	p53
+T21	Protein	E6-AP
+T23	Protein	E3 alpha
+E1	Binding Theme:T7 Theme2:T8
+E2	Protein_catabolism Theme:T2
+E3	Positive_regulation Cause:E2 Theme:T7
+E4	Gene_expression Theme:T7
+E5	Binding Theme:T18
+E6	Protein_catabolism Theme:T18

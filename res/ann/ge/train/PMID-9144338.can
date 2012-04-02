@@ -1,0 +1,13 @@
+T1	Protein	vitamin D receptor
+T3	Protein	VDR
+T12	Protein	serum osteocalcin
+*	Equiv T1 T3
+E1	Transcription Theme:T1
+E2	Gene_expression Theme:T1
+E3	Transcription Theme:T1
+E4	Transcription Theme:T1
+E5	Regulation Theme:E6
+E6	Transcription Theme:T1
+M1	Speculation E1
+M2	Negation E2
+M3	Negation E5

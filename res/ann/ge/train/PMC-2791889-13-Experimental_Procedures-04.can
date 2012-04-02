@@ -1,0 +1,7 @@
+T1	Protein	STAT
+T2	Protein	OVA
+T4	Protein	KJ1-26
+T5	Protein	CD4
+T6	Protein	IFN-gamma
+T7	Protein	IL-10
+E1	Negative_regulation Theme:T1

@@ -1,0 +1,6 @@
+T1	Protein	Interleukin-10
+T3	Protein	IL-10
+T6	Protein	TGF-beta1
+T7	Protein	TGF-beta2
+T9	Protein	Sp1
+*	Equiv T1 T3

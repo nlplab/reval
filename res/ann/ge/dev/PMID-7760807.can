@@ -1,0 +1,16 @@
+T1	Protein	MIP-1 alpha
+T2	Protein	macrophage inflammatory protein 1 alpha
+T4	Protein	GOS19
+T5	Protein	LD78
+T6	Protein	AT464
+T12	Protein	ICK-1A
+*	Equiv T1 T2 T4
+T20	Entity	promoter
+E1	Positive_regulation Theme:E2
+E2	Transcription Theme:T2
+E3	Localization Theme:T2
+E4	Positive_regulation Theme:T2
+E5	Regulation Theme:E6
+E6	Gene_expression Theme:T2
+E7	Regulation Site:T20 Theme:T2
+E8	Positive_regulation Theme:T12

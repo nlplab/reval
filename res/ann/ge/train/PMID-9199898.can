@@ -1,0 +1,7 @@
+T1	Protein	tumor necrosis factor alpha
+T2	Protein	TNF- alpha
+T3	Protein	TNF-alpha
+T4	Protein	p65
+T5	Protein	p50
+*	Equiv T1 T2
+E1	Binding Theme:T4 Theme2:T5

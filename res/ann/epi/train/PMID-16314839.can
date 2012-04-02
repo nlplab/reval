@@ -3,10 +3,10 @@ T2	Protein	thioredoxin-binding protein-2
 T4	Protein	IL-2
 T7	Protein	TBP-2
 T14	Protein	histone
-*	Equiv T4
-*	Equiv T7
+*	Equiv T1 T4
+*	Equiv T2 T7
 T33	Entity	CpGs
-E1	DNA_methylation Site:T33 Theme:T7
-E2	Acetylation Contextgene:T7 Theme:T14
-E3	DNA_methylation Theme:T7
-E4	Deacetylation Contextgene:T7 Theme:T14
+E1	DNA_methylation Site:T33 Theme:T2
+E2	Acetylation Contextgene:T2 Theme:T14
+E3	DNA_methylation Theme:T2
+E4	Deacetylation Contextgene:T2 Theme:T14

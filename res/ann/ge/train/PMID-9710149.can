@@ -1,0 +1,11 @@
+T1	Protein	CD4
+T2	Protein	TNF-alpha
+T5	Protein	IL-2
+T6	Protein	CD25
+E1	Positive_regulation Theme:E2
+E2	Positive_regulation Theme:T2
+E3	Negative_regulation Theme:E4
+E4	Gene_expression Theme:T5
+E5	Negative_regulation Theme:E6
+E6	Gene_expression Theme:T6
+M1	Negation E1

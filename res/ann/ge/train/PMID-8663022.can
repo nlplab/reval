@@ -1,0 +1,23 @@
+T1	Protein	PU.1
+T2	Protein	spi-1
+T8	Protein	Oct-1
+T9	Protein	Oct-2
+T10	Protein	Sp1
+T12	Protein	OBF-1
+T13	Protein	Bob1
+T14	Protein	OCA-B
+*	Equiv T1 T1 T2 T2
+*	Equiv T12 T12 T13 T13 T14 T14
+T21	Entity	promoter
+E1	Positive_regulation Site:T21 Theme:T2
+E2	Gene_expression Theme:T2
+E3	Positive_regulation Cause:T2 Site:T21 Theme:T2
+E4	Binding Theme:T8
+E5	Binding Theme:T9
+E6	Gene_expression Theme:T14
+E7	Positive_regulation Cause:T14 Site:T21 Theme:T2
+E8	Positive_regulation Cause:T14 Theme:E10
+E9	Gene_expression Theme:T2
+E10	Positive_regulation Theme:E9
+M1	Negation E6
+M2	Speculation E8

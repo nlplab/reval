@@ -1,0 +1,8 @@
+T1	Protein	lymphotoxin-beta receptor
+T2	Protein	TNF-alpha
+T4	Protein	lymphotoxin-beta (LT-beta) receptor
+T5	Protein	LT-betaR
+T8	Protein	LT-beta
+T9	Protein	TNF-alpha receptors
+*	Equiv T4 T5
+E1	Binding Theme:T4

@@ -1,0 +1,5 @@
+T1	Protein	IL-6
+T2	Protein	Ig kappa
+E1	Negative_regulation Theme:E2
+E2	Positive_regulation Theme:E3
+E3	Transcription Theme:T2

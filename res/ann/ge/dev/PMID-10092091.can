@@ -1,0 +1,13 @@
+T1	Protein	Fas
+T2	Protein	APO-1
+T3	Protein	CD95
+T7	Protein	p50
+T8	Protein	p65
+E1	Gene_expression Theme:T8
+E2	Positive_regulation Theme:E1
+E3	Positive_regulation Theme:E4
+E4	Gene_expression Theme:T7
+E5	Positive_regulation Theme:E6
+E6	Gene_expression Theme:T8
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T7

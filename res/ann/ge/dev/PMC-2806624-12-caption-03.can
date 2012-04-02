@@ -1,0 +1,17 @@
+T1	Protein	RUNX1
+T2	Protein	RUNX3
+T3	Protein	FOXP3
+T9	Protein	CBFbeta
+T11	Protein	CD4
+T12	Protein	IL-2
+T13	Protein	CD2
+T14	Protein	3
+T15	Protein	28
+T16	Protein	TGF-beta
+T18	Entity	binding sites
+T20	Entity	promoter
+E1	Binding Theme:T1 Site2:T18 Theme2:T3
+E2	Binding Theme:T2 Site2:T18 Theme2:T3
+E3	Binding Theme:T1 Site2:T20 Theme2:T3
+E4	Binding Theme:T2 Site2:T20 Theme2:T3
+E5	Binding Theme:T9 Site2:T20 Theme2:T3

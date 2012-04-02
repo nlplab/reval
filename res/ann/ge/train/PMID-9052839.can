@@ -1,0 +1,13 @@
+T1	Protein	TRAMP
+T2	Protein	tumor necrosis factor receptor 1
+T3	Protein	Fas
+T4	Protein	Apo-1
+T5	Protein	CD95
+T8	Protein	TNF receptor 1
+T12	Protein	Bcl-2
+*	Equiv T4 T5
+E1	Gene_expression Theme:T1
+E2	Positive_regulation Theme:T1
+E3	Binding Theme:T1
+M1	Negation E3
+M2	Speculation E3

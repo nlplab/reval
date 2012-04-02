@@ -1,0 +1,15 @@
+T1	Protein	CD4
+T2	Protein	IL-2
+T3	Protein	IFN-gamma
+T4	Protein	IL-4
+T5	Protein	IL-5
+T6	Protein	IL-6
+T7	Protein	IL-10
+T8	Protein	IL-13
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T3
+E3	Gene_expression Theme:T6
+E4	Gene_expression Theme:T4
+E5	Gene_expression Theme:T5
+E6	Gene_expression Theme:T8
+E7	Gene_expression Theme:T7

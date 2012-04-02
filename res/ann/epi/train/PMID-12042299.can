@@ -4,4 +4,4 @@ T3	Protein	FIH
 T4	Protein	p300
 T9	Protein	HIF asparaginyl hydroxylase
 T13	Protein	phosphomannose isomerase
-*	Equiv T1 T2 T3 T9
+*	Equiv T1 T2 T2 T3 T3 T9

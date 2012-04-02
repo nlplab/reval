@@ -15,14 +15,14 @@ T16	Protein	transmembrane activator and CAML interactor
 T25	Protein	cellular inhibitors of apoptosis 1
 T27	Protein	TNF receptor associated factor (TRAF)-associated NF-kappaB activator
 *	Equiv T6 T7
-*	Equiv T8
-*	Equiv T10 T11 T12
+*	Equiv T3 T8
+*	Equiv T10 T10 T11 T11 T12
 *	Equiv T14 T15
-*	Equiv T16
-*	Equiv T25
-*	Equiv T27
-E1	Catalysis Cause:T2 Theme:E2
+*	Equiv T1 T16
+*	Equiv T2 T25
+*	Equiv T5 T27
+E1	Catalysis Cause:T25 Theme:E2
 E2	Ubiquitination Theme:T3
 E3	Ubiquitination Theme:T3
-E4	Catalysis Cause:T2 Theme:E3
+E4	Catalysis Cause:T25 Theme:E3
 E5	Ubiquitination Theme:T3

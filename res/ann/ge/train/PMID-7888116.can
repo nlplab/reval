@@ -1,0 +1,23 @@
+T1	Protein	RAR alpha
+T2	Protein	hRAR alpha
+T3	Protein	retinoid-X receptor alpha
+T4	Protein	hRXR alpha
+T5	Protein	RXR alpha
+*	Equiv T1 T2
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T4
+E3	Binding Theme:T2
+E4	Binding Theme:T4
+E5	Gene_expression Theme:T5
+E6	Gene_expression Theme:T5
+E7	Gene_expression Theme:T5
+E8	Gene_expression Theme:T5
+E9	Positive_regulation Theme:E8
+E10	Gene_expression Theme:T2
+E11	Regulation Theme:E10
+E12	Positive_regulation Theme:E10
+M1	Speculation E1
+M2	Speculation E2
+M3	Negation E7
+M4	Negation E9
+M5	Negation E11

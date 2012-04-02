@@ -1,0 +1,7 @@
+T1	Protein	ORF 50 transactivator
+T2	Protein	EBV R
+T3	Protein	ORF 50
+E1	Gene_expression Theme:T1
+E2	Regulation Theme:E3
+E3	Gene_expression Theme:T3
+M1	Negation E2

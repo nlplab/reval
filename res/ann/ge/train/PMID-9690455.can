@@ -1,0 +1,25 @@
+T1	Protein	interleukin 2
+T2	Protein	IL-2
+T3	Protein	granulocyte/macrophage-colony-stimulating factor
+T5	Protein	p56lck
+T6	Protein	p59fyn
+T14	Protein	c-Rel
+T15	Protein	Rel A
+*	Equiv T1 T2
+E1	Localization Theme:T3
+E2	Gene_expression Theme:T6
+E3	Gene_expression Theme:T5
+E4	Gene_expression Theme:T6
+E5	Gene_expression Theme:T5
+E6	Gene_expression Theme:T6
+E7	Gene_expression Theme:T5
+E8	Positive_regulation Theme:E7
+E9	Positive_regulation Theme:E6
+E10	Gene_expression Theme:T6
+E11	Gene_expression Theme:T5
+E12	Positive_regulation Theme:E11
+E13	Positive_regulation Theme:E10
+E14	Gene_expression Theme:T14
+E15	Gene_expression Theme:T15
+M1	Speculation E2
+M2	Speculation E3

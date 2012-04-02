@@ -1,0 +1,29 @@
+T1	Protein	Interleukin-2
+T2	Protein	interleukin (IL)-2
+T3	Protein	IL-2
+T16	Protein	p50
+T17	Protein	p65
+T30	Entity	promoter
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T2
+E3	Gene_expression Theme:T3
+E4	Gene_expression Theme:T3
+E5	Localization Theme:T3
+E6	Positive_regulation Theme:E5
+E7	Localization Theme:T3
+E8	Positive_regulation Site:T30 Theme:T3
+E9	Localization Theme:T3
+E10	Gene_expression Theme:T3
+E11	Gene_expression Theme:T3
+E12	Positive_regulation Theme:T16
+E13	Positive_regulation Theme:T17
+E14	Localization Theme:T3
+E15	Localization Theme:T3
+E16	Positive_regulation Site:T30 Theme:T3
+E17	Regulation Theme:E18
+E18	Gene_expression Theme:T3
+M1	Speculation E1
+M2	Negation E11
+M3	Negation E15
+M4	Negation E17
+M5	Speculation E17

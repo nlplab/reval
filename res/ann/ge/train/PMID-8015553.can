@@ -1,0 +1,40 @@
+T1	Protein	prolactin
+T2	Protein	Pit-1
+T3	Protein	PRL
+T4	Protein	hPRL
+T6	Protein	dPRL
+T8	Protein	glucocorticoid receptor
+T9	Protein	progesterone receptor
+T10	Protein	PR
+*	Equiv T9 T10
+*	Equiv T3 T4
+T41	Entity	promoter
+E1	Transcription Theme:T1
+E2	Regulation Cause:T2 Theme:E1
+E3	Regulation Theme:E1
+E4	Gene_expression Theme:T4
+E5	Positive_regulation Theme:E4
+E6	Regulation Theme:E7
+E7	Gene_expression Theme:T4
+E8	Regulation Cause:T2 Theme:E9
+E9	Gene_expression Theme:T4
+E10	Positive_regulation Theme:T4
+E11	Positive_regulation Theme:T9
+E12	Regulation Cause:E11 Site:T41 Theme:T6
+E13	Gene_expression Theme:T4
+E14	Gene_expression Theme:T4
+E15	Positive_regulation Theme:E16
+E16	Gene_expression Theme:T4
+E17	Gene_expression Theme:T4
+E18	Positive_regulation Site:T41 Theme:T6
+E19	Gene_expression Theme:T4
+E20	Positive_regulation Theme:E21
+E21	Transcription Theme:T4
+E22	Gene_expression Theme:T4
+E23	Positive_regulation Theme:E24
+E24	Gene_expression Theme:T4
+M1	Negation E2
+M2	Negation E12
+M3	Negation E14
+M4	Negation E20
+M5	Negation E22

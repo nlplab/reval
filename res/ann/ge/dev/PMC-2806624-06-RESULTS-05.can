@@ -1,0 +1,33 @@
+T1	Protein	CBFbeta
+T2	Protein	RUNX1
+T3	Protein	RUNX3
+T4	Protein	CD25
+T5	Protein	Foxp3
+T6	Protein	Cbfb
+T7	Protein	CD4
+T9	Protein	CD3
+T10	Protein	28
+T11	Protein	TGF-beta
+T15	Protein	CD4-cre
+T18	Protein	Cd45.2
+T20	Protein	GFP
+T23	Protein	IL-2
+T27	Protein	CD45.1
+T35	Protein	FOXP3
+T54	Protein	annexin V
+T69	Protein	Foxp3-GFP
+E1	Negative_regulation Theme:T6
+E2	Negative_regulation Cause:E1 Theme:E3
+E3	Positive_regulation Theme:T5
+E4	Negative_regulation Theme:T2
+E5	Negative_regulation Theme:T3
+E6	Negative_regulation Theme:T2
+E7	Negative_regulation Theme:T3
+E8	Positive_regulation Cause:T2 Theme:E9
+E10	Positive_regulation Cause:T3 Theme:E9
+E9	Gene_expression Theme:T35
+E11	Negative_regulation Cause:E13 Theme:E12
+E14	Negative_regulation Cause:E15 Theme:E12
+E12	Gene_expression Theme:T35
+E13	Negative_regulation Theme:T2
+E15	Negative_regulation Theme:T3

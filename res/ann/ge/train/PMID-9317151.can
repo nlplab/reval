@@ -1,0 +1,11 @@
+T1	Protein	CD14
+T2	Protein	mCD14
+T7	Protein	complement receptor-1
+T8	Protein	CR1
+T13	Protein	TNF-alpha
+*	Equiv T1 T2
+*	Equiv T7 T8
+E1	Negative_regulation Theme:E3
+E2	Positive_regulation Theme:E3
+E3	Localization Theme:T13
+E4	Positive_regulation Theme:E2

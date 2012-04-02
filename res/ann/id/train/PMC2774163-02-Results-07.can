@@ -1,0 +1,28 @@
+T1	Protein	bfiS
+T2	Protein	bfmR
+T3	Protein	mifR
+T4	Protein	BfiS
+T5	Protein	PA4197
+T6	Protein	BfmR
+T7	Protein	PA4101
+T8	Protein	MifR
+T9	Protein	PA5511
+T10	Organism	P. aeruginosa
+T11	Chemical	arabinose
+T18	Organism	DeltabfiS
+T20	Organism	DeltabfmR mutant
+*	Equiv T4 T5
+*	Equiv T6 T7
+*	Equiv T8 T9
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T2
+E3	Gene_expression Theme:T3
+E4	Negative_regulation Theme:T5
+E5	Negative_regulation Theme:T7
+E6	Negative_regulation Theme:T9
+E7	Negative_regulation Theme:E10
+E8	Negative_regulation Theme:E11
+E9	Negative_regulation Theme:E12
+E10	Gene_expression Theme:T1
+E11	Gene_expression Theme:T2
+E12	Gene_expression Theme:T3

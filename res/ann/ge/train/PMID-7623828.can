@@ -1,0 +1,13 @@
+T1	Protein	p95vav
+T5	Protein	interleukin-2
+T12	Protein	calcineurin
+E1	Positive_regulation Theme:T1
+E2	Gene_expression Theme:T1
+E3	Positive_regulation Theme:E4
+E4	Gene_expression Theme:T1
+E5	Regulation Theme:E6
+E6	Gene_expression Theme:T5
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T1
+E9	Positive_regulation Theme:T1
+E10	Gene_expression Theme:T1

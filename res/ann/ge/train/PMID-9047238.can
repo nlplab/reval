@@ -1,0 +1,16 @@
+T1	Protein	c-Rel
+T4	Protein	IL-2
+T5	Protein	IL-2R(alpha) chain
+E1	Regulation Theme:T1
+E2	Positive_regulation Theme:E3
+E3	Gene_expression Theme:T1
+E4	Negative_regulation Theme:E2
+E5	Gene_expression Theme:T1
+E6	Transcription Theme:T4
+E7	Negative_regulation Theme:E6
+E8	Transcription Theme:T5
+E9	Negative_regulation Theme:E8
+E10	Gene_expression Theme:T1
+E11	Negative_regulation Theme:E10
+M1	Negation E9
+M2	Negation E11

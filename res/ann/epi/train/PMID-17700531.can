@@ -3,6 +3,6 @@ T2	Protein	collagen IV alpha 2
 T3	Protein	von Hippel-Lindau (VHL) tumor suppressor
 T4	Protein	VHL
 T8	Protein	COL4A2
-*	Equiv T8
+*	Equiv T2 T8
 E1	Hydroxylation Theme:T2
-E2	Hydroxylation Theme:T8
+E2	Hydroxylation Theme:T2

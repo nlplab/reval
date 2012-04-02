@@ -1,0 +1,21 @@
+T1	Protein	CD95 (Fas) ligand
+T2	Protein	CD95 ligand
+T4	Protein	CD95
+T6	Protein	luciferase
+T8	Protein	CD45 tyrosine phosphatase
+T12	Protein	cyclosporin A
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Gene_expression Theme:T2
+E4	Binding Theme:T2
+E5	Regulation Theme:E6
+E6	Gene_expression Theme:T2
+E7	Positive_regulation Theme:E8
+E8	Positive_regulation Theme:E9
+E9	Gene_expression Theme:T2
+E10	Positive_regulation Theme:E11
+E11	Positive_regulation Theme:T2
+E12	Regulation Theme:E13
+E13	Gene_expression Theme:T2
+E14	Positive_regulation Theme:T2
+E15	Gene_expression Theme:T2

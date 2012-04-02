@@ -1,0 +1,58 @@
+T1	Protein	CBFbeta
+T2	Protein	Foxp3
+T4	Protein	RUNX
+T5	Protein	Runx
+T7	Protein	Cbfb
+T8	Protein	CD4-cre
+T9	Protein	TGF-beta
+T14	Protein	CD4
+T15	Protein	CD8
+T20	Protein	CD3
+T21	Protein	28
+T24	Protein	IFN-gamma
+T46	Protein	IL-4
+T54	Protein	GFP
+T55	Protein	Rag2
+T57	Protein	Foxp3-GFP
+E1	Positive_regulation Cause:T1 Theme:E2
+E2	Gene_expression Theme:T2
+E3	Regulation Cause:T5 Theme:E4
+E4	Positive_regulation Theme:T2
+E5	Negative_regulation Theme:T7
+E6	Gene_expression Theme:T8
+E7	Positive_regulation Cause:T9 Theme:E8
+E8	Gene_expression Theme:T2
+E9	Positive_regulation Cause:T5 Theme:E10
+E10	Gene_expression Theme:T2
+E11	Positive_regulation Cause:E12 Theme:E10
+E12	Gene_expression Theme:T1
+E13	Gene_expression Theme:T2
+E14	Gene_expression Theme:T24
+E15	Positive_regulation Cause:T9 Theme:T2
+E16	Negative_regulation Theme:E15
+E17	Positive_regulation Cause:T9 Theme:E18
+E18	Gene_expression Theme:T2
+E19	Gene_expression Theme:T2
+E20	Negative_regulation Theme:E19
+E21	Binding Theme:T5
+E22	Regulation Cause:E21 Theme:E23
+E23	Positive_regulation Cause:T9 Theme:T2
+E24	Regulation Cause:E26 Theme:E25
+E27	Regulation Cause:E28 Theme:E25
+E25	Gene_expression Theme:T2
+E26	Negative_regulation Theme:T46
+E28	Negative_regulation Theme:T24
+E29	Gene_expression Theme:T57
+E30	Gene_expression Theme:T2
+E31	Positive_regulation Cause:T4 Theme:E32
+E33	Positive_regulation Cause:T4 Theme:E34
+E32	Gene_expression Theme:T14
+E34	Gene_expression Theme:T2
+M1	Speculation E1
+M2	Speculation E3
+M3	Speculation E11
+M4	Speculation E13
+M5	Speculation E14
+M6	Negation E24
+M7	Negation E27
+M8	Speculation E29

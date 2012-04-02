@@ -1,0 +1,23 @@
+T1	Protein	Estrogen receptor
+T2	Protein	GATA-1
+T3	Protein	estrogen receptor
+T4	Protein	ER
+T5	Protein	ER alpha
+T7	Protein	histone H5
+T9	Protein	Sp1
+*	Equiv T3 T4
+E1	Negative_regulation Cause:T1 Theme:E2
+E2	Binding Theme:T2
+E3	Regulation Theme:E4
+E4	Gene_expression Theme:T7
+E5	Binding Theme:T9
+E6	Regulation Cause:T3 Theme:E5
+E7	Binding Theme:T3
+E8	Positive_regulation Theme:E7
+E9	Positive_regulation Theme:E10
+E10	Negative_regulation Cause:T2 Theme:E11
+E11	Binding Theme:T2
+E12	Positive_regulation Theme:T3
+E13	Negative_regulation Theme:E14
+E14	Binding Theme:T2
+M1	Negation E6

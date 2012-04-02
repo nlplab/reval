@@ -1,0 +1,11 @@
+T1	Protein	human retinoic acid receptor alpha
+T2	Protein	RAR alpha
+T3	Protein	RAR beta
+T4	Protein	RAR gamma
+T5	Protein	hRAR alpha
+E1	Binding Theme:T1
+E2	Positive_regulation Theme:E3
+E3	Binding Theme:T2
+E4	Negative_regulation Theme:E5
+E5	Positive_regulation Theme:T2
+M1	Speculation E1

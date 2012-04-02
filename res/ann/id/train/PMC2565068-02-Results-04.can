@@ -1,0 +1,35 @@
+T1	Protein	IL-8
+T2	Protein	ScpC
+T3	Organism	NIH230slo
+T4	Protein	slo
+T6	Organism	invasive GAS
+T9	Organism	GAS
+T10	Organism	its mutants
+T12	Organism	NIH230
+T15	Organism	non-invasive GAS 1556
+T18	Protein	SpyCEP
+T19	Organism	human
+T21	Protein	Groalpha
+T22	Organism	murine
+T23	Protein	KC
+T24	Protein	MIP-2
+T25	Organism	NIH230 mutant
+T27	Organism	NIH230scpC
+T28	Protein	scpC
+T32	Organism	1566 strain
+T35	Organism	parent strain NIH230
+T38	Protein	SLO
+*	Equiv T2 T18
+E1	Protein_catabolism Theme:T1
+E2	Positive_regulation Cause:T18 Theme:E1
+E3	Positive_regulation Cause:T18 Theme:E10
+E4	Protein_catabolism Theme:T1
+E5	Positive_regulation Cause:T18 Theme:E4
+E6	Protein_catabolism Theme:T21
+E7	Positive_regulation Cause:T18 Theme:E6
+E8	Protein_catabolism Theme:T23
+E9	Positive_regulation Cause:T18 Theme:E8
+E10	Protein_catabolism Theme:T24
+E11	Protein_catabolism Theme:T1
+E12	Gene_expression Theme:T18
+E13	Gene_expression Theme:T38

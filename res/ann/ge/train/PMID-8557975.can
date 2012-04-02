@@ -1,0 +1,43 @@
+T1	Protein	MEK1
+T2	Protein	IL-2
+T3	Protein	Raf-1
+T5	Protein	mitogen-activated protein (MAP) kinase/extracellular signal-regulated kinase kinase 1
+T7	Protein	ERK1
+T8	Protein	ERK2
+T19	Protein	MKP-1
+*	Equiv T1 T5
+E1	Positive_regulation Cause:T5 Theme:E3
+E2	Positive_regulation Theme:E3
+E3	Positive_regulation Theme:E4
+E4	Transcription Theme:T2
+E5	Positive_regulation Theme:T3
+E6	Phosphorylation Theme:T5
+E7	Positive_regulation Cause:T3 Theme:E6
+E8	Positive_regulation Cause:T3 Theme:T5
+E9	Phosphorylation Theme:T7
+E10	Positive_regulation Cause:T5 Theme:E9
+E11	Positive_regulation Cause:T5 Theme:E12
+E12	Phosphorylation Theme:T8
+E13	Positive_regulation Cause:T5 Theme:T7
+E14	Positive_regulation Cause:T5 Theme:T8
+E15	Positive_regulation Cause:T3 Theme:E16
+E16	Gene_expression Theme:T2
+E17	Positive_regulation Theme:E19
+E18	Positive_regulation Cause:T5 Theme:E19
+E19	Transcription Theme:T2
+E20	Positive_regulation Theme:T3
+E21	Positive_regulation Theme:T5
+E22	Gene_expression Theme:T5
+E23	Gene_expression Theme:T3
+E24	Gene_expression Theme:T19
+E25	Positive_regulation Theme:T5
+E26	Positive_regulation Theme:T3
+E27	Regulation Cause:T7 Theme:E32
+E28	Regulation Cause:T8 Theme:E32
+E29	Regulation Theme:E32
+E30	Regulation Cause:T3 Theme:E32
+E31	Regulation Cause:T5 Theme:E32
+E32	Positive_regulation Theme:E33
+E33	Transcription Theme:T2
+M1	Speculation E17
+M2	Speculation E18

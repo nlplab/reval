@@ -1,0 +1,35 @@
+T1	Protein	p105
+T2	Protein	NF-kappa B1
+T3	Protein	c-Rel
+T4	Protein	RelA
+T5	Protein	p65
+T7	Protein	p50
+T8	Protein	RelB
+T9	Protein	I kappa B alpha
+T10	Protein	I kappa B beta
+T15	Protein	I kappa B gamma
+*	Equiv T1 T1 T2 T2 T7 T15
+*	Equiv T4 T5
+T24	Entity	nuclear
+E1	Negative_regulation Theme:E5
+E2	Negative_regulation Theme:E4
+E3	Negative_regulation Theme:E6
+E4	Localization Theme:T5 ToLoc:T24
+E5	Localization Theme:T3 ToLoc:T24
+E6	Localization Theme:T7 ToLoc:T24
+E7	Localization AtLoc:T24 Theme:T8
+E8	Negative_regulation Theme:E7
+E9	Negative_regulation Theme:E13
+E10	Negative_regulation Theme:E14
+E11	Positive_regulation Theme:E14
+E12	Positive_regulation Theme:E13
+E13	Protein_catabolism Theme:T9
+E14	Protein_catabolism Theme:T10
+E15	Negative_regulation Theme:E16
+E16	Protein_catabolism Theme:T7
+E17	Negative_regulation Theme:E20
+E18	Negative_regulation Theme:E19
+E19	Protein_catabolism Theme:T9
+E20	Protein_catabolism Theme:T10
+M1	Negation E8
+M2	Negation E15

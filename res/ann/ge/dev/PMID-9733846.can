@@ -1,0 +1,15 @@
+T1	Protein	CD4 receptor
+T2	Protein	CD4
+T6	Protein	p56(lck)
+T11	Protein	Fas
+T12	Protein	Fas ligand
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T2
+E3	Gene_expression Theme:T2
+E4	Gene_expression Theme:T2
+E5	Binding Theme:T6
+E6	Binding Theme:T2
+E7	Binding Theme:T11 Theme2:T12
+E8	Binding Theme:T11 Theme2:T12
+E9	Binding Theme:T2
+M1	Negation E5

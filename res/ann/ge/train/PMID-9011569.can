@@ -1,0 +1,26 @@
+T1	Protein	insulin
+T6	Protein	beta-actin
+T10	Protein	insulin gene transcription factor
+T11	Protein	PDX-1
+T12	Protein	IPF1
+T13	Protein	STF-1
+*	Equiv T10 T11 T12 T13
+T19	Entity	promoter
+E1	Negative_regulation Theme:E2
+E2	Localization Theme:T1
+E3	Regulation Theme:E4
+E4	Transcription Theme:T1
+E5	Negative_regulation Site:T19 Theme:T1
+E6	Negative_regulation Theme:T1
+E7	Negative_regulation Theme:T1
+E8	Negative_regulation Theme:E9
+E9	Binding Site:T19 Theme:T1 Theme2:T10
+E10	Negative_regulation Theme:E7
+E11	Negative_regulation Theme:E5
+E12	Negative_regulation Theme:E8
+E13	Negative_regulation Theme:E6
+E14	Positive_regulation Theme:E9
+E15	Negative_regulation Theme:E16
+E16	Transcription Theme:T1
+M1	Speculation E3
+M2	Speculation E14

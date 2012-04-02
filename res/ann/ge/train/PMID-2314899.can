@@ -1,0 +1,6 @@
+T1	Protein	Tax
+T6	Protein	CREB
+E1	Gene_expression Theme:T1
+E2	Regulation Cause:T6 Theme:E3
+E3	Regulation Cause:T6 Theme:E4
+E4	Regulation Theme:T1

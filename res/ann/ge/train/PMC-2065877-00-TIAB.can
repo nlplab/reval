@@ -1,0 +1,19 @@
+T1	Protein	Latent Membrane Protein 1
+T2	Protein	Akt
+T3	Protein	Stat3
+T4	Protein	Latent membrane protein 1
+T5	Protein	LMP1
+T10	Protein	IL4
+T11	Protein	Stat6
+*	Equiv T4 T5
+E1	Positive_regulation Cause:T1 Theme:T2
+E2	Positive_regulation Cause:T1 Theme:T3
+E3	Negative_regulation Theme:T2
+E4	Negative_regulation Theme:T3
+E5	Regulation Theme:T10
+E6	Regulation Theme:T11
+E7	Regulation Theme:T3
+E8	Gene_expression Theme:T4
+M1	Negation E5
+M2	Negation E6
+M3	Negation E7

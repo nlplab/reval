@@ -14,8 +14,8 @@ T23	Protein	aspartate carbamoyltransferase
 T24	Protein	dihydroorotase
 T26	Protein	nucleolin
 T27	Protein	nuc
-*	Equiv T9
-*	Equiv T22 T23 T24
+*	Equiv T2 T9
+*	Equiv T6 T22 T23 T24
 *	Equiv T26 T27
 E1	Catalysis Cause:T3 Theme:E8
 E2	Methylation Theme:T15

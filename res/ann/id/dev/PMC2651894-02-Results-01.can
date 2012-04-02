@@ -21,7 +21,7 @@ T45	Protein	SifA-2HA
 T46	Protein	SrfN-2HA
 T56	Regulon-operon	sigmaE
 T57	Protein	SrfN
-*	Equiv T38
+*	Equiv T1 T38
 T76	Entity	culture supernatant
 E1	Process
 E2	Process Participant:T3
@@ -38,7 +38,7 @@ E12	Process
 E13	Regulation Theme:E14
 E14	Gene_expression Theme:T15
 E15	Regulation Theme:T15
-E16	Gene_expression Theme:T1
+E16	Gene_expression Theme:T38
 E17	Gene_expression Theme:T15
 E18	Localization Theme:T15 ToLoc:T76
 E19	Process
@@ -47,7 +47,7 @@ E21	Gene_expression Theme:T45
 E22	Gene_expression Theme:T46
 E23	Negative_regulation Theme:E24
 E24	Gene_expression Theme:T45
-E25	Regulation Cause:T1 Theme:T44
+E25	Regulation Cause:T38 Theme:T44
 M1	Negation E25
 E26	Gene_expression Theme:T46
 E27	Positive_regulation Theme:E26

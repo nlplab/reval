@@ -1,0 +1,15 @@
+T1	Protein	interleukin-1beta
+T2	Protein	Interleukin-1 beta
+T3	Protein	IL-1beta
+T6	Protein	transcription activator protein-2
+T8	Protein	CAT
+T11	Protein	chloramphenicol acetyltransferase
+*	Equiv T2 T3
+*	Equiv T8 T11
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T2
+E3	Negative_regulation Theme:E4
+E4	Gene_expression Theme:T2
+E5	Negative_regulation Theme:E6
+E6	Gene_expression Theme:T11
+M1	Negation E5

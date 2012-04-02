@@ -1,0 +1,5 @@
+T1	Protein	Ikaros
+T2	Protein	Aiolos
+T8	Protein	Mi-2-HDAC
+E1	Binding Theme:T1
+E2	Binding Theme:T1 Theme2:T8

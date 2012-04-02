@@ -1,0 +1,37 @@
+T1	Protein	perforin
+T2	Protein	granzyme B
+T5	Protein	CD8
+T9	Protein	Prf1
+T11	Protein	Gzmb
+T13	Protein	IFN-gamma
+T14	Protein	TNF
+T18	Protein	IL-2
+*	Equiv T1 T9
+*	Equiv T2 T11
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T2
+E3	Gene_expression Theme:T1
+E4	Gene_expression Theme:T2
+E5	Gene_expression Theme:T1
+E6	Gene_expression Theme:T1
+E7	Gene_expression Theme:T1
+E8	Transcription Theme:T1
+E9	Positive_regulation Theme:E8
+E10	Negative_regulation Theme:E8
+E11	Positive_regulation Theme:E8
+E12	Transcription Theme:T2
+E13	Positive_regulation Theme:T2
+E14	Positive_regulation Theme:T2
+E15	Positive_regulation Theme:T2
+E16	Gene_expression Theme:T13
+E17	Gene_expression Theme:T14
+E18	Positive_regulation Theme:E16
+E19	Positive_regulation Theme:E17
+E20	Gene_expression Theme:T1
+E21	Gene_expression Theme:T2
+E22	Gene_expression Theme:T1
+E23	Positive_regulation Theme:E22
+M1	Speculation E1
+M2	Speculation E2
+M3	Negation E9
+M4	Negation E12

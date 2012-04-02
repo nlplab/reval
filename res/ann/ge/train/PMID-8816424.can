@@ -1,0 +1,55 @@
+T1	Protein	sialoadhesin
+T2	Protein	IFN-beta
+T3	Protein	IFN-gamma
+T4	Protein	IL-4
+T5	Protein	Sialoadhesin
+T22	Protein	GC receptor
+T23	Protein	mineralocorticoid receptor
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Positive_regulation Theme:E1
+E4	Positive_regulation Theme:E1
+E5	Positive_regulation Cause:T4 Theme:E1
+E6	Positive_regulation Cause:T2 Theme:E1
+E7	Positive_regulation Cause:T3 Theme:E1
+E8	Gene_expression Theme:T5
+E9	Regulation Theme:E10
+E10	Gene_expression Theme:T1
+E11	Positive_regulation Theme:E12
+E12	Gene_expression Theme:T1
+E13	Positive_regulation Cause:T3 Theme:E17
+E14	Positive_regulation Cause:T4 Theme:E17
+E15	Positive_regulation Cause:T2 Theme:E17
+E16	Positive_regulation Theme:E17
+E17	Gene_expression Theme:T1
+E18	Positive_regulation Cause:T3 Theme:E22
+E19	Positive_regulation Cause:T2 Theme:E22
+E20	Positive_regulation Cause:T4 Theme:E22
+E21	Positive_regulation Theme:E22
+E22	Positive_regulation Theme:T1
+E23	Gene_expression Theme:T5
+E24	Positive_regulation Theme:E23
+E25	Positive_regulation Theme:E26
+E26	Transcription Theme:T5
+E27	Positive_regulation Theme:E28
+E28	Positive_regulation Theme:E29
+E29	Gene_expression Theme:T1
+E30	Binding Theme:T4
+E31	Binding Theme:T2
+E32	Binding Theme:T3
+E33	Regulation Theme:E34
+E34	Gene_expression Theme:T1
+E35	Positive_regulation Cause:T22 Theme:E33
+E36	Positive_regulation Cause:T23 Theme:E33
+E37	Gene_expression Theme:T1
+E38	Positive_regulation Theme:E39
+E39	Gene_expression Theme:T1
+E40	Positive_regulation Theme:E38
+E41	Positive_regulation Cause:T2 Theme:E38
+M1	Speculation E9
+M2	Speculation E10
+M3	Negation E13
+M4	Negation E14
+M5	Negation E15
+M6	Negation E16
+M7	Negation E36

@@ -1,0 +1,42 @@
+T1	Protein	bcr-abl fusion gene
+T2	Protein	interferon alpha
+T3	Protein	IFN-alpha
+T4	Protein	interferon regulatory factor 4
+T5	Protein	IRF-4
+T9	Protein	ICSAT
+T10	Protein	Pip
+T11	Protein	MUM1
+T12	Protein	LSIRF
+T18	Protein	MGMT
+T19	Protein	DAPK
+T20	Protein	p14ARF
+T21	Protein	p15INK4b
+T22	Protein	p16INK4a
+T23	Protein	BRCA1
+T24	Protein	CDH13
+T25	Protein	APAF-1
+T26	Protein	c-abl
+T27	Protein	bcr
+*	Equiv T2 T3
+*	Equiv T4 T5 T5 T9 T10 T11 T12
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Negative_regulation Theme:E4
+E4	Gene_expression Theme:T4
+E5	Negative_regulation Theme:T4
+E6	Gene_expression Theme:T4
+E7	Gene_expression Theme:T4
+E8	Gene_expression Theme:T4
+E9	Positive_regulation Theme:E8
+E10	Negative_regulation Theme:T4
+E11	Gene_expression Theme:T4
+E12	Regulation Theme:E13
+E14	Regulation Theme:E15
+E13	Gene_expression Theme:T26
+E15	Gene_expression Theme:T27
+E16	Gene_expression Theme:T4
+E17	Negative_regulation Theme:E16
+E18	Gene_expression Theme:T4
+E19	Gene_expression Theme:T4
+M1	Negation E9
+M2	Negation E19

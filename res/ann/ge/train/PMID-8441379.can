@@ -1,0 +1,24 @@
+T1	Protein	human prointerleukin 1 beta
+T3	Protein	proIL-1 beta
+T4	Protein	IL-6
+T5	Protein	NF-IL6
+T7	Protein	IL-1 beta
+T8	Protein	c-fos
+*	Equiv T1 T3
+T21	Entity	enhancer
+T23	Entity	promoter
+E1	Positive_regulation Theme:E2
+E2	Positive_regulation Theme:T3
+E3	Positive_regulation Theme:E4
+E4	Regulation Theme:T3
+E5	Positive_regulation Theme:E6
+E6	Gene_expression Theme:T3
+E7	Positive_regulation Cause:T5 Theme:E9
+E8	Positive_regulation Theme:E9
+E9	Positive_regulation Theme:T4
+E10	Gene_expression Theme:T7
+E11	Positive_regulation Theme:E12
+E12	Positive_regulation Site:T21 Theme:T3
+E13	Positive_regulation CSite:T21 Cause:T3 Site:T23 Theme:T3
+M1	Speculation E5
+M2	Negation E10

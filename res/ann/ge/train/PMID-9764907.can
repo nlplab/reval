@@ -1,0 +1,4 @@
+T1	Protein	tumor necrosis factor alpha
+T2	Protein	TNF-alpha
+T4	Protein	p24 antigen
+*	Equiv T1 T2

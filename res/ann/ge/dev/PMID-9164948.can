@@ -1,0 +1,29 @@
+T1	Protein	CD3 delta
+T2	Protein	epsilon
+T3	Protein	gamma
+T4	Protein	TCR zeta
+T5	Protein	TCR zeta chain
+T6	Protein	tyrosine kinase p56(lck)
+T7	Protein	p65
+T8	Protein	IL-2
+T9	Protein	IFN-gamma
+T11	Protein	p56(lck)
+T14	Entity	nucleus
+E1	Negative_regulation Theme:E2
+E2	Localization Theme:T7 ToLoc:T14
+E3	Positive_regulation Theme:E1
+E4	Negative_regulation Theme:T5
+E5	Positive_regulation Cause:E1 Theme:E8
+E6	Positive_regulation Cause:E1 Theme:E7
+E7	Negative_regulation Theme:E10
+E8	Negative_regulation Theme:E9
+E9	Gene_expression Theme:T8
+E10	Gene_expression Theme:T9
+E11	Positive_regulation Cause:E8 Theme:E17
+E12	Positive_regulation Cause:E7 Theme:E17
+E13	Positive_regulation Cause:E1 Theme:E18
+E14	Positive_regulation Cause:E1 Theme:E17
+E15	Positive_regulation Cause:E7 Theme:E18
+E16	Positive_regulation Cause:E8 Theme:E18
+E17	Negative_regulation Theme:T11
+E18	Negative_regulation Theme:T5

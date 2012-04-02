@@ -1,0 +1,4 @@
+T1	Protein	Sp1
+T2	Protein	IRBP
+E1	Binding Theme:T2
+E2	Binding Theme:T1

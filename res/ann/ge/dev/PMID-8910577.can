@@ -1,0 +1,12 @@
+T1	Protein	Sp140
+T3	Protein	Sp100
+T6	Protein	SP140
+T15	Entity	NB
+E1	Positive_regulation Theme:E2
+E2	Transcription Theme:T1
+E3	Transcription Theme:T6
+E4	Positive_regulation Theme:E3
+E5	Localization Theme:T6 ToLoc:T15
+E6	Localization AtLoc:T15 Theme:T1
+E7	Gene_expression Theme:T1
+M1	Negation E2

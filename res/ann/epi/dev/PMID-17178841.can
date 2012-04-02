@@ -4,6 +4,6 @@ T6	Protein	histone
 T8	Protein	PTIP
 T9	Protein	UTX
 T11	Protein	H3
-*	Equiv T1 T2
+*	Equiv T1 T1 T2 T2
 T22	Entity	K4
 E1	Methylation Site:T22 Theme:T11

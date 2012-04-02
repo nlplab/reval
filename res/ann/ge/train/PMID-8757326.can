@@ -1,0 +1,53 @@
+T1	Protein	IL-2
+T2	Protein	c-Fos
+T3	Protein	FosB
+T4	Protein	JunB
+T7	Protein	NFATp
+T8	Protein	Fos
+T9	Protein	Jun
+T34	Entity	nucleus
+E1	Negative_regulation Theme:E2
+E2	Transcription Theme:T1
+E3	Negative_regulation Theme:E8
+E4	Negative_regulation Theme:E7
+E5	Negative_regulation Theme:E6
+E6	Gene_expression Theme:T2
+E7	Gene_expression Theme:T3
+E8	Gene_expression Theme:T4
+E9	Gene_expression Theme:T1
+E10	Positive_regulation Theme:E9
+E11	Positive_regulation Theme:E10
+E12	Binding Theme:T9
+E13	Binding Theme:T8
+E14	Binding Theme:T7
+E15	Binding Theme:T9
+E16	Binding Theme:T8
+E17	Negative_regulation Theme:E21
+E18	Negative_regulation Theme:E20
+E19	Negative_regulation Theme:E22
+E20	Gene_expression Theme:T2
+E21	Gene_expression Theme:T3
+E22	Gene_expression Theme:T4
+E23	Negative_regulation Theme:E26
+E24	Negative_regulation Theme:E25
+E25	Gene_expression Theme:T3
+E26	Gene_expression Theme:T2
+E27	Gene_expression Theme:T4
+E28	Positive_regulation Theme:E31
+E29	Positive_regulation Theme:E32
+E30	Positive_regulation Cause:E28 Theme:E32
+E31	Localization Theme:T7 ToLoc:T34
+E32	Binding Theme:T7
+E33	Negative_regulation Theme:E34
+E34	Transcription Theme:T1
+E35	Positive_regulation Cause:E37 Theme:E33
+E36	Positive_regulation Cause:E38 Theme:E33
+E37	Negative_regulation Theme:E40
+E38	Negative_regulation Theme:E39
+E39	Gene_expression Theme:T9
+E40	Gene_expression Theme:T8
+M1	Negation E10
+M2	Negation E23
+M3	Negation E24
+M4	Speculation E35
+M5	Speculation E36

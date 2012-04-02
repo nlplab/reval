@@ -3,21 +3,21 @@ T2	Protein	H3
 T3	Protein	Ezh2
 T4	Protein	histone H3
 T12	Protein	Six4
-*	Equiv T4
-*	Equiv T25
+*	Equiv T2 T4
+*	Equiv T23 T25
 *	Equiv T30 T32
 T23	Entity	K27
 T25	Entity	Lys27
 T30	Entity	Lys4
 T32	Entity	K4
 E1	Catalysis Cause:T1 Theme:E2
-E2	Demethylation Site:T23 Theme:T2
+E2	Demethylation Site:T25 Theme:T4
 E3	Catalysis Cause:T3 Theme:E4
 E4	Methylation Site:T25 Theme:T4
-E5	Demethylation Site:T23 Theme:T2
-E6	Methylation Site:T30 Theme:T2
-E7	Demethylation Site:T23 Theme:T2
-E8	Demethylation Site:T23 Theme:T2
-E9	Methylation Site:T23 Theme:T2
-E10	Demethylation Site:T23 Theme:T2
+E5	Demethylation Site:T25 Theme:T4
+E6	Methylation Site:T30 Theme:T4
+E7	Demethylation Site:T25 Theme:T4
+E8	Demethylation Site:T25 Theme:T4
+E9	Methylation Site:T25 Theme:T4
+E10	Demethylation Site:T25 Theme:T4
 E11	Catalysis Cause:T1 Theme:E10

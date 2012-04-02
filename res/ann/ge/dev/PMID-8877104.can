@@ -1,0 +1,29 @@
+T1	Protein	vitamin D3 receptor
+T2	Protein	VitD3 receptor
+T3	Protein	VDR
+T5	Protein	RAR beta
+T6	Protein	RAR-beta
+T9	Protein	CD23
+T10	Protein	CD49f
+*	Equiv T2 T3
+E1	Gene_expression Theme:T2
+E2	Binding Theme:T2
+E3	Positive_regulation Theme:E4
+E4	Binding Theme:T2
+E5	Positive_regulation Theme:E6
+E6	Binding Theme:T5
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T6
+E9	Negative_regulation Theme:E10
+E10	Positive_regulation Theme:E11
+E11	Binding Theme:T5
+E12	Positive_regulation Cause:E8 Theme:E13
+E13	Binding Theme:T2
+E14	Negative_regulation Theme:E16
+E15	Negative_regulation Theme:E17
+E16	Gene_expression Theme:T10
+E17	Gene_expression Theme:T9
+E18	Positive_regulation Theme:E19
+E19	Gene_expression Theme:T6
+E20	Negative_regulation Theme:E19
+M1	Negation E20

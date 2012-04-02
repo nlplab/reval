@@ -1,0 +1,28 @@
+T1	Protein	interleukin-8
+T3	Protein	IL-8
+T5	Protein	JunD
+T6	Protein	c-Fos
+T7	Protein	c-Rel
+T8	Protein	p65
+T9	Protein	p50
+T10	Protein	p49
+T12	Protein	Ig kappa B
+T13	Protein	IL-2
+T14	Protein	NF-AT
+T15	Protein	NFIL-2A
+*	Equiv T1 T3
+T18	Entity	AP-1
+T19	Entity	kappa B-like
+E1	Regulation Site:T19 Theme:T1
+E2	Regulation Site:T18 Theme:T1
+E3	Negative_regulation Theme:E4
+E4	Transcription Theme:T1
+E5	Negative_regulation Theme:E9
+E6	Negative_regulation Theme:E8
+E7	Positive_regulation Theme:E4
+E8	Positive_regulation Theme:E7
+E9	Positive_regulation Theme:E7
+E10	Binding Theme:T6
+E11	Regulation Site:T19 Theme:T1
+E12	Regulation Site:T18 Theme:T1
+M1	Negation E5

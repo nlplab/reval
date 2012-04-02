@@ -1,0 +1,17 @@
+T1	Protein	calmodulin
+T2	Protein	interleukin (IL)-2
+T3	Protein	IL-4
+T4	Protein	IL-2
+T5	Protein	chloramphenicol acetyltransferase
+T12	Entity	promoter
+E1	Positive_regulation Theme:E3
+E2	Positive_regulation Theme:E4
+E3	Positive_regulation Site:T12 Theme:T3
+E4	Positive_regulation Site:T12 Theme:T2
+E5	Negative_regulation Site:T12 Theme:T4
+E6	Negative_regulation Theme:E8
+E7	Transcription Theme:T4
+E8	Positive_regulation Theme:E7
+E9	Positive_regulation Site:T12 Theme:T4
+E10	Negative_regulation Theme:E11
+E11	Positive_regulation Site:T12 Theme:T4

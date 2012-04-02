@@ -7,6 +7,6 @@ T9	Protein	miR-92-1
 T10	Protein	VHL
 T12	Protein	p300
 T13	Protein	STAT3
-*	Equiv T3
-*	Equiv T6
+*	Equiv T2 T3
+*	Equiv T1 T6
 E1	Phosphorylation Theme:T13

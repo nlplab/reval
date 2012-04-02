@@ -1,0 +1,14 @@
+T1	Protein	interleukin-2
+T2	Protein	interleukin 2
+T3	Protein	IL-2
+T5	Protein	TCF-1
+T6	Protein	T-Cell Factor-1
+*	Equiv T2 T3
+T11	Entity	phorbol ester-inducible element
+T12	Entity	promoter
+E1	Binding Site:T11 Theme:T1
+E2	Binding Site:T12 Theme:T2
+E3	Positive_regulation Theme:E4
+E4	Gene_expression Theme:T2
+E5	Binding Theme:T5
+E6	Positive_regulation Theme:T5

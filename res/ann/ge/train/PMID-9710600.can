@@ -1,0 +1,41 @@
+T1	Protein	Tax
+T2	Protein	IkappaB kinase alpha
+T3	Protein	IKKalpha
+T4	Protein	IKKbeta
+T7	Protein	IkappaB alpha
+T13	Protein	tumor necrosis factor alpha
+T14	Protein	TNF-alpha
+T22	Protein	NIK
+T23	Protein	NF-kappaB-inducing kinase
+T28	Protein	TRAF2
+T29	Protein	TRAF6
+*	Equiv T13 T14
+*	Equiv T2 T2 T3 T3
+*	Equiv T22 T23
+T36	Entity	N-terminal
+T42	Entity	N-terminal regulatory serines
+E1	Positive_regulation Theme:T2
+E2	Positive_regulation Theme:T4
+E3	Gene_expression Theme:T1
+E4	Positive_regulation Cause:E3 Theme:E6
+E5	Positive_regulation Cause:E3 Theme:E7
+E6	Phosphorylation Site:T36 Theme:T7
+E7	Protein_catabolism Theme:T7
+E8	Positive_regulation Cause:T1 Theme:T4
+E9	Positive_regulation Cause:T1 Theme:T2
+E10	Positive_regulation Cause:T2 Theme:E11
+E11	Phosphorylation Site:T42 Theme:T7
+E12	Positive_regulation Theme:E11
+E13	Positive_regulation Cause:T1 Theme:T4
+E14	Positive_regulation Cause:T1 Theme:T2
+E15	Gene_expression Theme:T1
+E16	Positive_regulation Theme:E17
+E17	Gene_expression Theme:T4
+E18	Gene_expression Theme:T2
+E19	Positive_regulation Theme:E18
+E20	Positive_regulation Theme:E22
+E21	Positive_regulation Theme:E23
+E22	Positive_regulation Theme:T2
+E23	Positive_regulation Theme:T4
+M1	Negation E13
+M2	Negation E14

@@ -1,0 +1,20 @@
+T1	Protein	CD11b
+T2	Protein	CD18
+T3	Protein	CD11c
+T5	Protein	SP1
+T8	Protein	chloramphenicol acetyltransferase
+T9	Protein	CAT
+*	Equiv T8 T9
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T3
+E3	Gene_expression Theme:T2
+E4	Gene_expression Theme:T1
+E5	Positive_regulation Theme:E6
+E6	Positive_regulation Theme:T5
+E7	Binding Theme:T1
+E8	Binding Theme:T2
+E9	Positive_regulation Theme:T8
+E10	Positive_regulation Theme:T8
+E11	Positive_regulation Theme:T8
+E12	Positive_regulation Theme:T8
+M1	Negation E5

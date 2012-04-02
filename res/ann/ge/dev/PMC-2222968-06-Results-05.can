@@ -1,0 +1,52 @@
+T1	Protein	GATA3
+T2	Protein	FOXP3
+T9	Protein	STAT4
+T15	Protein	CD4
+T16	Protein	CD45RA
+T17	Protein	TAT-fused, recombinantly expressed GATA3
+T18	Protein	CD3
+T19	Protein	CD28
+T20	Protein	TGF-beta
+T21	Protein	TAT-GATA3
+T30	Protein	CD2
+T38	Protein	CD62L
+T39	Protein	CD25
+T41	Protein	Foxp3
+T52	Protein	Smad7
+T54	Protein	IL-4
+T69	Entity	DNA-binding domain
+E1	Negative_regulation Cause:T1 Theme:E2
+E2	Gene_expression Theme:T2
+E3	Gene_expression Theme:T2
+E4	Negative_regulation Cause:E5 Theme:E3
+E5	Gene_expression Theme:T1
+E6	Positive_regulation Theme:E5
+E7	Regulation Cause:T1 Theme:E8
+E8	Negative_regulation Theme:T2
+E9	Negative_regulation Cause:T1 Theme:E10
+E10	Gene_expression Theme:T9
+E11	Negative_regulation Cause:T1 Theme:E12
+E12	Positive_regulation Theme:T2
+E13	Negative_regulation Site:T69 Theme:T1
+E14	Negative_regulation Cause:T21 Theme:E15
+E15	Gene_expression Theme:T2
+E16	Negative_regulation Site:T69 Theme:T1
+E17	Regulation Cause:E16 Theme:E18
+E18	Gene_expression Theme:T2
+E19	Negative_regulation Cause:T1 Theme:T2
+E20	Positive_regulation Theme:T1
+E21	Regulation Cause:T1 Theme:E22
+E22	Gene_expression Theme:T41
+E23	Positive_regulation Cause:T20 Theme:T41
+E24	Negative_regulation Cause:T1 Theme:E25
+E25	Gene_expression Theme:T41
+E26	Positive_regulation Cause:T20 Theme:E25
+E27	Gene_expression Theme:T20
+E28	Gene_expression Theme:T52
+E29	Positive_regulation Cause:T54 Theme:T1
+M1	Speculation E7
+M2	Speculation E11
+M3	Negation E17
+M4	Speculation E19
+M5	Speculation E21
+M6	Speculation E22

@@ -1,0 +1,20 @@
+T1	Protein	estrogen receptor
+T3	Protein	ER
+*	Equiv T1 T3
+E1	Negative_regulation Theme:E2
+E2	Transcription Theme:T1
+E3	Negative_regulation Theme:T1
+E4	Regulation Theme:E5
+E5	Protein_catabolism Theme:T1
+E6	Negative_regulation Theme:E7
+E7	Transcription Theme:T1
+E8	Negative_regulation Theme:E9
+E9	Transcription Theme:T1
+E10	Positive_regulation Cause:E8 Theme:E12
+E11	Positive_regulation Cause:E8 Theme:E13
+E12	Negative_regulation Theme:E15
+E13	Negative_regulation Theme:E14
+E14	Gene_expression Theme:T1
+E15	Transcription Theme:T1
+M1	Negation E4
+M2	Negation E5

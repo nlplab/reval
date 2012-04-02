@@ -1,0 +1,26 @@
+T1	Protein	Interleukin-7
+T2	Protein	interleukin-2
+T3	Protein	interleukin-7
+T4	Protein	IL-7
+T5	Protein	IL-2
+T8	Protein	CD28
+T9	Protein	phytohemagglutinin
+T18	Protein	fos
+T19	Protein	jun
+*	Equiv T3 T4
+E1	Positive_regulation Theme:E2
+E2	Transcription Theme:T2
+E3	Regulation Cause:T3 Theme:E4
+E4	Regulation Theme:T5
+E5	Gene_expression Theme:T5
+E6	Regulation Theme:E5
+E7	Regulation Theme:E8
+E8	Regulation Theme:T5
+E9	Positive_regulation Theme:E10
+E10	Positive_regulation Theme:T5
+E11	Transcription Theme:T5
+E12	Positive_regulation Theme:E11
+E13	Positive_regulation Cause:T3 Theme:E11
+E14	Regulation Theme:E15
+E15	Positive_regulation Theme:T18
+M1	Speculation E3

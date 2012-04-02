@@ -6,7 +6,7 @@ T9	Protein	hdm2
 T24	Protein	UbcH5b
 T25	Protein	ubiquitin
 *	Equiv T6 T7
-*	Equiv T9
+*	Equiv T2 T9
 E1	Ubiquitination Theme:T1
 E2	Catalysis Cause:T2 Theme:E1
 E3	Catalysis Cause:T7 Theme:E5

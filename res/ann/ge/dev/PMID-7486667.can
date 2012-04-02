@@ -1,0 +1,11 @@
+T1	Protein	IL-2
+T2	Protein	CD28
+T4	Protein	c-Jun
+T11	Entity	promoter
+E1	Transcription Theme:T1
+E2	Positive_regulation Theme:E1
+E3	Regulation Theme:E4
+E4	Positive_regulation Site:T11 Theme:T1
+E5	Phosphorylation Theme:T4
+E6	Positive_regulation Theme:E7
+E7	Phosphorylation Theme:T4

@@ -1,0 +1,5 @@
+T1	Protein	TNF-alpha
+T4	Protein	toxic shock syndrome toxin-I
+T5	Protein	staphylococcal enterotoxin B
+E1	Localization Theme:T1
+E2	Positive_regulation Theme:E1

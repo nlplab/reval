@@ -4,11 +4,11 @@ T3	Protein	Protein arginine methyltransferase 3
 T6	Protein	40S ribosomal protein S2
 T7	Protein	rpS2
 T25	Protein	ubiquitin
-*	Equiv T3
+*	Equiv T1 T3
 *	Equiv T6 T7
 T32	Entity	arginine residues
 E1	Ubiquitination Theme:T2
 E2	Methylation Site:T32 Theme:T7
-E3	Catalysis Cause:T1 Theme:E2
+E3	Catalysis Cause:T3 Theme:E2
 E4	Ubiquitination Theme:T7
 E5	Ubiquitination Theme:T7

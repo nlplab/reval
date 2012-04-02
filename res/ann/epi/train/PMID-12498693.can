@@ -2,14 +2,14 @@ T1	Protein	H3
 T2	Protein	Histone H3
 T7	Protein	VEGF-A
 T8	Protein	histone H3
-*	Equiv T2
-*	Equiv T12
+*	Equiv T1 T2
+*	Equiv T10 T12
 T10	Entity	K9
 T12	Entity	lysine 9
-E1	Methylation Site:T10 Theme:T1
+E1	Methylation Site:T12 Theme:T2
 E2	Methylation Site:T12 Theme:T2
-E3	Methylation Site:T10 Theme:T1
-E4	Methylation Site:T10 Theme:T1
-E5	Methylation Site:T10 Theme:T1
-E6	Methylation Contextgene:T7 Site:T10 Theme:T8
-E7	Methylation Site:T10 Theme:T1
+E3	Methylation Site:T12 Theme:T2
+E4	Methylation Site:T12 Theme:T2
+E5	Methylation Site:T12 Theme:T2
+E6	Methylation Contextgene:T7 Site:T12 Theme:T8
+E7	Methylation Site:T12 Theme:T2

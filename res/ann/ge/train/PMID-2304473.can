@@ -1,0 +1,8 @@
+T1	Protein	OTF-2
+T2	Protein	OTF-1
+T5	Protein	OFT-1
+E1	Gene_expression Theme:T2
+E2	Positive_regulation Theme:T5
+E3	Positive_regulation Theme:T1
+M1	Speculation E2
+M2	Speculation E3

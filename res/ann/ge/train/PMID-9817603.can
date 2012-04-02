@@ -1,0 +1,69 @@
+T1	Protein	beta-casein
+T2	Protein	STAT5
+T4	Protein	STAT (signal transducer and activator of transcription)5
+T6	Protein	PRL
+T12	Protein	interleukin-2
+T13	Protein	IL-2
+T15	Protein	IL-4
+T19	Protein	cytokine-inducible SH2-containing protein
+T20	Protein	CIS
+T21	Protein	oncostatin M
+T22	Protein	OSM
+T23	Protein	STAT6
+T31	Protein	Ras(G12V)
+T36	Protein	RasN17
+T43	Protein	erythropoietin receptor
+T46	Protein	Stat5
+*	Equiv T19 T20
+*	Equiv T21 T22
+*	Equiv T12 T13
+T49	Entity	promoter
+T69	Entity	sequence between -155 and -193
+T79	Entity	region between -105 and -193
+E1	Regulation Theme:T1
+E2	Positive_regulation Cause:T4 Site:T49 Theme:T1
+E3	Positive_regulation Cause:T2 Theme:E4
+E4	Positive_regulation Cause:T6 Theme:E5
+E5	Gene_expression Theme:T1
+E6	Gene_expression Theme:T1
+E7	Regulation Cause:T2 Theme:E6
+E8	Regulation Theme:E6
+E9	Regulation Theme:T1
+E10	Gene_expression Theme:T1
+E11	Positive_regulation Cause:T12 Theme:E10
+E12	Positive_regulation Cause:T12 Theme:T2
+E13	Positive_regulation Cause:T15 Theme:T2
+E14	Positive_regulation Cause:T15 Theme:E19
+E15	Positive_regulation Cause:T15 Theme:E18
+E16	Positive_regulation Cause:T15 Theme:E17
+E17	Gene_expression Theme:T21
+E18	Gene_expression Theme:T1
+E19	Gene_expression Theme:T19
+E20	Regulation Cause:T2 Theme:T1
+E21	Regulation Cause:T2 Theme:T21
+E22	Regulation Cause:T2 Theme:T19
+E23	Positive_regulation Cause:T15 Theme:T23
+E24	Positive_regulation Cause:T12 Theme:E25
+E25	Gene_expression Theme:T1
+E26	Positive_regulation Theme:E24
+E27	Negative_regulation Site:T69 Theme:T1
+E28	Positive_regulation Cause:E27 Theme:E29
+E29	Positive_regulation Cause:T12 Theme:E30
+E30	Gene_expression Theme:T1
+E31	Gene_expression Theme:T31
+E32	Negative_regulation Cause:E31 Theme:E35
+E33	Negative_regulation Cause:E31 Theme:E34
+E34	Positive_regulation Cause:T12 Theme:E36
+E35	Positive_regulation Cause:T12 Theme:E37
+E36	Gene_expression Theme:T1
+E37	Gene_expression Theme:T21
+E38	Positive_regulation CSite:T79 Cause:T1 Theme:E33
+E39	Positive_regulation CSite:T79 Cause:T1 Theme:E32
+E40	Negative_regulation Cause:T36 Theme:E42
+E41	Negative_regulation Cause:T36 Theme:E43
+E42	Positive_regulation Cause:T12 Theme:T19
+E43	Positive_regulation Cause:T12 Theme:T21
+E44	Positive_regulation Cause:T31 Theme:E45
+E45	Positive_regulation Cause:E46 Site:T49 Theme:T1
+E46	Regulation Theme:T43
+M1	Negation E13

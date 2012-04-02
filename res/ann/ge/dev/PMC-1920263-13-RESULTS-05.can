@@ -1,0 +1,20 @@
+T1	Protein	Sp1
+T2	Protein	Sp3
+T3	Protein	A3G
+T20	Protein	actin
+T28	Entity	GC-box
+T35	Entity	promoter
+E1	Binding Theme:T1 Site2:T28 Theme2:T3
+E2	Binding Theme:T2 Site2:T28 Theme2:T3
+E3	Binding Site:T28 Theme:T3 Theme2:T1
+E4	Binding Site:T28 Theme:T3 Theme2:T2
+E5	Binding Theme:T1
+E6	Binding Site:T28 Theme:T3 Theme2:T1
+E7	Binding Site:T28 Theme:T3 Theme2:T2
+E8	Binding Theme:T1 Site2:T35 Theme2:T3
+E9	Binding Theme:T2 Site2:T35 Theme2:T3
+E10	Gene_expression Theme:T3
+E11	Binding Theme:T1 Site2:T35 Theme2:T3
+E12	Binding Theme:T2 Site2:T35 Theme2:T3
+M1	Speculation E3
+M2	Speculation E4

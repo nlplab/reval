@@ -1,0 +1,46 @@
+T1	Protein	IkappaB-alpha
+T2	Protein	interleukin-1beta
+T3	Protein	IL-1beta
+T4	Protein	IL-8
+T5	Protein	IL-10
+T6	Protein	tumor necrosis factor alpha
+T7	Protein	TNF-alpha
+T8	Protein	IL-6
+T16	Protein	Fc gamma receptor
+*	Equiv T2 T3
+*	Equiv T6 T7
+E1	Negative_regulation Theme:T1
+E2	Positive_regulation Theme:E9
+E3	Positive_regulation Theme:E10
+E4	Positive_regulation Theme:E7
+E5	Positive_regulation Theme:E8
+E6	Positive_regulation Theme:E11
+E7	Gene_expression Theme:T2
+E8	Gene_expression Theme:T4
+E9	Gene_expression Theme:T5
+E10	Transcription Theme:T8
+E11	Transcription Theme:T6
+E12	Positive_regulation Theme:E13
+E13	Transcription Theme:T2
+E14	Transcription Theme:T6
+E15	Transcription Theme:T8
+E16	Positive_regulation Theme:E14
+E17	Positive_regulation Theme:T2
+E18	Positive_regulation Theme:T8
+E19	Positive_regulation Theme:T6
+E20	Positive_regulation Theme:E21
+E21	Transcription Theme:T2
+E22	Binding Theme:T16
+E23	Positive_regulation Cause:E22 Theme:E26
+E24	Positive_regulation Cause:E22 Theme:E25
+E25	Transcription Theme:T6
+E26	Transcription Theme:T8
+E27	Positive_regulation Cause:E22 Theme:E28
+E28	Transcription Theme:T2
+E29	Protein_catabolism Theme:T1
+E30	Positive_regulation Theme:E29
+M1	Negation E3
+M2	Negation E6
+M3	Negation E17
+M4	Negation E18
+M5	Negation E19

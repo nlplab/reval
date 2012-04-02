@@ -1,0 +1,9 @@
+T1	Protein	HZF 1
+T2	Protein	42
+T4	Protein	10
+T5	Protein	HZF 11
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T1
+E3	Gene_expression Theme:T1
+E4	Gene_expression Theme:T2
+E5	Gene_expression Theme:T1

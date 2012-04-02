@@ -1,0 +1,17 @@
+T1	Protein	interleukin 6
+T2	Protein	NF-IL6
+T4	Protein	IL-6
+T8	Protein	chloramphenicol acetyltransferase
+*	Equiv T1 T4
+T21	Entity	promoter
+E1	Positive_regulation Theme:T1
+E2	Positive_regulation Cause:T2 Theme:E1
+E3	Positive_regulation Theme:E4
+E4	Localization Theme:T1
+E5	Positive_regulation Theme:E6
+E6	Gene_expression Theme:T1
+E7	Positive_regulation Site:T21 Theme:T1
+E8	Negative_regulation Theme:E9
+E9	Positive_regulation Site:T21 Theme:T1
+E10	Positive_regulation Theme:E11
+E11	Positive_regulation Theme:T1

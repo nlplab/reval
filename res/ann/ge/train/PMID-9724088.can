@@ -1,0 +1,46 @@
+T1	Protein	p65
+T2	Protein	Rel-A
+T3	Protein	IL-2
+T5	Protein	T-cell receptor (TCR)-zeta
+T6	Protein	ZAP-70
+T7	Protein	p56lck
+T8	Protein	map kinase phosphatase-1
+T9	Protein	MKP-1
+T11	Protein	c-jun
+T12	Protein	c-fos
+T15	Protein	Rel-B
+T16	Protein	c-Rel
+*	Equiv T1 T2
+*	Equiv T8 T9
+E1	Negative_regulation Theme:E3
+E2	Negative_regulation Theme:E4
+E3	Localization Theme:T1
+E4	Positive_regulation Theme:E3
+E5	Gene_expression Theme:T1
+E6	Negative_regulation Theme:T7
+E7	Negative_regulation Theme:T6
+E8	Negative_regulation Theme:T5
+E9	Positive_regulation Theme:E10
+E10	Gene_expression Theme:T8
+E11	Negative_regulation Theme:E13
+E12	Negative_regulation Theme:E14
+E13	Positive_regulation Theme:T12
+E14	Positive_regulation Theme:T11
+E15	Negative_regulation Cause:E16 Theme:E18
+E16	Negative_regulation Theme:E17
+E17	Localization Theme:T1
+E18	Transcription Theme:T3
+E19	Negative_regulation Theme:E22
+E20	Negative_regulation Theme:E21
+E21	Localization Theme:T16
+E22	Localization Theme:T15
+E23	Regulation Cause:T1 Theme:E26
+E24	Regulation Cause:T15 Theme:E26
+E25	Regulation Cause:T16 Theme:E26
+E26	Transcription Theme:T3
+M1	Speculation E11
+M2	Speculation E12
+M3	Negation E15
+M4	Negation E23
+M5	Negation E24
+M6	Negation E25

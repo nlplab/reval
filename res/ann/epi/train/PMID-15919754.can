@@ -9,6 +9,6 @@ T13	Protein	HEX
 T18	Protein	pCAF
 T19	Protein	p300
 T20	Protein	HDAC 1
-*	Equiv T5
+*	Equiv T2 T5
 E1	Acetylation Contextgene:T2 Theme:T1
 E2	Acetylation Theme:T12

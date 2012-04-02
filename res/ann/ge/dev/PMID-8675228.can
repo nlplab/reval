@@ -1,0 +1,27 @@
+T1	Protein	Interleukin 10
+T2	Protein	c-fos
+T3	Protein	IL-10
+T7	Protein	CD20
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T2
+E3	Regulation Cause:T3 Theme:E4
+E4	Gene_expression Theme:T2
+E5	Gene_expression Theme:T2
+E6	Positive_regulation Theme:E7
+E7	Gene_expression Theme:T2
+E8	Gene_expression Theme:T2
+E9	Negative_regulation Theme:E8
+E10	Regulation Cause:T3 Theme:E11
+E11	Gene_expression Theme:T2
+E12	Negative_regulation Theme:E10
+E13	Negative_regulation Theme:E14
+E14	Positive_regulation Cause:T3 Theme:E15
+E15	Gene_expression Theme:T2
+E16	Negative_regulation Theme:E17
+E17	Positive_regulation Cause:T3 Theme:E18
+E18	Gene_expression Theme:T2
+E19	Positive_regulation Theme:E20
+E20	Gene_expression Theme:T2
+M1	Speculation E3
+M2	Speculation E5
+M3	Negation E12

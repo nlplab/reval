@@ -4,7 +4,7 @@ T4	Protein	IRAK1
 T5	Protein	ubiquitin
 T20	Protein	TAK1
 T21	Protein	TRAF6
-*	Equiv T4
-E1	Ubiquitination Theme:T1
-E2	Ubiquitination Theme:T1
+*	Equiv T1 T4
+E1	Ubiquitination Theme:T4
+E2	Ubiquitination Theme:T4
 E3	Ubiquitination Theme:T4

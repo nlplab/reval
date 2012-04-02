@@ -9,7 +9,8 @@ T11	Organism	TB
 T12	Organism	TB1459i
 T25	Organism	TB0173s
 T26	Organism	cheB2 mutant TB0173i
-*	Equiv T25
+*	Equiv T5 T25 T25
+*	Equiv T8 T12
 E1	Negative_regulation Theme:E2
 E2	Process Participant:T1
 E3	Process Participant:T5

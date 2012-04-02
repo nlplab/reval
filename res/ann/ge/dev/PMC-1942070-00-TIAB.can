@@ -1,0 +1,4 @@
+T1	Protein	HSP27
+E1	Positive_regulation Theme:E2
+E2	Regulation Theme:E3
+E3	Phosphorylation Theme:T1

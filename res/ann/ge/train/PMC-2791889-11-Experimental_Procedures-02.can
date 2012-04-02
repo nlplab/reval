@@ -1,0 +1,15 @@
+T1	Protein	CD4
+T3	Protein	CD62L
+T6	Protein	CD25
+T8	Protein	CD44
+T11	Protein	CD11c
+T13	Protein	OVA
+T14	Protein	IL-12
+T16	Protein	CD3
+T17	Protein	CD28
+T18	Protein	MEK
+T19	Protein	p38
+T20	Protein	GSK3beta
+E1	Negative_regulation Theme:T18
+E2	Negative_regulation Theme:T19
+E3	Negative_regulation Theme:T20

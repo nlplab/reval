@@ -7,11 +7,11 @@ T7	Protein	hypoxia inducible factor 1alpha
 T17	Protein	Hif1a
 T21	Protein	ubiquitin
 T24	Protein	Mdm2
-*	Equiv T1 T2
-*	Equiv T7
-E1	Ubiquitination Theme:T4
+*	Equiv T1 T1 T2 T2
+*	Equiv T4 T7
+E1	Ubiquitination Theme:T7
 E2	Catalysis Cause:T3 Theme:E3
-E3	Ubiquitination Theme:T4
+E3	Ubiquitination Theme:T7
 E4	Phosphorylation Theme:T1
-E5	Ubiquitination Theme:T4
+E5	Ubiquitination Theme:T7
 E6	Phosphorylation Theme:T1

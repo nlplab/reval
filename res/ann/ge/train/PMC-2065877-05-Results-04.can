@@ -1,0 +1,19 @@
+T1	Protein	LMP1
+T2	Protein	IL4
+T3	Protein	Stat6
+T9	Protein	CD19
+T11	Protein	GAPDH
+T12	Protein	L32
+T14	Protein	pStat6
+T15	Protein	IL4 receptor
+*	Equiv T3 T14
+E1	Gene_expression Theme:T2
+E2	Transcription Theme:T2
+E3	Transcription Theme:T2
+E4	Transcription Theme:T2
+E5	Positive_regulation Theme:T14
+E6	Regulation Theme:T14
+E7	Positive_regulation Cause:T2 Theme:E8
+E8	Phosphorylation Theme:T14
+M1	Speculation E2
+M2	Negation E4

@@ -1,0 +1,10 @@
+T1	Protein	Oct-2
+T5	Protein	beta-galactosidase
+E1	Binding Theme:T1
+E2	Negative_regulation Theme:E3
+E3	Binding Theme:T1
+E4	Gene_expression Theme:T1
+E5	Positive_regulation Theme:T5
+E6	Negative_regulation Theme:E7
+E7	Binding Theme:T1
+M1	Speculation E2

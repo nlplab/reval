@@ -4,8 +4,8 @@ T5	Protein	syncytin 1
 T6	Protein	placental growth factor
 T9	Protein	GSK-3beta
 T12	Protein	FBW2
-*	Equiv T3
+*	Equiv T1 T3
 T19	Entity	Ser322
-E1	Phosphorylation Site:T19 Theme:T1
+E1	Phosphorylation Site:T19 Theme:T3
 E2	Catalysis Cause:T9 Theme:E1
-E3	Ubiquitination Theme:T1
+E3	Ubiquitination Theme:T3

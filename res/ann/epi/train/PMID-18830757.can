@@ -4,13 +4,13 @@ T6	Protein	RT
 T7	Protein	reverse-transcriptase
 T10	Protein	alpha-fetoprotein
 T11	Protein	AFP
-*	Equiv T2
+*	Equiv T1 T2
 *	Equiv T6 T7
 *	Equiv T10 T11
 T16	Entity	promoter
 T23	Entity	Promoter
 E1	DNA_methylation Site:T16 Theme:T1
-E2	DNA_methylation Site:T16 Theme:T2
+E2	DNA_methylation Site:T16 Theme:T1
 E3	DNA_methylation Theme:T1
 M1	Speculation E3
 E4	DNA_methylation Theme:T1

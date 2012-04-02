@@ -3,7 +3,7 @@ T2	Protein	SHP
 T3	Protein	ubiquitin
 T11	Protein	fibroblast growth factor 19
 T12	Protein	FGF19
-*	Equiv T1 T2
+*	Equiv T1 T1 T2 T2
 *	Equiv T11 T12
 T22	Entity	Lys122
 T23	Entity	Lys123

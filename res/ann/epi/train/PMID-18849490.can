@@ -18,12 +18,12 @@ T37	Protein	2
 T40	Protein	histones H3
 T41	Protein	H3
 *	Equiv T6 T7
-*	Equiv T29
+*	Equiv T2 T29
 T52	Entity	K4
 T53	Entity	K36
 E1	Ubiquitination Theme:T1
 E2	Ubiquitination Theme:T3
 E3	Ubiquitination Theme:T4
-E4	Methylation Contextgene:T29 Site:T52 Theme:T40
-E5	Methylation Contextgene:T29 Site:T53 Theme:T41
+E4	Methylation Contextgene:T2 Site:T52 Theme:T40
+E5	Methylation Contextgene:T2 Site:T53 Theme:T41
 E6	Ubiquitination Theme:T4

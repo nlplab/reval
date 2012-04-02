@@ -7,18 +7,18 @@ T8	Protein	H4
 T10	Protein	methyl-CpG-binding domain protein 2
 T11	Protein	MBD2
 T15	Protein	histone
-*	Equiv T3
+*	Equiv T1 T3
 *	Equiv T10 T11
 T22	Entity	CpG
 T25	Entity	promoter
 E1	DNA_methylation Site:T22 Theme:T1
-E2	DNA_methylation Site:T25 Theme:T3
-E3	Deacetylation Contextgene:T3 Theme:T7
-E4	Deacetylation Contextgene:T3 Theme:T8
-E5	DNA_methylation Site:T25 Theme:T3
+E2	DNA_methylation Site:T25 Theme:T1
+E3	Deacetylation Contextgene:T1 Theme:T7
+E4	Deacetylation Contextgene:T1 Theme:T8
+E5	DNA_methylation Site:T25 Theme:T1
 M1	Negation E5
-E6	DNA_methylation Site:T25 Theme:T3
-E7	DNA_methylation Site:T25 Theme:T3
-E8	DNA_methylation Site:T25 Theme:T3
+E6	DNA_methylation Site:T25 Theme:T1
+E7	DNA_methylation Site:T25 Theme:T1
+E8	DNA_methylation Site:T25 Theme:T1
 E9	Acetylation Theme:T15
 E10	Deacetylation Theme:T15

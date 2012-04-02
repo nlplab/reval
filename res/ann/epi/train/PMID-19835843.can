@@ -4,4 +4,4 @@ T3	Protein	Hrd1
 T7	Protein	Hrd1p
 T9	Protein	synoviolin
 T16	Protein	Insig-1
-*	Equiv T9
+*	Equiv T3 T9

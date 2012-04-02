@@ -1,0 +1,9 @@
+T1	Protein	CD45RO
+T2	Protein	CD45RA
+T5	Protein	TNF-alpha
+T7	Protein	IkappaB alpha
+E1	Regulation Theme:T7
+E2	Positive_regulation Cause:T5 Theme:E3
+E3	Protein_catabolism Theme:T7
+E4	Negative_regulation Theme:E3
+M1	Speculation E1

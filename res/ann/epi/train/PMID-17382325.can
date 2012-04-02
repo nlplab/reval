@@ -3,8 +3,8 @@ T2	Protein	hypoxia-inducible factor-1alpha
 T4	Protein	HIF-1alpha
 T6	Protein	cAMP-response element-binding protein
 T7	Protein	CBP
-*	Equiv T4
+*	Equiv T2 T4
 *	Equiv T6 T7
 T19	Entity	asparagine
-E1	Hydroxylation Site:T19 Theme:T4
-E2	Phosphorylation Theme:T4
+E1	Hydroxylation Site:T19 Theme:T2
+E2	Phosphorylation Theme:T2

@@ -1,0 +1,8 @@
+T1	Protein	interleukin-1beta
+T3	Protein	inhibitor-kappaB alpha
+E1	Negative_regulation Theme:T1
+E2	Negative_regulation Theme:E3
+E3	Transcription Theme:T1
+E4	Protein_catabolism Theme:T3
+E5	Negative_regulation Theme:E6
+E6	Transcription Theme:T1

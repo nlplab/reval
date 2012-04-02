@@ -1,0 +1,21 @@
+T1	Protein	Stat1
+T2	Protein	PHA
+T4	Protein	Stat3
+T6	Protein	IL-2
+T7	Protein	IL-4 receptor alpha-chain
+T8	Protein	CD69
+E1	Negative_regulation Theme:T1
+E2	Regulation Theme:E4
+E3	Positive_regulation Theme:E4
+E4	Negative_regulation Theme:T1
+E5	Negative_regulation Theme:E7
+E6	Negative_regulation Theme:E8
+E7	Gene_expression Theme:T7
+E8	Gene_expression Theme:T8
+E9	Negative_regulation Theme:T1
+E10	Negative_regulation Theme:E11
+E11	Binding Theme:T1
+E12	Negative_regulation Theme:E13
+E13	Transcription Theme:T1
+M1	Negation E5
+M2	Negation E6

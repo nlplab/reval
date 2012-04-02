@@ -1,0 +1,13 @@
+T1	Protein	interleukin-12
+T2	Protein	IL-12
+T5	Protein	nitric oxide synthase
+*	Equiv T1 T2
+E1	Gene_expression Theme:T1
+E2	Positive_regulation Theme:E3
+E3	Gene_expression Theme:T1
+E4	Gene_expression Theme:T1
+E5	Positive_regulation Theme:E7
+E6	Regulation Theme:E7
+E7	Transcription Theme:T5
+E8	Positive_regulation Theme:T5
+M1	Speculation E2

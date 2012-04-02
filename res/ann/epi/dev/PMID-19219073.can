@@ -5,15 +5,15 @@ T5	Protein	Ref-1
 T6	Protein	apurinic/apyrimidinic endonuclease 1
 T10	Protein	mouse double minute 2
 T22	Protein	ubiquitin
-*	Equiv T5 T6
-*	Equiv T10
+*	Equiv T1 T5 T6
+*	Equiv T3 T10
 T29	Entity	Lys residues
-E1	Ubiquitination Theme:T1
-E2	Ubiquitination Theme:T1
-E3	Ubiquitination Site:T29 Theme:T1
+E1	Ubiquitination Theme:T6
+E2	Ubiquitination Theme:T6
+E3	Ubiquitination Site:T29 Theme:T6
 E4	Catalysis Cause:T10 Theme:E3
-E5	Ubiquitination Theme:T1
-E6	Catalysis Cause:T3 Theme:E7
-E7	Ubiquitination Theme:T1
-E8	Ubiquitination Theme:T1
-E9	Ubiquitination Theme:T1
+E5	Ubiquitination Theme:T6
+E6	Catalysis Cause:T10 Theme:E7
+E7	Ubiquitination Theme:T6
+E8	Ubiquitination Theme:T6
+E9	Ubiquitination Theme:T6

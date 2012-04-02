@@ -1,0 +1,28 @@
+T1	Protein	MCM5
+T2	Protein	MCM6
+T6	Protein	E2F1
+T12	Entity	promoters
+T15	Entity	E2F-like sequence
+E1	Regulation Theme:E4
+E2	Regulation Theme:E3
+E3	Gene_expression Theme:T1
+E4	Gene_expression Theme:T2
+E5	Positive_regulation Theme:E4
+E6	Positive_regulation Theme:E3
+E7	Negative_regulation Theme:E10
+E8	Negative_regulation Theme:E9
+E9	Regulation Site:T12 Theme:T1
+E10	Regulation Site:T12 Theme:T2
+E11	Regulation CSite:T15 Cause:T2 Theme:E10
+E12	Regulation CSite:T15 Cause:T2 Theme:E9
+E13	Gene_expression Theme:T6
+E14	Regulation Theme:E17
+E15	Regulation Theme:E16
+E16	Gene_expression Theme:T1
+E17	Gene_expression Theme:T2
+E18	Regulation Cause:E23 Theme:E17
+E19	Regulation Cause:E22 Theme:E16
+E20	Regulation Cause:E23 Theme:E16
+E21	Regulation Cause:E22 Theme:E17
+E22	Binding Theme:T2
+E23	Binding Theme:T1

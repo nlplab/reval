@@ -1,0 +1,22 @@
+T1	Protein	interferon beta
+T3	Protein	IFN-beta
+T5	Protein	IRF-1
+T6	Protein	ISGF2
+T7	Protein	IFN beta
+*	Equiv T1 T3
+T13	Entity	enhanson domains
+E1	Positive_regulation Theme:E2
+E2	Transcription Theme:T1
+E3	Regulation Site:T13 Theme:T1
+E4	Positive_regulation Theme:E5
+E5	Gene_expression Theme:T1
+E6	Positive_regulation Theme:E7
+E7	Positive_regulation Theme:T1
+E8	Positive_regulation Theme:E2
+E9	Positive_regulation Theme:E10
+E10	Transcription Theme:T1
+E11	Negative_regulation Theme:E9
+E12	Positive_regulation Theme:E10
+E13	Positive_regulation Theme:E14
+E14	Transcription Theme:T1
+M1	Speculation E13

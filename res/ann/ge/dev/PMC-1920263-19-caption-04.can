@@ -1,0 +1,13 @@
+T1	Protein	A3G
+T3	Protein	Vif
+T4	Protein	Tat
+T5	Protein	luciferase
+T14	Protein	interferon
+T16	Protein	IFN-alpha
+T17	Protein	IFN-gamma
+E1	Gene_expression Theme:T5
+E2	Gene_expression Theme:T5
+E3	Gene_expression Theme:T5
+E4	Gene_expression Theme:T5
+E5	Gene_expression Theme:T5
+E6	Gene_expression Theme:T5

@@ -1,0 +1,23 @@
+T1	Protein	IFN regulatory factor 1
+T2	Protein	CD40
+T4	Protein	IRF-1
+T10	Protein	TNF-alpha
+T14	Protein	p50
+T15	Protein	p65
+T16	Protein	CD40L
+T17	Protein	IL-4
+T18	Protein	IFN-gamma
+*	Equiv T1 T4
+T22	Entity	promoter
+E1	Regulation Site:T22 Theme:T4
+E2	Positive_regulation Cause:T2 Theme:T4
+E3	Positive_regulation Theme:T4
+E4	Positive_regulation Theme:T4
+E5	Positive_regulation Cause:T2 Theme:T4
+E6	Positive_regulation Cause:T10 Theme:T4
+E7	Positive_regulation Theme:T4
+E8	Positive_regulation Cause:T10 Theme:T4
+E9	Positive_regulation Cause:T2 Theme:T4
+E10	Binding Theme:T14
+E11	Binding Theme:T15
+E12	Regulation Theme:T4

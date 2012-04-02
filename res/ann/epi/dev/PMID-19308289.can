@@ -4,7 +4,7 @@ T4	Protein	histone
 T5	Protein	programmed cell death 5
 T17	Protein	p53
 T19	Protein	Bax
-*	Equiv T5
+*	Equiv T1 T5
 T35	Entity	K120
 E1	Catalysis Cause:T2 Theme:E2
 E2	Acetylation Theme:T4

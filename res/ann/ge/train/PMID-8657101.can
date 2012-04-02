@@ -1,0 +1,20 @@
+T1	Protein	ICSAT
+T2	Protein	Pip
+T3	Protein	LSIRF
+T4	Protein	interferon (IFN) consensus sequence-binding protein in adult T-cell leukemia cell line or activated T cells
+T9	Protein	ICSBP
+T11	Protein	tax
+T17	Protein	IRF-1
+T18	Protein	IRF-2
+*	Equiv T1 T4
+E1	Binding Theme:T9
+E2	Gene_expression Theme:T4
+E3	Gene_expression Theme:T11
+E4	Gene_expression Theme:T4
+E5	Positive_regulation Cause:E3 Theme:E4
+E6	Positive_regulation Theme:E4
+E7	Gene_expression Theme:T4
+E8	Binding Theme:T4
+E9	Gene_expression Theme:T17
+E10	Positive_regulation Theme:E9
+M1	Speculation E8

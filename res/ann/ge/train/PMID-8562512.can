@@ -1,0 +1,6 @@
+T1	Protein	Fc gamma RI
+T2	Protein	Fc gamma RII
+T3	Protein	TNF-alpha
+T4	Protein	IL-1 beta
+E1	Binding Theme:T1
+E2	Binding Theme:T2

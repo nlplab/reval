@@ -1,0 +1,11 @@
+T1	Protein	Interferon-gamma
+T2	Protein	ISGF3 gamma
+T3	Protein	IFN-gamma
+T5	Protein	ISG15
+T11	Entity	cytoplasm
+E1	Localization AtLoc:T11 Theme:T2
+E2	Positive_regulation Theme:T5
+E3	Positive_regulation Theme:E2
+E4	Positive_regulation Theme:E3
+E5	Positive_regulation Theme:T2
+E6	Positive_regulation Cause:T3 Theme:T2

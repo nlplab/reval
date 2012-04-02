@@ -1,0 +1,18 @@
+T1	Protein	interleukin 2
+T3	Protein	IL-2
+T4	Protein	IL-2 receptor alpha chain
+T5	Protein	p55
+T11	Protein	p50
+T13	Protein	p65
+*	Equiv T1 T3
+*	Equiv T4 T5
+E1	Positive_regulation Cause:T1 Theme:E2
+E2	Binding Theme:T5
+E3	Positive_regulation Theme:T5
+E4	Positive_regulation Theme:E3
+E5	Positive_regulation Theme:T5
+E6	Positive_regulation Cause:T1 Theme:E7
+E7	Transcription Theme:T11
+E8	Transcription Theme:T13
+E9	Positive_regulation Cause:T1 Theme:E8
+M1	Negation E9

@@ -1,0 +1,104 @@
+T1	Organism	BvrR/bvrS mutants
+T2	Two-component-system	BvrR/bvrS
+T3	Protein	BvrR
+T4	Protein	bvrS
+T5	Organism	mouse
+T6	Organism	bvrR mutant
+T7	Protein	bvrR
+T9	Organism	Brucella
+T10	Protein	vjbR
+T11	Protein	motB
+T12	Protein	BAB2_1103
+T13	Protein	malK
+T14	Protein	BAB1_0241
+T15	Protein	norC
+T16	Protein	BAB2_0955
+T17	Protein	oppA
+T18	Protein	BAB1_1601
+T19	Protein	aspB
+T20	Protein	BAB1_1397
+T21	Protein	mosA
+T22	Protein	BAB1_0666
+T23	Protein	BAB1_1717
+T24	Protein	BAB1_0597
+T25	Protein	BAB2_1127
+T26	Organism	B. melitensis malK mutant
+T28	Organism	B. suis aspB mutant
+T30	Organism	B. melitensis mutants
+T39	Regulon-operon	nor operon
+T40	Protein	nor
+T42	Protein	norD
+T43	Organism	B. suis
+T44	Protein	norB
+T45	Organism	B. melitensis
+T46	Two-component-system	BvrR/BvrS
+T48	Protein	BvrS
+T53	Organism	B. abortus
+T54	Organism	B. abortus 2308
+T55	Protein	VirB8
+T56	Protein	BAB2_0061
+T61	Protein	malF
+T63	Protein	pckA
+T64	Protein	fumB
+T65	Protein	BAB1_0017
+T66	Protein	BAB1_1620
+T67	Chemical	LPS
+T68	Protein	omp25d
+T70	Protein	nirK
+T71	Protein	BAB2_0863
+*	Equiv T11 T12
+*	Equiv T13 T14
+*	Equiv T15 T16
+*	Equiv T17 T18
+*	Equiv T19 T20
+*	Equiv T21 T22
+*	Equiv T55 T56
+E1	Process
+E2	Process Participant:T1
+M1	Negation E2
+E3	Negative_regulation Theme:E4
+E4	Process Participant:T6
+E5	Regulation Cause:T15 Theme:E16
+E6	Regulation Cause:T17 Theme:E16
+E7	Regulation Cause:T19 Theme:E16
+E8	Regulation Cause:T21 Theme:E16
+E9	Regulation Cause:T23 Theme:E16
+E10	Regulation Cause:T24 Theme:E16
+E11	Regulation Cause:T25 Theme:E16
+E12	Regulation Cause:T4 Theme:E16
+E13	Regulation Cause:T10 Theme:E16
+E14	Regulation Cause:T11 Theme:E16
+E15	Regulation Cause:T13 Theme:E16
+E16	Process Participant:T9
+E17	Negative_regulation Theme:E19
+E18	Negative_regulation Theme:E20
+E19	Process Participant:T26
+E20	Process Participant:T28
+E21	Negative_regulation Theme:E22
+E22	Process Participant:T30
+E23	Positive_regulation Cause:T39 Theme:E26
+E24	Positive_regulation Cause:T42 Theme:E26
+E25	Positive_regulation Cause:T44 Theme:E26
+E26	Process Participant:T9
+E27	Process Participant:T43
+E28	Process Participant:T45
+E29	Process Participant:T53
+E30	Gene_expression Theme:T55
+E31	Gene_expression Theme:T10
+E32	Gene_expression Theme:T61
+E33	Gene_expression Theme:T15
+E34	Gene_expression Theme:T63
+E35	Gene_expression Theme:T64
+E36	Gene_expression Theme:T65
+E37	Gene_expression Theme:T66
+E38	Positive_regulation Theme:E31
+E39	Positive_regulation Theme:E32
+E40	Positive_regulation Theme:E33
+E41	Positive_regulation Theme:E34
+E42	Positive_regulation Theme:E35
+E43	Positive_regulation Theme:E36
+E44	Positive_regulation Theme:E37
+E45	Gene_expression Theme:T68
+E46	Gene_expression Theme:T15
+E47	Gene_expression Theme:T70
+E48	Gene_expression Theme:T71

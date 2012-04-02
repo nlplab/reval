@@ -8,7 +8,7 @@ T18	Protein	H3
 T21	Protein	LSD1
 T22	Protein	androgen receptor
 T28	Protein	TACC2
-*	Equiv T2
+*	Equiv T1 T2
 T41	Entity	K4
 T45	Entity	K36
 E1	Methylation Theme:T6

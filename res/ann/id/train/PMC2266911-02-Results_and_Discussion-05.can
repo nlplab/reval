@@ -1,0 +1,17 @@
+T1	Organism	human
+T2	Organism	Y. enterocolitica
+T3	Organism	P. luminescens
+T4	Organism	yersiniabactin
+T5	Organism	P. asymbiotica
+T6	Organism	humans
+T9	Organism	S. typhimurium
+T10	Organism	H. pylori
+T11	Chemical	iron
+T12	Protein	Flag-2
+T15	Protein	plu0958
+T16	Protein	1166
+T17	Two-component-system	CcdA/CcdB
+T18	Protein	CcdA
+T19	Protein	CcdB
+E1	Process
+E2	Process

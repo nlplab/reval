@@ -1,0 +1,20 @@
+T1	Protein	Tat
+T2	Protein	tat-I
+T3	Protein	Tat-I
+T4	Protein	p49(100)
+T5	Protein	p65
+T7	Protein	CAT
+T8	Protein	p105
+T9	Protein	rel
+T11	Protein	c-rel
+E1	Binding Theme:T4
+E2	Positive_regulation Theme:E3
+E3	Gene_expression Theme:T7
+E4	Positive_regulation Cause:T5 Theme:E3
+E5	Positive_regulation Cause:T8 Theme:E3
+E6	Positive_regulation Cause:T11 Theme:E3
+E7	Positive_regulation Cause:T9 Theme:E3
+M1	Negation E4
+M2	Negation E5
+M3	Negation E6
+M4	Negation E7

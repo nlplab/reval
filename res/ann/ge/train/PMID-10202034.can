@@ -1,0 +1,36 @@
+T1	Protein	Extracellular-regulated kinase 1
+T2	Protein	2
+T3	Protein	Jun N-terminal kinase
+T4	Protein	c-Jun
+T5	Protein	IL-6
+T6	Protein	extracellular-regulated kinase 1
+T8	Protein	ERK1
+T10	Protein	c-Jun N-terminal kinase
+T11	Protein	JNK
+T16	Protein	Raf-1
+T17	Protein	JNK1
+T19	Protein	Raf1
+T20	Protein	MEK1
+*	Equiv T10 T11
+T37	Entity	promoter
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T5
+E3	Positive_regulation Theme:E4
+E4	Gene_expression Theme:T5
+E5	Gene_expression Theme:T5
+E6	Positive_regulation Theme:E5
+E7	Phosphorylation Theme:T10
+E8	Positive_regulation Theme:T10
+E9	Negative_regulation Theme:E10
+E10	Localization Theme:T5
+E11	Regulation Site:T37 Theme:T5
+E12	Transcription Theme:T5
+E13	Positive_regulation Cause:E15 Theme:E12
+E14	Positive_regulation Theme:E12
+E15	Binding Theme:T4
+E16	Positive_regulation Theme:E17
+E17	Gene_expression Theme:T5
+E18	Positive_regulation Theme:E16
+E19	Phosphorylation Theme:T4
+E20	Positive_regulation Cause:T10 Theme:E19
+E21	Positive_regulation Cause:T10 Theme:T4

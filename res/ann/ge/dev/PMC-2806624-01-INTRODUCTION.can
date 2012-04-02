@@ -1,0 +1,55 @@
+T1	Protein	forkhead box P3
+T2	Protein	FOXP3
+T3	Protein	Foxp3
+T8	Protein	IL-4
+T10	Protein	GATA3
+T13	Protein	T-bet
+T16	Protein	STAT1
+T17	Protein	STAT4
+T18	Protein	STAT6
+T21	Protein	TGF-beta
+T22	Protein	RUNX
+T23	Protein	RUNX1
+T24	Protein	AML1
+T25	Protein	CBFA2
+T26	Protein	PEBP2alphaB
+T27	Protein	RUNX2
+T28	Protein	AML3
+T29	Protein	CBFA1
+T30	Protein	PEBP2alphaA
+T31	Protein	RUNX3
+T40	Protein	CBF
+T41	Protein	CBFbeta
+T42	Protein	ubiquitin
+*	Equiv T1 T2 T3
+*	Equiv T23 T24 T25 T26
+*	Equiv T27 T28 T29 T30
+T61	Entity	promoter
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T1
+E3	Regulation Theme:T1
+E4	Negative_regulation Cause:T8 Theme:E5
+E5	Gene_expression Theme:T1
+E6	Binding Theme:T10 Site2:T61 Theme2:T1
+E7	Negative_regulation Cause:E6 Theme:E8
+E8	Positive_regulation Theme:T1
+E9	Negative_regulation Cause:T13 Theme:E10
+E11	Negative_regulation Cause:T10 Theme:E10
+E10	Positive_regulation Theme:T1
+E12	Positive_regulation Cause:T16 Theme:E9
+E13	Positive_regulation Cause:T17 Theme:E9
+E14	Positive_regulation Cause:T18 Theme:E9
+E15	Positive_regulation Cause:T16 Theme:E11
+E16	Positive_regulation Cause:T17 Theme:E11
+E17	Positive_regulation Cause:T18 Theme:E11
+E18	Gene_expression Theme:T1
+E19	Binding Theme:T41
+E20	Binding Theme:T40
+E21	Binding Theme:T22 Theme2:T21
+E22	Regulation Cause:T23 Theme:E23
+E24	Regulation Cause:T31 Theme:E23
+E23	Gene_expression Theme:T1
+E25	Positive_regulation Cause:T21 Theme:T23
+E26	Positive_regulation Cause:T21 Theme:T31
+M1	Speculation E22
+M2	Speculation E24

@@ -1,0 +1,36 @@
+T1	Protein	APOBEC3A
+T2	Protein	B
+T3	Protein	C
+T4	Protein	DE
+T5	Protein	F
+T6	Protein	G
+T7	Protein	H
+T8	Protein	APOBEC3G
+T9	Protein	A3G
+T10	Protein	virion infectivity factor
+T11	Protein	Vif
+T13	Protein	vif
+T18	Protein	APOBEC3F
+T19	Protein	A3F
+T32	Protein	interferon
+T33	Protein	Sp (specificity protein) 1
+T34	Protein	Sp3
+*	Equiv T8 T9
+*	Equiv T10 T11
+*	Equiv T18 T19
+T39	Entity	mRNA processing (P) bodies
+T44	Entity	promoter
+T46	Entity	GC-box
+E1	Negative_regulation Theme:T10
+E2	Gene_expression Theme:T18
+E3	Gene_expression Theme:T8
+E4	Binding Theme:T18 Theme2:T8
+E5	Localization Theme:T18 ToLoc:T39
+E6	Localization Theme:T8 ToLoc:T39
+E7	Gene_expression Theme:T8
+E8	Regulation Theme:T8
+E9	Positive_regulation Theme:E10
+E10	Gene_expression Theme:T8
+E11	Regulation Site:T44 Theme:T8
+E12	Binding Site:T46 Theme:T8 Theme2:T33
+E13	Binding Site:T46 Theme:T8 Theme2:T34

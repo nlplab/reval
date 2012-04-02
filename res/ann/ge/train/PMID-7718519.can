@@ -1,0 +1,4 @@
+T1	Protein	type I IL-1R
+T2	Protein	I kappa B alpha
+T3	Protein	MAD3
+*	Equiv T2 T3

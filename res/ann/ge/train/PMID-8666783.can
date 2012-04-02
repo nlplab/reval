@@ -1,0 +1,11 @@
+T1	Protein	IFN-gamma receptor beta-chain
+T2	Protein	IFN-gamma
+T4	Protein	IFN- gamma
+T5	Protein	IL-2
+T7	Protein	STAT1(alpha)
+T8	Protein	IFN-gamma receptor alpha-chain
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Positive_regulation Theme:T7
+E4	Gene_expression Theme:T8
+M1	Negation E3

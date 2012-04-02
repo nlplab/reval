@@ -1,0 +1,46 @@
+T1	Protein	CD4
+T2	Protein	interleukin 2
+T3	Protein	IL-2
+T4	Protein	IL-4
+T5	Protein	NF-ATp
+T6	Protein	IL2
+T7	Protein	IL4
+T11	Protein	tumor necrosis factor alpha
+T12	Protein	RelA
+*	Equiv T2 T3
+T38	Entity	promoter
+E1	Gene_expression Theme:T2
+E2	Gene_expression Theme:T4
+E3	Positive_regulation Theme:T5
+E4	Positive_regulation Cause:T5 Theme:E6
+E5	Positive_regulation Cause:T5 Theme:E7
+E6	Positive_regulation Theme:E8
+E7	Positive_regulation Theme:E9
+E8	Transcription Theme:T4
+E9	Transcription Theme:T2
+E10	Gene_expression Theme:T6
+E11	Positive_regulation Theme:E10
+E12	Positive_regulation Theme:E13
+E13	Transcription Theme:T7
+E14	Negative_regulation Theme:E12
+E15	Positive_regulation Theme:E14
+E16	Positive_regulation Cause:E17 Theme:E14
+E17	Binding Theme:T5
+E18	Gene_expression Theme:T12
+E19	Positive_regulation Theme:E18
+E20	Positive_regulation Theme:E21
+E21	Gene_expression Theme:T12
+E22	Regulation Site:T38 Theme:T7
+E23	Regulation Cause:E20 Site:T38 Theme:T7
+E24	Binding Theme:T5
+E25	Binding Theme:T12
+E26	Binding Theme:T5
+E27	Negative_regulation Cause:T12 Theme:E26
+E28	Binding Theme:T12
+E29	Negative_regulation Cause:T5 Theme:E28
+E30	Positive_regulation Cause:E29 Theme:E32
+E31	Positive_regulation Cause:E27 Theme:E32
+E32	Negative_regulation Theme:E33
+E33	Gene_expression Theme:T7
+M1	Negation E22
+M2	Negation E23

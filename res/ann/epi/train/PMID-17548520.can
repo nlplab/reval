@@ -5,5 +5,5 @@ T6	Protein	Cyld
 T9	Protein	transforming growth factor-beta-activated kinase 1
 T13	Protein	c-Jun N-terminal kinase
 T14	Protein	IkappaB kinase beta
-*	Equiv T9
+*	Equiv T3 T9
 E1	Ubiquitination Theme:T9

@@ -58,7 +58,7 @@ T161	Protein	ESX-1
 *	Equiv T56 T57
 *	Equiv T59 T61
 *	Equiv T60 T62
-*	Equiv T81
+*	Equiv T67 T81
 E1	Process Participant:T2
 E2	Process Participant:T2
 M1	Negation E2

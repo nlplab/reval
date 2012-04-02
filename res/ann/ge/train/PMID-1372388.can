@@ -1,0 +1,18 @@
+T1	Protein	c-Rel
+T2	Protein	interleukin-6
+T5	Protein	p50
+T8	Protein	IL-6
+T9	Protein	beta interferon
+T17	Protein	tumor necrosis factor
+*	Equiv T2 T8
+T26	Entity	kappa B sites
+E1	Binding Theme:T1
+E2	Binding Theme:T1
+E3	Binding Theme:T1 Theme2:T5
+E4	Binding Theme:T1
+E5	Binding Theme:T1
+E6	Binding Theme:T1 Site2:T26 Theme2:T9
+E7	Binding Theme:T1 Site2:T26 Theme2:T2
+E8	Binding Theme:T5 Theme2:T2
+E9	Binding Theme:T5
+E10	Binding Theme:T2

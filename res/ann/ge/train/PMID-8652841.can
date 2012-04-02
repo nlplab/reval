@@ -1,0 +1,19 @@
+T1	Protein	BCL-6
+T6	Protein	CD40 ligand
+T9	Protein	interleukin-2
+T10	Protein	phytohemagglutinin
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T1
+E3	Regulation Theme:E2
+E4	Negative_regulation Theme:T1
+E5	Negative_regulation Theme:T1
+E6	Negative_regulation Theme:T1
+E7	Negative_regulation Theme:E8
+E8	Transcription Theme:T1
+E9	Transcription Theme:T1
+E10	Gene_expression Theme:T1
+E11	Regulation Theme:T1
+E12	Positive_regulation Theme:E14
+E13	Positive_regulation Theme:E15
+E14	Positive_regulation Theme:E15
+E15	Gene_expression Theme:T1

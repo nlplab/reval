@@ -1,0 +1,25 @@
+T1	Protein	interferon (IFN)-inducible protein 10
+T3	Protein	IP-10
+T4	Protein	IFNgamma
+T5	Protein	monocyte chemotactic protein-1
+*	Equiv T1 T3
+E1	Positive_regulation Theme:T1
+E2	Positive_regulation Theme:E1
+E3	Gene_expression Theme:T1
+E4	Positive_regulation Cause:T4 Theme:E3
+E5	Gene_expression Theme:T5
+E6	Positive_regulation Cause:T4 Theme:E5
+E7	Positive_regulation Theme:E8
+E8	Positive_regulation Theme:T1
+E9	Positive_regulation Theme:E7
+E10	Positive_regulation Theme:E12
+E11	Transcription Theme:T1
+E12	Positive_regulation Cause:T4 Theme:E11
+E13	Positive_regulation Cause:E14 Theme:E10
+E14	Positive_regulation Theme:E15
+E15	Positive_regulation Theme:T1
+E16	Regulation Theme:E17
+E17	Positive_regulation Cause:T1 Theme:T4
+M1	Negation E4
+M2	Negation E9
+M3	Speculation E16

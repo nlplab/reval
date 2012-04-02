@@ -1,0 +1,52 @@
+T1	Protein	RUNX1
+T2	Protein	RUNX3
+T3	Protein	Foxp3
+T6	Protein	FOXP3
+T7	Protein	CD4
+T8	Protein	CD2
+T9	Protein	3
+T10	Protein	28
+T11	Protein	TGF-beta
+T12	Protein	IL-2
+T34	Protein	T-bet
+T35	Protein	GATA3
+T36	Protein	RORC2
+T40	Protein	iT reg
+T41	Protein	Th17
+E1	Regulation Cause:T1 Theme:E2
+E3	Regulation Cause:T2 Theme:E2
+E2	Gene_expression Theme:T3
+E4	Transcription Theme:T1
+E5	Transcription Theme:T2
+E6	Transcription Theme:T6
+E7	Positive_regulation Cause:T12 Theme:E4
+E8	Positive_regulation Cause:T12 Theme:E5
+E9	Positive_regulation Cause:T12 Theme:E6
+E10	Transcription Theme:T6
+E11	Positive_regulation Cause:T11 Theme:E10
+E12	Negative_regulation Cause:E13 Theme:E11
+E14	Negative_regulation Cause:E15 Theme:E11
+E16	Positive_regulation Theme:E13
+E17	Positive_regulation Theme:E15
+E13	Negative_regulation Theme:T1
+E15	Negative_regulation Theme:T9
+E18	Negative_regulation Theme:T1
+E19	Negative_regulation Theme:T2
+E20	Transcription Theme:T6
+E21	Negative_regulation Cause:E22 Theme:E20
+E23	Negative_regulation Cause:E24 Theme:E20
+E25	Positive_regulation Theme:E22
+E26	Positive_regulation Theme:E24
+E22	Negative_regulation Theme:T1
+E24	Negative_regulation Theme:T2
+E27	Negative_regulation Theme:T1
+E28	Negative_regulation Theme:T2
+E29	Gene_expression Theme:T6
+E30	Negative_regulation Cause:E31 Theme:E29
+E32	Negative_regulation Cause:E33 Theme:E29
+E34	Positive_regulation Theme:E31
+E35	Positive_regulation Theme:E33
+E31	Negative_regulation Theme:T1
+E33	Negative_regulation Theme:T9
+E36	Negative_regulation Theme:T1
+E37	Negative_regulation Theme:T2

@@ -1,0 +1,19 @@
+T1	Protein	calcineurin catalytic (A) subunit
+T2	Protein	calmodulin
+T3	Protein	regulatory (B) subunit
+T4	Protein	interleukin (IL)-2
+T5	Protein	endogenous B subunit
+T6	Protein	B subunit
+T8	Protein	calcineurin A
+T9	Protein	B subunits
+E1	Regulation Theme:E2
+E2	Gene_expression Theme:T4
+E3	Binding Theme:T5
+E4	Negative_regulation Theme:T6
+E5	Positive_regulation Cause:E6 Theme:E4
+E6	Localization Theme:T6
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T6
+E9	Negative_regulation Theme:T6
+E10	Negative_regulation Theme:E11
+E11	Binding Theme:T8 Theme2:T9

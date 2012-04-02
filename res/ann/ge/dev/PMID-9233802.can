@@ -1,0 +1,7 @@
+T1	Protein	c-Myb
+T2	Protein	ZEB
+T11	Protein	alpha4 integrin
+E1	Binding Theme:T2
+E2	Negative_regulation Cause:T2 Theme:T1
+E3	Negative_regulation Cause:T1 Theme:E2
+E4	Regulation Theme:T11

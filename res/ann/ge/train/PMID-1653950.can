@@ -1,0 +1,13 @@
+T1	Protein	USF
+T2	Protein	HIV-TF1
+T7	Protein	upstream stimulatory factor
+*	Equiv T1 T7
+E1	Binding Theme:T2
+E2	Binding Theme:T2
+E3	Binding Theme:T7
+E4	Binding Theme:T2
+E5	Negative_regulation Theme:E6
+E6	Binding Theme:T2
+E7	Phosphorylation Theme:T2
+E8	Positive_regulation Cause:E7 Theme:E9
+E9	Binding Theme:T2

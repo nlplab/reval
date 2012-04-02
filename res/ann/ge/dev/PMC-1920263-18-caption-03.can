@@ -1,0 +1,7 @@
+T1	Protein	Luciferase
+T2	Protein	A3G
+T4	Protein	luciferase
+T13	Entity	promoter
+E1	Positive_regulation CSite:T13 Cause:T2 Theme:T1
+E2	Gene_expression Theme:T4
+E3	Gene_expression Theme:T4

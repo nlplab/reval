@@ -1,0 +1,14 @@
+T1	Protein	CD4
+T2	Protein	c-fms
+T3	Protein	interferon beta
+T4	Protein	IFN-beta
+T6	Protein	IFN-alpha
+*	Equiv T3 T4
+T10	Entity	symmetric NF-kappa B site
+E1	Positive_regulation Theme:E2
+E2	Transcription Theme:T2
+E3	Binding Site:T10 Theme:T3
+E4	Transcription Theme:T6
+E5	Transcription Theme:T3
+E6	Positive_regulation Theme:E4
+E7	Positive_regulation Theme:E5

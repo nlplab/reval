@@ -1,0 +1,20 @@
+T1	Protein	I kappa B alpha
+T2	Protein	inhibitory protein I kappa B
+T4	Protein	TNF-alpha
+T7	Protein	I kappa B
+E1	Negative_regulation Theme:E2
+E2	Phosphorylation Theme:T1
+E3	Binding Theme:T2
+E4	Positive_regulation Theme:E6
+E5	Positive_regulation Cause:E4 Theme:E7
+E6	Phosphorylation Theme:T1
+E7	Protein_catabolism Theme:T1
+E8	Phosphorylation Theme:T1
+E9	Protein_catabolism Theme:T1
+E10	Positive_regulation Theme:E9
+E11	Positive_regulation Theme:E8
+E12	Negative_regulation Theme:E13
+E13	Positive_regulation Theme:E14
+E14	Phosphorylation Theme:T1
+M1	Negation E10
+M2	Negation E11

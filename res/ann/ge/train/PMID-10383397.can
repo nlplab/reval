@@ -1,0 +1,27 @@
+T1	Protein	S-adenosylhomocysteine hydrolase
+T2	Protein	IkappaBalpha
+T4	Protein	tumor necrosis factor-alpha
+T5	Protein	interleukin-1beta
+T6	Protein	p65
+T7	Protein	Rel-A
+T9	Protein	IkappaBbeta
+*	Equiv T6 T7
+E1	Negative_regulation Theme:T1
+E2	Positive_regulation Theme:E3
+E3	Protein_catabolism Theme:T2
+E4	Negative_regulation Theme:E5
+E5	Positive_regulation Theme:E7
+E6	Positive_regulation Theme:E8
+E7	Transcription Theme:T4
+E8	Transcription Theme:T5
+E9	Negative_regulation Theme:E10
+E10	Phosphorylation Theme:T6
+E11	Positive_regulation Theme:E14
+E12	Positive_regulation Theme:E13
+E13	Protein_catabolism Theme:T2
+E14	Protein_catabolism Theme:T9
+E15	Negative_regulation Theme:T2
+E16	Regulation Theme:E15
+M1	Negation E11
+M2	Negation E14
+M3	Negation E16

@@ -1,0 +1,15 @@
+T1	Protein	Hepatocyte nuclear factor-1 alpha
+T2	Protein	HNF-1 alpha
+T3	Protein	dimerization cofactor of HNF-1 alpha
+T4	Protein	DCoH
+*	Equiv T1 T2
+*	Equiv T3 T4
+E1	Localization Theme:T3
+E2	Binding Theme:T3
+E3	Positive_regulation Cause:T3 Theme:T1
+E4	Binding Theme:T3 Theme2:T1
+E5	Positive_regulation Theme:E4
+E6	Regulation Cause:E4 Theme:E7
+E7	Binding Theme:T1
+M1	Negation E2
+M2	Negation E6

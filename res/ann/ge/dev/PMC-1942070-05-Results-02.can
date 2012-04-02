@@ -1,0 +1,10 @@
+T1	Protein	PKD1
+T2	Protein	3
+T3	Protein	PKD3
+T17	Protein	PKD2
+E1	Gene_expression Theme:T3
+E2	Gene_expression Theme:T3
+E3	Negative_regulation Theme:E4
+E5	Negative_regulation Theme:E6
+E4	Gene_expression Theme:T1
+E6	Gene_expression Theme:T2

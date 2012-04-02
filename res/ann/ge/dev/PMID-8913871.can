@@ -1,0 +1,4 @@
+T1	Protein	VD receptor
+T2	Protein	VDR
+*	Equiv T2 T1
+E1	Binding Theme:T2

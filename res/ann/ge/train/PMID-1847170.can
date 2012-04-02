@@ -1,0 +1,8 @@
+T1	Protein	c-fos
+T2	Protein	c-jun
+T3	Protein	5-lipoxygenase
+T4	Protein	phospholipase A2
+E1	Positive_regulation Theme:E3
+E2	Positive_regulation Theme:E4
+E3	Transcription Theme:T1
+E4	Transcription Theme:T2

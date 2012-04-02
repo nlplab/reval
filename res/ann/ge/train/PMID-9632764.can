@@ -1,0 +1,17 @@
+T1	Protein	OCA-B
+T3	Protein	Oct-1
+T4	Protein	PC4
+E1	Binding Theme:T1
+E2	Positive_regulation Cause:E3 Theme:E1
+E3	Binding Theme:T1 Theme2:T3
+E4	Negative_regulation Theme:T4
+E5	Negative_regulation Cause:E4 Theme:T3
+E6	Negative_regulation Cause:E4 Theme:T1
+E7	Positive_regulation Cause:T4 Theme:T1
+E8	Positive_regulation Cause:T4 Theme:T3
+E9	Positive_regulation Cause:E10 Theme:T3
+E10	Negative_regulation Theme:T4
+E11	Positive_regulation Cause:T4 Theme:T3
+E12	Positive_regulation Cause:T4 Theme:T1
+E13	Binding Theme:T1 Theme2:T4
+E14	Negative_regulation Theme:T4

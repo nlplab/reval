@@ -1,0 +1,33 @@
+T1	Protein	Bcl-2
+T2	Protein	Fas ligand
+T5	Protein	Bax
+T6	Protein	Bad
+T7	Protein	Fas
+T9	Protein	FasL
+T21	Protein	calcineurin
+*	Equiv T2 T9
+E1	Negative_regulation Cause:T1 Theme:E2
+E2	Positive_regulation Theme:E3
+E3	Transcription Theme:T9
+E4	Binding Theme:T1 Theme2:T5
+E5	Binding Theme:T1 Theme2:T6
+E6	Positive_regulation Theme:E7
+E7	Gene_expression Theme:T1
+E8	Negative_regulation Cause:E6 Theme:E9
+E9	Positive_regulation Theme:E10
+E10	Gene_expression Theme:T9
+E11	Binding Theme:T1
+E12	Positive_regulation Theme:E13
+E13	Transcription Theme:T9
+E14	Positive_regulation Theme:T9
+E15	Negative_regulation Theme:E16
+E16	Gene_expression Theme:T9
+E17	Phosphorylation Theme:T1
+E18	Phosphorylation Theme:T1
+E19	Negative_regulation Cause:E18 Theme:E20
+E20	Binding Theme:T1 Theme2:T21
+E21	Gene_expression Theme:T9
+E22	Positive_regulation Cause:E23 Theme:E21
+E23	Phosphorylation Theme:T1
+M1	Negation E13
+M2	Negation E20

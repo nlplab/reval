@@ -1,0 +1,22 @@
+T1	Protein	beta1
+T2	Protein	beta2 integrins
+T3	Protein	p42
+T4	Protein	p44 mitogen-activated protein kinase
+T5	Protein	E-selectin
+T6	Protein	ICAM-1
+T7	Protein	VCAM-1
+E1	Positive_regulation Theme:T3
+E2	Positive_regulation Theme:T4
+E3	Positive_regulation Theme:E1
+E4	Positive_regulation Theme:E10
+E5	Positive_regulation Theme:E12
+E6	Positive_regulation Theme:E14
+E7	Positive_regulation Theme:E13
+E8	Positive_regulation Theme:E15
+E9	Positive_regulation Theme:E11
+E10	Transcription Theme:T6
+E11	Gene_expression Theme:T6
+E12	Transcription Theme:T7
+E13	Gene_expression Theme:T7
+E14	Gene_expression Theme:T5
+E15	Transcription Theme:T5

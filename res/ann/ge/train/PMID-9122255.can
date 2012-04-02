@@ -1,0 +1,20 @@
+T1	Protein	Neuronal (type I) nitric oxide synthase
+T2	Protein	immunologic (type II) nitric oxide synthase
+T3	Protein	neuronal NOS
+T4	Protein	nNOS
+T5	Protein	endothelial NOS
+T6	Protein	immunologic NOS
+T7	Protein	iNOS
+T10	Protein	tumor necrosis factor-alpha
+T11	Protein	TNF-alpha
+*	Equiv T3 T4
+*	Equiv T10 T11
+*	Equiv T6 T7
+E1	Regulation Cause:T1 Theme:E2
+E2	Gene_expression Theme:T2
+E3	Gene_expression Theme:T3
+E4	Positive_regulation Theme:T6
+E5	Positive_regulation Theme:T6
+E6	Negative_regulation Theme:T3
+E7	Regulation Cause:T3 Theme:E8
+E8	Gene_expression Theme:T6

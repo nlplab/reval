@@ -1,0 +1,32 @@
+T1	Protein	GATA-4
+T2	Protein	IL-5
+T4	Protein	Interleukin-5
+T9	Protein	human GATA-4
+T10	Protein	hGATA-4
+T15	Protein	hGATA-2
+T16	Protein	hGATA-3
+*	Equiv T9 T10
+*	Equiv T2 T4
+T24	Entity	promoter
+T28	Entity	region
+T32	Entity	-70 GATA site
+E1	Regulation Cause:T1 Site:T24 Theme:T4
+E2	Gene_expression Theme:T4
+E3	Gene_expression Theme:T4
+E4	Transcription Theme:T4
+E5	Regulation CSite:T28 Cause:T4 Theme:E6
+E6	Transcription Theme:T4
+E7	Binding Theme:T9 Site2:T32 Theme2:T4
+E8	Positive_regulation Cause:T9 Theme:E9
+E9	Positive_regulation Site:T24 Theme:T4
+E10	Positive_regulation Theme:E9
+E11	Gene_expression Theme:T9
+E12	Gene_expression Theme:T15
+E13	Gene_expression Theme:T16
+E14	Binding Theme:T15
+E15	Binding Theme:T9
+E16	Binding Theme:T16
+E17	Binding Theme:T1
+E18	Binding Theme:T1
+E19	Regulation Cause:T1 Theme:E20
+E20	Regulation Theme:T4

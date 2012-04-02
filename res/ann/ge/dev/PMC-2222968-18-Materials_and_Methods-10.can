@@ -1,0 +1,10 @@
+T1	Protein	TAT
+T2	Protein	GATA3
+T3	Protein	CD4
+T4	Protein	CD45RA
+T6	Protein	CD3
+T7	Protein	CD28
+T8	Protein	TGF-beta
+T10	Protein	FOXP3
+E1	Gene_expression Theme:T10
+M1	Speculation E1

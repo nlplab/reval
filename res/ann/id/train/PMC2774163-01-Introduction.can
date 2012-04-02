@@ -1,0 +1,59 @@
+T1	Organism	patients
+T2	Organism	human
+T3	Organism	Pseudomonas aeruginosa
+T5	Organism	P. aeruginosa
+T8	Protein	MvaT
+T11	Organism	type IV pili
+T12	Organism	flagella deletion mutants
+T13	Chemical	bis-(3'-5')-cyclic diguanylic guanosine monophosphate
+T14	Chemical	cyclic-di-GMP
+T15	Organism	Acetobacter xylinum
+T18	Protein	BifA
+T19	Protein	SadC
+T20	Protein	SadB
+T22	Protein	Pel
+T23	Protein	Psl
+T27	Protein	pel
+T28	Protein	psl
+T29	Protein	RetS
+T32	Protein	GacS
+T33	Protein	LadS
+T35	Protein	rsmZ
+T40	Two-component-system	GacA/GacS
+T41	Protein	GacA
+T44	Two-component-system	BfiRS
+T45	Protein	BfiR
+T46	Protein	S
+T47	Protein	PA4196
+T48	Protein	4197
+T49	Two-component-system	BfmRS
+T50	Protein	BfmR
+T52	Protein	PA4101
+T53	Protein	4102
+T54	Two-component-system	MifRS
+T55	Protein	MifR
+T57	Protein	PA5511
+T58	Protein	5512
+*	Equiv T13 T14
+E1	Process
+E2	Process
+E3	Process Participant:T5
+E4	Process
+E5	Regulation Theme:T14
+E6	Positive_regulation Cause:T14 Theme:E8
+E7	Positive_regulation Cause:T14 Theme:E9
+E8	Regulation Theme:T22
+E9	Regulation Theme:T23
+E10	Gene_expression Theme:T28
+E11	Gene_expression Theme:T27
+E12	Regulation Cause:T29 Theme:E11
+E13	Regulation Cause:T29 Theme:E10
+E14	Process
+E15	Process
+E16	Negative_regulation Theme:T29
+E17	Negative_regulation Theme:T33
+E18	Negative_regulation Theme:T32
+E19	Positive_regulation Cause:E17 Theme:E21
+E20	Positive_regulation Cause:E18 Theme:E21
+E21	Positive_regulation Theme:E22
+E22	Process

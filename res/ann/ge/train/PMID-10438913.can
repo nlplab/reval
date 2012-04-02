@@ -1,0 +1,13 @@
+T1	Protein	IL-2
+T2	Protein	CD28
+T7	Protein	CD80
+T22	Entity	promoter
+E1	Negative_regulation Theme:E3
+E2	Positive_regulation Theme:E4
+E3	Positive_regulation Theme:T1
+E4	Positive_regulation Site:T22 Theme:T1
+E5	Regulation Cause:T2 Site:T22 Theme:T1
+E6	Negative_regulation Theme:T1
+M1	Negation E3
+M2	Negation E4
+M3	Negation E5

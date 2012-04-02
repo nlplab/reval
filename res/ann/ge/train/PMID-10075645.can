@@ -1,0 +1,10 @@
+T1	Protein	TNF-alpha
+T2	Protein	MyD88
+T3	Protein	IRAK
+T4	Protein	IRAK2
+T5	Protein	TRAF6
+T6	Protein	TRAF2
+T7	Protein	TLR2
+T8	Protein	TLR4
+E1	Gene_expression Theme:T8
+E2	Gene_expression Theme:T7

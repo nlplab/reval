@@ -1,0 +1,23 @@
+T1	Organism	H37Ra
+T2	Organism	Mouse
+T4	Organism	severe combined immuno-deficient (SCID) mice
+T6	Protein	PhoP
+T7	Organism	H37Ra::phoP
+T8	Protein	phoP
+T11	Protein	fadE5
+T12	Protein	rpsL
+T14	Organism	H37Rv
+T15	Organism	mouse
+E1	Process Participant:T1
+E2	Process Participant:T1
+E3	Positive_regulation Theme:E5
+E4	Process Participant:T1
+E5	Process Participant:T7
+E6	Regulation Theme:E7
+M1	Negation E6
+E7	Process Participant:T1
+E8	Positive_regulation Theme:E10
+E9	Process Participant:T14
+E10	Process Participant:T1
+E11	Process
+E12	Process Participant:T1

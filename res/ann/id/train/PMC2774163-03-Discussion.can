@@ -1,0 +1,99 @@
+T1	Organism	Bacillus subtilis
+T2	Organism	Myxococcus xanthus
+T3	Protein	Pel
+T4	Protein	Psl
+T5	Two-component-system	BfiRS
+T6	Protein	BfiR
+T7	Protein	S
+T8	Two-component-system	PA4196-4197
+T9	Protein	PA4196
+T10	Protein	4197
+T11	Two-component-system	BfmRS
+T12	Protein	BfmR
+T14	Two-component-system	PA4101-4102
+T15	Protein	PA4101
+T16	Protein	4102
+T17	Two-component-system	MifRS
+T18	Protein	MifR
+T20	Two-component-system	PA5511-5512
+T21	Protein	PA5511
+T22	Protein	5512
+T23	Organism	P. aeruginosa
+T24	Protein	BfiS
+T25	Protein	GacS
+T28	Two-component-system	RetS/LadS
+T29	Protein	RetS
+T30	Protein	LadS
+T31	Protein	GacA
+T33	Protein	RsmA
+T35	Chemical	glutamate
+T36	Chemical	citrate
+T37	Chemical	carbon
+T39	Protein	PA4197
+T43	Organism	E. coli
+T44	Organism	Klebsiella pneumoniae
+T45	Organism	Enterobacter sp
+T47	Organism	Yersinia sp
+T48	Organism	Burkholderia sp
+T49	Organism	Rhizobium sp
+T50	Organism	Vibrio sp
+T51	Organism	Geobacter sp
+T52	Organism	M. xanthus
+T57	Protein	NtrC
+T58	Protein	CrdA
+T59	Protein	crdA
+T62	Protein	RNA polymerase
+T63	Protein	rpoN
+T68	Protein	RpoN
+T69	Organism	B. subtilis
+T70	Protein	Sigma E
+T71	Protein	F
+T72	Protein	G
+T73	Protein	K
+T74	Protein	RpoD
+T77	Protein	Sigma-70
+T83	Protein	sigma-54
+T95	Protein	SadA
+T96	Protein	R
+T98	Protein	RocS1
+T99	Protein	RA
+T100	Protein	1
+T133	Two-component-system	BfiSR
+T139	Two-component-system	BfmSR
+T140	Protein	BfmS
+T145	Two-component-system	MifSR
+T146	Protein	MifS
+*	Equiv T5 T8
+*	Equiv T11 T14
+*	Equiv T17 T20
+*	Equiv T24 T39
+*	Equiv T12 T15
+*	Equiv T74 T77
+E1	Phosphorylation Theme:T39
+E2	Phosphorylation Theme:T25
+E3	Phosphorylation Theme:T18
+E4	Negative_regulation Theme:T59
+E5	Regulation Theme:T63
+E6	Positive_regulation Theme:T6
+E7	Phosphorylation Theme:T39
+E8	Positive_regulation Theme:T18
+E9	Process Participant:T23
+E10	Phosphorylation Theme:T25
+E11	Negative_regulation Cause:T25 Theme:T29
+E12	Negative_regulation Cause:T29 Theme:T25
+E13	Regulation Cause:T29 Theme:E15
+E14	Regulation Cause:T29 Theme:E15
+E15	Phosphorylation Theme:T25
+E16	Phosphorylation Theme:T25
+E17	Phosphorylation Theme:T25
+M1	Negation E17
+E18	Phosphorylation Theme:T25
+E19	Phosphorylation Theme:T25
+E20	Regulation Cause:T29 Theme:E21
+E21	Phosphorylation Theme:T25
+E22	Phosphorylation Theme:T25
+E23	Positive_regulation Cause:T39 Theme:E22
+E24	Gene_expression Theme:T6
+E25	Positive_regulation Cause:T33 Theme:E24
+E26	Regulation Theme:E27
+E27	Process

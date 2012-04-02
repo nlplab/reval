@@ -1,0 +1,21 @@
+T1	Protein	EKLF
+T2	Protein	beta-globin
+T3	Protein	gamma-globin
+T4	Protein	EKLF alleles
+T7	Protein	beta h1-globin
+T9	Protein	alpha-globin
+T11	Protein	glucose phosphate isomerase-1
+T12	Protein	GPI-1
+T14	Protein	beta-
+T15	Protein	alpha-globin chains
+*	Equiv T11 T12
+T26	Entity	Heinz bodies
+E1	Negative_regulation Theme:T2
+E2	Regulation Theme:T7
+E3	Negative_regulation Theme:E4
+E4	Gene_expression Theme:T7
+E5	Positive_regulation Theme:E6
+E6	Localization AtLoc:T26 Theme:T9
+E7	Positive_regulation Theme:T9
+M1	Negation E2
+M2	Negation E3

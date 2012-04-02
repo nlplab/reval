@@ -1,0 +1,29 @@
+T1	Protein	E-selectin
+T2	Protein	interleukin (IL)-8
+T3	Protein	tumor necrosis factor receptor I
+T4	Protein	TNFRI
+T6	Protein	IL-8
+T7	Protein	p50
+T8	Protein	p65
+T9	Protein	Lymphotoxin-alpha
+T10	Protein	LTalpha
+T11	Protein	tumor necrosis factor-alpha
+*	Equiv T9 T10
+*	Equiv T3 T4
+T21	Entity	nuclear
+E1	Gene_expression Theme:T3
+E2	Positive_regulation Theme:E1
+E3	Positive_regulation Theme:E6
+E4	Positive_regulation Theme:E5
+E5	Localization Theme:T8 ToLoc:T21
+E6	Localization Theme:T7 ToLoc:T21
+E7	Gene_expression Theme:T11
+E8	Gene_expression Theme:T9
+E9	Localization Theme:T9
+E10	Positive_regulation Theme:E11
+E11	Gene_expression Theme:T3
+E12	Positive_regulation Theme:E15
+E13	Positive_regulation Theme:E14
+E14	Transcription Theme:T1
+E15	Transcription Theme:T6
+M1	Negation E7

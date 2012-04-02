@@ -1,0 +1,3 @@
+T1	Protein	NF-IL-6
+E1	Gene_expression Theme:T1
+E2	Positive_regulation Theme:E1

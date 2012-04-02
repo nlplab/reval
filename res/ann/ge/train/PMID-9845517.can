@@ -1,0 +1,31 @@
+T1	Protein	Stat6
+T2	Protein	interleukin-4
+T3	Protein	Interleukin-4
+T4	Protein	IL-4
+T12	Protein	signal transducer and activator of transcription 6
+*	Equiv T1 T12
+*	Equiv T3 T4
+T26	Entity	promoter
+T34	Entity	sequences (termed P0 through P4)
+E1	Negative_regulation Cause:T12 Site:T26 Theme:T2
+E2	Localization Theme:T3
+E3	Regulation Theme:E4
+E4	Transcription Theme:T3
+E5	Regulation Theme:E6
+E6	Regulation Theme:E7
+E7	Transcription Theme:T3
+E8	Binding Site:T34 Theme:T3
+E9	Positive_regulation Cause:T3 Theme:E10
+E10	Gene_expression Theme:T3
+E11	Positive_regulation Cause:T3 Theme:T12
+E12	Positive_regulation Cause:E11 Theme:E9
+E13	Binding Theme:T12 Site2:T26 Theme2:T3
+E14	Regulation Cause:T12 Theme:E15
+E15	Regulation Theme:E16
+E16	Transcription Theme:T3
+E17	Gene_expression Theme:T12
+E18	Negative_regulation Cause:T3 Site:T26 Theme:T3
+E19	Regulation Theme:T12
+E20	Positive_regulation Cause:T12 Theme:E21
+E21	Gene_expression Theme:T3
+M1	Speculation E14

@@ -2,7 +2,7 @@ T1	Protein	tumour necrosis factor-alpha
 T2	Protein	RelA
 T3	Protein	TGF-beta1
 T4	Protein	TNF-alpha
-*	Equiv T4
+*	Equiv T1 T4
 E1	Acetylation Theme:T2
 E2	Acetylation Theme:T2
 E3	Acetylation Theme:T2

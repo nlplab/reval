@@ -1,0 +1,18 @@
+T1	Protein	macrophage-CSF
+T2	Protein	M-CSF
+T5	Protein	c-jun
+T10	Protein	hck
+*	Equiv T1 T2
+E1	Transcription Theme:T5
+E2	Positive_regulation Theme:T5
+E3	Gene_expression Theme:T5
+E4	Positive_regulation Cause:T1 Theme:E3
+E5	Positive_regulation Theme:T10
+E6	Positive_regulation Theme:E8
+E7	Gene_expression Theme:T10
+E8	Gene_expression Theme:T5
+E9	Transcription Theme:T5
+E10	Transcription Theme:T10
+M1	Negation E1
+M2	Negation E3
+M3	Speculation E5

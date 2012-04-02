@@ -1,0 +1,40 @@
+T1	Protein	retinoic-acid receptors type alpha
+T2	Protein	retinoic-acid receptor type alpha
+T3	Protein	RAR(alpha)
+T4	Protein	leukemia-specific retinoic acid receptor
+T5	Protein	PML-RAR
+T10	Protein	granulocyte-colony-stimulating factor receptor
+T11	Protein	leukocyte alkaline phosphatase
+T12	Protein	CD11b
+T13	Protein	CD33
+*	Equiv T4 T5
+*	Equiv T2 T3
+E1	Positive_regulation Theme:T1
+E2	Positive_regulation Theme:E4
+E3	Positive_regulation Theme:E5
+E4	Transcription Theme:T4
+E5	Transcription Theme:T2
+E6	Positive_regulation Theme:T2
+E7	Positive_regulation Theme:T4
+E8	Positive_regulation Cause:E6 Theme:E10
+E9	Positive_regulation Cause:E7 Theme:E11
+E10	Positive_regulation Theme:T2
+E11	Positive_regulation Theme:T4
+E12	Positive_regulation Theme:E15
+E13	Positive_regulation Theme:E14
+E14	Gene_expression Theme:T2
+E15	Gene_expression Theme:T4
+E16	Positive_regulation Theme:T10
+E17	Positive_regulation Theme:T11
+E18	Positive_regulation Theme:T11
+E19	Positive_regulation Theme:T10
+E20	Regulation Theme:E23
+E21	Regulation Theme:E22
+E22	Regulation Theme:T13
+E23	Regulation Theme:T12
+E24	Positive_regulation Theme:E25
+E25	Gene_expression Theme:T2
+E26	Positive_regulation Theme:T2
+M1	Negation E20
+M2	Negation E21
+M3	Negation E26

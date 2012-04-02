@@ -1,0 +1,30 @@
+T1	Protein	CholecystokininB receptor
+T2	Protein	(CCK(B)) receptor
+T3	Protein	luciferase
+T4	Protein	CCK(B) receptor
+T8	Protein	serine/threonine phosphatases-1
+T9	Protein	-2A
+T11	Protein	CCK(B) receptors
+T12	Protein	interleukin-2
+T13	Protein	phytohemagglutinin
+T14	Protein	IL-2
+E1	Positive_regulation Theme:T2
+E2	Positive_regulation Theme:E3
+E3	Gene_expression Theme:T3
+E4	Positive_regulation Theme:E3
+E5	Regulation Cause:T4 Theme:E2
+E6	Negative_regulation Theme:E2
+E7	Negative_regulation Theme:T4
+E8	Positive_regulation Theme:E9
+E9	Gene_expression Theme:T3
+E10	Negative_regulation Theme:T8
+E11	Negative_regulation Theme:T9
+E12	Positive_regulation Theme:T3
+E13	Regulation Theme:E14
+E14	Gene_expression Theme:T12
+E15	Regulation Theme:T12
+E16	Positive_regulation Theme:E17
+E17	Gene_expression Theme:T14
+E18	Negative_regulation Theme:E16
+E19	Positive_regulation Theme:T11
+M1	Speculation E13

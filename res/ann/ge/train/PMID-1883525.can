@@ -1,0 +1,17 @@
+T1	Protein	M-CSF
+T3	Protein	Macrophage-colony-stimulating factor
+T5	Protein	CSF-1
+T6	Protein	c-fms
+*	Equiv T1 T3
+E1	Regulation Cause:T3 Theme:E2
+E2	Gene_expression Theme:T3
+E3	Binding Theme:T3
+E4	Gene_expression Theme:T3
+E5	Gene_expression Theme:T6
+E6	Positive_regulation Theme:T3
+E7	Positive_regulation Cause:T3 Theme:E8
+E8	Gene_expression Theme:T3
+E9	Negative_regulation Theme:E10
+E10	Positive_regulation Cause:T3 Theme:T3
+E11	Positive_regulation Cause:T3 Theme:T3
+M1	Speculation E6

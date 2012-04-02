@@ -1,0 +1,25 @@
+T1	Protein	collagenase-1
+T2	Protein	C/EBP-beta
+T4	Protein	Chloramphenicol acetyltransferase
+T8	Protein	CCAAT/enhancer-binding protein-beta
+*	Equiv T2 T8
+T17	Entity	promoter
+E1	Positive_regulation Theme:T1
+E2	Regulation Theme:E1
+E3	Regulation Theme:E4
+E4	Positive_regulation Theme:T1
+E5	Positive_regulation Site:T17 Theme:T1
+E6	Positive_regulation Theme:E7
+E7	Regulation Theme:E8
+E8	Transcription Theme:T1
+E9	Positive_regulation Theme:E10
+E10	Regulation Theme:E11
+E11	Transcription Theme:T1
+E12	Regulation Theme:E13
+E13	Gene_expression Theme:T1
+E14	Positive_regulation Theme:E15
+E15	Transcription Theme:T1
+E16	Regulation Theme:E14
+E17	Regulation Theme:E18
+E18	Gene_expression Theme:T1
+M1	Negation E17

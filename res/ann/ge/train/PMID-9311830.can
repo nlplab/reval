@@ -1,0 +1,19 @@
+T1	Protein	BHRF1
+T2	Protein	Fas
+T4	Protein	Bcl-2
+T10	Protein	Bcl-xL
+T15	Protein	cytosolic phospholipase A2
+T16	Protein	caspase-3
+T17	Protein	CPP32
+*	Equiv T16 T17
+E1	Gene_expression Theme:T1
+E2	Negative_regulation Cause:T10 Theme:E8
+E3	Negative_regulation Cause:T4 Theme:E9
+E4	Negative_regulation Cause:T10 Theme:E9
+E5	Negative_regulation Cause:T1 Theme:E8
+E6	Negative_regulation Cause:T4 Theme:E8
+E7	Negative_regulation Cause:T1 Theme:E9
+E8	Positive_regulation Theme:T15
+E9	Positive_regulation Theme:T16
+E10	Gene_expression Theme:T4
+E11	Gene_expression Theme:T1

@@ -1,0 +1,12 @@
+T1	Protein	FOXP3
+T2	Protein	RUNX1
+T3	Protein	RUNX3
+T4	Protein	CD4
+T7	Protein	luciferase
+T8	Protein	GFP
+E1	Gene_expression Theme:T8
+E2	Gene_expression Theme:T2
+E3	Gene_expression Theme:T3
+E4	Gene_expression Theme:T7
+E5	Gene_expression Theme:T7
+E6	Gene_expression Theme:T7

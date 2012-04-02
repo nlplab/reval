@@ -1,0 +1,15 @@
+T1	Protein	Tax
+T2	Protein	p16
+T3	Protein	INK4A
+T12	Protein	E2F-1
+T20	Protein	E2F1
+T28	Entity	promoter
+E1	Gene_expression Theme:T3
+E2	Binding Theme:T1 Theme2:T3
+E3	Gene_expression Theme:T1
+E4	Positive_regulation Cause:T1 Theme:E5
+E5	Transcription Theme:T12
+E6	Positive_regulation Cause:T1 Site:T28 Theme:T12
+E7	Regulation Cause:T1 Theme:T20
+M1	Negation E1
+M2	Negation E6

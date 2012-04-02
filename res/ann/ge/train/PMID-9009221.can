@@ -1,0 +1,7 @@
+T1	Protein	tumor necrosis factor alpha
+T2	Protein	TNF
+*	Equiv T1 T2
+E1	Positive_regulation Theme:T1
+E2	Negative_regulation Theme:E3
+E3	Localization Theme:T1
+M1	Speculation E1

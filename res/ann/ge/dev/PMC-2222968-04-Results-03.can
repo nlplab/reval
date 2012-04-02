@@ -1,0 +1,56 @@
+T1	Protein	IL-4
+T2	Protein	TGF-beta
+T6	Protein	FOXP3
+T7	Protein	CD4
+T8	Protein	CD45RA
+T9	Protein	CD3
+T10	Protein	CD28
+T16	Protein	GATA3
+T25	Protein	SMAD2
+T26	Protein	STAT6
+T35	Protein	CD25
+T37	Protein	rmIL-4
+T46	Protein	Foxp3
+*	Equiv T1 T37
+E1	Negative_regulation Cause:T37 Theme:E2
+E2	Positive_regulation Cause:T2 Theme:T6
+E3	Negative_regulation Cause:T37 Theme:E4
+E4	Positive_regulation Cause:T2 Theme:E5
+E5	Gene_expression Theme:T6
+E6	Negative_regulation Cause:E7 Theme:T16
+E7	Negative_regulation Theme:T37
+E8	Positive_regulation Cause:T37 Theme:E9
+E9	Gene_expression Theme:T6
+E10	Positive_regulation Cause:T2 Theme:T16
+E11	Positive_regulation Cause:T37 Theme:T16
+E12	Negative_regulation Cause:T37 Theme:E13
+E13	Gene_expression Theme:T6
+E14	Positive_regulation Theme:E12
+E15	Phosphorylation Theme:T25
+E16	Phosphorylation Theme:T26
+E17	Regulation Cause:T37 Theme:E15
+E18	Regulation Cause:T2 Theme:E15
+E19	Regulation Cause:T37 Theme:E16
+E20	Regulation Cause:T2 Theme:E16
+E21	Positive_regulation Theme:T37
+E22	Positive_regulation Cause:E21 Theme:T16
+E23	Negative_regulation Cause:E21 Theme:T6
+E24	Gene_expression Theme:T35
+E25	Gene_expression Theme:T6
+E26	Negative_regulation Cause:T37 Theme:E25
+E27	Negative_regulation Cause:T37 Theme:E28
+E28	Gene_expression Theme:T6
+E29	Regulation Theme:E27
+E30	Negative_regulation Cause:T37 Theme:E31
+E31	Gene_expression Theme:T6
+M1	Speculation E1
+M2	Negation E6
+M3	Negation E14
+M4	Negation E17
+M5	Negation E18
+M6	Negation E19
+M7	Negation E20
+M8	Speculation E26
+M9	Negation E27
+M10	Negation E29
+M11	Negation E30

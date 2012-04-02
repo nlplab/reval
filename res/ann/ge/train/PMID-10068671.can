@@ -1,0 +1,79 @@
+T1	Protein	IL-2Ralpha
+T2	Protein	c-myc
+T3	Protein	pim-1
+T7	Protein	interleukin-2
+T8	Protein	IL-2
+T10	Protein	IL-15
+T17	Protein	IRF-1
+T18	Protein	STAT1
+T19	Protein	STAT3
+T20	Protein	STAT4
+T21	Protein	IFP53
+T25	Protein	STAT5a
+T26	Protein	STAT5b
+*	Equiv T7 T8
+T38	Entity	GAS elements
+T42	Entity	tyrosine
+E1	Positive_regulation Theme:T3
+E2	Positive_regulation Theme:T1
+E3	Positive_regulation Theme:T2
+E4	Gene_expression Theme:T3
+E5	Gene_expression Theme:T1
+E6	Gene_expression Theme:T2
+E7	Positive_regulation Theme:T1
+E8	Positive_regulation Theme:T3
+E9	Positive_regulation Theme:T2
+E10	Positive_regulation Theme:E14
+E11	Positive_regulation Theme:E13
+E12	Positive_regulation Theme:E15
+E13	Gene_expression Theme:T3
+E14	Gene_expression Theme:T2
+E15	Gene_expression Theme:T1
+E16	Binding Site:T38 Theme:T3
+E17	Binding Site:T38 Theme:T1
+E18	Binding Site:T38 Theme:T17
+E19	Positive_regulation Theme:E33
+E20	Positive_regulation Theme:E35
+E21	Positive_regulation Theme:E34
+E22	Positive_regulation Theme:E32
+E23	Positive_regulation Theme:E42
+E24	Positive_regulation Theme:E38
+E25	Positive_regulation Theme:E31
+E26	Positive_regulation Theme:E37
+E27	Positive_regulation Theme:E39
+E28	Positive_regulation Theme:E36
+E29	Positive_regulation Theme:E41
+E30	Positive_regulation Theme:E40
+E31	Binding Site:T38 Theme:T17 Theme2:T20
+E32	Binding Site:T38 Theme:T1 Theme2:T19
+E33	Binding Site:T38 Theme:T17 Theme2:T19
+E34	Binding Site:T38 Theme:T3 Theme2:T20
+E35	Binding Site:T38 Theme:T1 Theme2:T18
+E36	Binding Site:T38 Theme:T1 Theme2:T20
+E37	Binding Site:T38 Theme:T1
+E38	Binding Site:T38 Theme:T3
+E39	Binding Site:T38 Theme:T17 Theme2:T18
+E40	Binding Site:T38 Theme:T3 Theme2:T19
+E41	Binding Site:T38 Theme:T17
+E42	Binding Site:T38 Theme:T3 Theme2:T18
+E43	Positive_regulation Theme:E49
+E44	Positive_regulation Theme:E50
+E45	Positive_regulation Theme:E51
+E46	Positive_regulation Theme:E48
+E47	Positive_regulation Theme:E52
+E48	Phosphorylation Site:T42 Theme:T18
+E49	Phosphorylation Site:T42 Theme:T19
+E50	Phosphorylation Site:T42 Theme:T25
+E51	Phosphorylation Site:T42 Theme:T20
+E52	Phosphorylation Site:T42 Theme:T26
+E53	Positive_regulation Theme:E54
+E54	Binding Theme:T20
+M1	Speculation E4
+M2	Speculation E5
+M3	Speculation E6
+M4	Speculation E16
+M5	Speculation E17
+M6	Speculation E18
+M7	Negation E24
+M8	Negation E26
+M9	Negation E29

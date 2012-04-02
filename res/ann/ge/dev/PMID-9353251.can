@@ -1,0 +1,14 @@
+T1	Protein	CD30
+T2	Protein	TRAF2
+T6	Protein	type 1 tumor necrosis factor receptor
+T7	Protein	TNFR1
+T15	Protein	TRAF1
+*	Equiv T6 T7
+T25	Entity	TRAF-binding sites
+E1	Regulation Cause:T1 Theme:E2
+E2	Protein_catabolism Theme:T2
+E3	Binding Site:T25 Theme:T1 Theme2:T2
+E4	Binding Theme:T2 Theme2:T1
+E5	Positive_regulation Cause:E4 Theme:E6
+E6	Protein_catabolism Theme:T2
+E7	Positive_regulation Theme:T6

@@ -1,0 +1,77 @@
+T1	Protein	YE1998
+T2	Protein	2000
+T3	Protein	Plu0634
+T4	Protein	Plu0635
+T5	Organism	P. luminescens
+T6	Protein	plu1330
+T7	Protein	1369
+T8	Protein	plu3217
+T9	Protein	plu3324
+T10	Protein	plu4117
+T11	Protein	plu3668
+T12	Organism	Y. enterocolitica
+T13	Protein	YE1322
+T15	Protein	Plu3209
+T16	Protein	XaxA
+T17	Protein	B
+T18	Organism	X. nematophila
+T19	Protein	Plu2288
+T20	Protein	Plu0359
+T21	Protein	YE2685
+T23	Protein	YE2091
+T24	Organism	P. luminescens ssp. akhurstii strain W14
+T25	Organism	P. luminescens ssp. laumondii strain TT01
+T28	Protein	Txp40
+T29	Protein	Xnp2
+T30	Organism	X. bovienii
+T31	Protein	galA
+T32	Protein	plu0840
+T33	Organism	Aeromonas hydrophila
+T34	Protein	plu2400
+T35	Protein	plu2420
+T36	Protein	cipA
+T37	Protein	cipB
+T39	Protein	plu1537
+T41	Protein	Pnf
+T45	Protein	plu4092
+T46	Protein	plu4436
+T48	Organism	M. sexta
+T49	Protein	mcf2
+T50	Protein	plu3128
+T53	Organism	tobacco hornworm
+T55	Organism	Y. pestis
+T56	Protein	YPO0339
+T59	Protein	SopB
+T60	Organism	human
+T61	Organism	P. asymbiotica
+T63	Protein	YE2447
+T64	Protein	SrfA
+T65	Protein	PhoP
+T66	Organism	S. typhimurium
+T69	Protein	YE1604
+T70	Protein	1606
+T71	Protein	ProP
+T72	Protein	YE3594
+T73	Protein	YE4072
+T74	Protein	4078
+T75	Protein	YE3228
+T76	Protein	3235
+T77	Chemical	AHL
+T78	Chemical	ADP
+T79	Protein	ytxA
+T81	Protein	ye2124
+T82	Protein	ye2123
+T83	Organism	Yersinia
+*	Equiv T31 T32
+*	Equiv T79 T81
+*	Equiv T17 T82
+E1	Gene_expression Theme:T13
+E2	Gene_expression Theme:T28
+E3	Gene_expression Theme:T29
+E4	Gene_expression Theme:T32
+E5	Gene_expression Theme:T34
+E6	Gene_expression Theme:T35
+E7	Process
+E8	Process
+E9	Gene_expression Theme:T79
+E10	Gene_expression Theme:T82

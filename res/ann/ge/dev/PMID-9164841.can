@@ -1,0 +1,24 @@
+T1	Protein	mineralocorticoid receptor
+T3	Protein	MR
+T13	Protein	hsp90
+T14	Protein	hMR
+E1	Binding Theme:T1
+E2	Binding Theme:T3
+E3	Binding Theme:T3
+E4	Binding Theme:T3
+E5	Regulation Theme:E6
+E6	Binding Theme:T3
+E7	Binding Theme:T3
+E8	Negative_regulation Theme:E9
+E9	Binding Theme:T3
+E10	Regulation Theme:E11
+E11	Binding Theme:T3
+E12	Binding Theme:T3
+E13	Binding Theme:T3
+E14	Binding Theme:T13 Theme2:T14
+E15	Negative_regulation Cause:E14 Theme:E16
+E16	Regulation Theme:T14
+E17	Binding Theme:T3
+E18	Binding Theme:T3
+M1	Speculation E5
+M2	Negation E15

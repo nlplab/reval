@@ -7,6 +7,6 @@ T18	Protein	p16
 T19	Protein	INK4A
 T20	Protein	RB1
 T29	Protein	histone
-*	Equiv T4
-*	Equiv T18 T19
+*	Equiv T1 T4
+*	Equiv T18 T18 T19 T19
 E1	Ubiquitination Theme:T29

@@ -1,0 +1,51 @@
+T1	Protein	RUNX1
+T2	Protein	RUNX3
+T3	Protein	Foxp3
+T4	Protein	Forkhead box P3
+T5	Protein	FOXP3
+T6	Protein	CD4
+T7	Protein	CD25
+T8	Protein	transforming growth factor-beta
+T9	Protein	TGF-beta
+T16	Protein	RUNX
+T17	Protein	core-binding factor-beta
+T18	Protein	CBFbeta
+T24	Protein	Cbfb
+T26	Protein	cre
+T27	Protein	Rag2
+T35	Protein	CD127
+T43	Protein	Runx
+*	Equiv T4 T5
+*	Equiv T8 T9
+*	Equiv T17 T18
+T50	Entity	RUNX binding sites
+T59	Entity	T reg cells
+E1	Positive_regulation Cause:T8 Theme:E2
+E3	Positive_regulation Cause:T8 Theme:E4
+E2	Gene_expression Theme:T1
+E4	Gene_expression Theme:T2
+E5	Positive_regulation Theme:E6
+E7	Positive_regulation Theme:E8
+E6	Binding Theme:T1 Site2:T50 Theme2:T4
+E8	Binding Theme:T2 Site2:T50 Theme2:T4
+E9	Negative_regulation Theme:T17
+E10	Positive_regulation Theme:E11
+E12	Positive_regulation Theme:E13
+E11	Negative_regulation Theme:T17
+E13	Negative_regulation Theme:T2
+E14	Negative_regulation Cause:E9 Theme:E15
+E16	Negative_regulation Cause:E11 Theme:E15
+E17	Negative_regulation Cause:E13 Theme:E15
+E15	Gene_expression Theme:T3
+E18	Negative_regulation Theme:T1
+E19	Negative_regulation Theme:T2
+E20	Transcription Theme:T2
+E21	Transcription Theme:T4
+E22	Transcription Theme:T8
+E23	Localization Theme:T4 ToLoc:T59
+E24	Localization Theme:T2 ToLoc:T59
+E25	Regulation Cause:T43 Theme:E26
+E26	Positive_regulation Cause:T8 Theme:E27
+E27	Gene_expression Theme:T3
+M1	Speculation E5
+M2	Speculation E7

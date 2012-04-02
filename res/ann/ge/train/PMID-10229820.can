@@ -1,0 +1,30 @@
+T1	Protein	Fibroblast growth factor-1
+T2	Protein	FGF-1
+T3	Protein	IL-2
+T8	Protein	FGF receptor-1
+T11	Protein	CD28
+T15	Protein	p65
+T16	Protein	RelA
+T17	Protein	p50
+T18	Protein	IkappaB-alpha
+T23	Protein	c-Rel
+*	Equiv T1 T2
+E1	Positive_regulation Cause:T1 Theme:E2
+E2	Gene_expression Theme:T3
+E3	Gene_expression Theme:T1
+E4	Gene_expression Theme:T8
+E5	Positive_regulation Theme:E6
+E6	Positive_regulation Theme:E7
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T3
+E9	Positive_regulation Theme:E5
+E10	Regulation Theme:T3
+E11	Positive_regulation Theme:T15
+E12	Positive_regulation Theme:T16
+E13	Positive_regulation Theme:T17
+E14	Positive_regulation Cause:E17 Theme:E13
+E15	Positive_regulation Cause:E17 Theme:E11
+E16	Positive_regulation Cause:E17 Theme:E12
+E17	Protein_catabolism Theme:T18
+E18	Binding Theme:T8
+E19	Positive_regulation Cause:T1 Theme:T23

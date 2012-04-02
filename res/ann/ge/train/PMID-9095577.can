@@ -1,0 +1,13 @@
+T1	Protein	ICAM-1
+T2	Protein	VCAM-1
+T3	Protein	IL-6
+T4	Protein	iNOS
+T5	Protein	26S proteasome
+E1	Regulation Theme:E5
+E2	Regulation Theme:E6
+E3	Regulation Theme:E7
+E4	Regulation Theme:E8
+E5	Transcription Theme:T4
+E6	Transcription Theme:T3
+E7	Transcription Theme:T2
+E8	Transcription Theme:T1

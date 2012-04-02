@@ -1,0 +1,12 @@
+T1	Protein	IkappaBalpha
+T2	Protein	TNFalpha
+E1	Gene_expression Theme:T1
+E2	Gene_expression Theme:T2
+E3	Gene_expression Theme:T1
+E4	Positive_regulation Theme:E3
+E5	Gene_expression Theme:T1
+E6	Negative_regulation Theme:T2
+E7	Gene_expression Theme:T1
+E8	Positive_regulation Theme:E7
+E9	Regulation Theme:T2
+M1	Speculation E9

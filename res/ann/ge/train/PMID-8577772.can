@@ -1,0 +1,28 @@
+T1	Protein	CD4
+T2	Protein	staphylococcal enterotoxin A
+T3	Protein	SEA
+T6	Protein	interleukin 2
+T7	Protein	IL-2
+T15	Protein	Oct-1
+T16	Protein	Oct-2
+T18	Protein	Fos
+T19	Protein	Jun
+T21	Protein	p50
+T22	Protein	p65
+*	Equiv T2 T3
+*	Equiv T6 T7
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T6
+E3	Negative_regulation Theme:E5
+E4	Negative_regulation Theme:E6
+E5	Transcription Theme:T6
+E6	Gene_expression Theme:T6
+E7	Binding Theme:T15
+E8	Binding Theme:T16
+E9	Negative_regulation Theme:T19
+E10	Negative_regulation Theme:T18
+E11	Gene_expression Theme:T22
+E12	Gene_expression Theme:T21
+E13	Gene_expression Theme:T21
+E14	Negative_regulation Cause:E13 Theme:T6
+M1	Speculation E14

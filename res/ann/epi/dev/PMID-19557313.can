@@ -3,7 +3,7 @@ T2	Protein	SRP30C
 T4	Protein	SRp30c
 T6	Protein	PRMT1
 T7	Protein	GFP
-*	Equiv T1 T2 T4
+*	Equiv T1 T1 T2 T4
 T12	Entity	Arginine
 T15	Entity	arginine
 E1	Methylation Site:T12 Theme:T4

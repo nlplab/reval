@@ -4,6 +4,6 @@ T4	Protein	SQSTM1
 T5	Protein	ubiquitin
 T6	Protein	Ub
 T10	Protein	neighbor of BRCA1 gene 1
-*	Equiv T4
+*	Equiv T2 T4
 *	Equiv T5 T6
-*	Equiv T10
+*	Equiv T1 T10

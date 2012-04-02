@@ -1,0 +1,9 @@
+T1	Protein	LMP1
+T2	Protein	IL4
+T3	Protein	Stat6
+T5	Protein	CD19
+T7	Protein	L32
+T8	Protein	GAPDH
+T10	Protein	pStat6
+E1	Positive_regulation Theme:T10
+M1	Speculation E1

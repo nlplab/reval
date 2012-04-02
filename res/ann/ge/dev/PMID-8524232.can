@@ -1,0 +1,28 @@
+T1	Protein	Initiation binding repressor
+T2	Protein	histone h5
+T4	Protein	IBR
+T7	Protein	IBF
+T13	Protein	NRF-1
+T14	Protein	alpha-Pal factor
+T15	Protein	P3A2
+T16	Protein	erected wing gene
+T17	Protein	EWG
+T21	Protein	F
+*	Equiv T13 T14
+T27	Entity	transcription initiation site
+T37	Entity	nuclear
+E1	Binding Theme:T1 Site2:T27 Theme2:T2
+E2	Binding Theme:T4 Site2:T27 Theme2:T2
+E3	Negative_regulation Cause:E2 Theme:E4
+E4	Transcription Theme:T2
+E5	Gene_expression Theme:T4
+E6	Binding Theme:T7
+E7	Binding Theme:T21
+E8	Binding Theme:T4
+E9	Binding Theme:T4
+E10	Binding Theme:T21
+E11	Positive_regulation Theme:E12
+E12	Localization AtLoc:T37 Theme:T4
+E13	Localization AtLoc:T37 Theme:T21
+M1	Negation E5
+M2	Speculation E11

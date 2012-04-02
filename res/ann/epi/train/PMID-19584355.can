@@ -3,15 +3,15 @@ T2	Protein	EGLN3
 T3	Protein	pVHL
 T5	Protein	beta(2)AR
 T6	Protein	von Hippel-Lindau tumor suppressor
-*	Equiv T5
-*	Equiv T6
+*	Equiv T1 T5
+*	Equiv T3 T6
 T25	Entity	proline-382
 T26	Entity	-395
-E1	Hydroxylation Theme:T1
+E1	Hydroxylation Theme:T5
 E2	Catalysis Cause:T2 Theme:E1
-E3	Ubiquitination Theme:T1
-E4	Catalysis Cause:T3 Theme:E3
-E5	Ubiquitination Theme:T1
+E3	Ubiquitination Theme:T5
+E4	Catalysis Cause:T6 Theme:E3
+E5	Ubiquitination Theme:T5
 E6	Ubiquitination Theme:T5
 E7	Catalysis Cause:T2 Theme:E9
 E8	Hydroxylation Site:T25 Theme:T5

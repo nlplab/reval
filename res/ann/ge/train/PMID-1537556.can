@@ -1,0 +1,5 @@
+T1	Protein	epsilon-globin
+T3	Protein	DNaseI
+E1	Regulation Theme:E2
+E2	Transcription Theme:T1
+M1	Speculation E1

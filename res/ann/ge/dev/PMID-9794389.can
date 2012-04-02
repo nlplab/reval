@@ -1,0 +1,20 @@
+T1	Protein	IL-7
+T2	Protein	v-Abl
+T4	Protein	IL-4
+T6	Protein	Janus protein kinase (JAK)1
+T7	Protein	JAK3
+T8	Protein	STAT6
+T17	Protein	c-Myc
+T18	Protein	Bcl-2
+T19	Protein	Bcl-xL
+E1	Positive_regulation Cause:T1 Theme:E2
+E2	Positive_regulation Theme:T2
+E3	Positive_regulation Theme:T8
+E4	Positive_regulation Theme:T7
+E5	Positive_regulation Theme:T6
+E6	Negative_regulation Cause:T1 Theme:E11
+E7	Negative_regulation Cause:T1 Theme:E9
+E8	Negative_regulation Cause:T1 Theme:E10
+E9	Negative_regulation Theme:T19
+E10	Negative_regulation Theme:T17
+E11	Negative_regulation Theme:T18

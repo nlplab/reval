@@ -9,14 +9,14 @@ T9	Protein	H4
 T11	Protein	H3
 T19	Protein	suppressor of tumorigenicity 7
 T21	Protein	nonmetastatic 23
-*	Equiv T19
-*	Equiv T21
+*	Equiv T3 T19
+*	Equiv T4 T21
 T36	Entity	arginine 8
 T39	Entity	arginine 3
 T42	Entity	R8
 T44	Entity	K9
-E1	Methylation Contextgene:T3 Site:T36 Theme:T2
-E2	Methylation Contextgene:T4 Site:T36 Theme:T2
+E1	Methylation Contextgene:T19 Site:T36 Theme:T2
+E2	Methylation Contextgene:T21 Site:T36 Theme:T2
 E3	Catalysis Cause:T1 Theme:E2
 E4	Catalysis Cause:T1 Theme:E1
 E5	Methylation Theme:T8
@@ -25,7 +25,7 @@ E7	Methylation Site:T36 Theme:T11
 E8	Catalysis Cause:T1 Theme:E7
 E9	Methylation Site:T39 Theme:T9
 E10	Catalysis Cause:T1 Theme:E9
-E11	Methylation Contextgene:T4 Site:T42 Theme:T11
-E12	Methylation Contextgene:T3 Site:T42 Theme:T11
-E13	Deacetylation Contextgene:T3 Site:T44 Theme:T11
-E14	Deacetylation Contextgene:T4 Site:T44 Theme:T11
+E11	Methylation Contextgene:T21 Site:T42 Theme:T11
+E12	Methylation Contextgene:T19 Site:T42 Theme:T11
+E13	Deacetylation Contextgene:T19 Site:T44 Theme:T11
+E14	Deacetylation Contextgene:T21 Site:T44 Theme:T11

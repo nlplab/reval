@@ -5,7 +5,7 @@ T4	Protein	H3
 T7	Protein	set1
 T12	Protein	histone
 *	Equiv T3 T4
-*	Equiv T25
+*	Equiv T20 T25
 *	Equiv T26 T27
 T20	Entity	lysine 4
 T25	Entity	Lys-4
@@ -16,16 +16,16 @@ E1	Methylation Site:T20 Theme:T1
 E2	Catalysis Cause:T2 Theme:E1
 E3	Methylation Site:T20 Theme:T3
 E4	Methylation Site:T26 Theme:T3
-E5	Methylation Site:T25 Theme:T3
-E6	Methylation Site:T25 Theme:T3
+E5	Methylation Site:T20 Theme:T3
+E6	Methylation Site:T20 Theme:T3
 M1	Negation E6
 E7	Catalysis Cause:T2 Theme:E8
-E8	Methylation Site:T25 Theme:T3
-E9	Methylation Site:T25 Theme:T3
-E10	Methylation Site:T25 Theme:T3
+E8	Methylation Site:T20 Theme:T3
+E9	Methylation Site:T20 Theme:T3
+E10	Methylation Site:T20 Theme:T3
 M2	Negation E10
 E11	Acetylation Theme:T3
-E12	Methylation Site:T25 Theme:T3
+E12	Methylation Site:T20 Theme:T3
 E13	Acetylation Site:T43 Theme:T3
-E14	Methylation Site:T25 Theme:T3
+E14	Methylation Site:T20 Theme:T3
 E15	Methylation Site:T26 Theme:T3

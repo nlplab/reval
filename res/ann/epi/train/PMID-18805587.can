@@ -1,11 +1,11 @@
 T1	Protein	FIH-1
 T2	Protein	factor inhibiting HIF
-*	Equiv T2
+*	Equiv T1 T2
 T21	Entity	Trp296
 T22	Entity	active site
-E1	Hydroxylation Theme:T1
-E2	Catalysis Cause:T1 Theme:E1
-E3	Hydroxylation Site:T21 Theme:T1
-E4	Catalysis Cause:T1 Theme:E3
-E5	Hydroxylation Site:T22 Theme:T1
+E1	Hydroxylation Theme:T2
+E2	Catalysis Cause:T2 Theme:E1
+E3	Hydroxylation Site:T21 Theme:T2
+E4	Catalysis Cause:T2 Theme:E3
+E5	Hydroxylation Site:T22 Theme:T2
 M1	Negation E5

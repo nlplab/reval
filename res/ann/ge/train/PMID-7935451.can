@@ -1,0 +1,25 @@
+T1	Protein	Tax
+T2	Protein	I kappa B alpha
+T3	Protein	RelA
+T4	Protein	p65
+T5	Protein	tax
+T9	Protein	c-Rel
+T18	Protein	c-rel
+*	Equiv T3 T3 T4 T4
+E1	Phosphorylation Theme:T2
+E2	Protein_catabolism Theme:T2
+E3	Gene_expression Theme:T1
+E4	Positive_regulation Cause:E3 Theme:E5
+E5	Gene_expression Theme:T9
+E6	Phosphorylation Theme:T2
+E7	Protein_catabolism Theme:T2
+E8	Binding Theme:T2
+E9	Protein_catabolism Theme:T2
+E10	Positive_regulation Cause:T1 Theme:E11
+E11	Gene_expression Theme:T9
+E12	Positive_regulation Cause:T4 Theme:E10
+E13	Positive_regulation Cause:T18 Theme:E14
+E14	Transcription Theme:T18
+E15	Positive_regulation Theme:T9
+E16	Negative_regulation Cause:E15 Theme:E17
+E17	Gene_expression Theme:T9

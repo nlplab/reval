@@ -7,9 +7,9 @@ T9	Protein	PDB 1K3E
 T15	Protein	SicP
 T30	Protein	Spa15
 T38	Protein	SptP
-*	Equiv T5 T4
-*	Equiv T7
-*	Equiv T9
+*	Equiv T4 T5
+*	Equiv T1 T7
+*	Equiv T3 T9
 T46	Entity	N-terminus
 E1	Binding Theme:T1
 E2	Binding Theme1:T38 Site2:T46 Theme2:T15

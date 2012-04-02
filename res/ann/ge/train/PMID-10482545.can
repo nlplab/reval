@@ -1,0 +1,36 @@
+T1	Protein	Bcl-x(L)
+T2	Protein	Tax
+T6	Protein	interleukin-2
+T7	Protein	IL-2
+T10	Protein	bcl-xl
+T11	Protein	bcl-2
+T12	Protein	bcl-xs
+T13	Protein	bak
+T14	Protein	bad
+T15	Protein	bax
+T18	Protein	bcl-x
+T25	Protein	IkappaBalpha
+*	Equiv T6 T7
+T38	Entity	promoter
+E1	Positive_regulation Theme:E2
+E2	Gene_expression Theme:T1
+E3	Positive_regulation Cause:T2 Theme:E1
+E4	Gene_expression Theme:T2
+E5	Gene_expression Theme:T2
+E6	Negative_regulation Theme:T6
+E7	Gene_expression Theme:T12
+E8	Gene_expression Theme:T13
+E9	Gene_expression Theme:T14
+E10	Gene_expression Theme:T11
+E11	Gene_expression Theme:T15
+E12	Gene_expression Theme:T10
+E13	Negative_regulation Theme:T6
+E14	Gene_expression Theme:T2
+E15	Positive_regulation Cause:T2 Site:T38 Theme:T18
+E16	Positive_regulation Site:T38 Theme:T18
+E17	Positive_regulation Cause:T2 Site:T38 Theme:T18
+E18	Negative_regulation Cause:T25 Theme:E17
+E19	Gene_expression Theme:T1
+E20	Positive_regulation Theme:E19
+E21	Positive_regulation Cause:T2 Theme:E20
+E22	Negative_regulation Theme:T6

@@ -1,0 +1,94 @@
+T1	Protein	LMP1
+T2	Protein	IL10
+T3	Protein	Stat3
+T4	Protein	CD19
+T5	Protein	IL4
+T6	Protein	IL5
+T8	Protein	IL13
+T9	Protein	IL15
+T10	Protein	IL9
+T11	Protein	IL2
+T12	Protein	IL6
+T13	Protein	IFNgamma
+T14	Protein	L32
+T23	Protein	lymphoma cells
+T50	Protein	pStat3
+T104	Entity	Nuclear
+T108	Entity	nuclear
+E1	Positive_regulation Cause:T1 Theme:T2
+E2	Positive_regulation Cause:T1 Theme:T3
+E3	Gene_expression Theme:T5
+E4	Gene_expression Theme:T6
+E5	Gene_expression Theme:T2
+E6	Gene_expression Theme:T8
+E7	Gene_expression Theme:T9
+E8	Gene_expression Theme:T10
+E9	Gene_expression Theme:T11
+E10	Gene_expression Theme:T12
+E11	Gene_expression Theme:T13
+E12	Transcription Theme:T2
+E13	Transcription Theme:T9
+E14	Transcription Theme:T13
+E15	Positive_regulation Theme:E12
+E16	Positive_regulation Theme:E13
+E17	Positive_regulation Theme:E14
+E18	Gene_expression Theme:T9
+E19	Gene_expression Theme:T13
+E20	Positive_regulation Theme:T9
+E21	Positive_regulation Theme:T13
+E22	Positive_regulation Cause:E23 Theme:E20
+E24	Positive_regulation Cause:E23 Theme:E21
+E23	Gene_expression Theme:T1
+E25	Positive_regulation Theme:T2
+E26	Gene_expression Theme:T9
+E27	Gene_expression Theme:T13
+E28	Positive_regulation Theme:T2
+E29	Positive_regulation Theme:T2
+E30	Positive_regulation Theme:E31
+E31	Phosphorylation Theme:T3
+E32	Positive_regulation Theme:T3
+E33	Regulation Theme:T3
+E34	Regulation Cause:E36 Theme:E35
+E36	Positive_regulation Theme:T2
+E35	Positive_regulation Theme:T3
+E37	Positive_regulation Theme:T3
+E38	Positive_regulation Cause:T2 Theme:E37
+E39	Regulation Cause:E41 Theme:E40
+E41	Gene_expression Theme:T1
+E40	Positive_regulation Theme:T2
+E42	Positive_regulation Theme:T2
+E43	Regulation Cause:T1 Theme:E42
+E44	Negative_regulation Theme:T2
+E45	Positive_regulation Theme:T3
+E46	Positive_regulation Theme:T50
+E47	Positive_regulation Cause:T2 Theme:E48
+E48	Positive_regulation Theme:T50
+E49	Positive_regulation Theme:T3
+E50	Positive_regulation Theme:E49
+E51	Negative_regulation Theme:T2
+E52	Localization Theme:T50 ToLoc:T104
+E53	Positive_regulation Cause:E54 Theme:E52
+E54	Positive_regulation Theme:T50
+E55	Localization Theme:T50 ToLoc:T108
+E56	Localization Theme:T50 ToLoc:T108
+E57	Localization Theme:T50 ToLoc:T108
+E58	Positive_regulation Theme:T50
+M1	Negation E3
+M2	Negation E4
+M3	Negation E5
+M4	Negation E6
+M5	Negation E7
+M6	Negation E8
+M7	Negation E9
+M8	Negation E10
+M9	Negation E11
+M10	Speculation E22
+M11	Speculation E24
+M12	Negation E34
+M13	Negation E38
+M14	Speculation E38
+M15	Negation E39
+M16	Speculation E43
+M17	Speculation E45
+M18	Speculation E50
+M19	Negation E55

@@ -1,0 +1,18 @@
+T1	Protein	tissue inhibitor of metalloproteinases-1
+T2	Protein	tissue inhibitor of metalloproteinases (TIMP)-1
+T3	Protein	TIMP-1
+T5	Protein	TIMP-2
+T6	Protein	CD95
+T14	Protein	Bcl-XL
+T15	Protein	Bcl-2
+E1	Gene_expression Theme:T2
+E2	Negative_regulation Theme:T3
+E3	Positive_regulation Theme:T3
+E4	Localization Theme:T3
+E5	Positive_regulation Theme:T3
+E6	Positive_regulation Cause:E5 Theme:E9
+E7	Positive_regulation Cause:E5 Theme:E8
+E8	Gene_expression Theme:T15
+E9	Gene_expression Theme:T14
+M1	Speculation E1
+M2	Negation E7

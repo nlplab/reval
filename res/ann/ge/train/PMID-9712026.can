@@ -1,0 +1,21 @@
+T1	Protein	CD28
+T5	Protein	p56(lck)
+T6	Protein	c-Raf-1
+T8	Protein	IL-2
+T12	Protein	BW 828
+T13	Protein	9.3
+T23	Entity	promoter
+E1	Positive_regulation Theme:T1
+E2	Positive_regulation Theme:T5
+E3	Positive_regulation Theme:T6
+E4	Positive_regulation Theme:T5
+E5	Positive_regulation Theme:T6
+E6	Positive_regulation Theme:E7
+E7	Binding Site:T23 Theme:T8
+E8	Positive_regulation Cause:T12 Theme:E10
+E9	Positive_regulation Cause:T13 Theme:E10
+E10	Positive_regulation Theme:T5
+E11	Positive_regulation Theme:T1
+M1	Negation E2
+M2	Negation E3
+M3	Negation E6

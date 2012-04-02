@@ -1,0 +1,7 @@
+T1	Protein	OTF-1
+T2	Protein	OTF-2
+E1	Binding Theme:T2
+E2	Binding Theme:T1
+E3	Regulation Theme:T2
+M1	Negation E3
+M2	Speculation E3

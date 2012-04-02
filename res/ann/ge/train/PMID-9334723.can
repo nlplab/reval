@@ -1,0 +1,19 @@
+T1	Protein	Vpr
+T9	Protein	IL-2
+T10	Protein	IL-10
+T11	Protein	TNF alpha
+T12	Protein	IL-4
+E1	Negative_regulation Cause:T1 Theme:E5
+E2	Negative_regulation Cause:T1 Theme:E8
+E3	Negative_regulation Cause:T1 Theme:E6
+E4	Negative_regulation Cause:T1 Theme:E7
+E5	Gene_expression Theme:T10
+E6	Gene_expression Theme:T11
+E7	Gene_expression Theme:T12
+E8	Gene_expression Theme:T9
+E9	Regulation Theme:E7
+E10	Regulation Theme:E6
+E11	Regulation Theme:E8
+E12	Regulation Theme:E5
+E13	Negative_regulation Theme:T1
+M1	Speculation E13

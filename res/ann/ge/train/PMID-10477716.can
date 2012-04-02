@@ -1,0 +1,30 @@
+T1	Protein	interleukin-8
+T2	Protein	tumor necrosis factor alpha
+T3	Protein	Tumor necrosis factor alpha
+T4	Protein	TNFalpha
+T6	Protein	IL-8
+T12	Protein	Rel A
+*	Equiv T1 T6
+*	Equiv T3 T4
+T25	Entity	nuclear
+E1	Regulation Theme:E2
+E2	Positive_regulation Cause:T2 Theme:E3
+E3	Gene_expression Theme:T1
+E4	Regulation Theme:E5
+E5	Positive_regulation Theme:T1
+E6	Localization Theme:T1 ToLoc:T25
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T1
+E9	Regulation Theme:E10
+E10	Gene_expression Theme:T1
+E11	Positive_regulation Cause:T3 Theme:E12
+E12	Gene_expression Theme:T1
+E13	Positive_regulation Cause:T3 Theme:E14
+E14	Transcription Theme:T1
+E15	Positive_regulation Cause:T3 Theme:E16
+E16	Localization Theme:T12
+E17	Binding Theme:T12
+E18	Regulation Theme:E19
+E19	Binding Theme:T12
+M1	Speculation E9
+M2	Negation E18

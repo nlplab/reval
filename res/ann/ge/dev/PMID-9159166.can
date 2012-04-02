@@ -1,0 +1,29 @@
+T1	Protein	interleukin 4 receptor alpha chain
+T2	Protein	interleukin 2 receptor gamma chain
+T3	Protein	interleukin (IL)-4
+T4	Protein	IL-13
+T5	Protein	IL-4
+T6	Protein	IL-4Ralpha chain
+T7	Protein	IL-2Rgamma (gammac) chain
+T8	Protein	IL-7R
+T9	Protein	IL-9R
+T11	Protein	gammac chain
+T15	Protein	erythropoietin
+T16	Protein	IL-4Ralpha
+T17	Protein	Janus kinase 1
+T18	Protein	Jak1
+T19	Protein	STAT6
+T22	Protein	chimeric CD8alpha/IL-4Ralpha receptor
+*	Equiv T17 T18
+E1	Binding Theme:T1
+E2	Binding Theme:T5 Theme2:T6
+E3	Negative_regulation Theme:T11
+E4	Gene_expression Theme:T11
+E5	Positive_regulation Theme:E6
+E6	Positive_regulation Theme:T17
+E7	Positive_regulation Theme:E8
+E8	Gene_expression Theme:T22
+E9	Gene_expression Theme:T22
+E10	Binding Theme:T22
+E11	Binding Theme:T6
+M1	Negation E4

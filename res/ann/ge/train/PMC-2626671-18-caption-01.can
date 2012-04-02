@@ -1,0 +1,29 @@
+T1	Protein	CD8
+T2	Protein	Prf1
+T3	Protein	Gzmb
+T4	Protein	Tbx21
+T5	Protein	T-bet
+T6	Protein	Eomes
+T9	Protein	granzyme B
+T10	Protein	IFN-gamma
+T11	Protein	TNF
+T12	Protein	Granzyme B
+T14	Protein	Annexin V
+T16	Protein	perforin
+*	Equiv T4 T5
+E1	Transcription Theme:T2
+E2	Transcription Theme:T3
+E3	Transcription Theme:T4
+E4	Transcription Theme:T6
+E5	Gene_expression Theme:T9
+E6	Gene_expression Theme:T10
+E7	Gene_expression Theme:T11
+E8	Gene_expression Theme:T12
+M1	Speculation E1
+M2	Speculation E2
+M3	Speculation E3
+M4	Speculation E4
+M5	Speculation E5
+M6	Speculation E6
+M7	Speculation E7
+M8	Speculation E8

@@ -1,0 +1,7 @@
+T1	Protein	Fc epsilon RI-gamma chains
+T2	Protein	Fc gamma RIIIA
+T3	Protein	CD16
+T4	Protein	Fc epsilon RI- gamma chain
+E1	Gene_expression Theme:T1
+E2	Transcription Theme:T4
+M1	Speculation E2

@@ -1,0 +1,32 @@
+T1	Protein	E-selectin
+T2	Protein	VCAM-1
+T3	Protein	IL-1 beta
+T4	Protein	tumor necrosis factor-alpha
+T5	Protein	TNF-alpha
+T6	Protein	alpha-thrombin
+T7	Protein	vascular cell adhesion molecule 1
+*	Equiv T2 T7
+*	Equiv T4 T5
+E1	Negative_regulation Theme:E3
+E2	Negative_regulation Theme:E4
+E3	Positive_regulation Theme:E5
+E4	Positive_regulation Theme:E6
+E5	Gene_expression Theme:T7
+E6	Gene_expression Theme:T1
+E7	Negative_regulation Theme:T7
+E8	Negative_regulation Theme:E9
+E9	Positive_regulation Cause:T3 Theme:E11
+E10	Transcription Theme:T7
+E11	Transcription Theme:T1
+E12	Gene_expression Theme:T1
+E13	Gene_expression Theme:T7
+E14	Regulation Theme:T1
+E15	Regulation Theme:T7
+E16	Binding Theme:T7
+E17	Binding Theme:T1
+E18	Gene_expression Theme:T1
+E19	Gene_expression Theme:T7
+E20	Regulation Theme:E19
+E21	Regulation Theme:E18
+M1	Negation E14
+M2	Negation E15

@@ -1,0 +1,8 @@
+T1	Protein	TATA-box binding protein
+T2	Protein	TBP
+T3	Protein	TFIIB
+T4	Protein	TFIIE alpha
+T5	Protein	TFIIE beta
+T6	Protein	RAP30
+T7	Protein	RAP74
+*	Equiv T1 T2

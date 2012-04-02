@@ -3,7 +3,7 @@ T2	Protein	PTG
 T5	Protein	laforin
 T6	Protein	malin
 T22	Protein	ubiquitin
-*	Equiv T1 T2
+*	Equiv T1 T1 T2 T2
 T30	Entity	Ser-8
 T31	Entity	Ser-268
 E1	Phosphorylation Theme:T1

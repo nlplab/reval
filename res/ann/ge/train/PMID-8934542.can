@@ -1,0 +1,36 @@
+T1	Protein	Bruton's agammaglobulinemia tyrosine kinase
+T2	Protein	Btk
+T3	Protein	Sp1
+T4	Protein	Spi-1
+T5	Protein	PU.1
+T11	Protein	Spi-B
+*	Equiv T4 T4 T5 T5
+*	Equiv T1 T2
+T31	Entity	promoter
+E1	Gene_expression Theme:T2
+E2	Regulation Cause:T4 Theme:E1
+E3	Regulation Cause:T3 Theme:E1
+E4	Gene_expression Theme:T2
+E5	Positive_regulation Theme:E4
+E6	Binding Theme:T4
+E7	Binding Theme:T11
+E8	Gene_expression Theme:T11
+E9	Binding Theme:T4 Site2:T31 Theme2:T2
+E10	Negative_regulation Theme:E11
+E11	Gene_expression Theme:T2
+E12	Regulation Theme:E11
+E13	Gene_expression Theme:T4
+E14	Positive_regulation Cause:T11 Theme:E16
+E15	Positive_regulation Cause:T4 Theme:E16
+E16	Gene_expression Theme:T2
+E17	Gene_expression Theme:T2
+E18	Negative_regulation Theme:E17
+E19	Negative_regulation Theme:E17
+E20	Gene_expression Theme:T2
+E21	Regulation Cause:T4 Theme:E20
+E22	Regulation Cause:T3 Theme:E20
+M1	Negation E4
+M2	Negation E8
+M3	Negation E12
+M4	Negation E13
+M5	Negation E19

@@ -1,0 +1,14 @@
+T1	Protein	phosphoinositide 3-kinase
+T2	Protein	Phosphoinositide 3-kinase
+T3	Protein	PI 3-kinase
+T4	Protein	CD28
+T5	Protein	CTLA-4
+*	Equiv T2 T3
+E1	Positive_regulation Cause:T4 Theme:T2
+E2	Positive_regulation Theme:T2
+E3	Positive_regulation Cause:T5 Theme:T2
+E4	Negative_regulation Cause:T5 Theme:E3
+E5	Regulation Theme:T2
+E6	Gene_expression Theme:T2
+E7	Gene_expression Theme:T2
+E8	Positive_regulation Theme:T2

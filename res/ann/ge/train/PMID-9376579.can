@@ -1,0 +1,35 @@
+T1	Protein	CCAAT/enhancer binding protein
+T2	Protein	C/EBP epsilon
+T48	Entity	retinoic acid-response element
+E1	Regulation Theme:E2
+E2	Transcription Theme:T2
+E3	Positive_regulation Theme:T2
+E4	Positive_regulation Theme:T2
+E5	Positive_regulation Theme:T2
+E6	Positive_regulation Theme:T2
+E7	Positive_regulation Theme:T2
+E8	Positive_regulation Theme:T2
+E9	Positive_regulation Theme:T2
+E10	Regulation Theme:T2
+E11	Negative_regulation Theme:T2
+E12	Positive_regulation Theme:T2
+E13	Positive_regulation Cause:E14 Theme:E12
+E14	Positive_regulation Theme:E15
+E15	Transcription Theme:T2
+E16	Positive_regulation Theme:T2
+E17	Positive_regulation Theme:E16
+E18	Positive_regulation Theme:E19
+E19	Positive_regulation Theme:T2
+E20	Positive_regulation Theme:E21
+E21	Gene_expression Theme:T2
+E22	Positive_regulation Theme:T2
+E23	Negative_regulation Theme:T2
+E24	Transcription Theme:T2
+E25	Positive_regulation Theme:E24
+E26	Positive_regulation Theme:E27
+E27	Transcription Theme:T2
+E28	Positive_regulation Theme:E26
+E29	Positive_regulation Site:T48 Theme:T2
+M1	Negation E10
+M2	Negation E17
+M3	Speculation E29

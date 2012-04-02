@@ -1,13 +1,13 @@
 T1	Protein	H3
 T2	Protein	histone
-*	Equiv T14
+*	Equiv T8 T14
 T8	Entity	Lys 4
 T11	Entity	tails
 T14	Entity	K4
 E1	Methylation Site:T8 Theme:T1
 E2	Methylation Site:T11 Theme:T2
 E3	Methylation Site:T8 Theme:T1
-E4	Methylation Site:T14 Theme:T1
-E5	Methylation Site:T14 Theme:T1
-E6	Methylation Site:T14 Theme:T1
+E4	Methylation Site:T8 Theme:T1
+E5	Methylation Site:T8 Theme:T1
+E6	Methylation Site:T8 Theme:T1
 E7	Methylation Site:T8 Theme:T1
